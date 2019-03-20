@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Bruno, CA, USA; Los Angeles, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckc8wclM7sPN8GXhvFfNUddxbzbPKSyXeM6fekpPcvLoSOQCPMA3T-JjJlAdupARrWn5x5dmTUvesVzeFW_IoQb10aZuvol_-x50YNSiEykNH1dy_IaaHKmptGQ%3D%3D_V2&jobTitle=Product+Manager%2C+YouTube&loc=US",
+    "categories": [
+        "PRODUCT_MANAGEMENT"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2018-12-21T23:33:25.121Z",
+    "description": "<p>At Google, we put our users first. From innovative software products like Gmail, YouTube, Chrome, Street View to pioneering mobile devices like the Android, we build products that organize the world&#39;s information and make it universally accessible to our users. The Product Management team works closely with our engineers to guide products from conception to launch. As part of the Product Management team, you bridge the technical and business worlds as you design services that our customers love. You&#39;ll work with Googlers from Engineering, Sales, Marketing, and Finance, to name just a few. You have a bias toward action and can break down complex problems into steps that drive product development at Google speed. As a Product Manager, you will be part of shaping Google&#39;s next moonshot.</p><p>At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun \u2014 and we do it all together.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5736929544044544",
+    "location": {
+        "address_lines": [
+            "Los Angeles, CA, USA"
+        ],
+        "city": "Los Angeles",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Los Angeles, CA, USA",
+        "lat": 34.0522342,
+        "lon": -118.2436849
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=1168x324&zoom=12&signature=fXRbaDAJUcl_n404VGXhz3cu-ag=",
+        "large_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=1024x324&zoom=12&signature=B8IUulSshv-3RzKj_Nyk8FPOXUs=",
+        "small_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=600x400&zoom=12&signature=QGgFwn7c6rmdqNJ6DzYmX6KMU2g=",
+        "small_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=600x400&zoom=12&signature=TH_gDtTJHy22kPuDOsdMJxqBUM4="
+    },
+    "modified": "2019-03-07T00:31:55.265Z",
+    "publish_date": "2019-03-07T00:31:55.265Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science, related technical field or equivalent practical experience.</li>\n<li>4 years of relevant work experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in developing internet or media products and technologies.</li>\n<li>Experience in Product or Design Management, with a focus on software products and technologies.</li>\n<li>Demonstrated ability to work towards strategic goals in an innovative and fast paced environment.</li>\n<li>Excellent problem-solving, organizational and analytical skills, with the ability to evolve product strategy based on research, data and industry trends with strong technical abilities.</li></ul>",
+    "responsibilities": "<ul>\n<li>Collaborate and work with a team of product engineers.</li>\n<li>Help define a product vision and strategy, while gathering product requirements.</li>\n</ul>",
+    "title": "Product Manager, YouTube"
+}

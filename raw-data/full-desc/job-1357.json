@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Francisco, CA, USA; Seattle, WA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVydpRP-KU4W1XFGqmgMKHiSls1YZ7Y2Kqd_-AiMcBASOgCPMA3TQ6q2ln6VghQc4CvE-axObRaPz6P48tC0e5IWEAkyNcT8LB0aIbfUa8Lak_2vtGHEmhnNw44%3D_V2&jobTitle=Cloud+Data+Engineer%2C+Google+Professional+Services&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:08.457Z",
+    "description": "<p>As a Cloud Data Engineer, you&#39;ll guide customers on how to ingest, store, process, analyze and explore/visualize data on the Google Cloud Platform. You will work on data migrations and transformational projects, and with customers to design large-scale data processing systems, develop data pipelines optimized for scaling, and troubleshoot potential platform challenges.  </p><p>In this role you are the Google Engineer working with Google&#39;s most strategic Cloud customers. Together with the team you will support customer implementation of Google Cloud products through: architecture guidance, best practices, data migration, capacity planning, implementation, troubleshooting, monitoring and much more.</p><p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5879548194521088",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-11T14:01:51.162Z",
+    "publish_date": "2019-03-11T14:01:51.162Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science, Mathematics or related technical field, or equivalent practical experience.</li>\n<li>Experience with data processing software (such as Hadoop, Spark, Pig, Hive) and with data processing algorithms (MapReduce, Flume).</li>\n<li>Experience in writing software in one or more languages such as Java, C++, Python, Go and/or JavaScript.</li>\n<li>Experience managing internal or client-facing projects to completion; experience troubleshooting clients&#39; technical issues; experience working with engineering teams, sales, services, and customers.</li>\n</ul><br><p>Preferred qualifications:</p><ul><li>Experience working data warehouses, including data warehouse technical architectures, infrastructure components, ETL/ELT and reporting/analytic tools and environments.</li><li>Experience in technical consulting.</li><li>Experience working with big data, information retrieval, data mining or machine learning as well as experience in building multi-tier high availability applications with modern web technologies (such as NoSQL, MongoDB, SparkML, Tensorflow).</li><li>Experience architecting, developing software, or internet scale production-grade Big Data solutions in virtualized environments.</li></ul>",
+    "responsibilities": "<ul><li>Act as a trusted technical advisor to customers and solve complex Big Data challenges.</li><li>Create and deliver best practices recommendations, tutorials, blog articles, sample code, and technical presentations adapting to different levels of key business and technical stakeholders.</li><li>Travel up to 30% of the time.</li><li>Communicate effectively via video conferencing for meetings, technical reviews and onsite delivery activities.</li></ul>",
+    "title": "Cloud Data Engineer, Google Professional Services"
+}

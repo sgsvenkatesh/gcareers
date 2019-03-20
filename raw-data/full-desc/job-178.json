@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Chicago, IL, USA; Austin, TX, USA; Sunnyvale, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckSs8-y8LmpsazHfMCyXEf9aL32P-r8RpOQwXBf6kkzsSOgCPMA3Tx_B8X_ykhCIUhHHR-aiQy-g4KXejYk2MZ4yhEPNWc_4UNych8vh5SSbpkLNWWQcsu3yTSEM%3D_V2&jobTitle=Sales+Engineer%2C+G+Suite&loc=US",
+    "categories": [
+        "SALES"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:33.979Z",
+    "description": "<p>When leading companies choose Google Cloud it&#39;s a huge win for spreading the power of cloud computing globally. Once educational institutions, government agencies, and other businesses sign on to use Google Cloud products, you come in to facilitate making their work more productive, mobile, and collaborative. You assist fellow sales Googlers by problem-solving key technical issues for our customers. You liaise with the product marketing management and engineering teams to stay on top of industry trends and devise enhancements to Google Cloud products.</p>\n\n\n<p>As a Sales Engineer, you will work with the team to engage with business prospects, understand and assess customer requirements, prepare and present demonstrations of Google products, and address technical questions that arise throughout the process. You will also build and work with basic code samples and service customizations to show the power and extensibility of such products. \n</p>\n\n\n<p>You will engage with customers on both technical and non-technical levels and interact directly with key support and product personnel to resolve issues. You will work with Google G Suite hosted application products to demonstrate and prototype integrations in customer environments.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5404901493637120",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T18:31:45.211Z",
+    "publish_date": "2019-03-18T18:31:45.211Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science or a related technical field, or equivalent practical experience.</li>\n<li>5 years of experience serving in the capacity of a sales engineer or technical consultant in a cloud computing environment or in a customer facing role (including working as a member of a professional services or systems engineering team).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MBA or Master&#39;s degree.</li>\n<li>Familiarity with Big Data, PaaS, and IaaS terminology.</li>\n<li>Understanding of web application development and integration (REST, SOAP, J2EE, CGI/Java/ASP servlets, Python) and/or development platforms and terminology (J2EE, Java servlets, JavaScript, Python, PHP, HTML, ASP, CGI, AJAX, Flash, cookies, XML).</li>\n<li>Working knowledge of web-related protocols, (HTTP, Basic/NTLM, cookies/sessions, XML/XSLT/XHTML/HTML, DNS, TCP, Firewalls, Proxy Servers, DMZ).</li>\n<li>Ability to quickly learn, understand, and work with new emerging technologies, methodologies, and solutions in the Cloud/IT Technology space.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work with the team to identify and qualify business opportunities, identify key customer technical objections and develop the strategy to resolve technical impediments to business transactions.</li>\n<li>Take responsibility for technical aspects of solutions to include such activities as supporting bid responses, product and solution briefings, proof-of-concept work, and the coordination of supporting technical resources.</li>\n<li>Work hands-on with Google G Suite products to demonstrate and prototype integrations in customer/partner environments.</li>\n<li>Prepare and deliver product messaging in an effort to highlight Google Apps value proposition using techniques to include whiteboard and slide presentations, product demonstrations, white papers, trial management and Request for Information (RFI) response documents.</li>\n<li>Make recommendations on integration strategies, enterprise architectures, platforms and application infrastructure required to successfully implement a complete solution by providing \u201cbest practice\u201d advice to customers to optimize Google Apps effectiveness.</li>\n</ul>",
+    "title": "Sales Engineer, G Suite"
+}

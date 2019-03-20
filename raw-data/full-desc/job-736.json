@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbxkyOtgKs4N2snoQv9b_XH8e-N1oVR2S7UPtUDKv2ASOgASYQ8wSJfh_xD3w-V6qFHYoZV28q52rTO26UTKcrPaVL5t3lslfObWs7a5BqiPaX9QQArMqoCiYfE%3D_V2&jobTitle=Contract+Manufacturing+Manager%2C+Global+Manufacturing+Operations&loc=US",
+    "categories": [
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-14T17:02:13.224Z",
+    "description": "<p>Commodity Managers work with Engineering teams to make sure Google has the supplies and equipment to put into production the innovative products coming from our Engineering teams. As a Commodity Manager, you use your wide industry knowledge and strategic supplier relationships to optimize our total cost of ownership for our global -- and growing -- infrastructure. The scale at which Google operates means that savings on just one piece of hardware can have a huge impact on Google&#39;s bottom line.</p>\n\n<p>As a Contract Manufacturing Manager within the Global Manufacturing Operations (GMO) team, you&#39;ll be responsible for the sourcing, performance, and relationship with Google\u2019s contract and original design manufacturers supporting data centers worldwide. You will ensure that Google has the optimal manufacturing partners and supply chain network to support Google\u2019s planned growth.\n</p>\n\n<p>You will partner with the leaders of Global Capacity Deployment (GCD) and Platform Engineering to strategize and develop GCD\u2019s long-term, supplier network strategies. You will develop and maintain highly productive relationships with executives at GMO\u2019s manufacturing partners and have overall responsibility for the partners\u2019 performance.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/113158655999648454",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:46:09.879Z",
+    "publish_date": "2019-02-27T19:46:09.879Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>15 years operations experience working in a fast paced technical environments.</li>\n<li>10 years of supplier management experience.</li>\n<li>Experience overseeing a complex, high-tech manufacturing environment.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MBA degree.</li>\n<li>Relevant Certification in Change Management/Communications.</li>\n<li>Excellent leadership and management skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage overall performance of GMO manufacturing partner or partners.</li>\n<li>Ensure delivery, quality, and cost requirements are met.</li>\n<li>Lead the development of GMO\u2019s long-term CM/ODM sourcing and postponement strategies.</li>\n<li>Provide CM/ODM sourcing for new products and platforms.</li>\n<li>Manage of Supplier Executive relationship management.</li>\n</ul>",
+    "title": "Contract Manufacturing Manager, Global Manufacturing Operations"
+}

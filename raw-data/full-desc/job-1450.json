@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckbhnv7rjkQH-qcJsY_o2E8blcMxLHV7WijBhNir43m8SOgASYQ8wxZmq3_5vBOAcM2jkx0gRmrcAPwsu6bB5S7JLpoUswnCpvxWLCi2dem4gCfEFnYcCkZo6Av0%3D_V2&jobTitle=Enterprise+Field+Sales+Representative%2C+Google+Cloud&loc=US",
+    "categories": [
+        "SALES"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-06T20:01:56.865Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p><p>As an Enterprise Field Sales Representative, you&#39;ll work with our enterprise accounts, leverage existing relationships with executives, develop new relationships and act as a trusted business partner to deeply understand their company challenges and goals. You&#39;ll utilize the innovative power of our products to make organizations more productive, collaborative, and mobile.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/88890298567926470",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-06T20:01:56.865Z",
+    "publish_date": "2019-03-06T20:01:56.865Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in Computer Science, Business, Marketing, or Communication or equivalent practical experience.</li><li>10 years of experience in software sales and account management at an enterprise B2B software company, working with global accounts.</li></ul><br><p>Preferred qualifications:</p><ul><li>10 years of experience in infrastructure software sales, databases, analytical tools, or applications software with a track record in exceeding goals.</li><li>Track record in working with and managing partners on complex implementation projects, including global system integrators and packaged software vendors.</li><li>Demonstrated success with large complex legal negotiations working with procurement, legal, and business teams.</li><li>Demonstrated understanding of a specific industry.</li><li>Ability to work with sales engineers and customer\u2019s technical leads to inventory existing software estate, define migration plans, and build business cases for migrations.</li><li>Ability to leverage C-level relationships with executives to offer software.</li></ul>",
+    "responsibilities": "<ul><li>Build and develop executive relationships with enterprise customers, and help Google grow into new organizations. Influence long-term strategic direction, and serve as a business partner.</li><li>Negotiate and manage the sales process, and present to corporate and global customers&#39; executives.</li><li>Lead account strategy in generating and developing business growth opportunities, working collaboratively with Customer Engineers, and Google Partners to maximize business results in territory and discover opportunities with enterprise customers.</li><li>Understand each customer\u2019s technology footprint, strategic growth plans and business drivers, and technology strategy.</li><li>Drive business development, forecast accurately and achieve strategic goals by leading customers throughout the process.</li></ul>",
+    "title": "Enterprise Field Sales Representative, Google Cloud"
+}

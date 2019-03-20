@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfJmBf_8afBezvh1WRMacQfHAjRXnNvDoGElaXo578ESOgASYQ8w9r96pE_ZDehhdPvqFE3hrrGPSU-LNjg5xPuXUbzXF7YJeqitofdPgUNEBy9XZZ6sKAzRhAQ%3D_V2&jobTitle=User+Experience+Researcher&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-13T18:01:49.882Z",
+    "description": "<p>At Google, User Experience Researchers (UXRs) help everyone focus on the user. In this role, you will create understanding and empathy around user needs, stated and unstated, for your entire product team including designers, product managers, and engineers. You will do so by conducting primary research, exploring the behaviors and motivations of our users through methods like field visits, ethnography, surveys, usability testing, and logs analysis. Your research will help us create useful, usable, and delightful new products and features for people as well as continually innovating on our existing products. You\u2019ll inspire change at all stages of product development by delivering compelling, written, in-person and visual presentations on your findings.<br><br>The UXR community at Google is unique. As part of our group, you will have the chance to work not only with the other UXRs on your immediate team but to work and learn from UXRs across the company through regular in-person meetups, established mentorship programs, access to our internal research tools, and 20% projects. Google is a place where UXRs can do their best work.</p><p>User experience (UX) is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users\u2019 needs, behaviors, and emotions to yield insights that inform product strategy and guide the design of the experiences we create. Our multidisciplinary UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and performance. We collaborate closely with product managers, software engineers, and many others to solve complex challenges and craft powerful experiences that highlight our products\u2019 unique capabilities and personalities. Our work touches billions while exemplifying a key principle that is core to Google\u2019s philosophy: \u201cFocus on the user and all else will follow.\u201d</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/72630905031533254",
+    "location": {
+        "address_lines": [
+            "Pittsburgh, PA, USA"
+        ],
+        "city": "Pittsburgh",
+        "country": "PA",
+        "country_code": "US",
+        "display": "Pittsburgh, PA, USA",
+        "lat": 40.44062479999999,
+        "lon": -79.9958864
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&size=1168x324&zoom=12&signature=bML2TGs1mgqZUrRr4AbUGft114I=",
+        "large_2x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&scale=2&size=1024x324&zoom=12&signature=yYDwtb4snIKR5aq5kGb0m8lAHdQ=",
+        "small_1x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&size=600x400&zoom=12&signature=w1iNbGf2icUDv9rzW2JCq5rI-RA=",
+        "small_2x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&scale=2&size=600x400&zoom=12&signature=zy8WswLAzKtXGWV1PfX3HzTcfVU="
+    },
+    "modified": "2019-03-13T18:01:49.882Z",
+    "publish_date": "2019-03-13T18:01:49.882Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Human-Computer Interaction, Cognitive Science, Experimental Psychology, Anthropology, Information Science, a related field or equivalent practical experience.</li>\n<li>2 years of experience in an applied research setting.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Computer Science, Human-Computer Interaction, Cognitive Science, Experimental Psychology, Anthropology, Information Science or related field.</li>\n<li>Experience integrating user research into product designs and design practices.</li>\n<li>Knowledge of statistics and the principles of experiment design.</li>\n<li>Understanding of strengths and shortcomings of different research methods, including when and how to apply them during each product phase.</li>\n<li>Excellent interpersonal, communication, negotiation and collaboration skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Conduct independent research on multiple aspects of products and experiences.</li>\n<li>Collect and analyze user behavior through lab studies, field visits, ethnography, surveys, benchmark studies, server logs and online experiments (A/B testing).</li>\n<li>Work with Designers, Product Managers, Engineers, and other UXRs to prioritize research opportunities in a fast-paced, rapidly changing environment.</li>\n<li>Understand and incorporate complex technical and business requirements into research.</li>\n<li>Advocate research findings to diverse audiences through written reports and in-person presentations.</li>\n</ul>",
+    "title": "User Experience Researcher"
+}

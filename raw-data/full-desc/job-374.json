@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZ2kZiEaCwRzY9IrBDWr4W7-LjTSLWL1s9QccoNIEncSOgASYQ8wTvsmnCF1wkzYRWzHUp0P26PNlWwsQGcHIDydFkRF81xcbG7ZgJvY8ZKxRpJ4rPqjgt9nORc%3D_V2&jobTitle=Incubation+Program+Manager%2C+Trust+and+Safety%2C+YouTube&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2019-02-19T11:31:36.200Z",
+    "description": "<p>Fast-paced, dynamic, and proactive, YouTube\u2019s Trust &amp; Safety team is dedicated to making YouTube a safe place for users, viewers, and content creators around the world to belong, create, and express themselves. Whether understanding and solving their online content concerns, navigating within global legal frameworks, or writing and enforcing worldwide policy, the Trust &amp; Safety team is on the frontlines of enhancing the YouTube experience, building internet safety, and protecting free speech in our ever-evolving digital world.</p>\n\n\n<p>The Incubation Program Manager brings innovations to YouTube Trust and Safety by defining, improving, launching, and operationalizing new policies, workflows, and processes at global scale. You&#39;ll help the team pave a path ahead and build and scale our incubation capability. You are analytical, proactive, motivated, organized, responsible, innovative and able to work well in a fast-paced, global, cross-functional, and team-oriented environment while demonstrating data driven solutions, effective communication and an ability to get things done.</p><p>At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun \u2014 and we do it all together.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/82962702667784902",
+    "location": {
+        "address_lines": [
+            "San Bruno, CA, USA"
+        ],
+        "city": "San Bruno",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Bruno, CA, USA",
+        "lat": 37.6304904,
+        "lon": -122.4110835
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=1168x324&zoom=12&signature=8kTssaOIezLC995xz1jzX_ZsmEY=",
+        "large_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=1024x324&zoom=12&signature=qd1d-lHbtksAR7tvbMxtF6isGS4=",
+        "small_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=600x400&zoom=12&signature=muZNYVJol8PMclT8mtEQc7rdogE=",
+        "small_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=600x400&zoom=12&signature=CPaUJbMpoSOqDb7VXdK1SJbE0EI="
+    },
+    "modified": "2019-03-07T02:02:12.364Z",
+    "publish_date": "2019-03-07T02:02:12.364Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience working in operations and/or project management leading enterprise-to-enterprise planning and execution of projects.</li>\n<li>Experience with setting up experiments and pilots to gather data and insights in a structured manner.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Certified Six Sigma Blackbelt, Project Management (PMP) certification and/or Scrum Master.</li>\n<li>2 years of experience in running queries, extracting data, and developing insights using SQL for technical discussions.</li>\n<li>Experience in managing and implementing new tools launches, systems, and other infrastructure type projects.</li>\n<li>Experience troubleshooting complex problems that require data analysis for driving organizational efficiencies and sound business decision-making.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Plan, manage, and execute incubation projects (e.g., tool testing/optimization, policy incubation and classifier training efforts) end to end.</li>\n<li>Define success criteria, lead and coordinate efforts with cross-functional teams, manage schedules and risks, and own the key performance indicator reporting. Manage stakeholder expectations through effective communications.</li>\n<li>Recommend and make data-driven decisions to identify and fix policy enforcement gaps, grey areas, and subjectivity.</li>\n<li>Make business recommendations with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.</li>\n<li>Work closely with engineers and interact cross-functionally with a wide variety of people and teams to improve operational workflows via process improvements, automation, and anti-abuse system creation.</li>\n</ul>",
+    "title": "Incubation Program Manager, Trust and Safety, YouTube"
+}

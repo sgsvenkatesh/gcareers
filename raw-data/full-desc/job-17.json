@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; San Francisco, CA, USA; Cambridge, MA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWm6RXgJUVC15Y_eGf_cEaojTj8weYf5oX9cVZ3Od0sSOgASYQ8wZ18DlpA4T5uQO8TiF3aLBCjCTHqe3-kQb_9TNHKAPCZn_mpve5d8cyQlJG2Xr1GLXzruxjg%3D_V2&jobTitle=Head+of+YouTube+Video%2C+Solutions%2C+Strategy+and+Operations&loc=US",
+    "categories": [
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-19T15:31:51.857Z",
+    "description": "<p>The Business Strategy &amp; Operations organization provides business critical insights using analytics, ensures cross functional alignment of goals and execution, and helps teams drive strategic partnerships and new initiatives forward. We stay focused on aligning the highest-level company priorities with effective day-to-day operations, and help evolve early stage ideas into future-growth initiatives.</p><p>The Go-to-Market Operations (GtM) team ensures Google&#39;s complex and ever-evolving Ads business runs smoothly. We are instrumental in setting go-to-market strategy, and ensuring flawless execution and operations against the strategy. We have teams embedded in each of the major Ads business areas as well as global teams that work across the business areas. Team members are analytical and strategic, with a pragmatic sense of how to get things done.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/74465596411912902",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-19T15:31:51.857Z",
+    "publish_date": "2019-03-19T15:31:51.857Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>8 years of leadership experience in an operational role in a technology or marketing firm, or equivalent experience in management consulting or corporate strategy.</li>\n<li>Experience in project management, relationship management, and change management.</li>\n<li>Experience executing strategic and operational initiatives.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree or equivalent practical experience.</li>\n<li>Experience in the Ad Tech landscape and digital shift toward programmatic.</li>\n<li>Excellent communication and interpersonal skills.</li>\n<li>Ability to be personable yet persistent.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Serve as a strategic thought partner to the YouTube and Video Global Solutions Leads team, advising on commercialization strategy and ensuring operational rigor. Serve as advisor to the VP staff leader of the YouTube Video, Global Solutions Leads function.</li>\n<li>Manage and develop a team of strategist and analysts supporting specific areas of Google\u2019s global YouTube and Video business.</li>\n<li>Lead the flawless execution of complex and time-critical projects and initiatives core to Google\u2019s YouTube and Video ads business by liaising across Product, Marketing, Regional Go-to-Market, Sales, and Sales Finance.</li>\n<li>Maintain an external market perspective and form an expert opinion on competitive trends, industry challenges, and evolving market needs.</li>\n</ul>",
+    "title": "Head of YouTube Video, Solutions, Strategy and Operations"
+}

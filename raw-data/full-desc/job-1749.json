@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckftSGVaoUrxDJu650wdOVak8TnN3FFDMUfjMidAf9dcSOgCPMA3T_AVEaXzf_-bfbMMNED-1G_EO0UNoKS5_7igePZTOMbYek1bQr4hQD3uNRB7u0hgjrYGPJh0%3D_V2&jobTitle=Program+Manager%2C+Mergers+and+Acquisitions+Integration%2C+Go-to-Market+Architecture+and+Business+Systems&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T23:02:14.613Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>Acquisitions are an important part of Google\u2019s business and after a deal has been made, the Mergers and Acquisitions Technology Integration (MATI) team manages the technical integrations which include corporate infrastructure, Global Trade Management (GTM) systems, applications and engineering environments. \n</p>\n\n<p>As a member of the MATI GTM team, you will be accountable for the development and execution of plans to integrate the GTM and Lead-to-Cash (L2C) business systems and processes for Google acquisitions. You will partner with functional leads in Corporate Development Integration, Go-to-Market, Corporate Engineering, Marketing Operations, Product Areas, Security, Privacy and Compliance, and MATI Team to develop and define an efficient Lead-to-Cash architecture which drives key business goals of the acquisition.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5572099030843392",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T21:26:38.427Z",
+    "publish_date": "2019-02-27T19:43:58.613Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Engineering or equivalent practical experience.</li>\n<li>7 years of experience in program managing technology projects.</li>\n<li>3 years of experience designing or implementing Marketing and Lead Generation systems for Enterprise businesses.</li>\n<li>3 years of experience designing and/or implementing any/multiple go-to-market systems like Marketo, SFDC, CPQ, CLM, Billing, etc., for Enterprise businesses.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Business or Operations.</li>\n<li>Experience in product operations. Experience in the Enterprise Software or Services Cloud domain.</li>\n<li>Broad understanding of GTM strategies and L2C operations with deep understanding of GTM business systems and technology specific to 3rd party software integrations and/or in-house software development.</li>\n<li>Demonstrated ability to develop and nurture relationships with key stakeholders and partners.</li>\n<li>Ability to analyze software or hardware product GTM strategy.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Partner with Corporate Development team, Go-to-market team, Finance, Technical and Functional leads to identify dependencies across the L2C cycle and ensure a well-coordinated integration and transition plan.</li>\n<li>Lead, execute and manage change for the overall L2C business system integration and transition.</li>\n<li>Develop detailed integration plan in collaboration with other GTM Leads, MATI Leads, Corporate Engineering and Application Engineering teams etc., for transition of acquired company data and systems to Google\u2019s core business systems.</li>\n<li>Analyze and understand Product and Sales go-to-market strategy and develop L2C business architecture and systems integration approach to support GTM strategies.</li>\n<li>Perform GTM and L2C operations and systems due diligence and discovery for mergers and acquisitions.</li>\n</ul>",
+    "title": "Program Manager, Mergers and Acquisitions Integration, Go-to-Market Architecture and Business Systems"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckc99QYGtjumyH7b1ZgjxPDs26gQBAyVMb8gpibdzrxISOgASYQ8w_MppVv-eQXfOArnT1kbSEAHSAAiO4P3inYInHens4JLibTaouu7TioKJrKveE8GzMQrPp9E%3D_V2&jobTitle=Environmental+Health+and+Safety+Specialist%2C+Global+Data+Centers&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-08T02:01:57.569Z",
+    "description": "<p>The Data Center team designs and operates some of the most sophisticated electrical engineering, mechanical engineering and HVAC systems in the world. Facilities Technicians at Google data centers operate, monitor and support physical facilities conditions. Some of these duties will include heating and cooling of air and water, power supply, generators, UPS systems, electrical distribution and control and monitoring systems. You regularly help inspect, maintain and repair various data center systems such as piping and non-critical electrical or mechanical system components). You provide daily assistance to senior technicians as you read blueprints/schematics, conduct tours of systems and assess their working order.<br><br>As a master of of best-in-class practices, you develop creative approaches to reducing operational costs while improving overall data center efficiency. You ensure that environmental and safety standards are consistently met, identifying problems and making repairs quickly In emergency situations or abnormal conditions, you manage data center performance issues and outages to minimize the recovery time from failures.</p><p>The Data Center team designs and operates some of the most sophisticated electrical and HVAC systems in the world. We are a diverse, upbeat, creative, team-oriented group of engineers committed to building and operating powerful data centers.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/114916977895449286",
+    "location": {
+        "address_lines": [
+            "Clarksville, TN, USA"
+        ],
+        "city": "Clarksville",
+        "country": "TN",
+        "country_code": "US",
+        "display": "Clarksville, TN, USA",
+        "lat": 36.5297706,
+        "lon": -87.3594528
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=1168x324&zoom=12&signature=4g7D15gS_KsRZAcPRJBPHshHxPo=",
+        "large_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=1024x324&zoom=12&signature=QYWwXS75248qfpdwqfEBBnm8V4Y=",
+        "small_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=600x400&zoom=12&signature=mjzy6xqVL8hvXff8Zn76i9zQc0o=",
+        "small_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=600x400&zoom=12&signature=WRLiawPe1x4P6Qs4PKUv_xfNnR0="
+    },
+    "modified": "2019-03-08T02:01:57.569Z",
+    "publish_date": "2019-03-08T02:01:57.569Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>5 years of experience with Environmental Health and Safety programs including construction and general industry.</li>\n<li>Experience with Electrical Safety and Behavior Based Safety.</li>\n<li>Experience working with cross functional teams and external contractors and vendors.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Environmental Science, Occupational Health and Safety, Earth Science or a related discipline, or equivalent practical experience.</li>\n<li>Experience communicating with Federal, State and Local Authorities regarding Environmental Health and Safety (EHS) issues.</li>\n<li>Experience managing compliance and best practice implementation in a contractor workforce.</li>\n<li>Experience with safety culture development.</li>\n<li>Experience with spreadsheet or equivalent project management tools.</li>\n<li>Collaboration, project management, and communication skills (written and verbal).</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Support Data Center Services, the Project Management Group and Data Center Operations by leading Environmental Health and Safety program implementation and oversight from construction through operations.</li>\n<li>Manage projects associated with all aspects of industrial and construction Environmental Health and Safety compliance programs, with a heavy emphasis on electrical safety.</li>\n<li>Develop project tracking timelines and tools to share important trigger tables with Data Center Services to support facility ready schedules.</li>\n<li>Manage oversight of construction activities to protect Google\u2019s interests during General Contractor ownership of site activities.</li>\n<li>Provide Environmental Health and Safety support for existing fleet as needed as well as support within the region and at a global level for all Environmental Health and Safety programs and initiatives.</li>\n</ul>",
+    "title": "Environmental Health and Safety Specialist, Global Data Centers"
+}

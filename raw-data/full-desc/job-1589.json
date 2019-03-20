@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckeadtR5jBFL78-08t-sw3lff8_HgSORNT0WMqGJ0m3MSOgASYQ8wNMhVpJCulBQxy8lT1gWbz2WSL0Yo5CxbqVtHKL4UD7JGrGxjXjrVm2-jKcHkzN0RYeqU9VA%3D_V2&jobTitle=Security+and+Privacy+Education+Lead&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-13T15:01:41.749Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>As the Security and Privacy Education Lead, you will manage a team of learning experts who develop curricula and tools to share information about common mistakes and doing the right thing. You will push the boundaries of effective learning and behavior change at scale. Your team will collaborate with subject matter experts to think outside the boundaries of traditional learning paths to find the right ways and times to reach people. Games, creative exercises, awareness campaigns, multimedia, etc. are areas you might find your team working in.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/101661288393777862",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:55:19.437Z",
+    "publish_date": "2019-02-27T19:55:19.437Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor\u2019s degree or equivalent practical experience.</li>\n<li>Years of experience managing teams.</li>\n<li>Experience in developing Security and Privacy educational content.</li>\n<li>Experience with security and privacy principles in a related role.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience operating within cross-functional teams (e.g., Product, Engineering, Networks, Operations, Sales, Finance, etc.) and driving cross-functional programs.</li>\n<li>Experience in a technical field (e.g., software development, cloud computing technologies, systems, or network administration).</li>\n<li>Experience in public speaking and mentoring others in public speaking.</li>\n<li>Understanding of business requirements in the areas of security and privacy.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Innovate in the area of security and privacy education within the larger context of reducing company risk.</li>\n<li>Management of security and privacy education team, including hiring, career development, and mentoring.</li>\n<li>Develop compelling security and privacy educational content, and devise effective mechanisms to scale it to Googlers globally.</li>\n<li>Engage internal and external stakeholders to design and implement effective educational tools, including developing new platforms (e.g., games).</li>\n<li>Program manage security and privacy education and develop strategic direction. Manage cross-organizational stakeholder relationships and track organizational trends and metrics.</li>\n</ul>",
+    "title": "Security and Privacy Education Lead"
+}

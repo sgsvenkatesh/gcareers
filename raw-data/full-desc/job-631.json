@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckepIEktZ4x3bgbykFk85ep6v-lX9qmmiCyyJCjhlc0kSOgASYQ8wFe1NlwTb2qtvmG5L7Tum8UunzXnVE_XYVqQOzeVtdLiRG15NIlAL8B2nwV91sR7bIG7_5Lk%3D_V2&jobTitle=Project+and+Process+Manager%2C+Identify+Verifications+Operations&loc=US",
+    "categories": [
+        "FINANCE",
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-28T23:01:43.064Z",
+    "description": "<p>The Finance Operations team manages Google&#39;s cash transactions on a global basis and ensures that Google&#39;s incoming and outgoing cash processes are controlled, effective and efficient. As a member of this team, you&#39;ll find innovative ways to manage our complex set of transactions. You thrive on making processes more efficient and scalable, you work to ensure the highest level of quality of our operations and you proactively minimize operational risk. Externally, you collaborate with our outsourcing partners and internally, you collaborate across the five areas of the Financial Operations team: Global Revenue Operations, Procure to Pay, Electronic Payment Services, Business Process Outsourcing, and Payroll.</p>\n\n<p>The Identity Verifications Operations team, within Finance Operations, helps keep our payments ecosystem safe and secure by ensuring that our Payments verify the identity of our customers. \n</p>\n\n<p>As a Project and Process Manager, you will have the opportunity to expand our IDV Operations to cover more Google products and customers. You will collaborate with our external outsourcing vendor(s) to empower them to effectively run the operations and meet goals. You will partner across Product Management, Engineering, Legal, and other operations teams to continuously implement process improvements as operations grow. Additionally, you will make processes more efficient and scalable, working to ensure the highest level of quality for our operations and proactively minimizing operational risk. You are detailed-oriented and see to it that as Google pursues our next big idea, we always have our bases covered.</p><p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to the business.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/80453268972413638",
+    "location": {
+        "address_lines": [
+            "Chicago, IL, USA"
+        ],
+        "city": "Chicago",
+        "country": "IL",
+        "country_code": "US",
+        "display": "Chicago, IL, USA",
+        "lat": 41.8781136,
+        "lon": -87.6297982
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&size=1168x324&zoom=12&signature=gIOxZ7dGhwr2LpHWKXkFIvPRMTc=",
+        "large_2x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&scale=2&size=1024x324&zoom=12&signature=rKP_A-4nJuEU4qbWPyESRqYx2vk=",
+        "small_1x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&size=600x400&zoom=12&signature=ol3MCzT12A291E1FDNtdLB3cK5M=",
+        "small_2x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&scale=2&size=600x400&zoom=12&signature=MQ1gJIGd_vtm2oDAQWiFTlRbRaM="
+    },
+    "modified": "2019-02-27T19:52:40.313Z",
+    "publish_date": "2019-02-27T19:52:40.313Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Business, Operations, or equivalent practical experience.</li>\n<li>5 years of experience in operations management within global operations, solution design, and project management.</li>\n<li>Experience in risk and/or fraud operations.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in fraud and/or identity verification operations.</li>\n<li>Track record of working cross-functionally, in a fast-paced environment to lead and drive complex operational initiatives globally.</li>\n<li>Ability to query large data sets with languages such as SQL.</li>\n<li>Ability to work collaboratively with vendors and international teams.</li>\n<li>Excellent quantitative and process optimization skills.</li>\n<li>Excellent project management, problem-solving, leadership, analytical, and written and verbal communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Expand IDV Operations to new regions, products, and/or verification types, including developing project plans, desktop procedures (DTPs), and delivering training to our outsourcing vendors.</li>\n<li>Collaborate with key stakeholders to effectively manage various aspects of the day-to-day IDV Operations, including handling escalations that arise from our partners and customers.</li>\n<li>Monitor the health of IDV Operations processes, including producing metrics and management reporting to Head of IDV Operations and other key stakeholders.</li>\n<li>Identify and implement process improvements to allow the operations to scale to support the growing business.</li>\n</ul>",
+    "title": "Project and Process Manager, Identify Verifications Operations"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckegcv2hzW4r0fWSW0Bp1nVKhLvw-dm6R2d5aZ6cDCgkSOgCPMA3TgMHP5cztk7LNnmWiI5McxRIl1_opCZMpGap3Shimx4nes7X147_hvOQXUrMvknpe2BcjUc0%3D_V2&jobTitle=Technical+Program+Manager%2C+Software+Infrastructure+Deployment+for+New+Product+Introduction&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:07:12.506Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n<p>As a Technical Program Manager, you will help deliver a variety of programs in the area of data center software. You will be responsible for the development of software to support new Google-designed hardware products, including software for planning the deployment of the new hardware to our data centers, monitoring the hardware, detecting and diagnosing failures in the hardware, and scheduling repairs.\n</p>\n\n<p>Your focus will be to drive large cross-functional, cross-organizational programs that have a very large impact to the success of Google\u2019s technical infrastructure. You will be part of the software organization responsible for creating the tools and technology Google need.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5796375881252864",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:44:22.960Z",
+    "publish_date": "2019-02-27T19:44:22.960Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science or a related field, or equivalent practical experience.</li>\n<li>5 years of experience with software development lifecycle, metric definition and executive presentation, technical program management, system and/or process requirements for large-scale systems.</li>\n<li>5 years of experience in a technical organization within infrastructure, supply chain, computer hardware, or data centers.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>5 years of Product Management experience.</li>\n<li>Experience in leading teams of highly talented, independent individuals.</li>\n<li>Ability to identify organizational needs, establish priorities, work independently and drive results through informal authority.</li>\n<li>Ability to serve as a trusted consultant to key business partners and represent users and customers in every thought and interaction.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Run large programs and ensure that they are moving forward.</li>\n<li>Scope, plan, and manage projects, including management of associated financial and human resources, quality of software development and features, risks, schedules, communication plans, and deliverables.</li>\n<li>Provide management with forecasts of project deliverables and detailed status updates.</li>\n<li>Present your team&#39;s analyses, recommendations, and approaches to stakeholders and executive management.</li>\n<li>Initiate new software development programs, identify and deliver software features that drive performance, scale, functionality, security, quality, and efficiency, based on prioritized needs. Be the catalyst for program support and delivery.</li>\n</ul>",
+    "title": "Technical Program Manager, Software Infrastructure Deployment for New Product Introduction"
+}

@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Chicago, IL, USA; Detroit, MI, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckaU3gAH2jPgK0Q_VlaqkU3AAidUThZDRyGkcFHweGoISOgCPMA3TL_OgBYwi4REiMUohUojG0S7OklB8o57q1apB2TNQraJmWvbB45HEmOWwoppHL6sW4QZDU4c%3D_V2&jobTitle=Field+Sales+Manager%2C+Google+Cloud&loc=US",
+    "categories": [
+        "SALES"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:36:01.992Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5221846715924480",
+    "location": {
+        "address_lines": [
+            "Detroit, MI, USA"
+        ],
+        "city": "Detroit",
+        "country": "MI",
+        "country_code": "US",
+        "display": "Detroit, MI, USA",
+        "lat": 42.331427,
+        "lon": -83.0457538
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=52+Henry+St%2C+Detroit%2C+MI+48201%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=52+Henry+St%2C+Detroit%2C+MI+48201%2C+USA&size=1168x324&zoom=12&signature=sHdg8THSRfyMPX5swKQi7B1soGI=",
+        "large_2x": "/maps/api/staticmap?center=52+Henry+St%2C+Detroit%2C+MI+48201%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=52+Henry+St%2C+Detroit%2C+MI+48201%2C+USA&scale=2&size=1024x324&zoom=12&signature=D54f-shtFmaokMvc9K1TQrP-aJI=",
+        "small_1x": "/maps/api/staticmap?center=52+Henry+St%2C+Detroit%2C+MI+48201%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=52+Henry+St%2C+Detroit%2C+MI+48201%2C+USA&size=600x400&zoom=12&signature=HDpmMr5cka4HJvsMkjoisEdQ6xE=",
+        "small_2x": "/maps/api/staticmap?center=52+Henry+St%2C+Detroit%2C+MI+48201%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=52+Henry+St%2C+Detroit%2C+MI+48201%2C+USA&scale=2&size=600x400&zoom=12&signature=Etd_hgJj3HqX1RBkiUOqb7owiwg="
+    },
+    "modified": "2019-03-18T21:08:55.123Z",
+    "publish_date": "2019-02-27T19:41:47.363Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science, Engineering or a related field or equivalent practical experience.</li>\n<li>8 years of experience in an Infrastructure-as-a-Service (IaaS) and/or Platform-as-a-Service (PaaS) sales role.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>12 years of Field Sales experience in the technology industry, promoting Platform-as-a-Service (PaaS) and/or Infrastructure-as-a-Service (IaaS).</li>\n<li>5 years of experience managing and leading a team.</li>\n<li>Experience promoting cloud computing technologies to large and complex organizations across geographies.</li>\n<li>Understanding of data and networking technologies, the global cloud computing market and key drivers for growth in the target industry segment.</li>\n<li>Understanding of how various cloud technologies work together to drive deeper technology adoption within the existing large account base.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Lead and implement Go-to-Market propositions in a given business sector, pulling together Marketing, Demand Management, Solutions, and Product and Engineering teams to produce a focused proposition.</li>\n<li>Build and maintain relationships to influence long-term strategic direction, and act as a trusted advisor to the customer.</li>\n<li>Work with wider Google Account teams to develop and drive pipeline, and to provide guidance. Work with Google Cloud Platform Partners to develop campaigns. Build a pipeline of customers within selected verticals.</li>\n<li>Collaborate with Sales Engineering and Marketing resource to provide input on current collateral materials and ideas on how to improve them to maximize Google Cloud Platform in a given team. Work towards strategic business goals.</li>\n</ul>",
+    "title": "Field Sales Manager, Google Cloud"
+}

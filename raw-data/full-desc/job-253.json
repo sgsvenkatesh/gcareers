@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdkH_eS5s0wTZycjz2uxiefdHJBDopcgwQ071bWtpvYSOQASYQ8wQec9p_zkA_aExhDx4k5Z98zW0yTl8x_Q7ZZ6snz0k3HyfKzHUvUE9NHXKKAm8pwUi7_XRw%3D%3D_V2&jobTitle=Business+Analyst%2C+Ads%2C+Waze&loc=US",
+    "categories": [
+        "ADMINISTRATIVE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-13T17:31:39.290Z",
+    "description": "<p>Businesses that partner with Waze come in all shapes and sizes. Your knowledge of online media combined with your communication skills contribute greatly to Waze&#39;s sales team. Using your influencing and relationship-building skills, you provide excellent client service, research and market analysis. You anticipate how decisions are made, persistently explore and uncover the business needs of Waze&#39;s key clients and understand how our product can grow their business. Working with them, you set the vision and the strategy for how their advertising can reach thousands of users.<br><br>At Waze, we leave all egos at the door and concentrate on the job at hand. We value passionate, down to earth, \u201ccan do\u201d people who enjoy fine-tuning small details, without losing sight of the big picture. We are looking for the type of person who feels uncomfortable when a day goes by without achieving something impactful. Someone who is driven to get things done and views obstacles as an exciting challenge that demands a creative solution. Above all else, this role requires someone who takes great pride in their work and is inspired and motivated by their role in improving the way millions of people drive worldwide.</p>\n\n\n<p>The Waze Ads Business Analyst bridges the gap between our Data Science and Sales teams, working with data sets to pull out insights about our platform, users and advertisers and shaping those into tools and actionable analyses that Sales can use to grow revenue.</p><p>Waze Marketing is responsible for creating the overall Waze experience starting with the brand, messaging, communications, design, social media, multi-media and more. As part of the product team, we work side by side with R&amp;D to initiate and create new projects and products. We strive for simple, leveled up communications and excellent brand management. We are looking for self-starters with an entrepreneurial edge, and a strong inclination towards design and visual.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/106538056925749958",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-13T17:31:39.290Z",
+    "publish_date": "2019-03-13T17:31:39.290Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of relevant work experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience analyzing data to identify trends, extract relevant insights, and make business recommendations.</li>\n<li>Experience working cross-functionally with sales, marketing, and business intelligence teams.</li>\n<li>Ability to communicate and influence effectively by presenting data in a compelling way.</li>\n<li>Advanced level of proficiency managing and visualizing data for presentations, and proficient at delivering complex narrative in a simple way to a wide range of audiences.</li>\n<li>Familiarity with Ads Measurement landscape such as MMM and GeoExperiments.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work side by side with Sales Analysts to understand needs of the market &amp; match those needs with internal data sets</li>\n<li>Build complex scripts/tables to aggregate and refine data, then create tools or dashboards that deliver actionable insights to Sales</li>\n<li>Drive tool adoption by partnering with Product Marketing to develop comm docs and training, and consult on developing sales collateral</li>\n<li>Partner with Data Science and Business Intelligence teams to provide guidance on Sales needs and leverage their unique skills to address scalable client challenges</li>\n<li>Work with Sales Teams on pioneering, custom analyses to address client challenges and scale those solutions into Global solutions. Support PMs and Marketing with custom analysis and insights based on first party data.</li>\n</ul>",
+    "title": "Business Analyst, Ads, Waze"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckemAXX4Hq-2_dijam85ITAyhLp0pWlWrZVtr84yxK7gSOgASYQ8wKfbznuTCPyoqUPTzFiA51u_zxq-S2ijIeBh6daiOxl4aNE93qqs339QWtK6x6WquEOME3Vo%3D_V2&jobTitle=Data+Science+Manager%2C+Finance&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-13T21:31:53.504Z",
+    "description": "<p>At Google, data drives all of our decision-making. As part of the Finance Business Intelligence team, you will use data to inform business and product decisions across the company. Using your technical skills, business acumen and creativity, you will build tools to automate reporting and generate insight that will allow clients to quickly and accurately see how our key business products and processes are performing. Previous experience managing finance systems projects, with emphasis on providing business intelligence and data driven insight through reporting, will have equipped you well for this role. You\u2019ll be involved in projects from inception to delivery, ensuring that your reporting delivers high-quality and relevant data to intelligently grow our business. You will also have extensive knowledge of key financial systems, such as Oracle and Hyperion, and experience working with a range of other business intelligence tools and platforms.</p>\n\n\n<p>As a Data Science Manager, you will use your leadership, technical skills, business judgment, and creativity to build solutions to surface critical data insights, optimize financial processes, and generate insight that will intelligently grow our business. You\u2019ll lead a talented team of data science analysts, driving programs and projects from inception to delivery. Additionally, you will contribute experience with complex data solutions including advanced analytics, data infrastructure and related tools/technologies.</p><p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to the business.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/103268684870361798",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-13T21:31:53.504Z",
+    "publish_date": "2019-03-13T21:31:53.504Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>7 years of experience in data analysis as a statistician, data scientist, analyst, or similar role.</li>\n<li>3 years of experience in people management/leadership.</li>\n<li>Experience with statistical software (e.g., R, Python, MATLAB, pandas) and database languages (e.g., SQL).</li>\n<li>Experience applying statistical and machine learning methods. Experience leading through full end-to-end project delivery.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree with a quantitative exposure (e.g., statistics, operations research, economics, computer science, mathematics, physics, finance, business etc.) or equivalent practical experience.</li>\n<li>Experience leading, managing, mentoring, and motivating technical teams in high-data volume environments.</li>\n<li>Experience managing relationships with partner teams and executive-level stakeholders.</li>\n<li>Excellent written and verbal communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage a data science team and interact and work closely and cross-functionally with other teams. Shape and drive our Data Science charter to transform the Finance organization through application of advanced analytics and machine learning.</li>\n<li>Partner with Engineering teams to operationalize/scale data solutions and improve Google\u2019s analytics platforms/tools.</li>\n<li>Participate in our team\u2019s leadership, taking initiative to execute on our mission, prioritize work, make tradeoffs, manage conflicts, and constantly motivate the team to grow and evolve.</li>\n<li>Work with large, complex data sets and solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct end-to-end analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.</li>\n<li>Partner with teams across Google to implement recommendations (e.g., cost-benefit, forecasting, experiment analysis).</li>\n</ul>",
+    "title": "Data Science Manager, Finance"
+}

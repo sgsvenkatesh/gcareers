@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXihr0LYW1sI1A3XRIHUaRlRwR0dGa5o3bTcek-EohMSOgCPMA3TxLzRbIESitpLrINw8AAijBw5mFUH7GVk8kchG9JgiObOxEeLOg7LKRp1QLF2HOE7UQfEyh4%3D_V2&jobTitle=Speech+Technology+Solutions+Consultant%2C+Cloud+AI&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-18T22:31:33.284Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>\n\n<p>Google Cloud AI is bringing AI to businesses. We provide modern machine learning services, with pre-trained models, and a service for businesses to generate their own tailored models. Our services are fast, accurate, and easy to use. Our platform and APIs are available as cloud services to bring unmatched scale and speed to other businesses.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4642957301055488",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T20:21:56.526Z",
+    "publish_date": "2019-02-27T19:47:44.506Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in a technical field, or equivalent practical experience.</li>\n<li>Experience writing software in one or more languages (e.g., Java, Python, Go, JavaScript, C++, etc.).</li>\n<li>Experience interacting with enterprise customers and partners and driving cross-functional technical projects.</li>\n<li>Experience working in a cloud environment</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience working with AI products or technology solutions specific to industrial verticals (e.g., Retail, Manufacturing, Finance)</li>\n<li>Experience with speech recognition or speech synthesis technology.</li>\n<li>Experience with web technologies for development, setup, configuration, and Deployment.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Provide end-to-end support (e.g., pre-sale consultation, evaluation, post-sale implementation, deployment) for customers throughout product lifecycle.</li>\n<li>Gain an understanding of customer challenges and customize/optimize Google Cloud Speech products as needed to fit customer needs by developing tools and scripts.</li>\n<li>Enable scaled support via documentation, training, and education, of both internal, and external scaled support teams.</li>\n<li>Serve as the first escalation point within the Cloud AI team to frontline and scale support teams.</li>\n<li>Consolidate, synthesize, and prioritize product feedback (e.g., bugs, FR) from customers, partners, and other teams to ensure fast product iteration and improvements.</li>\n</ul>",
+    "title": "Speech Technology Solutions Consultant, Cloud AI"
+}

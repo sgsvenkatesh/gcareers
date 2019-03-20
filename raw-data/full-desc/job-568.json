@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUP1EeJX1Oa_5Jcs2MEfsS3UDNLnHmAG8xYFR4WNujESOgASYQ8w1-Zi-nw7LVIbL5-nsSPk2HPCREdbjUu1qfJafYcCusFgQRGJgN5YplW8WqVT1Rf59Hzyy0g%3D_V2&jobTitle=Lead+Hardware+Engineer%2C+Consumer+Hardware&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-05T18:31:40.480Z",
+    "description": "<p>Google engineers develop the next-generation technologies that change how users connect, explore, and interact with information and one another. As a member of an extraordinarily creative, motivated and talented team, you develop new products that are used by millions of people. We need our engineers to be versatile and passionate to take on new problems as we continue to push technology forward. If you get excited about building new things and working across discipline lines, then our team might be your next career step.</p><p>As a Lead Hardware Engineer, you will guide system design, development and deployment of next-generation consumer hardware products. You are comfortable with specifying electrical architecture and with creating schematics. But just as importantly, you have a broad, cross-functional understanding of the disciplines involved in shipping a hardware product.</p><p>You will work with Google&#39;s product management team to assess viability and tradeoffs for new product features. You will be paired with a program manager, who will outline a program timeline and resource plan. Once the product is defined, you will guide the cross-functional engineering team (i.e., Electrical Engineering, Product Development, Instructional Designer, and etc.) through architecture, component selection, prototyping, validation and mass production release. You will be responsible for resolving technical conflicts between teams, managing cost and ensuring good Design for Excellence (DFX).</p><p>As the technical voice for the program, you will be the interpreter who helps teams understand each others&#39; constraints, and you will also represent the team when engineering topics are discussed with senior management.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/98624391643833030",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:52:34.181Z",
+    "publish_date": "2019-02-27T19:52:34.181Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Electrical, Electronic or Computer Engineering, a related field or equivalent practical experience.</li>\n<li>5 years of experience in design and shipment of hardware products.</li>\n<li>Experience working with application processor chipsets and memory, high speed video interfaces (HDMI/MIPI), wireless interfaces (WiFi/BT), audio, and power design.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Electrical, Electronic or Computer Engineering, a related field or equivalent practical experience.</li>\n<li>Experience with shipping high volume consumer products with external CM, ODM or JDM partners.</li>\n<li>Understanding of product development process for mass volume production design, with a focus on DFM (design for manufacturing) and DFT (design for test).</li>\n<li>Broad, cross-functional understanding of hardware product execution such as ME/PD, ID, cost and factory/operations.</li>\n<li>Excellent verbal and written communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Assess technical feasibility of new product features and concepts.</li>\n<li>Guide the detailed design of electrical architecture and schematics.</li>\n<li>Guide cross-functional hardware engineering teams.</li>\n<li>Represent cross-functional hardware team in executive management reviews.</li>\n<li>Own engineering cost, performance DFX and overall execution for a product.</li>\n</ul>",
+    "title": "Lead Hardware Engineer, Consumer Hardware"
+}

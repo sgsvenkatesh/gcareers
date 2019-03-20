@@ -1,0 +1,40 @@
+{
+    "application_instruction": "<i> In school or graduated within last 6 months?  We encourage you to apply to openings on the <a href=\"https://careers.google.com/students/\">Students Job Site</a>.</i><br><br><b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbsqKL1EkuyvRefphmUPPVm8Sp5OqfvhVEAUDF7A27USOgCPMA3TfpAfW2ouSC8dYg9DBZdoX7I1aFnD3iTdsFxq-rXb4XemGZV4uEUqO_JA1V9iVs_KOjvcycI%3D_V2&jobTitle=Research+Software+Engineer%2C+Google+Brain&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:06:27.743Z",
+    "description": "<p>We do research differently here at Google. Our team of Research Scientists aren&#39;t cloistered in a secret lab but are embedded throughout the engineering organization, allowing them to setup large-scale tests and deploy promising ideas quickly and broadly. Ideas may come from internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world. From creating experiments and prototyping implementations to designing new architectures, Research Scientists work on real-world problems including artificial intelligence, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more. But you stay connected to your research roots as an active contributor to the wider research community by partnering with universities and publishing papers. <br><br>You manage individual project priorities, deadlines, and deliverables, adapting to changes and setbacks in order to manage pressures, proving and applying theories through research efforts to develop new and improved products, processes, or technologies.</p>\n\n<p>Research and Machine Intelligence is a high impact team that\u2019s building the next generation of intelligence and language understanding for all Google products. To achieve this, we\u2019re working on projects that utilize the latest techniques in Artificial Intelligence, Machine Learning (including Deep Learning approaches like Google Brain) and Natural Language Understanding. Our work gets used by product teams across Google, including Search, Maps and Google Now.\n</p>\n\n<p>As a Research Software Engineer in the Google Brain team, you work and collaborate closely with Research Scientists on the team. You have the flexibility to switch projects as our research focus shifts and evolves. We need our engineers to be versatile and passionate about managing new problems. \n</p>\n\n<p>This role bridges the gap between Software Engineer and Research Scientist. We are looking for great software engineers who also have experience with language understanding and perception (speech, images, video) - as well as improving algorithms. We work with teams across Google to make their products better and make Moonshots possible. In this role, you&#39;ll work alongside Research Scientists in the Google Brain team to bring their ideas to life by implementing algorithms, running experiments and building prototypes.</p><p>There is always more information out there, and the Research and Machine Intelligence team has a never-ending quest to find it and make it accessible. We&#39;re constantly refining our signature search engine to provide better results, and developing offerings like Google Instant, Google Voice Search and Google Image Search to make it faster and more engaging. We&#39;re providing users around the world with great search results every day, but at Google, great just isn&#39;t good enough. We&#39;re just getting started.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5740746307207168",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T22:44:19.062Z",
+    "publish_date": "2019-02-27T19:40:17.039Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science, related technical field or equivalent practical experience.</li>\n<li>Experience with one or more general purpose programming languages including but not limited to: C/C++ or Python</li>\n<li>Experience with linear algebra, calculus and statistics</li>\n<li>Machine learning experience</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MS or PhD degree in Computer Science, Artificial Intelligence, Machine Learning, or related technical field.</li>\n<li>Strong computer systems experience.</li>\n<li>GPU programming experience.</li>\n<li>Large data analysis and visualization experience.</li>\n<li>Exposure to industry or academic research.</li>\n<li>Exposure to Deep Learning, Neural Networks, or related fields and a strong interest and desire to learn about them.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Participate in cutting-edge research in artificial intelligence and machine learning applications.</li>\n<li>Develop solutions for real-world, large-scale problems.</li>\n</ul>",
+    "title": "Research Software Engineer, Google Brain"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfzBYa0SVGjm0C-qd3sGOkw8FdYAVOBJ_g8PTwnwz-USOgASYQ8wGX6RAREekFfO9mS2Uoll_Eaqka55npnjO9adOhKRcLsfsQlU8Ab9KoXht2OjlSLFJTljKLw%3D_V2&jobTitle=Hardware+Emulation+Engineer&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-27T22:31:56.733Z",
+    "description": "<p>Our computational challenges are so big, complex and unique we can&#39;t just purchase off-the-shelf hardware, we&#39;ve got to make it ourselves. Your team designs and builds the hardware, software and networking technologies that power all of Google&#39;s services. As a Hardware Engineer, you design and build the systems that are the heart of the world&#39;s largest and most powerful computing infrastructure. You develop from the lowest levels of circuit design to large system design and see those systems all the way through to high volume manufacturing. Your work has the potential to shape the machinery that goes into our cutting-edge data centers affecting millions of Google users.</p>\n\n\n<p>In this role, you will help design, verify, and deploy ASIC projects through emulation based prototyping. Having a successful prototyping campaign helps to ensure success of these critical projects. However, as designs continue to increase in size and complexity, emulation becomes even more important in meeting verification and bring-up milestones. \n</p>\n\n\n<p>As a Hardware Emulation Engineer, you will work directly with other emulation prototyping team members as well as designers, DV engineers, and software teams to deliver emulation based prototyping capabilities for our ASIC projects. This may include compiling projects targeting our prototyping platforms, debugging issues in both infrastructure and design, and assisting in the hardware and lab bring-up and verification of our ASIC systems.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/134766462922302150",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T22:31:56.733Z",
+    "publish_date": "2019-02-27T22:31:56.733Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Master&#39;s degree in Electrical Engineering, related field, or equivalent practical experience.</li>\n<li>Experience in simulation acceleration using transactors and/or vendor provided accelerated verification IP.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in performance analysis/debug techniques and in a lab environment, working on hands-on ASIC bringup and test development.</li>\n<li>Experience with lab equipment such as O-scopes and logic analyzers.</li>\n<li>Understanding of computer architecture including industry standard interfaces and memory subsystems.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Create and support emulation models from RTL.</li>\n<li>Drive system bring-up on emulation platforms, debug test failures, and simulation/emulation mismatches.</li>\n<li>Bring up external interfaces (e.g., USB, PCIe, Ethernet, etc.) on the emulation platforms.</li>\n<li>Develop and operate tests on the emulators and in post-silicon validation and assist in bring-up processes from prototyping through post-silicon validation.</li>\n<li>Create standalone test cases for tool issues encountered in the emulation compile and runtime flows.</li>\n</ul>",
+    "title": "Hardware Emulation Engineer"
+}

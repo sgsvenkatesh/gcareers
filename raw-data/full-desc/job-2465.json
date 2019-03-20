@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRZ5pynmnxgP5rqYsYk_osc8tEdj2u6dcQ3L9fwUfsoSOgCPMA3ThpJIVOZ1Ia4cKDZdVazq0wwszgI2_0CB7b_8uaHcP3EC64AEXPXtgth4xiaIFBFH-Bdt0yc%3D_V2&jobTitle=Imaging+and+Vision+Architect&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:07:11.234Z",
+    "description": "<p>Google engineers develop the next-generation technologies that change how users connect, explore, and interact with information and one another. As a member of this team, you develop new products that are used by millions of people. We need our engineers to be versatile and passionate to tackle new challenges as we continue to push technology forward. </p>\n\n<p>As an Imaging and Vision Architect, you will develop novel hardware architectures for hardware-accelerated image and video processing applications. You will work on topics that span areas of image processing, digital imaging, computer vision, computational photography, and machine intelligence. You will optimize algorithms, develop architectural C-models and specify architectures for future generation products. You will also collaborate with Software and SoC Architects to explore, build and test the best hardware architectures to process images and videos for applications including digital photography and machine intelligence.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6574647565025280",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:40:19.969Z",
+    "publish_date": "2019-02-27T19:40:19.969Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Electrical Engineering, or equivalent practical experience</li>\n<li>5 years of relevant industry experience.</li>\n<li>Experience in C or C++.</li>\n<li>Experience developing hardware IP for an imaging or vision pipeline. Experience in digital imaging and computer vision methods and algorithms.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Doctorate&#39;s degree in Computer Science, Electrical Engineering, or a related field.</li>\n<li>Experience in array cameras, computational photography techniques, depth sensing cameras and others.</li>\n<li>Understanding of image quality metrics.</li>\n<li>Understanding of machine learning or image and video processing algorithms for consumer photography or mobile applications.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Evaluate the architectural design and algorithms for digital photography, computer vision or machine intelligence scenarios.</li>\n<li>Design, define, and specify computer vision and image and video processing IP. Author hardware specifications for efficient and practical implementation.</li>\n<li>Work with System on a Chip (SoC) architecture team to understand and improve the architecture and use cases.</li>\n<li>Work with the image quality and software teams to understand their requirements and to improve the designs.</li>\n</ul>",
+    "title": "Imaging and Vision Architect"
+}

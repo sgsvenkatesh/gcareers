@@ -1,0 +1,35 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: New York, NY, USA; Chicago, IL, USA; Mountain View, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbXsUIcYpDCzPpax1SpV2-me56gvkCKEmz0RNtcTMJoSOgASYQ8wMb9YazEEyZFUV1Xg7-fkiODeZlWCrQ83S3Jfp6VVrEhbYvHJ0jPGvm5eWwZ-_qwi-qL7qE8%3D_V2&jobTitle=Display+Technical+Specialist%2C+gTech+Professional+Services&loc=US",
+    "categories": [
+        "ADMINISTRATIVE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-28T21:31:39.671Z",
+    "description": "<p>gTech\u2019s Professional Services team takes a creative, collaborative, and customer-centric approach to provide foundational services and forward-looking business solutions to top advertiser and publisher customers. Through technical implementation, optimization, and key solutions, gTech Professional Services helps customers attain their business goals while building long-term capabilities.</p>\n\n<p>The gTech Professional Services - Display Technical Specialist team provides deep and specialized in-region technical implementation support for emerging products. \n</p>\n\n<p>As a Display Technical Specialist, you will be responsible for building a deep understanding of the most nascent Google advertising products and leveraging these products to achieve customer goals. You will also build robust processes, systems, tools and documentation to ensure such cutting-edge products can eventually be serviced by generalists.</p><p>Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. Our teams of solution-oriented trusted advisors support millions of customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers\u2019 complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.<br><br>To learn more about gTech, check out our <a href=\"https://www.youtube.com/watch?v=HcjR6ZngQcw\">video</a>.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/126233634618122950",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:52:17.851Z",
+    "publish_date": "2019-02-27T19:52:17.851Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>3 years of experience with client side web technologies; HTML, CSS, and JavaScript.</li>\n<li>Experience working with and managing external partners/customers of all levels.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Working familiarity with SQL/MySQL.</li>\n<li>Ability to adapt your message to the technical level of the audience and comfort presenting technical materials to groups of any size and background.</li>\n<li>Ability to work well in a fast paced cross-functional team environment.</li>\n<li>Ability to absorb complex technical concepts and communicate them to non-technical audiences effectively.</li>\n<li>Developed analytical skills and ability to manipulate and analyze large data sets.</li>\n<li>Effective project management skills and attention to detail.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Be the primary day-to-day technical contact for clients, providing prompt, professional consultative support and service to ensure a high level of customer satisfaction.</li>\n<li>Advocate new product features and assist clients in the adoption of new products via upgrades and migrations to help them build long-term success. Provide documentation and technical guidance to ensure the technical success of clients\u2019 integrations.</li>\n<li>Improve product offerings by providing client feedback on features to Google Product Managers and Engineers.</li><li>Collaborate with internal and external technical and developer teams to drive communication, prioritization, analysis, and resolution of customer challenges and issues. Participate in the analysis and research for complex technical issues and work with senior product escalation teams.</li>\n<li>Maintain industry, Google product, and customer knowledge to provide successful technical consultations. Lead or contribute to projects that increase operational efficiency by developing internal and external tools.</li>\n</ul>",
+    "title": "Display Technical Specialist, gTech Professional Services"
+}

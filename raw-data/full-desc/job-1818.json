@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Francisco, CA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckSNbsTn5Kv8bh7Ii20hbwRa6fF25dUUJd9sUqhqVJikSOgCPMA3TAa65JSsP-zvBGQa_IqlTW4tZM-hpgxQz2B5Odn6hu59qnx7xr_mhHg6vbQ9Vji6ga1XKme4%3D_V2&jobTitle=Solutions+Consultant%2C+Startup%2FDeveloper+Relations&loc=US",
+    "categories": [
+        "BUSINESS_STRATEGY",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:14.468Z",
+    "description": "<p>As a Solutions Consultant, you&#39;ll connect with developers at startups and help them solve problems. You have a passion for speaking publicly about cutting-edge technologies on conference panels, at user groups, on blogs and with the press. Your efforts will help drive awareness and adoption of Google Cloud within the startup community and enable our team to successfully execute at scale. You&#39;ll also communicate internally with Product Managers to drive a better developer experience, foster a community of developers building on Google technologies and drive strategy around Google\u2019s broader Developer Relations efforts.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5620239342698496",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-18T21:29:06.582Z",
+    "publish_date": "2019-02-27T19:45:07.708Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science or a similar technical field or equivalent practical experience.</li>\n<li>3 years of experience in software engineering and programming in two Turing complete languages.</li>\n<li>Experience in a startup ecosystem, including with founders, venture firms and startup accelerators.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>5 years of experience in software engineering with programming experience in two or more of the following languages: Python, JavaScript, Ruby, PHP, Go, Java or Objective C.</li>\n<li>Experience as a software developer, product manager, Chief Technology Officer or founder at early to mid-stage startups.</li>\n<li>Experience with presenting products to the user community through hackathons, webinars, forums, blogs and/or social media.</li>\n<li>Experience with blogging and writing technical articles for an existing follower base, contributing to an open source project and speaking at technology conferences.</li>\n<li>Excellent written and verbal communication skills, with the ability to communicate technical knowledge and information with others.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Participate in technical and design discussions with technical executives.\u00a0</li><li>Act as a strategic partner to ensure adoption and best practices during implementation.</li>\n<li>Advocate the adoption of Google products to startup developers and the broader startup community.</li>\n<li>Present our developer products in person and online by demonstrating at conferences, blogging, videos and writing technical tutorials.</li>\n<li>Advocate for startups and developers internally, and influence Google developer product strategy by working with Product Management, Engineering, PR, Marketing, Business Development and other cross-functional teams.</li>\n</ul>",
+    "title": "Solutions Consultant, Startup/Developer Relations"
+}

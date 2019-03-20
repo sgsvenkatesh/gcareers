@@ -1,0 +1,36 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Bellevue, WA, USA; Mountain View, CA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfZMxWjUXqdpIXE3WyM83vibnAIgqSzGeJ7qjT7iJhgSOgASYQ8walhADSegaoRuxTxkRy4P_mLF5AT5CGpBSpaYhG1pPPY5Ta-bm3ygMABuihgcZGe0OMqVRYU%3D_V2&jobTitle=Developer+Programs+Engineer%2C+Android+Games&loc=US",
+    "categories": [
+        "DEVELOPER_RELATIONS",
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-13T16:02:13.401Z",
+    "description": "<p>Part community manager and part developer advocate, you will collaborate with developers at conferences and online, and advocate for developers interests internally at Google. You will write sample code and client libraries and participate in developer forums, supporting queues to troubleshoot and debug coding challenges developers encounter. Additionally, you will work with Product Engineering teams, conveying feedback from developers, reviewing API designs, and testing new features. </p>\n\n\n<p>As a Developer Programs Engineer, you will help developers bring their games to the largest number of Android devices possible with the highest quality, sharing solutions through Game SDK functions, samples, and developer education pieces. In this role, you will incorporate insights into the Android ecosystem with the Android Engineering teams, OEMs and SOC designers/manufacturers, and game engine ecosystems, using engines similar to Unity, Unreal and CryEngine.</p><p> </p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/106134261280449222",
+    "location": {
+        "address_lines": [
+            "Bellevue, WA, USA"
+        ],
+        "city": "Bellevue",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Bellevue, WA, USA",
+        "lat": 47.6101497,
+        "lon": -122.2015159
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1100+112th+Ave+NE&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1100+112th+Ave+NE&size=1168x324&zoom=12&signature=shVI9a8puhmEZvAoqlAxGViEr74=",
+        "large_2x": "/maps/api/staticmap?center=1100+112th+Ave+NE&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1100+112th+Ave+NE&scale=2&size=1024x324&zoom=12&signature=S2m0FUHweIvOAgaQbHoK2BFVt_c=",
+        "small_1x": "/maps/api/staticmap?center=1100+112th+Ave+NE&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1100+112th+Ave+NE&size=600x400&zoom=12&signature=r9Cd0XXWd-IwQtzoF3DKtVyiZUE=",
+        "small_2x": "/maps/api/staticmap?center=1100+112th+Ave+NE&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1100+112th+Ave+NE&scale=2&size=600x400&zoom=12&signature=WjmeginEn-lvG9qdEouBWwi5djI="
+    },
+    "modified": "2019-03-13T16:02:13.401Z",
+    "publish_date": "2019-03-13T16:02:13.401Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>6 years of experience in the game development field working on games and/or game platforms.</li>\n<li>Experience in a game-related technology (e.g., Graphics, Multiplayer, Physics, Audio, Content Pipelines, etc.).</li>\n<li>Experience shipping game titles.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>2 years of experience in a game developer support role.</li>\n<li>Experience shipping to a major game development platform (console, game-centric device, or operating system).</li>\n<li>Excellent verbal and written communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work with game developers to make their games performant on Android.</li>\n<li>Solve game developer challenges across the Android ecosystem through samples, talks, and white papers.</li>\n<li>Contribute code/modules to the Games SDK.</li>\n<li>Contribute code/modules to the games tooling efforts.</li>\n</ul>",
+    "title": "Developer Programs Engineer, Android Games"
+}

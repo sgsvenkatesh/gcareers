@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTt8h5FgLJ5pXycJly-7eupfsyH570j8CBB7kwzkxTMSOgCPMA3TNEfosaY4sWIXYVtAnx5B39RUsYFWmW3s6RaFouBqjoGhtJTxeSTUGaGwFrSJXaSpjjOOf4I%3D_V2&jobTitle=Business+Intelligence+Developer&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-10-23T22:47:43.508Z",
+    "description": "<p>As Business Intelligence Developer you&#39;ll work with a high-performing team of BI Developers and Web Solutions Engineers who deliver innovative business intelligence solutions and reliable and accurate data marts that help drive business growth and make Google&#39;s global sales and operations more efficient. You will work with the business in understanding their evolving requirements and with Engineering to deliver practical but innovative solutions of real business benefit. \n</p>\n\n<p>You will provide excellent client service, research and market analysis, uncover the business needs of Google&#39;s key clients and understand how our range of product offerings can grow their business. Working with them, you set the vision and the strategy for how their advertising can reach thousands of users.</p><p>When our millions of advertisers and publishers are happy, so are we! Our Google Customer Solutions (GCS) team of entrepreneurial, enthusiastic and client-focused members are the &quot;human face&quot; of Google, helping entrepreneurs both individually and broadly build their online presence and grow their businesses. We are dedicated to growing the unique needs of advertising companies. Our teams of strategists, analysts, advisers and support specialists collaborate closely to spot and analyze customer needs and trends. Together, we create and implement business plans broadly for all types of businesses.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4935350637887488",
+    "location": {
+        "address_lines": [
+            "Redwood City, CA, USA"
+        ],
+        "city": "Redwood City",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Redwood City, CA, USA",
+        "lat": 37.48521520000001,
+        "lon": -122.2363548
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=1168x324&zoom=12&signature=qMd_c5mmqxWSefkzRvq5u3HXeX8=",
+        "large_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=1024x324&zoom=12&signature=QI9LkVYQ-IlH0lZ6MENCZ2TRJPQ=",
+        "small_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=600x400&zoom=12&signature=sGZIA9O0g6zpsi2BMerq7kWkMSo=",
+        "small_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=600x400&zoom=12&signature=ZaSXyTdqAKk9FmiP1ehW8vV8TuI="
+    },
+    "modified": "2019-03-18T20:49:20.747Z",
+    "publish_date": "2019-02-27T19:43:22.305Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science or related technical field, or equivalent practical experience.</li>\n<li>Experience working with databases including proficiency in SQL coding across standard commercial databases (e.g Oracle, Teradata, MySQL etc).</li>\n<li>Experience in R, SPSS, Python, MATLAB or similar statistics tools.</li>\n<li>Experience with data and related data analytics.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with analytic methodologies such as Machine Learning, regression, classification, prediction, and neural networks.</li>\n<li>Knowledge of commercial and emerging reporting tools and technologies (e.g. Tableau, MicroStrategy, D3.js, etc.).</li>\n<li>Experience in consulting or professional services.</li>\n<li>Demonstrated passion for developing and analyzing large, complex data sets and converting them into insights that drive business decisions at all levels of the organization.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work closely with Google Customer Solutions (GCS) management and their teams to understand their information needs, ensuring that BI solutions are an excellent fit to their evolving needs, and help develop their own related skills capabilities.</li>\n<li>Manage, drive and deliver multiple BI work-streams, both on an ongoing and ad hoc basis.</li>\n<li>Work with Engineering partners to help shape and drive the development of Google\u2019s BI infrastructure including data warehousing, reporting and analytics platforms.</li>\n<li>Contribute to the development of the BI team\u2019s tools, skills, culture and impact for GCS and Google.</li>\n</ul>",
+    "title": "Business Intelligence Developer"
+}

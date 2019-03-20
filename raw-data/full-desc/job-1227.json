@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckSClHDv3ovpql81-zi38wXTd5XvuC6wiBw3wksSOeSgSOgASYQ8wPUqiv8b3bfr_pSoHgWM48HC8ZlqAxflPJRLplOOmk6E7SOtAdC80NLYkYZuSRtGak6X1qus%3D_V2&jobTitle=Program+Manager%2C+Learning+at+Scale%2C+Google+Cloud&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-28T17:02:50.428Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>\n\n\n<p>The Google Cloud Learning team develops and delivers Google Cloud product and solution training to thousands of partners, businesses, and individual developers, and has plans to grow the range and reach of the training on offer. The training is delivered through a mix of internal trainers and external training partners, including on-demand training partners and hands-on labs platform.\n</p>\n\n\n<p>As a Program Manager at Google, you&#39;ll lead complex, multidisciplinary projects. You will plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/113066552976122566",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T15:01:48.054Z",
+    "publish_date": "2019-03-18T15:01:48.054Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience in program management.</li>\n<li>5 years of experience delivering projects with multiple stakeholders.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with a large Enterprise in a sales operations or program management role.</li>\n<li>Experience working on a global sales team, with many different cultures and navigating multiple time zones.</li>\n<li>Understanding of at scale learning programs.</li>\n<li>Ability to take initiative and work well in an ambiguous and fast-moving environment with tight deadlines and limited resources.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design and drive new programs and initiatives that result in an increase in the number of people with Google Cloud Training and Certifications globally.</li>\n<li>Work cross-functionally and globally to identify, design, and land Training and Certification programs across Cloud Customer spectrum.</li>\n<li>Manage all operational aspects of the programs you develop (e.g., clear workflows, processes, tools, etc.) and ensure the programs can be delivered in a scalable, globally consistent manner in the identified languages and locations.</li>\n<li>Track program success and iterate based on observations and analysis.</li>\n<li>Work with stakeholders to understand the training needs and come up with training distribution programs that result in meaningful training and cloud adoption results.</li>\n</ul>",
+    "title": "Program Manager, Learning at Scale, Google Cloud"
+}

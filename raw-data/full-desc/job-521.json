@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckeDR3yZCNBDWwiA4poAYPlKxVmBMrojMZM9TCNVOEuwSOgASYQ8wdBHtadA2g-2-WnOmBjl5yo8zuZG-jubcOjpYO3xx49krDH-AAWL5QRFiCIAyER_FpL9bHCg%3D_V2&jobTitle=Financial+Analyst%2C+Global+Display+and+Partnerships&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-30T18:01:54.520Z",
+    "description": "<p>Financial Analysts ensure that Google makes sound financial decisions. As a Financial Analyst, your work, whether it&#39;s modeling business scenarios or tracking performance metrics, is used by our leaders to make strategic company decisions. Working on multiple projects at a time, you&#39;ll stay focused on the details while finding creative ways to take on big picture challenges.</p>\n\n<p>As a Financial Analyst, you&#39;ll work with several of Google\u2019s advertiser-facing products. You&#39;ll have the opportunity to partner with the Sales Strategy (GSL) and Product Management (PM) teams while becoming an expert on our ads products at a global level. You will work side by side with the GSL and PM teams and enable decision making through appropriate analysis and support. You&#39;ll also act as a key advisor to Sales, PM and Finance leadership on issues related to market strategies, business profitability, and resource allocation. Further, you&#39;ll coordinate and execute on the results of these efforts with regional Sales and Finance teams. You&#39;ll have the opportunity to bring innovation and creativity to solve new strategic challenges such as how we think about product adoption and long-term financial health of the business.</p><p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to the business.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/114244598483559110",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:55:17.567Z",
+    "publish_date": "2019-02-27T19:55:17.567Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Accounting, Finance, Economics or similar or equivalent practical experience.</li>\n<li>4 years of relevant experience in working with financial concepts and data systems.</li>\n<li>Experience in management consulting, financial services, or other similar environments in preparing and communicating insights to senior executive audiences.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Software programming experience in SQL.</li>\n<li>Ability to self-start in an unstructured environment and comfortable with ambiguity.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Partner with leaders in Sales, Product Management and Finance organizations to educate on drivers of business, build tools that measure success and implement solutions to drive business growth efforts.</li>\n<li>Provide management with clear insights into market potential, risks, and opportunities.</li>\n<li>Develop analysis/tools to track business growth for Google\u2019s properties to better understand the drivers and key product health indicators.</li>\n</ul>",
+    "title": "Financial Analyst, Global Display and Partnerships"
+}

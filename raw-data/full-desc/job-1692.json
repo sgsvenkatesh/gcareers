@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckajXkSZSP9Omm17wMDlfft-E0jb7xUyuu1dDJmKU4EkSOgCPMA3TFkFFnj1IvJB-0uvwdekdLI4CJ-W9Ja9I9Ve8ZELHgICpqwkJlFJdcPXqdWJqVg26MSpLYhg%3D_V2&jobTitle=Data+Scientist%2C+PhD+University+Graduate&loc=US",
+    "categories": [
+        "INFORMATION_TECHNOLOGY",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-10-23T22:35:52.515Z",
+    "description": "<p>At Google, data drives all of our decision-making. Data Scientists work all across the organization to help shape Google&#39;s business and technical strategies by processing, analyzing and interpreting huge data sets. Using analytical rigor and statistical methods, you mine through data to identify opportunities for Google and our clients to operate more efficiently, from enhancing advertising efficacy to network infrastructure optimization to studying user behavior. As a Data Scientist, you do more than just crunch the numbers. You work with Engineers, Product Managers, Sales Associates and Marketing teams to adjust Google&#39;s practices according to your findings. Identifying the problem is only half the job; you also figure out the solution.<br><br>As a key member of the team, you work with engineers to analyze and interpret data, develop metrics to measure results and integrate new methodologies into existing systems.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6602205446340608",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:44:48.536Z",
+    "publish_date": "2019-02-27T19:44:48.536Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>PhD degree in a quantitative discipline (e.g. statistics, bioinformatics, computational biology, computer science, applied mathematics, or similar) or equivalent practical experience.</li>\n<li>Relevant internship or work experience with data analysis.</li>\n<li>Experience with statistical software (R, S-Plus, SAS, or similar).</li>\n<li>Experience with databases and scripting languages (such as Python).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Authorization to legally work in the United States.</li>\n<li>1 year of relevant work experience (i.e., data scientist role), including deep expertise and experience with statistical data analysis such as linear models, multivariate analysis, stochastic models, sampling methods.</li>\n<li>Ability to draw conclusions from data and recommend actions.</li>\n<li>Demonstrated leadership and self-direction. Demonstrated willingness to both teach others and learn new techniques.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed; Conduct end-to-end analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables and presentations.</li>\n<li>Build and prototype analysis pipelines iteratively to provide insights at scale. Develop comprehensive understanding of Google data structures and metrics, advocating for changes where needed for both products development and sales activity.</li>\n<li>Interact cross-functionally with a wide variety of people and teams. Work closely with engineers to identify opportunities, design and assess improvements to Google products.</li>\n<li>Make business recommendations (e.g. cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.</li>\n<li>Research and develop analysis, forecasting and optimization methods to improve the quality of Google&#39;s user facing products; example application areas include ads quality, search quality, end-user behavioral modeling and live experiments.</li>\n</ul>",
+    "title": "Data Scientist, PhD University Graduate"
+}

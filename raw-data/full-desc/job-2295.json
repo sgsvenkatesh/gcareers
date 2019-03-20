@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQyax6MfGixSprVt67oDzjt8hlMskhkcv-tb_CLCwy4SOgASYQ8w8N6wJlAOZTuNk5y0CVAF-qja5j4VTgYt0Qq-fsUk6ylxqvQV33cjyqGHUJx2Ln_yntXWJZA%3D_V2&jobTitle=Technical+Lead%2C+Experience+Studios&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-30T15:31:42.863Z",
+    "description": "<p>gTech\u2019s Business and Outsourcing Strategy and Services team (gBOSS) provides consultative services to gTech, the Global Business Organization (GBO), and Google at large, enabling each part of our business by developing innovative, scalable, and compliant solutions that allow gTech to run efficient operations with the best vendor partners at optimal cost while minimizing risk.</p>\n\n<p>The Experience Studio team is responsible for designing and building customer facing spaces at Google, like our BrandLab in San Bruno. We&#39;re a team of designers, producers, engineers, and business thinkers whose mission is to inspire Google\u2019s customers through the interactive spaces that we create. Our job is to design and deliver engaging physical experiences that tell Google\u2019s story, make Google\u2019s magic more apparent, and communicate Google\u2019s ability to grow customers\u2019 businesses into the digital age and guide their brands into the future.\n</p>\n\n<p>As a Technical Lead, you will join the Experience Studio team to help drive innovative projects using standard engineering practices in order to deliver on the Experience Studio\u2019s goal of using technology and space to tell Google\u2019s story. In this role, you\u2019ll be leading a team of contract engineers and creative technologists who have been creating interactive, immersive experiences for Google\u2019s Experience Centers and other spaces within Google. You\u2019ll be setting technology standards and strategy, as well as spurring the team to expand the limits of the interactive storytelling experience at Google.</p><p>Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. Our teams of solution-oriented trusted advisors support millions of customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers\u2019 complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.<br><br>To learn more about gTech, check out our <a href=\"https://www.youtube.com/watch?v=HcjR6ZngQcw\">video</a>.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/124190711948944070",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:48:55.141Z",
+    "publish_date": "2019-02-27T19:48:55.141Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Engineering, Computer Science, related technical field, or equivalent practical experience.</li>\n<li>5 years of professional experience in software development, using JavaScript or HTML/CSS and Java or Python.</li>\n<li>Experience with distributed systems, architectures, and systems integration.</li>\n<li>Experience with front-end development tools and infrastructures.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience working with microcontrollers and other electronic devices, especially controlling electronic devices through software.</li>\n<li>Experience in multi-tiered systems (e.g., Python, front-end web development, cloud storage, messaging).</li>\n<li>Experience building continuous integration/continuous delivery pipelines. Experience with application development for Android.</li>\n<li>Experience in a technical leadership or management role.</li>\n<li>Experience in problem-solving and technical innovation.</li>\n<li>Experience in a technical role and excellent management and communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Provide leadership and management to contract engineers in an innovative and fast-paced environment.</li>\n<li>Manage and drive complex technical projects from planning through execution and design to production. Lead the process, create the design documents and architectural diagrams, and contribute to the code as necessary.</li>\n<li>Take responsibility for the overall planning, execution, and success of all technical aspects of our exhibit development.</li>\n<li>Define and create the development infrastructure and tooling for the software development of our exhibits.</li>\n<li>Manage project priorities and technical resources. Manage relationships with multiple partner teams and/or vendors.</li>\n</ul>",
+    "title": "Technical Lead, Experience Studios"
+}

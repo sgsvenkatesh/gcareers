@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; Pittsburgh, PA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWR5t8wC2cs6nFGrdM6bE_BUstM1V_carWMx_m7P5tkSOgCPMA3TRSI3M_QP5vv-lzOMLaRpQC3VdC-uV9L6qoa-XoZ5tTm29Arr9FZTOTmKklZZNdzAytb5ag4%3D_V2&jobTitle=Program+Manager%2C+Search+Ads&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-10-23T22:39:59.652Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p><p>Users come first at Google. Nowhere is this more important than on our Advertising &amp; Commerce team: we believe that ads and commercial information can be highly useful to our users if, and only if, that information is relevant to what our users wish to find or do. Advertisers worldwide use Google Ads to promote their products; publishers use AdSense to serve relevant ads on their website; and business around the world use our products (like Google Shopping, and Google Wallet) to support their online businesses and bring users into their offline stores. We build and maintain the platforms that have made Google what it is today, and are constantly innovating to deliver the most effective advertising and commerce opportunities of tomorrow.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6185777727602688",
+    "location": {
+        "address_lines": [
+            "Pittsburgh, PA, USA"
+        ],
+        "city": "Pittsburgh",
+        "country": "PA",
+        "country_code": "US",
+        "display": "Pittsburgh, PA, USA",
+        "lat": 40.44062479999999,
+        "lon": -79.9958864
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&size=1168x324&zoom=12&signature=bML2TGs1mgqZUrRr4AbUGft114I=",
+        "large_2x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&scale=2&size=1024x324&zoom=12&signature=yYDwtb4snIKR5aq5kGb0m8lAHdQ=",
+        "small_1x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&size=600x400&zoom=12&signature=w1iNbGf2icUDv9rzW2JCq5rI-RA=",
+        "small_2x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&scale=2&size=600x400&zoom=12&signature=zy8WswLAzKtXGWV1PfX3HzTcfVU="
+    },
+    "modified": "2019-02-27T19:44:13.109Z",
+    "publish_date": "2019-02-27T19:44:13.109Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree or equivalent practical experience.</li><li>10 years of experience in software engineering and technical leadership.</li><li>8 years of technical experience in software engineering or computer science, and technical project management experience/</li><li>6 years of relevant work experience; managing large-scale and dynamic operational projects, with competing resources, priorities and changing workflows</li></ul><br><p>Preferred qualifications:</p><ul><li>10 years of experience in software engineering or development.</li><li>5 years of experience in the online Ads domain (search, display, video or shopping).</li><li>Spreadsheet/SQL and/or relevant database experience.</li><li>Effective verbal and written communication and presentation skills, with the ability to translate complex technical concepts to non technical audiences.</li></ul>",
+    "responsibilities": "<ul><li>Manage technology programs with high levels of complexity and scope and be responsible for developing well-defined milestones and success criteria, resource allocation, and successful on-time delivery.</li><li>Identify areas for process improvement and work with stakeholders to define new processes and update existing processes that drive program success.</li><li>Track projects and tasks, communicating schedule and technical considerations to executive leadership.</li><li>Demonstrate performance in resolving highly critical issues within matrix organization while maintaining adherence to project timelines and costs.</li><li>Operate within and lead cross-functional teams (engineering, product management, implementation, finance, marketing, etc.).</li></ul>",
+    "title": "Program Manager, Search Ads"
+}

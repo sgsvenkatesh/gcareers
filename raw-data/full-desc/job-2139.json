@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQ83tRLVQZP80sHqSf4VLkA3hN9sKQUtRiGc-s4ej6USOgCPMA3T03MYRk4or9NnHPb6oW_7h4eQraJkqyrR5gFvBiaN1MpZ5nH-9AarWSyIRKPL-Hn2Img4yLc%3D_V2&jobTitle=Program+Manager%2C+Alphabet+Finance+Systems&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:05:45.831Z",
+    "description": "<p>Finance Project Managers drive critical priorities for Google by leading and assisting in projects of all sizes. Drawing from your strong financial background, you work with a diverse team to manage projects from concept to implementation and keep Google-wide stakeholders informed as you go. You get down into the details of complex analyses without losing sight of the overall objective. When working on multiple projects at once, you intuitively know which issues to highlight and can bring key decision makers together to come up with effective solutions. Once a project is completed, you&#39;re able to clearly communicate the results and draw the key learnings for senior management. You are efficient and organized, making the most of everyone&#39;s abilities and holding the team to a high standard.</p>\n\n<p>As a Project Manager on the Alphabet Program Management Office (PMO), you will work closely with multiple groups across Google, Other Bets and Alphabet, primarily in Finance, Legal and Engineering. You will structure projects with your stakeholders, define project goals and risks to execution, gather comprehensive requirements and usher projects through the entire project lifecycle working closely with our Engineering partners. You will lead complex systems design, implementation, and integration projects leveraging your technical expertise.</p><p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to the business.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4638072111300608",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T20:21:22.254Z",
+    "publish_date": "2019-02-27T19:44:25.172Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor\u2019s degree or equivalent practical experience.</li>\n<li>Experience with SAP, S/4 Hana, Oracle and/or R12.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>CPA/CA/MBA or Advanced Professional Degree.</li>\n<li>Experience as a Program Manager, leading large strategic initiatives.</li>\n<li>Experience in facilitating discussions with senior executives to obtain key decisions.</li>\n<li>Understanding of finance systems and how they support various business processes (e.g. O2C, P2P, R2R, H2R, A2R, etc).</li>\n<li>Detail and deadline oriented with effective organizational and analytic skills. Developed documentation skills.</li>\n<li>Comfortable leading discussions in a cross-functional group to identify issues and resolutions. Developed change management, team management and communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Partner with Finance and Engineering to create integrated system requirements, set priorities, determine constraints and dependencies, define phasing/timelines, allocate resources, write detailed functional and test specifications, evaluate design alternatives and implications on functionality, effort, performance and operations.</li>\n<li>Establish and lead working group meetings, employing Finance knowledge to guide decision making.</li>\n<li>Manage work stream dependencies and the impact on downstream working groups.</li>\n<li>Communicate accomplishments, milestones, key issues and/or change controls.</li>\n</ul>",
+    "title": "Program Manager, Alphabet Finance Systems"
+}

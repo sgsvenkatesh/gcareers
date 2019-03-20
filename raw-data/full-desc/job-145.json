@@ -1,0 +1,35 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfKIEZEC_kIUJ6oeo_lrJkQqIT3dPJcKsVwkpXtFtW0SOgCPMA3T-BMiX_0_topzRB_xCSGtJXw-GomXY41umU4BVGIazo2SVMIXKHWuIoA-PTt6BLA5fVl2puM%3D_V2&jobTitle=Game+Tech+Lead%2C+Stadia&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:03:09.634Z",
+    "description": "<p>In this role, you will work with partners and studios to review their Technical Plans Schedules. Additionally, you will help with studio workflows and technical directors on multiple shipped games.</p><p>At Google, we set ourselves goals we know we can&#39;t reach yet. Our New Business Development team works on game-changing ideas, from technological experiments to the expansion of existing businesses into new territories. We&#39;re a team of technologists, entrepreneurs and leaders with an eye for what&#39;s next, working across Google to develop products and ideas that revolutionize the way people connect with information.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5461712599973888",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-19T17:31:54.879Z",
+    "publish_date": "2019-03-19T17:31:54.879Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>10 years of experience in technical roles at entertainment studios.</li>\n<li>Experience launching and/or shipping entertainment titles.</li>\n<li>Experience building graphics, core, and/or online tech systems for entertainment production.</li>\n<li>Demonstrated experience with technology solutions for Media and Entertainment, with a track record in both internal and customer facing roles.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience managing external and remote development teams.</li>\n<li>Demonstrated understanding of the latest middleware technology for various entertainment platforms.</li>\n<li>Demonstrated understanding of Google products and the broader technology industry with an interest in video games.</li>\n<li>Ability to travel as required.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Coordinate between multiple game studios and platform requirements.</li>\n<li>Manage a team of technical support engineers.</li>\n<li>Evaluate and troubleshoot technical issues with in-development game software.</li>\n<li>Review technical planning and design documents, validate staffing and tech plans.</li>\n<li>Perform technical due diligence on game development studios.</li>\n</ul>",
+    "title": "Game Tech Lead, Stadia"
+}

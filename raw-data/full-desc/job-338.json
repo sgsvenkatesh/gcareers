@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVZdR9PJ5Cvt1tHikFsLbD0aC9XRvsLYyuggcLZ6NVUSOgASYQ8wtsSy5dAckNsqkhXRf2yDHcxDytW7lWpu6fmdCjdkpAMi4WwonMcN2hGwvJKQkozDVJE1isY%3D_V2&jobTitle=Web+Solutions+Engineer%2C+Google+Customer+Solutions&loc=US",
+    "categories": [
+        "SALES",
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-25T22:31:51.148Z",
+    "description": "<p>In this role, you will design and implement systems and products that maximize the program&#39;s impact and optimize their operations. These systems will use advanced data analysis methods and business logic to identify business growth opportunities, improve our interactions with Google Ads advertisers and optimize internal workflows and processes. As an Engineer on the team, you will develop/scale systems and products by leveraging Google\u2019s advanced technical infrastructure. You will work to capture opportunities for growth and optimization, write product designs, then lead the development and implementation of these products.</p><p>The Google Customer Solutions (GCS) Revenue Innovations team is responsible for creating technical solutions to support and maximize traction with Google&#39;s GCS advertisers. The team leads the design, planning and operations of business growth programs that drive a scalable and analytical programmatic approach to generating incremental business growth, in collaboration with cross-functional teams across Sales, Marketing, Product and Engineering.</p><div><br></div>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/118177784175436486",
+    "location": {
+        "address_lines": [
+            "Redwood City, CA, USA"
+        ],
+        "city": "Redwood City",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Redwood City, CA, USA",
+        "lat": 37.48521520000001,
+        "lon": -122.2363548
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=1168x324&zoom=12&signature=qMd_c5mmqxWSefkzRvq5u3HXeX8=",
+        "large_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=1024x324&zoom=12&signature=QI9LkVYQ-IlH0lZ6MENCZ2TRJPQ=",
+        "small_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=600x400&zoom=12&signature=sGZIA9O0g6zpsi2BMerq7kWkMSo=",
+        "small_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=600x400&zoom=12&signature=ZaSXyTdqAKk9FmiP1ehW8vV8TuI="
+    },
+    "modified": "2019-03-08T21:01:52.856Z",
+    "publish_date": "2019-03-08T21:01:52.856Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>2 years of experience with software development using Python, JavaScript, Java and/or C.</li><li>2 years of experience working with SQL for data extraction and ETL across standard commercial databases.</li><li>1 year of experience in Apps and/or web development.</li><li>Experience creating system/product designs and leading them to launch.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience in relational or non-relational databases, with the ability to handle large data sets.</li><li>Ability to independently provide technical solutions to business challenges.</li><li>Ability to track multiple simultaneous projects and deliverables.</li><li>Understanding of statistical models and methods.</li><li>Effective project management and communication skills.</li></ul>",
+    "responsibilities": "<ul>\n<li>Build new internal tools, back-end services and web applications that leverage Google\u2019s infrastructure that maximize efficiency for internal GCS Sales Teams.</li>\n<li>Draft and review technical documents, including design, development and collaborative code reviews.</li>\n<li>Work with cross-functional teams to identify opportunities to maximize the business growth programs that will impact and optimize their operations.</li>\n<li>Track system performance, perform analysis to understand performance drivers and make required changes.</li>\n</ul>",
+    "title": "Web Solutions Engineer, Google Customer Solutions"
+}

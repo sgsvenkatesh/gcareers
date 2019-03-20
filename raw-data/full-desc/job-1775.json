@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; New York, NY, USA; Cambridge, MA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQ0fgd2BtDBgdXXHSOJAN8wbq2OaJGU-z0CjKCCvfQMSOQASYQ8w2klVSG4bG_E3OAfIHEehoLSvLjs2kWJq-bBFA6zjjOYpP4FiOdLZtaHLY6itm2T6hN68Sw%3D%3D_V2&jobTitle=Technical+Program+Manager%2C+Google+Tech+Immersion&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-07T16:31:36.095Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.<br><br>Using your extensive technical and leadership expertise, you manage projects of various size and scope, identifying future opportunities, improving processes and driving the technical directions of your programs.</p>\n\n<p>Google Technical Immersion (GTI), a three-week orientation program run by Engineering Education (EngEDU), is the first milestone for new technical hires at Google. The GTI team creates trailblazing, timely, project-based onboarding experiences so our new hires measurably thrive in Google\u2019s culture and have impactful careers.\n</p>\n\n<p>As a Technical Program Manager in GTI you will combine your skills in software engineering, program management, and education to create and support engaging onboarding programs for Google&#39;s newest hires. You are passionate about education and technology and excited to join a highly visible, enterprise-wide initiative.</p><p>There is always more information out there, and the Research and Machine Intelligence team has a never-ending quest to find it and make it accessible. We&#39;re constantly refining our signature search engine to provide better results, and developing offerings like Google Instant, Google Voice Search and Google Image Search to make it faster and more engaging. We&#39;re providing users around the world with great search results every day, but at Google, great just isn&#39;t good enough. We&#39;re just getting started.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/77062156874326726",
+    "location": {
+        "address_lines": [
+            "Cambridge, MA, USA"
+        ],
+        "city": "Cambridge",
+        "country": "MA",
+        "country_code": "US",
+        "display": "Cambridge, MA, USA",
+        "lat": 42.3736158,
+        "lon": -71.10973349999999
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&size=1168x324&zoom=12&signature=JaO6-ZwWrNFtKn3WQm2SRjf9ZbE=",
+        "large_2x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&scale=2&size=1024x324&zoom=12&signature=ztO_GFdS-eUPL9b-BGZvaDyVm3I=",
+        "small_1x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&size=600x400&zoom=12&signature=6Okll-qvZ7t3C6x3-kMPp_P58Yc=",
+        "small_2x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&scale=2&size=600x400&zoom=12&signature=vS95FBFswniXfAJTkSOvWzAjgvg="
+    },
+    "modified": "2019-02-27T19:54:22.692Z",
+    "publish_date": "2019-02-27T19:54:22.692Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Engineering, a related technical/quantitative field, or equivalent practical experience.</li>\n<li>5 years of experience in program management, running projects, project planning, tracking, and managing release/risks, etc.</li>\n<li>Experience working with cross-functional or interdisciplinary teams.</li>\n<li>Experience creating and delivering education materials.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with Google Cloud APIs and Google Apps Script.</li>\n<li>Ability to use data and analysis to drive recommendations.</li>\n<li>Excellent written and verbal communication and presentation skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Define orientation projects for new software engineers and other technical employees at Google (i.e., Nooglers).</li>\n<li>Ensure that Noogler projects are technically and academically rigorous, and provide a practical and fulfilling learning experience.</li>\n<li>Manage GTI\u2019s technical infrastructure for security and privacy, including ACLs, GDPR compliance, and internal applications, to keep our program running.</li>\n<li>Create and update content for Nooglers and for experienced Googlers who supervise project teams.</li>\n</ul>",
+    "title": "Technical Program Manager, Google Tech Immersion"
+}

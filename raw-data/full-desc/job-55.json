@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYsMYnko0Dtdcrw4p-fEmo-Mw-DnU7hak4eQxIutZ-ASOgASYQ8wT7WyZ1k-fteW2S0NBf2wqKlABtdyctE99z8U_lWU6dLOZB35MdJBTc06OiG1X0goSEEUxwo%3D_V2&jobTitle=Display+Research+and+Development+Engineer%2C+AR%2FVR&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-08T19:02:41.441Z",
+    "description": "<p>Our computational challenges are so big, complex and unique we can&#39;t just purchase off-the-shelf hardware, we&#39;ve got to make it ourselves. Your team designs and builds the hardware, software and networking technologies that power all of Google&#39;s services. As a Hardware Engineer, you design and build the systems that are the heart of the world&#39;s largest and most powerful computing infrastructure. You develop from the lowest levels of circuit design to large system design and see those systems all the way through to high volume manufacturing. Your work has the potential to shape the machinery that goes into our cutting-edge data centers affecting millions of Google users. <br><br>With your technical expertise, you lead projects in multiple areas of expertise (i.e., engineering domains or systems) within a data center facility, including construction and equipment installation/troubleshooting/debugging with vendors.</p>\n\n\n<p>Augmented and Virtual Reality (AR/VR) are rapidly evolving as important new areas in consumer products. The Daydream team is a fast moving group of engineers, designers, and research scientists tasked with building the hardware, platform, and ecosystem for ground-breaking devices, apps, and tools. In oder to address complex challenges, we develop and integrate our own systems.\n</p>\n\n\n<p>As a Display Research and Development (R&amp;D) Engineer, you will design and build the visual systems of the future. You will be part of a team developing high-performance and low-power displays that enable Google\u2019s continuous innovations in AR/VR devices. Additionally, you will assess, introduce, and evaluate new and existing technologies. Our Hardware team researches, designs, and develops new technologies to improve user productivity.</p><p>The Google Virtual Reality and Augmented Reality team is a fast moving group of engineers, designers, and research scientists tasked with building the foundations for great immersive and augmented reality apps and prototyping novel, delightful user experiences. We are focused on making virtual reality accessible to millions of people through mobile devices, and its scope continues to grow and evolve.<br></p>",
+    "education_levels": [
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/96510457461777094",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-08T19:02:41.441Z",
+    "publish_date": "2019-03-08T19:02:41.441Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>PhD degree in display related field or equivalent practical experience.</li>\n<li>7 years of experience in a display Research and Development (R&amp;D) environment.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with display and backplane design, and fabrication processes.</li>\n<li>Knowledge of micro-LED technology within 2D and 3D LED design, epitaxial process, material, driving, optical performance, quantum efficiency, testing, reliability concerns, quantum dot material, and conversion and mass transfer\nprocesses.</li>\n<li>Knowledge of micro-display (e.g., LCoS, DLP, micro-OLED, micro-LED, etc.) technology.</li>\n<li>Knowledge of all display technologies.</li>\n<li>Excellent relationships with major micro-display suppliers, and equipment and material vendors.</li>\n<li>Excellent communication and analytical skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Innovate, develop, and integrate leading edge micro-LED display technologies for VR/AR.</li>\n<li>Demonstrate deep understanding of relationship between display technologies and its business goals.</li>\n<li>Work closely with cross-functional teams (e.g., Electrical/Organizational/Mechanical/Software Engineering, Display, UX) to define requirements and specifications of an advanced display to optimize the visual system.</li>\n<li>Guide and work with display partners, and even material/component/equipment supply chain partners to solve the critical issues during display development phase.</li>\n<li>Evaluate and test the key display image, efficiency, power, and reliability performance.</li>\n</ul>",
+    "title": "Display Research and Development Engineer, AR/VR"
+}

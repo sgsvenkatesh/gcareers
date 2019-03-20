@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b> Individuals applying for this position will not be eligible for immigration sponsorship.</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTyFZ6QbO2ksBm3wNrMKmkXDalPpC55GhcW7uoeuSjYSOgASYQ8wK6bpaEIGu3ZEKa0bSS8VV52aS1TkEkXbhfxisGpjpYOAWCFp2475-XYA7UZpKqXFxz01ekM%3D_V2&jobTitle=Legal+Assistant%2C+Compliance&loc=US",
+    "categories": [
+        "LEGAL"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-19T17:31:42.825Z",
+    "description": "<p>Google&#39;s legal department is at the center of an information law revolution, and you&#39;re at its core. As a Legal Assistant, you are a driving force behind the success of your Legal team, ready to roll up your sleeves to create and improve processes, maintain records, conduct legal research and coordinate communications across the team. As you closely support your team, you may find yourself working with multiple groups within the Legal Department, internal clients across Google, and external parties. You&#39;re an independent thinker who isn&#39;t afraid to ask questions, and you&#39;re organized in a way that never overlooks the details.</p><p>20th century laws don&#39;t always solve 21st century problems, and Google Legal crafts innovative approaches for handling some of the toughest legal challenges of the information age. Whether you&#39;re a patent attorney, an intellectual property expert or an engineer headed to law school, Google Legal lets you take on unanswered legal quandaries and create new precedents. Our innovative services raise challenging questions that demand creative and practical answers. We provide those answers by working at the crossroads of the law and new technology, helping Google build innovative and important products for users around the world.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/94582960025412294",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:50:03.618Z",
+    "publish_date": "2019-02-27T19:50:03.618Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>2 years of compliance, operations, policy, or legal experience.</li>\n<li>Authorization to work in the United States.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Ability to interact professionally with all levels of internal and external stakeholders.</li>\n<li>Ability to deliver excellent customer service demonstrating with a focus on the customer.</li>\n<li>Ability to contribute in a fast-paced, ambiguous work environment.</li>\n<li>Excellent attention to detail.</li>\n<li>Excellent interpersonal and communication skills and a commitment to professionalism and collegiality.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Review and respond to legal requests with high attention to detail.</li>\n<li>Focus on quality data entry and stay dedicated and task-oriented.</li>\n<li>Join the small team\u2019s on-call rotation to respond to emergency legal requests after-hours.</li>\n</ul>",
+    "title": "Legal Assistant, Compliance"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQB-AauEydjkdNqrC-7POuddhBEgKmGLFWS_sR8bZbcSOgASYQ8wo6dZAhnf2AWagZCGy4qDQAgyco8ZsshSZuYAPQJ-9O8wwFbA7IDNPEt-2Tp9XKsJTCtY0Vo%3D_V2&jobTitle=Abuse+Operations+Specialist%2C+Google+Play&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-29T15:31:38.873Z",
+    "description": "<p>The Abuse Operations team protects the Google Play ecosystem by fighting spam, fraud and abuse in the Play store\u2019s application vertical. The Abuse Operations team ensures policy compliance for Google\u2019s expanding base of developers, advertisers, publishers and users. We partner with Engineering to combat large scale networks of fraudsters and spammers.\n</p>\n\n<p>As a member of Abuse Operations, you\u2019ll be focused on scaling abuse prevention through signals analysis and automation. You are passionate about Google technologies and providing top-notch support for our growing mobile developer and user community. You&#39;re a self-starter and are interested in investigating large sets of data to identify abusive patterns. You have a desire to keep Google Play free of spammers and the motivation to drive processes to achieve an abuse-free Play store.</p><p>Google Play offers music, movies, books, apps and games for your devices, powered by the cloud. It\u2019s a Google approach to entertainment, syncing magically across your devices and on the web. As part of the Android and Mobile team, Googlers working on Google Play do everything from engineering our backend systems, to shaping the product strategy, to forming great content partnerships. They make it possible for people to do things like buy an ebook or song on their Android phone, then have it instantly available on their laptop. The Google Play team helps strengthen the overall Android ecosystem by giving developers and partners a premium store where they can reach millions of users.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/110087851825078982",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:54:59.538Z",
+    "publish_date": "2019-02-27T19:54:59.538Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Statistics, a related technical/quantitative field or equivalent practical experience.</li>\n<li>2 years of experience in data analysis and abuse.</li>\n<li>Experience with MySQL.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with Google\u2019s developer platforms (Google Play, Cloud Platform, Chrome Web Store, etc.).</li>\n<li>Proven ability to solve complex problems and drive solutions.</li>\n<li>Ability to manage multiple competing priorities in a fast-paced, constantly changing environment.</li>\n<li>Ability to effectively present data and insights to a broad audience.</li>\n<li>Ability to build relationships with diverse technical and non-technical groups across all organizational levels.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Perform investigations to catch fraudsters, enforce our product policies, learn spam patterns and identify product vulnerabilities.</li>\n<li>Identify new opportunities for abuse prevention and drive forward solutions.</li>\n<li>Share insights and analysis by creating and delivering effective presentations and documentation for a broad range of stakeholders.</li>\n<li>Collaborate with reporting and analytics colleagues to track and visualize metrics.</li>\n<li>Collaborate with cross-functional stakeholders from Engineering, Commerce, Policy and Legal to increase automation, update policies, fix product loopholes and provide a better online experience for our users.</li>\n</ul>",
+    "title": "Abuse Operations Specialist, Google Play"
+}

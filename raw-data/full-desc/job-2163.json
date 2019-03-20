@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Remote locations are also available for this role.</b><br><br><b>Note: By applying to this position your application is automatically submitted to the following locations: San Francisco, CA, USA; New York, NY, USA; Sunnyvale, CA, USA; Mountain View, CA, USA; Cambridge, MA, USA; Atlanta, GA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZntJxBwc1aZGQB78GrtfuufwWOtBE1sOzLQGiHpZSYSOgCPMA3TIkrEZ-rdGX128xc1x6r8JgIlyS-B7Z3_lylQAxzJjCD1TOvA_9NlPePEahyrty3kMKuQhcI%3D_V2&jobTitle=Sales+Engineer%2C+Google+Cloud+%28Apigee%29&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:32:46.686Z",
+    "description": "<p>Apigee Edge is an advanced API platform that enables enterprises to create, manage, secure and scale APIs. Using Apigee, enterprises can design and deploy API proxies in public and private clouds, secure data in transit with OAuth 2.0, SAML and two-way TLS, protect against traffic spikes by adding dynamic routing, caching and rate-limiting policies to APIs, and measure the success of both API operations and API business with end-to-end analytics.<br><br>As part of an entrepreneurial team in this rapidly growing business, you will help businesses of all sizes leverage technology to connect with customers, employees and partners.</p>\n\n<p>We are seeking a Sales Engineer who will play a critical role in establishing credibility and confidence with our prospective clients, by demonstrating and proving our value through our products, services, and thought leadership. You will work closely with prospective customers, leveraging your technical aptitude and drive to envision, determine and communicate how we can best serve our customers&#39; unique needs.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5870635266015232",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:42:58.842Z",
+    "publish_date": "2019-02-27T19:42:58.842Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science or a related technical field, or equivalent practical experience</li>\n<li>Experience building and delivering Proofs of Concept (PoCs).</li>\n<li>Development experience with Java and other languages like JavaScript, Python, Node.js and other API related technologies.</li>\n<li>Experience with web services related standards such as HTTP, REST, SOAP, and OAuth.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Technical sales engineer experience in a cloud computing environment or equivalent experience in a customer facing role (including working as a member of a professional services or systems engineering team)</li>\n<li>Experience architecting and developing software for scalable, distributed systems</li>\n<li>Hands-on familiarity with middleware and cloud technologies like NOSQL datastores, Google Cloud, AWS, Azure and Mobile app development</li>\n<li>Ability to lead architecture discussions and influence key decision makers around deployment topologies, scaling, performance and sizing</li>\n<li>Excellent written and verbal communication and presentation skills</li>\n<li>Ability to travel as needed and to work flexible hours with prospects in different geographies and time zones, and with a distributed team.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop a strong working relationship with the customer\u2019s technical staff and be able to gain their trust and credibility through your deep technical knowledge and subject matter expertise</li>\n<li>Work closely with the Account Executive to align the technical requirements and the solution design with the customer&#39;s business drivers and demonstrate our unique value</li>\n<li>Develop Proofs of Concept, presentations and demos with a clear plan to take a prospect successfully through the evaluation process and turn them into a happy customer</li>\n<li>Manage and lead the customer throughout the evaluation process through to closure</li>\n<li>Coordinate and deliver RFP/I/Q responses and technical architecture solutions</li>\n</ul>",
+    "title": "Sales Engineer, Google Cloud (Apigee)"
+}

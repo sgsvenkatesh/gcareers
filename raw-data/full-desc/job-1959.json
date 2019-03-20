@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Austin, TX, USA; New York, NY, USA; Chicago, IL, USA; Atlanta, GA, USA; Irvine, CA, USA; Cambridge, MA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYvRiO3DCd6_RuigsMCjr0sxmPAONN7K4mCA0kZkLx4SOgCPMA3TdvJ_znBX2pXJypiLVNv4GILoP8BFQxUFW72B3FqyE1dlgD9Sv0iM6vUFo5O4q1-eeltz6-o%3D_V2&jobTitle=Partner+Engineer%2C+Google+Cloud&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:32.117Z",
+    "description": "<p>When leading companies choose Google Cloud it&#39;s a huge win for spreading the power of cloud computing globally. Once educational institutions, government agencies, and other businesses sign on to use Google Cloud products, you come in to facilitate making their work more productive, mobile, and collaborative. You assist fellow sales Googlers by problem-solving key technical issues for our customers. You liaise with the product marketing management and engineering teams to stay on top of industry trends and devise enhancements to Google Cloud products.</p>\n\n<p>As a Partner Engineer, you posses excellent communication and organizational skills; and previous experience in cloud platform and infrastructure products, software development cycle, and SQL-based relational databases. You will bridge the gap between a customer\u2019s needs and a partner\u2019s ability to deliver on them. \n</p>\n\n<p>In this role, you will work closely with business development and sales managers to grow and support the Google Cloud partner ecosystem. You will contribute to customer adoption of Google Cloud by assessing our partners\u2019 technical expertise, connecting the customer with the right partner, and supporting partners as they execute practical and useful solutions. You will help prospective partners understand Google Cloud features, and align with the product marketing and engineering teams to recommend improvements to Google Cloud products.\n</p>\n\n<p>Google Cloud helps businesses and organizations empower their employees, serve their customers, and build what\u2019s next \u2013 all with technology built in the cloud. Our products are engineered for security, reliability, and scalability, running infrastructure to applications, devices and hardware. And our teams are dedicated to helping our customers \u2013 developers, small and large businesses, educational institutions and government agencies \u2013 see the benefits of our technology come to life.</p><p>From startups building their first app to billion-user consumer companies crunching big data, the Google Cloud Platform gives developers and businesses the most advanced data and analytics solution on the market, along with Google&#39;s secure, high performance infrastructure. Our team of technical account managers and software engineers work with partners across all functions to develop solutions that harness Google&#39;s planet-wide platform to solve the world&#39;s most challenging problems.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6541136090038272",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:41:55.771Z",
+    "publish_date": "2019-02-27T19:41:55.771Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor\u2019s degree in Computer Science, a related field or equivalent practical experience.</li>\n<li>Experience serving in the capacity of a Technical Sales Engineer in a cloud computing environment or equivalent experience in a customer and/or partner-facing role.</li>\n<li>Experience with cloud computing concepts such as Big Data, PaaS and IaaS technologies; Experience presenting and delivering technical pitches.</li>\n<li>Ability to travel.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Computer Science or a related field.</li>\n<li>Experience in and understanding of data and information management as it relates to big data trends and business challenges. Experience using and/or managing databases.</li>\n<li>Experience with networking concepts including: routing, VPNs, load balancers and firewalls.</li>\n<li>Experience architecting and developing software or infrastructure for scalable, distributed systems.</li>\n<li>Experience leading teams with a strong focus on coaching and mentoring.</li>\n<li>Ability to quickly learn, understand and work with new and emerging technologies, methodologies, and solutions in the cloud/IT technology space.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Recommend integration strategies, enterprise architectures, platforms and application infrastructure required to successfully implement a complete solution on Google Cloud.</li>\n<li>Own the technical relationship with our partners, enabling them to manage product and solution briefings and proof-of-concept work and coordinate additional technical resources</li>\n<li>Support partners in prototyping and demonstrating and product integrations in customer environments, and identifying and mitigating key customer technical objections</li>\n<li>Work with the team to identify and qualify partnership opportunities</li>\n</ul>",
+    "title": "Partner Engineer, Google Cloud"
+}

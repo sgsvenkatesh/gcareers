@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Francisco, CA, USA; Mountain View, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckSdDUTp-zhpS7wmSqOdDEo5_ZyZYio1dgLzhAw6sP6sSOQASYQ8wJ1_7UZGHzkZ9sTbwn3jiDSxfwH5lORj28amlDCKrgBXSIOr8P3stUL11nQR7Ao6ERG5yCA%3D%3D_V2&jobTitle=Competition+Economist&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-15T21:01:54.722Z",
+    "description": "<p>The Economics team works with other Google teams such as Operations, Strategy, Finance, Marketing, Pricing, Market Design, Legal Analytics, Policy and Research. We seek a self-directed, detail-oriented problem-solver with a broad knowledge of economics and econometrics to provide consultation and support in these areas. Given the broad range of issues that we work on, excellent communication skills are critical.</p>\n\n\n<p>Google\u2019s stated mission is to organize the world\u2019s information and make it universally accessible and useful. The relevant topics for this position include: antitrust, data analytics, fiscal policy, taxation, transfer pricing, privacy, productivity, and the impact of automation on jobs.\n</p>\n\n\n<p>As an Economist, you&#39;ll work to help shape how Google approaches these issues as well as to work on economic aspects of legal and regulatory proceedings for the company.\nAs Economist, you&#39;ll join our Economics group.\n</p>\n\n\n<p>You&#39;ll work closely with the company\u2019s Legal and Policy teams, helping them understand and refine Google\u2019s position in various areas, analyze its business practices, respond to government agencies\u2019 queries and data requests, and prepare evidence for court filings.\n</p>\n\n\n<p>You&#39;re a thought leader, and you&#39;ll help Google interpret the key debates touching on the technology sector from an economic perspective, and contribute to advancing policy in those areas. This is a unique opportunity for an economist with demonstrated quantitative and communications skills to work on some important policy issues.</p><p> </p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/88632778502873798",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-15T21:01:54.722Z",
+    "publish_date": "2019-03-15T21:01:54.722Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Master&#39;s degree or PhD in Economics or equivalent practical experience.</li>\n<li>Experience in econometric modeling and statistical analyses in Stata and R.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>2 years of experience in regulatory and litigation proceedings at an economic consulting firm.</li>\n<li>Knowledge of industrial organization and antitrust economics.</li>\n<li>Ability to use data manipulation tools such as SQL and/or Python.</li>\n<li>Demonstrated passion for technology and its potential to make the world a better place, as well as a knowledge of key issues affecting the sector.</li>\n<li>Excellent leadership and communication skills as well as a willingness to collaborate, both internally and externally.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Conduct economic analyses on Google\u2019s operations and business practices, looking at areas such as the economics of online advertising or competition between mobile platforms.</li>\n<li>Liaise with economic consulting firms.</li>\n<li>Lead the collection of data and analyses in the context of regulatory and litigation proceedings.</li>\n<li>Work cross-functionally with our Legal, Finance and Policy teams on economic analyses to inform Google\u2019s communications and public positions.</li>\n<li>Translate economic analysis to non-specialist internal and external teams, and perform thorough testing and verification of economic assumptions.</li>\n</ul>",
+    "title": "Competition Economist"
+}

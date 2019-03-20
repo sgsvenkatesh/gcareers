@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbpC0s_zF8tB_1dgDIcSnvMwkH4tfvyB1dSa3GRrHO8SOgCPMA3TXeP3_8hJKjE3F7F0PU9WPnYPIg3d3i5DdIhWFSyoBUyKgCJOzMtLJHDH1wqlOR-01WSIIGc%3D_V2&jobTitle=Linguist%2FOntologist%2C+Geo&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T23:02:25.281Z",
+    "description": "<p>Analytical Linguists work across Google to drive improvements in quality, classification, information structure, and natural language understanding and generation. As an Analytical Linguist you will work both on complex projects spanning multiple products, groups, and disciplines, and on tightly focused efforts to produce specific product components or answer specific research questions. Analytical Linguists work in many different areas and arrive with a wide variety of skills\u2014your specialization might involve natural language processing and understanding, phonology, phonetics, syntax, semantics, ontology, program management, human subject research, experimental design, statistics, corpus linguistics, large scale data acquisition, or any combination. This team is part of some of the most groundbreaking and exciting work at Google. It&#39;s our goal to use insights from linguistics and related fields to constantly improve our products.</p>\n\n\n<p>Growing the Knowledge Graph requires the development of knowledge models describing how entities relate to one another.\n</p>\n\n\n<p>As a Linguist/Ontologist on the Geo team, you will analyze graph structures and content, develop new semantic representations, and work with providers and consumers of data to guide the development and usage of knowledge structures to improve entity accessibility and enable automated reasoning. You will also use a variety of semantic modeling techniques, judging tradeoffs between formality and usability and deciding when to borrow from an existing ontology and when to develop new structures.</p><p>The Geo team builds the most accurate, comprehensive, and useful maps for our users. More than a billion people rely on Google Maps services to explore the world and navigate their daily lives. That includes sailing down the Amazon river, choosing where to get a bite of pizza, flying over a 3D version of New York City and saving time commuting. <br><br>Geo helps merchants get their businesses on Google, and more than a million developers use the power of Google Maps to enhance their apps and websites. They are solving complex computer science problems, designing beautiful and intuitive product experiences and improving the accuracy of our geo data, all in order to plot a course for the future of mapping.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6723929018400768",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:45:52.954Z",
+    "publish_date": "2019-02-27T19:45:52.954Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>MA/MS degree in Linguistics, Computer Science, Library/Information Science, Philosophy or a related field, or equivalent practical experience.</li>\n<li>Experience with ontology development (e.g. RDF(S)/OWL, SPARQL, the Semantic Web or Frame based KR systems).</li>\n<li>Coding experience in Python, C/C++, Java, or Go, and/or experience with SQL.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>PhD degree in related field or equivalent practical experience.</li>\n<li>Independent worker with the ability to effectively operate with flexibility in a fast paced, constantly evolving team environment.</li>\n<li>Creative thinker with developed problem solving and analytical skills and demonstrated written and verbal communication skills.</li>\n<li>Team player with developed interpersonal and solution-oriented skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Analyze graph structures and content and develop new semantic representations.</li>\n<li>Make decisions and provide guidance about ontologies and semantic representations.</li>\n<li>Write code to gather, process, and analyze data of various kinds.</li>\n<li>Work with Researchers, Engineers, and Linguists to develop new techniques for expansion, improvement, and analysis of the Knowledge Graph.</li>\n</ul>",
+    "title": "Linguist/Ontologist, Geo"
+}

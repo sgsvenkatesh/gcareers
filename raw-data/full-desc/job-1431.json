@@ -1,0 +1,41 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Bruno, CA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTugL9YS6T_KL49HYNNP2inuIzmWepZVT5xebYTaG68SOgASYQ8wzzTq4qk2r0valoWenfCMLJQeNOeOdNbYj2wCrBXiHtpuioKSDeFYpt6bsKoRFFk1IL7dMeg%3D_V2&jobTitle=Data+Engineer%2C+Measurement+Program%2C+YouTube&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2019-01-30T17:01:42.076Z",
+    "description": "<p>YouTube&#39;s Technology Solutions Organization is a global organization dedicated to developing and managing the company&#39;s largest and most strategic partnerships. We work closely with the YouTube product, engineering, and content teams to address our partners&#39; most pressing and complex technology challenges. As a Partner Technology Manager, you&#39;ll lead deployments, optimize implementations, and handle integrations to build strong, successful, long-term partnerships.</p>\n\n<p>The YouTube Measurement Program (YTMP) is responsible for ensuring that YouTube is represented fairly in third-party reporting tools, and that internal data feeding those tools is accurate and consistent. We provide partner technical support, analytical services, and thought leadership to several initiatives shaping the long-term direction of YouTube. \n</p>\n\n<p>As a Data Engineer for the YouTube Measurement Program, you will be the integration manager responsible for the success of some of our most important third-party measurement partnerships. You will optimize and scale our validation programs, drive cross functional buy-in on roadmaps, and bring thought leadership to an important and highly visible ecosystem.</p><p>At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun \u2014 and we do it all together.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/120725944651391686",
+    "location": {
+        "address_lines": [
+            "San Bruno, CA, USA"
+        ],
+        "city": "San Bruno",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Bruno, CA, USA",
+        "lat": 37.6304904,
+        "lon": -122.4110835
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=1168x324&zoom=12&signature=8kTssaOIezLC995xz1jzX_ZsmEY=",
+        "large_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=1024x324&zoom=12&signature=qd1d-lHbtksAR7tvbMxtF6isGS4=",
+        "small_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=600x400&zoom=12&signature=muZNYVJol8PMclT8mtEQc7rdogE=",
+        "small_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=600x400&zoom=12&signature=CPaUJbMpoSOqDb7VXdK1SJbE0EI="
+    },
+    "modified": "2019-03-07T00:32:00.835Z",
+    "publish_date": "2019-03-07T00:32:00.835Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, or a related technical field, or equivalent practical experience.</li>\n<li>4 years of experience working with one or more of the following: C/C++, Java, Go, Python, Unix/Linux systems.</li>\n<li>3 years of experience with ETL and SQL.</li>\n<li>Scripting experience in Shell, Perl or Python.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MBA, Master&#39;s degree or PhD.</li>\n<li>2 years of work experience in a client-facing role.</li>\n<li>Experience in driving highly cross-functional initiatives that range from structured project management to ambiguous thought leadership.</li>\n<li>Experience in successfully navigating large organizations in order to complete both individual and collaborative projects.</li>\n<li>Excellent data management, quantitative, and qualitative skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage partner technical integration projects and ensure the prompt and proper resolution of technical challenges.</li>\n<li>Develop and maintain third-party data validation methodologies, including building and maintaining automated and scalable technical infrastructure.</li>\n<li>Guarantee the technical aspects of a partner\u2019s integration (both new and ongoing) by providing technical guidance and documentation.</li>\n<li>Identify, drive, and optimize new third-party reporting opportunities by leveraging YouTube technologies.</li>\n<li>Write and maintain lines of code (Python, C++, etc.) to support your own small to medium scale Extract, Transform, Load (ETL) pipelines.</li>\n</ul>",
+    "title": "Data Engineer, Measurement Program, YouTube"
+}

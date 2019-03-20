@@ -1,0 +1,35 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcZMOLhls4lWwIlpoZNqPRHn_ujh-NjOUsOdQ8WDOt8SOgCPMA3TySCwBKimCys_M6HtMfSnbPag3PzN8BxqUG0DP9CNgG5ofZr5WST3H9OOY-sRLKz30uuDZso%3D_V2&jobTitle=Solutions+Consultant+Manager%2C+Startup%2FDeveloper+Relations&loc=US",
+    "categories": [
+        "DEVELOPER_RELATIONS",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:33:49.662Z",
+    "description": "<p>As the Solutions Consultant Manager for Google Cloud for Startups, you&#39;ll oversee a team of Solutions Consultants focusing on high touch developer relations and startup support. Your efforts will help drive awareness and adoption of Google Cloud within the startup community and enable our team to successfully execute at scale. You&#39;ll also collaborate internally with Product Managers to drive a better developer experience, foster a community of developers building on Google technologies and drive strategy around Google\u2019s broader Developer Relations efforts.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5084526621687808",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:51:54.475Z",
+    "publish_date": "2019-02-27T19:51:54.475Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>3 years of experience in software engineering and programming in two Turing complete languages.</li><li>2 years of experience leading teams in either a people manager, project lead or tech lead capacity.</li><li>Experience in a startup ecosystem, including with founders, venture firms and accelerators.</li></ul><br><p>Preferred qualifications:</p><ul><li>5 years of experience leading and directly managing remote teams.</li><li>5 years of experience in software engineering with programming experience in two or more of the following languages: Python, JavaScript, Ruby, PHP, Go, Java or Objective C.</li><li>Experience as a software developer, product manager, Chief Technology Officer or founder at early to mid-stage startups.</li><li>Experience with presenting products to the user community through hackathons, webinars, forums, blogs and/or social media.</li><li>Experience with blogging and writing technical articles for an existing follower base, contributing to an open source project and speaking at technology conferences.</li></ul>",
+    "responsibilities": "<ul><li>Lead and coach a team of Solutions Consultants to design and deliver strategic partnerships with startup leaders to ensure Google Cloud adoption and best practices during implementation.</li><li>Advocate the adoption of Google products to startup developers and the broader startup community.</li><li>Present our developer products in person and online by demonstrating at conferences, blogging, videos and writing technical tutorials.</li><li>Advocate for startups and developers internally, and influence Google developer product strategy by working with Product Management, Engineering, PR, Marketing, Business Development and other cross-functional teams.</li></ul>",
+    "title": "Solutions Consultant Manager, Startup/Developer Relations"
+}

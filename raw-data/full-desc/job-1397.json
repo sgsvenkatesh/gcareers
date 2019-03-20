@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Chicago, IL, USA; Seattle, WA, USA; San Francisco, CA, USA; Sunnyvale, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXv20l7T7G0w8DdSpqghainrDbsMTcZVxIDTTEpbgYwSOgASYQ8wvGKoaSq_d9yXVcZuXtcqOkJAZ6EZUqlOa7_4TVfcCYBVvokFBcHXiordgj9RgmNvQEb7Pto%3D_V2&jobTitle=SAP+Cloud+Consultant%2C+Google+Cloud+Professional+Services&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-22T01:31:41.267Z",
+    "description": "<p>Google Cloud teams work with schools, companies, and government agencies to make them more productive, mobile and collaborative. You will oversee all aspects of the Google Cloud sales process, improving it with your insightful data analysis, troubleshooting, and seamless cross-functional teamwork. Your strategies ensure that companies new to Google products get the highest quality customer support and that the Google Cloud program overall is kept on the cutting edge.</p>\n\n<p>In this role you willl work directly with Google\u2019s most strategic customers on critical projects to help them transform their businesses. You will provide management, consulting and technical aptitude to customer engagements while working with client executives and key technical leaders to deploy solutions via Google Cloud Platform. \n</p>\n\n<p>You will also work closely with key Google partners to manage programs, deliver consulting services, and provide technical guidance and best practice expertise. \n</p>\n\n<p>You possess a diverse background with cloud solutions in areas such as architecture design, infrastructure migration, and deployment strategies. To be successful, you know how to navigate ambiguity, have extensive experience working with cloud technologies, and have technical depth and enjoy working with client executives.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/116839190642991814",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-07T17:31:52.433Z",
+    "publish_date": "2019-03-07T17:31:52.433Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in a technical or engineering field or equivalent practical experience.</li>\n<li>5 years of relevant experience.</li>\n<li>Experience with SAP technologies (such as SAP HANA, SAP Business Suite and Business Warehouse, SAP Hybris, etc.) and their architecture and infrastructure needs.</li>\n<li>Project management experience interfacing with multiple cross-functional and/or geographically dispersed teams.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Computer Science, related Engineering field, or equivalent work experience showing client service and/or management consulting.</li><li>Experience and knowledge of SAP technologies (SAP Business Objects, Sybase, Leonardo suite etc.) and their architecture and infrastructure needs.</li>\n<li>Demonstrated experience architecting, developing, or maintaining production-grade cloud solutions in public clouds such as Google Cloud Platform or similar cloud platforms.</li>\n<li>Direct experience implementing projects for live SAP environments on public cloud, and architecting around core production concepts (high availability, disaster recovery, multi-tenancy, scale out and scale up architectures, etc.).</li>\n<li>Excellent written, verbal and presentation communication skills, with a focus on translating business requirements into technology solutions and vice versa.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Demonstrate thought leadership in SAP cloud computing solutions, become a trusted advisor to decision makers throughout an engagement, and provide customer and market feedback to the Product and Engineering teams to help shape product direction.</li>\n<li>Work closely with Google SAP specialists on designing SAP on GCP architectures and deployment plans. Package SAP best practices and lessons learned into thought leadership, methodologies and published assets.</li>\n<li>Execute on project management responsibilities inclusive of scoping activities, structuring a team, and delivering in a timeline during consulting engagement.</li>\n<li>Work with external client technical leads, client executives, and partners to manage and deliver successful migrations to cloud solutions.</li>\n<li>Engage with customers for meetings, technical reviews, and onsite delivery activities (travel expectations up to 30%).</li>\n</ul>",
+    "title": "SAP Cloud Consultant, Google Cloud Professional Services"
+}

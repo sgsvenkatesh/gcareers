@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<p><b>Please include URL(s) for an online portfolio in addition to resume. Submissions without a portfolio included will not be considered.<b></b></b></p>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTxUaKc7c6ZpwfziMlXwKhfyW1OOz5ZD_WgcZuHVXq4SOgCPMA3T7i6r-qciJHlNFSU2LWGCSKl3kVr9wqJUOuea_4KdcSy4xVZ-QQHrjkqcK_pg0mFvp4kxNas%3D_V2&jobTitle=UX+Designer%2C+Brand+Studio&loc=US",
+    "categories": [
+        "MARKETING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:04:04.004Z",
+    "description": "<p>Brand Studio is a passionate team of creative thinkers and marketers. We protect and promote Google\u2019s brand and reputation through programs, products and narrative experiences that express Google\u2019s values in action across the world. As part of our team, you\u2019ll define and create the visual and strategic elements that comprise Google\u2019s brand and product identities. You\u2019ll articulate standards that harmonize and bring a uniquely Google point of view to all of our products and communications. By embracing user insights, strategic thinking, beautiful design and provocative execution, you will create delightfully intuitive (and inventive!) experiences that will define the future of Google\u2019s brand.</p><p>As a UX designer, you will work with Brand Studio creative leadership to create user first designs that will contribute directly to the evolution of our work\u2019s content strategy and UX. Using research and user insights you will help architect the UX patterns with a team of visual designers, information architects, producers, and developers. You are an individual who thinks through complex interactions with rigor and great attention to detail. </p><p>The experiences you\u2019ll touch will span familiar territory such as websites, design systems, and in-product moments as well as opportunities to explore Google\u2019s burgeoning technologies.</p><p>Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google&#39;s products solve the world&#39;s problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4583507454263296",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-18T12:05:11.023Z",
+    "publish_date": "2019-02-27T19:46:52.904Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in design (e.g. interaction, graphic, visual communications, product, industrial) or equivalent practical experience.</li><li>Experience at a creative agency or in-house team.</li><li>Please include URL(s) for an online portfolio in addition to resume. Submissions without a portfolio included will not be considered.</li></ul><br><p>Preferred qualifications:</p><ul><li>Proficiency with Sketch, Adobe Creative Cloud, and ability to create interactive prototypes.</li><li>Solid knowledge of front-end web technology HTML/CSS/JS or other programming language.</li><li>Solid understanding of how to design for the modern web\u2014across browsers, screen sizes, and user profiles.</li><li>Excellent prototyping skills with tools such as Keynote, After Effects, Invision, Principle, Flinto, Framer, etc.</li><li>Strong core interaction design skills, knowledge of user-centered design methodologies, and a good understanding of usability.</li></ul>",
+    "responsibilities": "<ul><li>Create insightful and thoughtful designs across marketing and communication touchpoints.</li><li>Create work that adheres to Google\u2019s standard of user first and experience principles.</li><li>Communicate effectively in a cross-functional team and present ideas and designs effectively.</li></ul>",
+    "title": "UX Designer, Brand Studio"
+}

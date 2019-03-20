@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Boulder, CO, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWQ6s2c6VcG6F7P150BmrprES-pZmBrhAXrvCFTb1L0SOgASYQ8wBYvMyX3b5r0bx7a6wX4IhUHg0ovHFSOIuq7gRFRzIFZxLRx8d0OKg6Qck18mSyfZEXYy0IY%3D_V2&jobTitle=Manager%2C+Real+Estate+and+Workplace+Services+Enterprise+Platforms&loc=US",
+    "categories": [
+        "REAL_ESTATE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-28T21:31:40.986Z",
+    "description": "<p>As a Manager in Real Estate Technology, you will lead and deliver large, complex client engagements that identify, design, and implement real estate technology solutions. These responsibilities include defining and documenting key client business issues, understanding where and how real estate technology can be leveraged to address such business issues, and developing recommendations in the context of the overall strategy, system selection or implementation engagement. \n</p>\n\n<p>You&#39;ll implement and oversee the quality of deliverables, effectively manage the functional team, support functional tracks of the system implementation and day-to-day relationships to ensure exceptional performance. You will oversee the development and presentation of proposals for business development activities. You&#39;re a passionate people manager committed to the growth of your individual team members, giving credit to others, and providing meaningful feedback.</p><p>The Real Estate and Workplace Services (REWS) team creates inspiring spaces and innovative services that bring Google\u2019s culture and values to life. We build and maintain all aspects of what keeps our Googley workspaces operating seamlessly across multiple cities and regions globally. We also manage the industry-leading services that help make Google a great place to work -- from how we design healthy and collaborative workspaces, create energizing food experiences, provide convenient transportation and fitness options, to delivering inclusive environments where Google and our employees can thrive.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/94307527799251654",
+    "location": {
+        "address_lines": [
+            "Boulder, CO, USA"
+        ],
+        "city": "Boulder",
+        "country": "CO",
+        "country_code": "US",
+        "display": "Boulder, CO, USA",
+        "lat": 40.0149856,
+        "lon": -105.2705456
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=1168x324&zoom=12&signature=RWg9rdP4s-zj7r2ELoisZdFQ7jU=",
+        "large_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=1024x324&zoom=12&signature=lRnrHzcQtw0pgrtaHpD_4j8u63g=",
+        "small_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=600x400&zoom=12&signature=Kkn4WpW4jfSb41zSVJO_wPfUn5Y=",
+        "small_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=600x400&zoom=12&signature=aZnnbjI8phY0WeCAZPgUPofC1jo="
+    },
+    "modified": "2019-02-27T19:53:45.474Z",
+    "publish_date": "2019-02-27T19:53:45.474Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Business or Technology, or equivalent practical experience.</li>\n<li>7 years of experience with enterprise platforms, including managing integrated workplace management systems (IWMS) implementations/engagements from evaluation and planning through design, development, deployment, and maintenance.</li>\n<li>People management experience in leading functional and technical teams in the design and implementation of technology solutions.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with information technologies and platforms, including ERP, cloud software services, and CRM.</li>\n<li>Experience in technology strategy development, including business case development and crafting implementation roadmaps.</li>\n<li>Experience working with onshore and offshore development teams to deliver and operate high-quality business support systems to global client groups.</li>\n<li>Excellent interpersonal skills, with a track record of building productive cross-functional relationships and teaching/mentoring others.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Execute business application architecture review, design, and development for REWS\u2019 IWMS suite, and drive the strategy and roadmap for overall systems architecture to support priority business needs.</li>\n<li>Manage a team responsible for gathering functional requirements with diverse user groups, prioritizing needs across those groups, delivering system functionality to the users, and guiding users through the transition to using these systems.</li>\n<li>Balance the functionality of the system with the business goals for maximum effectiveness and best business outcomes.</li>\n<li>Develop platform strategies beyond IWMS, and bring them to fruition via partnerships with third party technology providers and/or internal engineering groups.</li>\n<li>Establish cross-functional relationships with clients, Engineering teams, and leadership to build both team effectiveness and long-term system usefulness. Coach and develop team members, participate in manager-level planning, and foster organizational collaboration for team coherence and success.</li>\n</ul>",
+    "title": "Manager, Real Estate and Workplace Services Enterprise Platforms"
+}

@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Seattle, WA, USA; Mountain View, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbZSgdS5biBa7JDMz5MJE6ZSLoCdlo1E2EKn_Vs4YJcSOgCPMA3ToTmwbHAvwueLryhhwV_5u2xVgHoBlmho3IE-TUJ1VQYF1uPa2SWUkqgm9Qu6MQ40Zcr9bXY%3D_V2&jobTitle=Developer+Programs+Engineer%2C+Geo&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-11T19:31:43.055Z",
+    "description": "<p>Passionate people are everywhere at Google. In Developer Relations, we are excited to collaborate and connect with the communities that love technology as much as we do. Part community manager and part developer advocate, Developer Programs Engineers collaborate with developers at conferences and online, and advocate for developers interests internally at Google. Not afraid to be hands-on, you write sample code and client libraries as well as participate in developer forums and support queues to troubleshoot and debug coding problems developers encounter. Internally, you work with product engineering teams to improve our products by conveying feedback from developers, reviewing API designs, and testing new features. Chrome, Android, App Engine, HTML5, and our core G Suite and Ads APIs are just some of the platforms you promote and support.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/104063758344561350",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:43:52.231Z",
+    "publish_date": "2019-02-27T19:43:52.231Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science or related technical field, or equivalent practical experience.</li>\n<li>5 years of experience working in software engineering.</li>\n<li>Experience as a contributor to an open source project in communities like GitHub and/or Stack Overflow as well as working directly with third-party developers.</li>\n<li>Experience with one or more of the following programming languages: Go, PHP, Python, Java, or .Net.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Computer Science degree or experience in a related technical field.</li>\n<li>Excellent command of mobile application or web application development landscapes.</li>\n<li>Experience with building apps/websites with map and location features.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work on Google Maps Platform products, write samples and build reference applications.</li>\n<li>Manage and participate in developer discussion forums, and work to address concerns raised in these forums.</li>\n<li>Participate in building developer communities, publishing blog posts/guides and promoting our APIs.</li>\n<li>Advocate for developers internally, and influence Google developer product strategy by working with Product Management, Go-to-Market, Engineering, Support, PR, Marketing, Business Development and other cross-functional teams.</li>\n<li>Contribute to and manage open source projects. Assist third-party developers in troubleshooting their integrations with Google APIs and use of other Google developer products online (e.g. through GitHub or Stack Overflow).</li>\n</ul>",
+    "title": "Developer Programs Engineer, Geo"
+}

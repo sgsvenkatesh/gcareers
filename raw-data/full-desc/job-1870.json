@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Clarksville, TN, USA; Bridgeport, AL 35740, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXKH6dGx6tCClFVGdCdemXUE3yn5A7c6r6vLoMq35IMSOgCPMA3TmN6dgYxBDZmVLUAx0VIqC2D-ItHTeCiOXQUsH6jmeH5Cx-B-tIPqiCPSpp1gYK2V7PluS2M%3D_V2&jobTitle=Data+Center+Mechanical+Engineer&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:33:21.318Z",
+    "description": "<p><b>This role may also be located in Jackson County, AL</b></p><div>Our computational challenges are so big and unique we can&#39;t just buy our hardware, we&#39;ve got to make it ourselves. Our Platforms Team designs and builds the hardware, software and networking technologies that power all of Google&#39;s services. As a Mechanical Engineer you design and evaluate our data center systems, identifying product requirements and contributing to research and project planning. From the chip to chiller, you are responsible for designing and optimizing an architecture that will scale with Google&#39;s continued growth.</div><p><br>With your technical expertise, you lead and manage projects, develop product and process improvements, provide consultation to others and help facilitate training and development.</p>\n\n<p>You are a highly motivated Mechanical Engineer with demonstrated engineering design, construction, and commissioning experience in the area of complex and mission critical facilities to provide project design and field engineering services, project implementation, and participation in all phases of a project life cycle. This role will include involvement in all site capital projects from green field construction to major modification of existing infrastructures to new construction. </p>\n\n<p>You will participate in the preparation of all types of documents and reports including: statement of work (SOW), total cost of ownership (TCO) analysis, drawing mark-ups, budget, schedule, final startup/commissioning reports, and review and acceptance of as-builts and review of submittals.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5749064957362176",
+    "location": {
+        "address_lines": [
+            "Clarksville, TN, USA"
+        ],
+        "city": "Clarksville",
+        "country": "TN",
+        "country_code": "US",
+        "display": "Clarksville, TN, USA",
+        "lat": 36.5297706,
+        "lon": -87.3594528
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=1168x324&zoom=12&signature=4g7D15gS_KsRZAcPRJBPHshHxPo=",
+        "large_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=1024x324&zoom=12&signature=QYWwXS75248qfpdwqfEBBnm8V4Y=",
+        "small_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=600x400&zoom=12&signature=mjzy6xqVL8hvXff8Zn76i9zQc0o=",
+        "small_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=600x400&zoom=12&signature=WRLiawPe1x4P6Qs4PKUv_xfNnR0="
+    },
+    "modified": "2019-02-27T19:42:30.843Z",
+    "publish_date": "2019-02-27T19:42:30.843Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in a technical field or equivalent practical experience.</li>\n<li>5 years of experience in the Design-Build environment for fast track mission critical facilities (data centers, hospitals, pharma, refineries, power plants, industrial, etc.).</li>\n<li>Construction administration and/or construction management experience</li>\n<li>Experience in design, construction, and commissioning of HVAC and mechanical distribution systems to include air and water side systems.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Professional Engineering license.</li>\n<li>Experience in estimating, mechanical design, operation and commissioning of generators, chillers, cooling towers, air handling units, and control systems.</li>\n<li>Experience with project total cost of ownership (TCO).</li>\n<li>Knowledge of large-scale mission critical facility\u2019s mechanical infrastructure systems.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Own and manage all site level mechanical engineering issues during project execution phase.</li>\n<li>Identify and resolve issues with the cross functional teams. Maintain all mission critical data center related mechanical system design requirements.</li>\n<li>Support the commissioning team in development of documentation and testing procedures for each project.</li>\n<li>Be responsible for supporting quality assurance and control (QA/QC) during the construction process.</li>\n<li>Provide technical guidance to vendor teams in the resolution of issues, support program level efforts.</li>\n</ul>",
+    "title": "Data Center Mechanical Engineer"
+}

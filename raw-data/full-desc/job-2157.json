@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQ4Rl2YUYN_vL2EEmIG2FXd0dJW7grB7x-xoBFc7xaYSOgASYQ8wGaswdR_NnpKoXbnrq_5-1UJyvjyNK2QvcfiZaZQGsD64LNAa7w1Z1UwzwuGahRSFXKvkTmk%3D_V2&jobTitle=Solutions+Consultant%2C+Google+Home&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-04T22:31:45.829Z",
+    "description": "<p>The Partner Solutions team empowers the ecosystem across Sales, Product, and Partners to make Offers, Shopping, Wallet, Digital Content, Knowledge, Geo/Local, Social, and Ads products work. We provide end-to-end technical and operations support for partners for most of Google properties. This includes influencing product strategy, developing scalable product tools, helping onboard new partners, providing technical implementation services to some of the most strategic partners, and ongoing partner management. </p>\n\n\n<p>As a Solutions Consultant you will help us maintain and run efficient and effective relationships with external partners, including silicon and device manufacturers, as well as content providers. You will be a technology consultants and the liaison between our external partners and Google Home Engineering, Developer Relations, Product, and Business Development teams. You will lead the deployments, implementations, and integrations of a variety of third-party content services and smart home devices. \n</p>\n\n\n<p>In this role, you will be responsible for providing technical solutions and managing relationships with Google&#39;s largest and most strategic online publishers and IoT partners. As a liaison between clients and our technical staff, you will lead deployments, implementations, and integrations of a variety of our product lines (e.g., Search, Mobile, Video, and Commerce). From monitoring product performance to debugging and troubleshooting product code, you will be the resident expert that addresses partner needs. You will a technical expert with an entrepreneurial drive and passion for client management.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/98571831981548230",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:49:17.562Z",
+    "publish_date": "2019-02-27T19:49:17.562Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, a similar technical field, or equivalent practical experience.</li>\n<li>Experience in external customer or partner-facing communications.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with home automation/smart home/Internet of Things (IoT).</li>\n<li>Experience with video streaming technologies.</li>\n<li>Experience with web technologies such as HTML, CSS, JavaScript and HTTP. Experience with Android/iOS.</li>\n<li>Experience with SOC, OEM and ODMs.</li>\n<li>Ability to quickly learn and can ramp up on new technologies and software development kits.</li>\n<li>Excellent coordination, communication, and project management skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Understand Home Automation partner use-cases and assist implementation.</li>\n<li>Build partner experiences that would realize these requirements, and build the necessary pieces.</li>\n<li>Build samples and documentation to support partners integrations with Google Assistant.</li>\n</ul>",
+    "title": "Solutions Consultant, Google Home"
+}

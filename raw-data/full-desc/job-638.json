@@ -1,0 +1,40 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckanQWiktMALr6ysCVq6-6np6ScZdvBBakpe2q7u574oSOQCPMA3To-fqUs3K52J0eMJ5ozXtSiUDIa_TuLygVkXAl4rIM4hwVz1pGcu6L_QKFSLFUql0masMXQ%3D%3D_V2&jobTitle=Data+Center+Construction+Program+Manager&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "PROGRAM_MANAGEMENT",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-17T17:31:44.690Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Data Center Construction Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>As a Data Center Construction Program Manager, you have demonstrated experience with data center design, development, construction and commissioning projects. You will provide management of large-scale data centers, computer farms, networking, AC and DC power distribution/conversion, and cooling methods at multiple scales. \n</p>\n\n<p>You&#39;ll have experience managing large-scale technical projects in a rapidly-changing industry, ability to tolerate ambiguity and demonstrated problem-solving leadership with limited oversight. You&#39;re able to conceptualize and describe the delivery of a data center facility from start to commissioning and understand the nuances and risks that you and your team will need to manage around along the way.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6275563306287104",
+    "location": {
+        "address_lines": [
+            "Henderson, NV, USA"
+        ],
+        "city": "Henderson",
+        "country": "NV",
+        "country_code": "US",
+        "display": "Henderson, NV, USA",
+        "lat": 36.0395247,
+        "lon": -114.9817213
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&size=1168x324&zoom=12&signature=dXyrN3M5HDjCTYSHQlz7QBA6wSk=",
+        "large_2x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&scale=2&size=1024x324&zoom=12&signature=K99pG0XVIRb-bAfjLozwbACo8Pg=",
+        "small_1x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&size=600x400&zoom=12&signature=qMmGu2CVwfq23qzp9Hy6iXWg1AQ=",
+        "small_2x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&scale=2&size=600x400&zoom=12&signature=YpaEnOOIRORaqh1jrh8AR-pRE9E="
+    },
+    "modified": "2019-02-27T19:47:30.805Z",
+    "publish_date": "2019-02-27T19:47:30.805Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in technical field or equivalent practical experience.</li>\n<li>8 years of work experience managing multi-group/disciplinary projects.</li>\n<li>Experience constructing technical facilities.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Electrical, Mechanical or Industrial Engineering, Construction Management or related technical field.</li>\n<li>4 years of work experience with data center equipment/environments, including switch gears, generators, chillers, cooling towers, air handling units, controls, security monitoring systems and fire safety systems, with an understanding of start up/commissioning processes.</li>\n<li>Experience managing vendor relationships and understanding of standard practices in the design and construction industry, including knowledge of fast track design build processes and associated documents and contracts.</li>\n<li>Experience in requirements gathering, resource organization, task prioritization, scheduling and achieving objectives within set goals.</li>\n<li>Knowledge of large-scale facility electrical and mechanical systems.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage multiple data center projects from inception through to completion.</li>\n<li>Support special research and development experiments, renovations and upgrades of existing facility.</li>\n<li>Be responsible for gathering internal requirements and delivering solutions that satisfy customers&#39; needs.</li>\n<li>Maintain end-to-end responsibility from construction to deployment.</li>\n<li>Resolve critical issues within a matrix organization while maintaining rigorous adherence to project timelines and costs.</li>\n</ul>",
+    "title": "Data Center Construction Program Manager"
+}

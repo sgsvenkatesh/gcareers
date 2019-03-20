@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; Sunnyvale, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbaSTnfSpVG8Qbx87jxj_HzZG9XluF2eK59YnFT3C-cSOgCPMA3TlG4tIdMmoFDS3-MFKsOi6g92q0OdjadVOb1oOUguxuckui--MTZCogLWgNxF10Ao3O8ZDtA%3D_V2&jobTitle=Release+Engineer&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:22.749Z",
+    "description": "<p>How do you release updates and changes to the world&#39;s most trafficked sites without users ever noticing a glitch in service? Our Release Engineering team takes on this very challenge. As a member of the team, you work with Software Engineers to ensure our services and products seamlessly move from development through rollout and into production. This requires scripting and coding with an eye toward scalability so that big deployments can be broken down and distributed across multiple data centers. You are excited by massively complex systems and the challenges that come from working with some of the largest computing systems in the world. From changing the look of Google Search to backend tweaks to our algorithms, we are constantly pushing updates and iterating on all of our products.</p>\n\n<p>Using your leadership and technical expertise, you manage small project teams and lead the complex application releases for production and develop major improvement to tools and processes.</p><p>At Google, our users come first, and the Systems Infrastructure team is at the heart of that promise. We build the technologies that transform the way we think about doing business. Whether working on our cloud systems, researching the latest in computer technology or keeping Google&#39;s internal systems humming, Googlers and users alike rely on us to keep things running. We&#39;re back-end experts: protecting your privacy and ensuring your security.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4655736421548032",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T21:50:22.708Z",
+    "publish_date": "2019-02-27T19:38:57.324Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science or equivalent practical experience.</li>\n<li>2 years of experience in software engineering, release engineering and/or configuration management.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>6 years of relevant work experience.</li>\n<li>Familiarity with software configuration management systems and/or source code version control systems. Perforce experience.</li>\n<li>Experience with scripting languages, particularly Python.</li>\n<li>Experience with code signing and build management tools (make, SCons, ant).</li>\n<li>Experience building C++ and Java applications.</li>\n<li>Server side products: knowledge of Unix/Linux. Client side products: knowledge of multiple client OS&#39;s, such as Windows, Mac, Linux, iPhone, Blackberry and Android.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Support and improve our tools for continuous integration, automated testing and release management.</li>\n<li>Manage release branches.</li>\n<li>Build and sanity test release binaries (server-side).</li>\n<li>Push new releases to production (server-side).</li>\n<li>Maintain the build process to support ongoing R&amp;D.</li>\n</ul>",
+    "title": "Release Engineer"
+}

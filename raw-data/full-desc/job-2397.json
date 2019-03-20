@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; New York, NY, USA; Austin, TX, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYTYr2kescIzdE2TYZkpW2aTyRyBUJzGX_LttE3fojwSOgCPMA3TNmSwPb6sqvLq0YiRAhdXfqM1HATRXs9bqBWWkkl0kzZ1iqBh0Wj7OmaaQ9AOvwjoJdADHnI%3D_V2&jobTitle=Application+Engineer&loc=US",
+    "categories": [
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:17.489Z",
+    "description": "<p>At Google, we work at lightning speed. So when things get in the way of progress, the Business Systems Integration team steps in to remove those roadblocks. The team identifies time-consuming internal processes and then builds solutions that are reliable and scalable enough to work within the size and scope of the company. You listen to and translate Googler needs into high-level technical specifications, design and develop recommended systems and consult with Google executives to ensure smooth implementation. Whether battling large system processes or leveraging our homegrown suite of Google products for Googlers themselves, you help Googlers work faster and more efficiently.</p>\n\n<p>As an Application Engineer, you will play a major role in developing, deploying and supporting Google\u2019s internal business applications. You will be tasked with solving various problems over time. When the situation calls for it, you\u2019ll be part of a team that implements vendor sourced enterprise software, configuring that software, customizing it, and integrating with other internal systems. Other times, you\u2019ll be primarily tasked with creating custom-built software.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4930159565275136",
+    "location": {
+        "address_lines": [
+            "Austin, TX, USA"
+        ],
+        "city": "Austin",
+        "country": "TX",
+        "country_code": "US",
+        "display": "Austin, TX, USA",
+        "lat": 30.267153,
+        "lon": -97.7430608
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=1168x324&zoom=12&signature=UTSmzhT1GwaqAFOlXiNqYeEp1js=",
+        "large_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=1024x324&zoom=12&signature=ojF7AFQovSAd42Cxo1IUj70UZ4s=",
+        "small_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=600x400&zoom=12&signature=y_wUhfimj7y5il9HxUh_cxg3Bwk=",
+        "small_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=600x400&zoom=12&signature=SwUrs381CxcDbwPJMemUHah_AOk="
+    },
+    "modified": "2019-03-18T20:48:46.606Z",
+    "publish_date": "2019-02-27T19:39:02.274Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science or related technical field or equivalent practical experience.</li>\n<li>Programming experience in Java, Spring, Hibernate, Web Services (RESTful, SOAP), JavaScript</li>\n<li>Experience developing internal business applications and business integration</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MS in Computer Science, related field or 4 years of relevant work experience</li>\n<li>Experience implementing, customizing and integrating third-party applications within Finance, Supply Chain, HR, Marketing etc.</li>\n<li>Participation in multiple full system implementation life cycles (analyze, design, build, test, implement, support)</li>\n<li>Excellent interpersonal and communication skills; strong analytical skills and a demonstrable bias toward action.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop and deploy applications that support and change fundamental assumptions of how IT works.</li>\n<li>Partner with internal teams to define and implement solutions that improve internal business processes.</li>\n<li>Work closely with analysts to translate business requirements into technical solutions.</li>\n<li>Build internal solutions, with custom front-ends (web, mobile) and back-end services that automate business processes. Maintain highest levels of development practices including: technical design; solution development; systems configuration; test documentation/execution; issue identification and resolution; writing clean, modular and self-sustaining code.</li>\n<li>Integrate third party products into internal systems as well as support and upgrade implemented systems.</li>\n</ul>",
+    "title": "Application Engineer"
+}

@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Atlanta, GA, USA; Austin, TX, USA; New York, NY, USA; Cambridge, MA, USA; Chicago, IL, USA; Kirkland, WA, USA; Los Angeles, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZtBJ0h9c1E0jQGwH_sHcdQ2vQA2l-xN76VRxDqjOwwSOgCPMA3TZ5uZhg393eLVf9WIy1VWs3iMv235nXr8GcbsKtj8CEYu1ZL4eTfBzZtviEM3UcXk5ljC57Q%3D_V2&jobTitle=Sales+Engineer%2C+Security+and+Compliance%2C+Google+Cloud&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:38.469Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>\n\n\n<p>As a Sales Engineer for Security and Compliance, you&#39;ll utilize both your technical aptitude and exemplary communication skills to address trust during frequent engagements with customers. You will periodically serve as a Google representative when liaising with regulators and the public as it relates to our Google Cloud solutions.\n</p>\n\n\n<p>In this role, you will work hand-in-hand with technical sales teams as a security and compliance subject matter expert to differentiate Google Cloud to our customers. You will help prospective customers and partners understand the power of Google Cloud, explaining technical features, helping customers design architectures, and problem-solving any potential roadblocks.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4924141108133888",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-19T16:31:50.337Z",
+    "publish_date": "2019-03-19T16:31:50.337Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, related technical field, or equivalent practical experience.</li>\n<li>4 years of work experience in security solutions for enterprise B2B software or the security operations team within a consumer internet company.</li>\n<li>Experience delivering technical presentations and live demonstrations of complex security solutions.</li>\n<li>Experience addressing CIO and CISO concerns about the security and compliance risks.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MBA or Master\u2019s degree.</li>\n<li>Technical sales experience or professional consulting experience.</li>\n<li>Experience with network security technology including intrusion monitoring, threat detection and prevention systems, firewalls, and DDOS prevention solutions.</li>\n<li>Understanding of identity management systems.</li>\n<li>Understanding of ISO 27001, SOC 2/3 audit, FedRamp, PCI, and HIPAA.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Provide subject matter expertise on areas of security, privacy and regulatory compliance to Sales, Marketing, Product Development, Legal and Policy teams.</li>\n<li>Work with local sales teams to identify and qualify business opportunities, understand key customer technical objections, and develop the strategy to resolve blockers related to trust.</li>\n<li>Assist policy personnel in technical conversations with policy makers, industry bodies and other third-parties to advance Google\u2019s message.</li>\n<li>Provide feedback to product management in the development of trust-related features and support regional security and compliance accreditation projects.</li>\n<li>Develop programs to enhance knowledge of trust throughout the sales organization and serve as a public advocate of cloud computing at conferences, industry training and related events.</li>\n</ul>",
+    "title": "Sales Engineer, Security and Compliance, Google Cloud"
+}

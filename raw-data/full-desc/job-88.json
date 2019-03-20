@@ -1,0 +1,34 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckY0eAVPtnlOwKbVDG40D0SNSFNTLnkaq-ZtsLFakpHESOgASYQ8wzsBdbbsWHxVjVD_dVUEdRzupgdsGfB43pdblku46XnLZWNXhuQWwk0PxkQqXKdLuhOQ8cuA%3D_V2&jobTitle=Machinist%2C+Consumer+Hardware&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-12T11:31:41.119Z",
+    "description": "<p>As a Machinist, you&#39;ll be working with the Design team to produce Google prototypes. This will include fixture design and setup, CNC machine operation and other manufacturing operations. You will set up, run and maintain CNC machines; provide support for machining operations of products and assemblies using manual and/or CNC machine tools. Additionally, you will serve as a resource to others in the resolution of complex problems and challenges.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/123394299652907718",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:49:45.568Z",
+    "publish_date": "2019-02-27T19:49:45.568Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>5 years of experience as a prototype machinist.</li>\n<li>Experience with 3+2 axis machining.</li>\n<li>Experience with G-code editing, canned cycles, and integrated probing systems.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>10 years relevant work experience including experience in multiple areas of cooling system, electro-mechanical system and power distribution system.</li>\n<li>10 years relevant work experience, including experience in fabrication PCBs and PCBAs and Box Build processes.</li>\n<li>Experience manufacturing development for consumer electronic products.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Set up and operate CNC machine centers, CNC Lathes, and 4 axis controllers to produce high tolerance and precision parts.</li>\n<li>Program mills and lathes by entering instructions; including zero and reference points, set tool registers, offsets, compensation, and conditional switches.</li>\n<li>Calculate requirements using basic math, geometry, and trigonometry; proving part programs.</li>\n<li>Regulate machines for speed, feed, coolant flow, depth and angle of cut, etc. Program and run one-off or short run prototype jobs efficiently and in timely manner.</li>\n<li>Work with other Machinists, Project Managers, Engineers, and Designers to solve challenges and improve processes.</li>\n</ul>",
+    "title": "Machinist, Consumer Hardware"
+}

@@ -1,0 +1,34 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcQZmEn1WpWvR_kM0LKEWTFWxnYiLCUca3uk3Ubd884SOgCPMA3TnvesBSY9MPpu9DeLRVUE3RY5dIQhksQvaHVwfKd91hrZATJSe6gbz0-e4or6lMAXRCX_zpM%3D_V2&jobTitle=Supplier+Quality+Engineer%2C+Printed+Circuit+Boards&loc=US",
+    "categories": [
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:33:35.601Z",
+    "description": "<p>Google&#39;s custom-designed equipment makes up one of the largest and most powerful computing infrastructures in the world. The Manufacturing Operations team is responsible for providing the manufacturing capability to deliver this state-of-the-art physical infrastructure. As a Manufacturing Engineer, you evaluate the product designs and create the processes, tools and procedures behind Google\u2019s powerful search technology. When vendors build parts for our infrastructure, you\u2019re right there alongside ensuring manufacturing processes are repeatable and controlled. You collaborate with Commodity Managers and Design Engineers to determine Google\u2019s infrastructure needs and product specifications. Your work ensures the various pieces of Google\u2019s infrastructure fit together perfectly and keep our systems humming along smoothly for a seamless user experience.</p>\n\n\n<p>As a Printed Circuit Boards (PCB) Supplier Quality Engineer, you will join the team responsible for setting and managing the quality and reliability standards for our Printed Circuit Boards across Google.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5133889490321408",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:46:32.616Z",
+    "publish_date": "2019-02-27T19:46:32.616Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Process Engineering, Chemical Engineering, Quality Engineering, Mechanical Engineering, or equivalent practical experience.</li>\n<li>7 years of experience as a Quality, Reliability or Product Engineer.</li>\n<li>3 years of experience in rigid PCB manufacturing processes.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Process Engineering, Chemical Engineering, Quality Engineering, or Mechanical Engineering.</li>\n<li>American Society for Quality certification (CQE, CQM, CRE, or CQA).</li>\n<li>10 years of experience in Quality/Reliability and PCB manufacturing processes.</li>\n<li>Understanding of PCB manufacturing and test processes.</li>\n<li>Ability to travel as required.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Be responsible for the quality and reliability of PCB deliverables throughout the life cycle of the parts. Drive cross-functional activities in the supply chain for overall technical operational readiness in all NPI phases leading into Mass Production.</li>\n<li>Provide consultation to the design, manufacturing and commodity teams in qualification, and application of various levels of PCB technologies. Lead quality qualification audits.</li>\n<li>Work cross-functionally to define and ensure processes in place to provide the data required to manage quality and reliability. Interface with suppliers on a regular basis to share dppm feedback from the fleet and drive Return Material Authorization (RMA), Corrective Action Requests (CAR), Root Cause and Corrective Action (RCCA) and Failure Analysis (FA).</li>\n<li>Establish quality programs and process controls for early detection of issues and to ensure the highest level of quality and reliability is consistently delivered.</li>\n<li>Investigate failures and coordinate failure analysis, determining root causes, categorizing failures and driving corrective action through Google\u2019s supply chain and design team.</li>\n</ul>",
+    "title": "Supplier Quality Engineer, Printed Circuit Boards"
+}

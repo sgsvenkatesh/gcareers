@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Mountain View, CA, USA; San Francisco, CA, USA; Seattle, WA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbipfutknZG8oYVSvAioXKc7Faj81g61UoUp0XE4yGwSOgCPMA3TLtjIg8x38-QgKjchPehM93YzwcDaJh7xJiV-LiaE1BbXDcq1C8b4JbmkGUT_d4KYc_i5QMQ%3D_V2&jobTitle=UX+Engineer%2C+Front+End+%28Web%29&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:24.098Z",
+    "description": "<p>Google engineers develop the next-generation technologies that change how users connect, explore, and interact with information and one another. As a member of an extraordinarily creative, motivated and talented team, you develop new products that are used by millions of people. We need our engineers to be versatile and passionate to take on new problems as we continue to push technology forward. If you get excited about building new things and aren&#39;t daunted by the challenge of building something from scratch, then our team might be your next career step.</p><p>Our team has an ambitious vision: to build applications that enable people to seamlessly collaborate and accomplish complex tasks together. We\u2019re on a mission to build apps that will be a refreshing change from the usual bland enterprise products and tools that companies so readily accept.</p><p>As a UX Engineer, you live on the front end of our products and the features used by millions of people every day. The work is challenging, fast paced, and always changing. You have strong analytical skills, an unwavering commitment to quality, a collaborative work ethic, and cutting edge coding skills. You should live and breathe the fundamentals of JavaScript (not just jQuery), CSS, and HTML, and command an impressive portfolio of web technologies new and old - all in order to launch innovative features to a global audience.</p><p>User experience (UX) is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users\u2019 needs, behaviors, and emotions to yield insights that inform product strategy and guide the design of the experiences we create. Our multidisciplinary UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and performance. We collaborate closely with product managers, software engineers, and many others to solve complex challenges and craft powerful experiences that highlight our products\u2019 unique capabilities and personalities. Our work touches billions while exemplifying a key principle that is core to Google\u2019s philosophy: \u201cFocus on the user and all else will follow.\u201d</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5948579517759488",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-01T03:02:07.218Z",
+    "publish_date": "2019-03-01T03:02:07.218Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science, HCI, Design, or equivalent practical experience.</li>\n<li>Experience with web technologies (object-oriented JavaScript, HTML, CSS), and experience with the latest web standards including HTML5 and CSS3.</li>\n<li>Experience designing and implementing complex UIs.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with modern JavaScript frameworks (such as Backbone, Angular, or Ember) and CSS pre-processing frameworks (such as Sass or Less).</li>\n<li>Experience with a scripting language, such as Python, Ruby, etc.</li>\n<li>Experience with and a passion for user-interface design.</li>\n<li>Strong sense of web design and attuned to the fundamentals of user experience, including accessibility.</li>\n<li>Ability to communicate to all levels of users (internal and external), strong problem-solving skills, adaptable, proactive and willing to take ownership.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work closely with UX designers, project managers and back-end engineers to implement versatile front-end solutions to tricky web development issues.</li>\n<li>Embrace emerging standards while promoting best practices in order to push the limits of what a browser can do.</li>\n<li>Manage your own time, and work well both independently and as part of a team.</li>\n<li>Launch, iterate and make a difference. Provide front-end coding expertise, and be ready to make our products better for our users.</li>\n<li>Design and develop the front ends of user facing products.</li>\n</ul>",
+    "title": "UX Engineer, Front End (Web)"
+}

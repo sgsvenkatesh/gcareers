@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZEVWNT0mFR-TeSc23vUwTt6VzPGMgnN8Hofg2GNFLASOgCPMA3TdXtLw6KoMbZpEKZLqsLgX8d9a-RhyK3vsWsVouJ9VHd75kKxTguTl4Fk51ukzIcFfvbZ8MY%3D_V2&jobTitle=Partner+Developer+Advocate&loc=US",
+    "categories": [
+        "DEVELOPER_RELATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:33:53.370Z",
+    "description": "<p>Our team\u2019s mission is to drive partner success with engineering direction and support, accelerating adoption of Google\u2019s technologies. Our focus is on supporting third-party partners who build applications and businesses on Google&#39;s platforms. \n</p>\n\n<p>You are an Engineer who loves connecting with Android partners to provide engineering support and guidance using Google technologies and help drive developer strategy with product teams.</p><p>The Developer Relations organization helps keep us connected to the communities that love technology as much as we do. Developer Advocates act as passionate advocates for Google technologies, and are vocal advocates for developer interests within Google.\n</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5407472920756224",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-18T21:18:47.185Z",
+    "publish_date": "2019-02-27T19:45:22.433Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science or equivalent practical experience.</li>\n<li>Experience in programming for Android, Java or Web applications</li></ul><br><p>Preferred qualifications:</p><ul>\n<li>2 years of relevant work experience, including experience working with third parties, partners or in a support role</li>\n<li>Experience interacting with clients or internal stakeholders</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Improve and standardize the developer support experience for all Google developer products.</li>\n<li>Provide 1:1 support for Google\u2019s Android partners. Take engineering-focused meetings with partners to help them fix bugs, improve UX and solve complex code problems at a scale of millions of users.</li>\n<li>Provide 1:many support for developers on social platforms.</li><li>Work on the core source code of Google&#39;s products with other engineers to identify, reproduce and/or fix bugs that are affecting top partners.</li>\n</ul>",
+    "title": "Partner Developer Advocate"
+}

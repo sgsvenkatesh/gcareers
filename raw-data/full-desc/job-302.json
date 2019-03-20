@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUAznnx9KuPm8w0jn0af7DhSuvxkQSZN5WwVyWsDD1USOgASYQ8wTHWqbSJLQsYlr4ccw6U9rgDjrx5yLEl2v20yeCGaIduw-dNK9COEmLNKpqROlWKKhJITBU8%3D_V2&jobTitle=Senior+Financial+Analyst%2C+Quantitative+Revenue&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-11T16:31:41.195Z",
+    "description": "<p>Financial Analysts ensure that Google makes sound financial decisions. As a Financial Analyst, your work, whether it&#39;s modeling business scenarios or tracking performance metrics, is used by our leaders to make strategic company decisions. Working on multiple projects at a time, you are focused on the details while finding creative ways to take on big picture challenges.<br><br>As someone who knows the workings of the core Finance team inside and out, you&#39;ll lead individual projects to transform planning, tracking and control processes. You&#39;ll provide senior level management with insightful recommendations, planning and reporting support.</p>\n\n<p>The Global Revenue Team is responsible for business growth forecasting and analytics for Google\u2019s products and services. As part of this team, you will have a unique perspective on Google\u2019s core businesses, services and the ecosystems that they operate within.\n</p>\n\n<p>You will manage the cross-functional Finance processes which inform Google\u2019s short and long-term business trajectory. You will be an integral part of a working group of Product Managers, Engineers, and Quantitative Analysts to drive monetization initiatives with significant impact to Google\u2019s strategic growth.</p><p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to the business.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/109541009878065862",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-11T21:31:55.271Z",
+    "publish_date": "2019-03-11T21:31:55.271Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>6 years of relevant experience.</li>\n<li>Experience in quantitative and statistical modeling using R, SAS, or similar</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>2 years relevant work experience in the programmatic advertising, video ads space, gaming industry, or apps space.</li>\n<li>Experience in presenting analytical findings and recommendations to executive audiences.</li>\n<li>Proficiency in advanced spreadsheet modeling.</li>\n<li>Proficiency in at least one programming/scripting language.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Forecast business growth generated by our ads products, focusing on programmatic and video products.</li>\n<li>Develop analysis/tools to track business growth for ads to better understand its drivers.</li>\n<li>Partner with leaders in Engineering and Product organizations to understand and shape technical drivers of business growth performance.</li>\n<li>Provide executive audiences with clear insights into drivers of business growth, risks, and opportunities.</li>\n<li>Manage monthly business growth and variance analysis and support long-range financial modeling.</li>\n</ul>",
+    "title": "Senior Financial Analyst, Quantitative Revenue"
+}

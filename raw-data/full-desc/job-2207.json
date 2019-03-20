@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXloDEABz4wefIMPzqvPtIEVAR1cOqPFPhWEbxzCFdYSOgCPMA3T0_BiUD8GRka6X6_ZFRImrZVnU7Nc9wSW7HU_1SRfoZTuqBxTfWPcH3KTvUcpnnWSUotst0A%3D_V2&jobTitle=Software+Engineer%2C+Android&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-18T12:01:30.749Z",
+    "description": "<p>Google&#39;s software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We&#39;re looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google\u2019s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.<br><br>With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.</p><p>Google Play services is an Android API platform that provides Android developers access to the power of Google services, and is automatically distributed to most Android devices. We work with teams from many project areas to make their technology available to Android developers to help them develop mobile applications. The work is split between advising teams on the most efficient way to deliver APIs to mobile devices, and building out infrastructure to support regular launches to devices.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6696990677073920",
+    "location": {
+        "address_lines": [
+            "Austin, TX, USA"
+        ],
+        "city": "Austin",
+        "country": "TX",
+        "country_code": "US",
+        "display": "Austin, TX, USA",
+        "lat": 30.267153,
+        "lon": -97.7430608
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=1168x324&zoom=12&signature=UTSmzhT1GwaqAFOlXiNqYeEp1js=",
+        "large_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=1024x324&zoom=12&signature=ojF7AFQovSAd42Cxo1IUj70UZ4s=",
+        "small_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=600x400&zoom=12&signature=y_wUhfimj7y5il9HxUh_cxg3Bwk=",
+        "small_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=600x400&zoom=12&signature=SwUrs381CxcDbwPJMemUHah_AOk="
+    },
+    "modified": "2019-02-27T19:41:39.256Z",
+    "publish_date": "2019-02-27T19:41:39.256Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree in Computer Science or related technical field or equivalent practical experience.</li><li>4 years work experience including programming experience in C/C++, Java and/or Python.</li><li>Experience on mobile platforms within Linux, Windows and Mac environments.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience in API design, performance optimization, client architecture, or tools, in the mobile space.</li><li>Expertise in the following areas: performance debugging and optimization of complex workloads, design of performance tools, compiler design and code optimization, high-performance software development techniques, concurrent programming, and/or multi-core computer architectures.</li><li>Android SDK knowledge.</li><li>Understanding of Android platform and Google Play Services.</li><li>Understanding of Android operating system</li><li>Demonstrated ability to work with data structures, algorithms and software design optimized for embedded systems.</li></ul>",
+    "responsibilities": "<ul><li>Manage individual project priorities, deadlines and deliverables.</li><li>Design, develop, test, deploy, maintain and enhance software solutions.</li></ul>",
+    "title": "Software Engineer, Android"
+}

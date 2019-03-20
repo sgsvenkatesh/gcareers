@@ -1,0 +1,35 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Reston, VA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfGAz6nACYvhRWL69-158h0MG21hMCZ4JrPrEmCRZk0SOgASYQ8wRL72GVMZIAvtaqhk2kvllneiY-CSD_L99PGU-PdvTJUtPseGy7f5PsCcdcOSsBTUSb7OpFk%3D_V2&jobTitle=Training+Business+Regional+Lead%2C+Google+Cloud&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-19T13:31:40.552Z",
+    "description": "<p>As the Training Regional Lead, you will be responsible for establishing and then managing the local training business. You will work to determine which partners best fit our training goals and then work with them to build out clear business plans and targets for their training segments. \n</p>\n\n\n<p>You will also be responsible for developing plans for the local training business and then reporting the business (forecasts and historicals) to senior business stakeholders. Finally, you will work closely with many other internal teams, including teams from the wider training organisation such as the training operations team as well as with local Marketing, Sales and Partner teams.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/129774272781394630",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:50:01.232Z",
+    "publish_date": "2019-02-27T19:50:01.232Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>5 years of experience as a training business and/or channel manager.</li>\n<li>Experience in identifying, recruiting and managing partners and delivering Go-To-Market strategies and results.</li>\n<li>Technical experience with cloud technologies.</li>\n<li>Ability to travel up to 50% of the time.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in launching and managing a new business unit.</li>\n<li>Experience with implementing business goals and initiatives.</li>\n<li>Developed business acumen with business planning experience.</li>\n<li>Ability to work in a fast growing, dynamic and sometimes ambiguous environment.</li>\n<li>Demonstrated negotiation skills as evidenced through previous partner contract or similar negotiations.</li>\n<li>Developed business development skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Launch and then run the local training business in Americas to ensure that our training is achieving business objectives.</li>\n<li>Be responsible for local roll out of any global initiatives or launches in particular partner focused campaigns.</li>\n<li>Prepare and deliver business reviews to regional and global business leads.</li>\n</ul>",
+    "title": "Training Business Regional Lead, Google Cloud"
+}

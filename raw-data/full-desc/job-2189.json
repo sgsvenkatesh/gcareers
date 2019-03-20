@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Seattle, WA, USA; Austin, TX, USA; Boulder, CO, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUM_TkEpU-XXUgzexVlUexEBHg7qvJHXrgNSEqA1mYQSOgCPMA3TNlCiPGXwv-w_34ObDUxGdntx1qHrXNbbKpssgPPWF4ftnykprDA3Rs7NWl6bqtO5m6XlfQk%3D_V2&jobTitle=Developer+Advocate%2C+Go&loc=US",
+    "categories": [
+        "DEVELOPER_RELATIONS",
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:32:57.707Z",
+    "description": "<p>The Developer Relations team consists of experts from a wide range of technology roles who combine their domain expertise with a strong desire to help Google build products and solutions that solve their problems in simple, scalable, and innovative ways. As a Developer Advocate, you&#39;ll empathize deeply with your communities and advocate on their behalf to the Product and Engineering teams, ensuring that our products are built to meet their needs and that they provide the best possible user and developer experiences. Alternatively, you are a recognized practicing member of your communities and wish to build your skills as an advocate. You raise awareness of technologies and methodologies within your communities through enablement and inspiration, being seen as a practitioner, and you drive strategy around Google\u2019s Developer Relations efforts for specific communities and products.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5108890627932160",
+    "location": {
+        "address_lines": [
+            "Boulder, CO, USA"
+        ],
+        "city": "Boulder",
+        "country": "CO",
+        "country_code": "US",
+        "display": "Boulder, CO, USA",
+        "lat": 40.0149856,
+        "lon": -105.2705456
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=1168x324&zoom=12&signature=RWg9rdP4s-zj7r2ELoisZdFQ7jU=",
+        "large_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=1024x324&zoom=12&signature=lRnrHzcQtw0pgrtaHpD_4j8u63g=",
+        "small_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=600x400&zoom=12&signature=Kkn4WpW4jfSb41zSVJO_wPfUn5Y=",
+        "small_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=600x400&zoom=12&signature=aZnnbjI8phY0WeCAZPgUPofC1jo="
+    },
+    "modified": "2019-02-27T19:52:43.860Z",
+    "publish_date": "2019-02-27T19:52:43.860Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science or equivalent practical experience.</li>\n<li>4 years of experience developing software.</li>\n<li>3 years of experience in programming in Go.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>5 years of experience in software development.</li>\n<li>Experience in presenting technical concepts to external and/or internal technology communities through presentations, workshops, videos, blogs, podcasts, webinars, hackathons, blogs, and/or social media.</li>\n<li>Experience working as a software developer, architect, technical evangelist, consultant, educator, community manager, product manager, CTO, or consultant.</li>\n<li>Experience speaking at technology conferences, blogging/writing technical articles with an existing follower base, or contributing to a popular open source project.</li>\n<li>Interest in advocating on behalf of the Go community and working with the community to solve their challenges.</li>\n<li>Excellent written and verbal communication skills with the desire to share technical knowledge and information with others.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Advocate for developers internally and craft narratives around new releases and features by working with Product Management, Engineering, and other cross-functional teams.</li>\n<li>Create momentum and drive the success of the Go programming language through your knowledge of, and interactions with, technical communities.</li>\n<li>Define developer narratives and do both online and in-person outreach for the Go programming language.</li>\n<li>Advocate Go in-person and online by presenting at conferences, blogging, creating videos, writing technical tutorials and other similar activities.</li>\n<li>Participate in the external \u2018community ecosystem\u2019 of meetups, conferences, and online forums.</li>\n</ul>",
+    "title": "Developer Advocate, Go"
+}

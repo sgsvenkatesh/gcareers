@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbBkul9cAuRN6gstD-RzCn-CFH5TbuwuDicdWSiCynMSOgASYQ8wKfpJxhbbeQgsUQokft686X8vDtyFiqM7-komM9SxnLMThcwq4oHgGZ9b5GztRoMHAVAo_54%3D_V2&jobTitle=Voice+Operations+Engineer%2C+Contact+Center&loc=US",
+    "categories": [
+        "NETWORK_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-26T16:31:37.035Z",
+    "description": "<p>Google is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is responsible for operating that network reliably and at scale. As a member of the team, you have a direct impact on design and feature enhancements to keep our systems running smoothly. You also ensure that network operations are safe and efficient by monitoring network performance, coordinating planned maintenance, adjusting hardware components and responding to network connectivity issues. Google&#39;s complex network generates a constant stream of challenges which require you to continually be innovative with an evolving set of technologies. Keeping the network reliable ensures that our users stay connected with our suite of applications, products and services.</p><p>Our team designs, develops, deploys and supports in-house and third-party contact center applications sales and supports users to improve productivity and customer satisfaction. You&#39;ll help to plan, deploy and support new contact center infrastructure, and work with both internal Google teams and external vendors to research, evaluate and implement new solutions.</p><p>Google is and always will be an engineering company. As an engineer, you&#39;ll routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/105791725558997702",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:56:43.684Z",
+    "publish_date": "2019-02-27T19:56:43.684Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>3 years of experience in networking technologies (across the OSI model).</li><li>1 year of experience in a telecommunications field.</li><li>Experience with Layer 1 through Layer 3 network services and technologies, including Internet routing protocols, DWDM, and transport systems.</li></ul><br><p>Preferred qualifications:</p><ul><li>Bachelor&#39;s degree in Computer Science or related technical field.</li><li>5 years of experience in developing and operating large scale network infrastructures in operational or engineering roles.</li><li>Automation experience with frameworks, network platform and in scripting languages such as Python.</li></ul>",
+    "responsibilities": "<ul><li>Participate in on-call rotation. Respond to and resolve emergent service problems, build tools and automation to prevent problem recurrence.</li><li>Lead and participate in incident postmortems and make recommendations to increase resiliency, ensure system compliance, and configuration standardization.</li><li>Participate in software and system performance analysis and tuning.</li><li>Collaborate with Engineering teams, including telecom, network, security, hardware, and data center teams, and external suppliers and carriers to resolve incidents and inform service improvements.</li><li>Supervise on-and off-shore vendors.</li></ul>",
+    "title": "Voice Operations Engineer, Contact Center"
+}

@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<p><b>Note: Please include URLs for an online portfolio in addition to resume. Submissions without a portfolio included will not be considered.</b></p>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZZVTz7yB1kbl06WtjPltliOLmvB8yF1KVWBp1mCiaASOgCPMA3T7jhdcjvNCmHMEqSGNoNIGsJ0ucg7O_svV6GZva4x4wh-MqvDlM99JFNiByEakSbF05BvxXo%3D_V2&jobTitle=Interaction+Designer&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:04:58.119Z",
+    "description": "<p>Design and user experience (UX) are at the forefront of everything we do. The job of an Interaction Designer is to envision how people experience our products and bring that vision to life in a way that feels inspired, refined and even magical. In an Interaction Designer role, you\u2019ll take on complex tasks and transform them into intuitive, accessible and easy-to-use designs for billions of people around the world\u2014from the first-time user to the sophisticated expert. Achieving this goal requires collaboration with teams of Designers, Researchers, Engineers and Product Managers throughout the design process\u2014from creating user flows and wireframes to building user interface mockups and prototypes. At each stage, you will anticipate what our users need, advocate for them and ensure that the final product surprises and delights them.</p><p>User experience (UX) is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users\u2019 needs, behaviors, and emotions to yield insights that inform product strategy and guide the design of the experiences we create. Our multidisciplinary UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and performance. We collaborate closely with product managers, software engineers, and many others to solve complex challenges and craft powerful experiences that highlight our products\u2019 unique capabilities and personalities. Our work touches billions while exemplifying a key principle that is core to Google\u2019s philosophy: \u201cFocus on the user and all else will follow.\u201d</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6378262098018304",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:40:40.782Z",
+    "publish_date": "2019-02-27T19:40:40.782Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Design (e.g. interaction, graphic, visual communications, product, industrial), Human\u2013Computer Interaction (HCI), Computer Science (CS), or a related field, or equivalent practical experience.</li><li>4 years of work experience in a related field.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MA/MS degree in Design (e.g. interaction, graphic, visual communications, product, industrial), HCI, CS, or a related field.</li>\n<li>Demonstrated experience in designing usable interfaces for popular web-based products.</li>\n<li>Knowledge of JavaScript for rapid prototyping purposes.</li>\n<li>Demonstrated HTML skills.</li>\n<li>Strong clean visual design sense.</li>\n<li>Excellent leadership, communication and teamwork skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Help to define the user model and user interface for new and existing Google products and features.</li>\n<li>Develop high level and/or detailed storyboards, mockups, and prototypes to effectively communicate interaction and design ideas.</li>\n<li>Gauge the usability of new and existing products, and making constructive suggestions for change.</li>\n</ul>",
+    "title": "Interaction Designer"
+}

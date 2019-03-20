@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Bruno, CA, USA; Mountain View, CA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTgkjSXlrWgziMwz9XMtYuUc-vnJaFLOnRGa5thmFqcSOQCPMA3Tv8aID6tG_ZOlLVeyYPmsJ2LboUJKwkIMVa2bYULTKle5U2ed_qF7EXhy4F49ZKIkz3Eq8A%3D%3D_V2&jobTitle=Web+Solutions+Engineer%2C+YouTube+Content+Tools&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2019-01-03T16:31:42.272Z",
+    "description": "<p>YouTube&#39;s Technology Solutions Organization is a global organization dedicated to developing and managing the company&#39;s largest and most strategic partnerships. We work closely with the YouTube Product, Engineering, and Content teams to address our partners&#39; most pressing and complex technology challenges. \n</p>\n\n<p>As a Web Solutions Engineer, you will interact frequently and closely with our stakeholders from around the world and across different functions to identify and devise innovative technical solutions that enable business insight or scale business solutions.</p><p>At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun \u2014 and we do it all together.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6640027454603264",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-07T00:31:59.955Z",
+    "publish_date": "2019-03-07T00:31:59.955Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Experience in one or more of the following: Unix/Linux environments, relational/non-relational databases, mobile application development, API development (e.g. REST), backend system design, data pipelines.</li>\n<li>Software development experience in one or more general purpose programming languages (Java, C/C++, C#, Objective C, Python, JavaScript, or Go).</li>\n<li>Experience in web application development.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>BS degree in Computer Science, Electrical Engineering, Math or related quantitative field or equivalent practical experience.</li>\n<li>Experience developing web services and microservices on cloud infrastructure (e.g. Google Cloud, AWS).</li>\n<li>Experience in big data or scaled/sharded system design.</li>\n<li>Experience in JavaScript and front-end design frameworks (e.g. Angular, Polymer).</li>\n<li>Proficiency in and passion for machine learning, data analysis, and data science.</li>\n<li>Ability to project manage small projects and prioritize tasks.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Partner closely with business stakeholders to understand tools requirements in depth.</li>\n<li>Manage and drive complex technical projects from the planning stage through to execution.</li>\n<li>Design and implement solutions to large business problems, often with automation, such as internal tools, backend services, and web applications.</li>\n<li>Aggregate data from multiple data sources to enable business insight discovery through architecting pipelines and backends to serve data.</li>\n<li>Develop reliable internally or externally available web services while monitoring and enhancing performance of existing tools and services.</li>\n</ul>",
+    "title": "Web Solutions Engineer, YouTube Content Tools"
+}

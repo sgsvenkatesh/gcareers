@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckePyU0AaNAgNQE5GBYZmgy_6xh15oU5pzFCze38Lq-ESOQCPMA3TilCgJb1YkauEgxyI82fipiMuEtgtJC0zkCPvedik11O1KDBOdAYhtw7427386Ph_bYjtMg%3D%3D_V2&jobTitle=Data+Center+Systems+Architect&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:32:20.895Z",
+    "description": "<p>Our thirst for technology is a part of everything we do. The Data Center Engineering team takes the physical design of our data centers into the future. Our lab mirrors a research and development department -- cutting-edge strategies are born, tested and tested again. Along with a team of great minds, you take on complex topics like how we use power or how to run state-of-the-art, environmentally-friendly facilities. You&#39;re a visionary who optimizes for efficiencies and never stops seeking improvements -- even small changes that can make a huge impact. You generate ideas, communicate recommendations to senior-level executives and drive implementation alongside facilities technicians.<br><br>Through your leadership, you use your technical expertise to lead cross-functional teams to develop infrastructure improvements. You manage a team of engineers and assign Googlers to projects based on their capabilities and the project&#39;s demands.</p>\n\n<p>In this role as a Data Center Systems Architect, you will have the opportunity to demonstrate data center design and analyses as well as cross-functionally lead electrical, mechanical, automation and software engineers to solve challenging Google problems. You will also partner with business groups and internal customers to develop new technology to optimize our architecture throughout the data center, hardware, and software stacks improving the overall efficiency of our computing infrastructure.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6485246226923520",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:42:36.650Z",
+    "publish_date": "2019-02-27T19:42:36.650Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>10 years of experience in the design, construction and operation of data centers or adjacent facilities.</li>\n<li>Experience in IT hardware design and data centers.</li>\n<li>Experience with facility power and cooling related infrastructure systems for data centers or equivalent critical, industrial automation and controls systems design.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree or PhD in Electrical/Power Engineering, Mechanical Engineering or related technical discipline.</li>\n<li>Large and complex system design experience including large campus plants.</li>\n<li>Ability to analyze and visualize data.</li>\n<li>Ability to develop creative and innovative solutions to reduce costs with no impact on quality and reliability. Ability to research new designs, technologies, and construction methods of data center equipment and facilities.</li>\n<li>A thorough understanding of IT stack integration.</li>\n<li>Demonstrated results in analytics and data center integration projects.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Provide current and future data center architectural leadership efforts within the Data Center Research and Engineering team. Partner with Hardware, Machine Learning, Automation, Robotics, Data Center Controls and Software Development teams.</li>\n<li>Provide integration expertise, technical analysis and critical data analysis related to the overall system architecture.</li>\n<li>Develop and maintain functional relationships across multidisciplinary teams to anticipate future data center physical architectures, controls, automation and areas to improve Google\u2019s overall resource efficiency.</li>\n<li>Provide representation and technical interface to key internal partner organizations including software, network, hardware, Site Reliability Engineering and resource efficiency.</li>\n<li>Provide guidance, direction and work on large data constructs that may be analyzed computationally to reveal patterns, trends, and associations to improve Google\u2019s technical infrastructure.</li>\n</ul>",
+    "title": "Data Center Systems Architect"
+}

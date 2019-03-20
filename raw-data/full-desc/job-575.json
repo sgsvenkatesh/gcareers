@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXLRoZd_R6zrPj--VmbG2IZrgRcP1odDveFbBrOKjwsSOgCPMA3TICkueHeNHYA0750_zrv3-3qwiVHxkBnXDwIr9nNklYNbS7bJvIdL6KtMHoA-LTKxwTYCiyA%3D_V2&jobTitle=Technical+Program+Manager%2C+System+Technical+Operations%2C+Consumer+Hardware&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-09T19:01:45.375Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n<p>As a Technical Program Manager, you will be the cornerstone of operations communication with technical cross-functional teams in the development of new products. You are well versed in the CM/ODM manufacturing environments and will lead a team of professionals to ensure products are designed and built to Google\u2019s high standards. You will work with teams to solve problems that gate production line operations in a fast-paced and sometimes high-pressure environment.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Consumer Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Consumer Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4940007111852032",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T20:49:32.467Z",
+    "publish_date": "2019-02-27T19:41:52.236Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Engineering or equivalent practical experience.</li>\n<li>5 years of relevant work experience, including 2 years of industry experience.</li>\n<li>Project experience managing cross-functional, technical teams.</li>\n<li>Experience ensuring operational technical readiness for all phases of the product introduction cycle in a manufacturing environment.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MBA or Master&#39;s degree in related field of study.</li>\n<li>10 years of direct experience working and managing international OEM partners.</li>\n<li>Excellent track record of managing a cross-functional team in order to achieve new product objectives inclusive of quality, yield and cost.</li>\n<li>Ability to travel 30% of the time.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage the operations side of large scope projects from initial builds though ramp and serve as technical lead in resolving complex issues during bring-up and life of product.</li>\n<li>Be an operational technical lead in communicating project readiness. Identify, prioritize and manage key technical changes and risks of a given product.</li>\n<li>Review and submit all equipment requirement plans to meet the requirements of the operation and the implementation of any additional solutions to mitigate any risks to the plan.</li>\n<li>Serve as the technical advisor for the product line for the end-to-end life cycle of the product. Ensure operations technical readiness for all phases of the introduction cycle.</li>\n<li>Ensure all technical risks associated with a product are identified and closed or mitigated to enable the quality ramp of a product.</li>\n</ul>",
+    "title": "Technical Program Manager, System Technical Operations, Consumer Hardware"
+}

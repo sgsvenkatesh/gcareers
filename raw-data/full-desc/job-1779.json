@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdpUBXhoHIelo07BEMKtYPgGds7wLY_0f8Jvfr-qqcMSOgCPMA3ThjrN12ABZwrf4jKfH0RV1PXNFJc2LDneXyrZSnDgU3zkblWG-hw7n9ZuEJTVzCxwGNY_vmc%3D_V2&jobTitle=Program+Manager%2C+Data+Center+Environment+Health+and+Safety&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-04T18:31:28.959Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>Google Data Centers (GDC) make up one of the largest and most powerful computing infrastructures on the planet. Our team has built a best in class Environment Health &amp; Safety (EHS) program to scale compliance and safety excellence construction, commissioning, deployment and operations of data centers. As a member of the Data Center EHS team, you will be supporting new site construction EHS compliance through operational EHS leadership. \n</p>\n\n<p>You will play a critical role in ensuring all EHS issues are identified and addressed by working collaboratively with a cross-functional team of Google Data Center departments and contractors to protect Google\u2019s interests. You will also be creating accurate and coordinated timelines that support the Data Center Program Management Group and Data Center Services teams in meeting scheduled facility ready dates while ensuring compliance and contractor oversight.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5347823675965440",
+    "location": {
+        "address_lines": [
+            "Midlothian, TX, USA"
+        ],
+        "city": "Midlothian",
+        "country": "TX",
+        "country_code": "US",
+        "display": "Midlothian, TX, USA",
+        "lat": 32.482361,
+        "lon": -96.9944489
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=Midlothian%2C+TX%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Midlothian%2C+TX%2C+USA&size=1168x324&zoom=12&signature=_jo5P67infY0EZCOVzjgo7zHwQ8=",
+        "large_2x": "/maps/api/staticmap?center=Midlothian%2C+TX%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Midlothian%2C+TX%2C+USA&scale=2&size=1024x324&zoom=12&signature=3YeEMjSn5ucoInbs1K0FkGncBe4=",
+        "small_1x": "/maps/api/staticmap?center=Midlothian%2C+TX%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Midlothian%2C+TX%2C+USA&size=600x400&zoom=12&signature=AKHkxbAYmFsd1mWCiOhUptP2oi4=",
+        "small_2x": "/maps/api/staticmap?center=Midlothian%2C+TX%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Midlothian%2C+TX%2C+USA&scale=2&size=600x400&zoom=12&signature=96JBRnYGCGDKUKD4P-0EC3UWxSQ="
+    },
+    "modified": "2019-03-18T21:15:38.294Z",
+    "publish_date": "2019-02-27T19:48:09.763Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>5 years of experience with EHS programs including construction and general industry.</li>\n<li>5 years of experience in project management.</li>\n<li>Experience working with cross-functional teams and external contractors and vendors.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Environmental Science, Occupational Health and Safety, Earth Science or a related discipline or equivalent practical experience.</li>\n<li>Certification in EHS, such as CHST, CSP, CHMM or REM.</li>\n<li>Certification in Project Management Professional (PMP).</li>\n<li>Experience with managing compliance and best practice implementation in a contractor workforce.</li>\n<li>Experience with communicating with federal, state and local authorities regarding EHS issues.</li>\n<li>Experience with leading large cross-functional, multi-location teams and executing technical programs.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Support Data Center Sustainability, Program Manager groups, Hardware Operations and Data Center Operations by leading EHS program implementation and oversight from construction through operations.</li>\n<li>Manage projects associated with all aspects of industrial and construction EHS compliance programs, with a heavy emphasis on electrical safety.</li>\n<li>Manage projects associated with all aspects of environmental and regulatory compliance, with a heavy emphasis on air emissions management.</li>\n<li>Manage oversight of construction activities to protect Google\u2019s interests during General Contractor ownership of site activities.</li>\n<li>Provide EHS support for existing fleet as needed as well as support within the region and at a global level for all EHS programs and initiatives.</li>\n</ul>",
+    "title": "Program Manager, Data Center Environment Health and Safety"
+}

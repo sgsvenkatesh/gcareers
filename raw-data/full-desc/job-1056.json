@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckf1zBRZzaC8I2Z2lTEW7aYkN8aUCM9qr8PeD3ofWEYsSOgCPMA3TJRNqkwAotcASllnAsNqbOnJr11L7cdgDJWT2kNfe6FFi7iNdYuqCAIBulxCkWkDdqWhkN8Q%3D_V2&jobTitle=Data+Scientist%2C+Acquisition+and+Onboarding%2C+Google+Customer+Solutions&loc=US",
+    "categories": [
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-10T21:31:35.376Z",
+    "description": "<p>Google Customer Solutions (GCS) works with businesses and ad agencies of all sizes and industries. Within GCS, the Revenue, Strategy and Operations (RSO) organization provides business critical insights using analytics, ensures cross-functional alignment of goals and execution, and helps teams drive strategic partnerships and new initiatives forward. We stay focused on aligning the highest-level company priorities with effective day-to-day operations, and help evolve early stage ideas into future-growth initiatives.\n</p>\n\n<p>The Data Science team within RSO helps power a significant portion of Google&#39;s business by guiding Sales and Marketing activities. The Data Science team develops, delivers and measures impact of advanced machine learning models and predictive analytics solutions at scale. Recent projects include customer acquisition, routing and sustainability predictions. Our team works in close partnership with several Engineering, Sales, and Marketing teams across Google.\n</p>\n\n<p>As a Data Scientist, you will partner with various Google teams to develop customer-level recommendations and automated solutions, consolidating existing Google technologies and building new ones. You&#39;ll also work with others on the team to harness the power of Google\u2019s data with machine learning, to deliver insights at scale that drive both long-term strategy and near-term operations for Marketing and Sales.</p><p>When our millions of advertisers and publishers are happy, so are we! Our Google Customer Solutions (GCS) team of entrepreneurial, enthusiastic and client-focused members are the &quot;human face&quot; of Google, helping entrepreneurs both individually and broadly build their online presence and grow their businesses. We are dedicated to growing the unique needs of advertising companies. Our teams of strategists, analysts, advisers and support specialists collaborate closely to spot and analyze customer needs and trends. In collaboration, we create and implement business plans broadly for all types of businesses.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4847978289758208",
+    "location": {
+        "address_lines": [
+            "Redwood City, CA, USA"
+        ],
+        "city": "Redwood City",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Redwood City, CA, USA",
+        "lat": 37.48521520000001,
+        "lon": -122.2363548
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=1168x324&zoom=12&signature=qMd_c5mmqxWSefkzRvq5u3HXeX8=",
+        "large_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=1024x324&zoom=12&signature=QI9LkVYQ-IlH0lZ6MENCZ2TRJPQ=",
+        "small_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=600x400&zoom=12&signature=sGZIA9O0g6zpsi2BMerq7kWkMSo=",
+        "small_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=600x400&zoom=12&signature=ZaSXyTdqAKk9FmiP1ehW8vV8TuI="
+    },
+    "modified": "2019-02-27T19:54:21.957Z",
+    "publish_date": "2019-02-27T19:54:21.957Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Master\u2019s degree in a Quantitative discipline such as Mathematics, Statistics, Engineering, Computer Science, Operations Research, or equivalent practical experience.</li>\n<li>3 years of experience applying statistical models, and supervised and unsupervised Machine Learning techniques (regression, classification, clustering, pattern recognition, etc.) for Sales and Marketing in B2B and/or B2C settings.</li>\n<li>Experience mining data using querying languages (e.g. SQL), conducting statistical analysis and coding using open source packages (e.g Python and R).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>PhD in a quantitative discipline.</li>\n<li>Experience developing end-to-end data-driven solutions.</li>\n<li>Experience working with neural networks and deep learning.</li>\n<li>Experience launching and managing analytical projects, and collaborating with teams across geographies and functions.</li>\n<li>Ability to work comfortably in a fast-paced and ever-changing environment.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Collect, cleanse, integrate, data-mine and visualize a variety of internal and external data sources to identify opportunities and influence strategy.</li>\n<li>Understand business challenges, transform problems into mathematical frameworks, and communicate complex findings in a structured and clear manner to a non-technical audience.</li>\n<li>Navigate ambiguity, solve complex challenges, and operate in a fast-paced team environment.</li>\n<li>Design, develop, and deliver Predictive and Machine Learning models to drive customer acquisition and pipeline performance.</li>\n<li>Collaborate globally with Engineering and Product Management teams for the development and scaling of new data signals and analytical solutions to drive efficiency and effectiveness of sales and marketing.</li>\n</ul>",
+    "title": "Data Scientist, Acquisition and Onboarding, Google Customer Solutions"
+}

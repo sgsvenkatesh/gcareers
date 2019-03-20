@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckc50MOPHz4IJMO72lPdnePGs-dlCWzQqmBEWSGMxOn8SOgCPMA3T7nqfix9LEfCtNlEWGuE8l2dDOhkyJV0LL5W_yDiNSHxAWdg6qqd5fAM3vdsXAyvOhaqkcG0%3D_V2&jobTitle=RF+Test+Engineer%2C+Consumer+Hardware&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:32:33.195Z",
+    "description": "<p>Google&#39;s custom-designed machines make up one of the largest and most powerful computing infrastructures in the world. The Hardware Testing Engineering team ensures that this cutting-edge equipment is reliable. In the R&amp;D lab, you design test equipment for prototypes of our machinery and develop the protocols used to scale these tests for the entire global team. Working closely with design engineers, you give input on designs to improve our hardware until you&#39;re sure it meets Google&#39;s standards of quality and reliability.</p>\n\n<p>As a Test Engineer in the Centralized Test Engineering team, you will be responsible for one of the key consumer satisfaction metrics - functional performance of the device. You&#39;ll be a key member of the cross-functional team that will launch the product, managing factory test stations from concept to mass production.\n</p>\n\n<p>The role will be in one of the following product families: VR, Wearables, Phones, Laptops, Home.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6376042149380096",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T22:55:42.132Z",
+    "publish_date": "2019-02-27T19:43:56.039Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in Engineering or equivalent practical experience.</li>\n<li>5 years of experience in testing products for manufacturing, with an emphasis on one or more RF technologies including Cellular (LTE/UMTS/CDMA/GSM) and WLAN (802.11). Experience with RF principles and 3GPP/IEEE802.11/Bluetooth conformance specifications.</li>\n<li>Experience with automating RF tests using mainstream test instruments (e.g. IQxel, CMW100/500, MT8870/8852, UXM/EXM, etc.) Scripting and debugging experience in Python or C++.</li>\n<li>Ability to travel internationally up to 25% of the time, as required.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MS/PhD in Engineering.</li>\n<li>Experience with hardware testing, system bring-up and design validation.</li>\n<li>Experience with database queries and statistical analysis.</li>\n<li>Experience working with OEM partners.</li>\n<li>Demonstrated experience in debug, troubleshooting and failure analysis investigation.</li>\n<li>Mechanical and software expertise in test station development.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Maintain all factory test stations including (production) test stations before/after reliability testing. Develop functional specs for the product with Design/Engineering teams and implement at the factory.</li>\n<li>Make recommendations related to design and test coverage improvement that require minimal engineering engagement. Oversee implementation, yield and parametric data gathering, correlation, and associated tasks, while also acting as a liaison with Software Engineering teams in regards to factory images, test scripts and associated requirements.</li>\n<li>Cover system level (end-to-end assembly), mechanical level (all mechanical assemblies), test (described above), and SMT/DFM (for PCBA). Provide EFFA program support.</li>\n<li>Mitigate potential test gaps and correlations issues between our vendors and manufacturing processes and drive them to closure. Oversee test station sign off criteria for mass production.</li>\n<li>Develop test station for validation tests with an eye on mass production. Oversee test software development (device and station), and test fixture (mechanical) development.</li>\n</ul>",
+    "title": "RF Test Engineer, Consumer Hardware"
+}

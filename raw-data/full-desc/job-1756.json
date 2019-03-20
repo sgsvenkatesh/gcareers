@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckaSsXX78fU8Kxwj8eE-JvuQSKKaX_Rl3YLz8RDVQLDwSOgCPMA3TZj2hmHV92D58AzYrhlg9cSpUX4C-CakzTsQi1aZXTATWJkzxnYpa-PzGMjZBm-8jlJm5JCM%3D_V2&jobTitle=Program+Manager%2C+Machine+Learning+System+Deployments&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:07:39.677Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>As a Program Manager, you will execute datacenter deployment processes of Machine Learning products. These Machine Learning computers have special requirements when it comes to planning and deployment. You will engage with experts from engineering, software teams, and various operational teams such a Hardware Operations, Datacenter Operations, Datacenter Services, in addition to customers.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6111117715898368",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:46:06.139Z",
+    "publish_date": "2019-02-27T19:46:06.139Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in a technical or related field (Supply Chain Management, Business, Engineering, Operations) or equivalent practical experience.</li>\n<li>5 years of experience working in an Operations organization.</li>\n<li>Cross functional project management experience.</li>\n<li>Experience with New Product Introduction (NPI) platforms, and/or executional/tactical expertise in Supply Chain Operations.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Demonstrated communication, interpersonal and analytical abilities.</li>\n<li>Developed analytical, problem-solving and organizational skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Execute datacenter processes and fulfillment strategies for servers and data center infrastructure in partnership with key stakeholders.</li>\n<li>Communicate health, status and actions to machine learning Program Managers and help rollup efforts.</li>\n<li>Execute process improvements and projects with cross-functional teams, managing multiple priorities under tight deadlines. Develop and manage delivery and performance metrics.</li>\n<li>Support efforts to improve scale, efficiency, cycle times, predictability and on time delivery.</li>\n<li>Ensure successful execution and on-time delivery of these plans and strategies.</li>\n</ul>",
+    "title": "Program Manager, Machine Learning System Deployments"
+}

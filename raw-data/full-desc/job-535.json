@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Austin, TX, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYvEmFSu9YOk5X5AIvgcX7MgFUGmP_8RG9n6TMSozUMSOgCPMA3TkAi76T0R7QVrFe_GOqFKWWVwX9GHeI2qIZjtaMAe0QZKGShZBDx82V7Fnsmho2oNr-0tqkA%3D_V2&jobTitle=Systems+Analyst%2C+Lifecycle+Technology+Management&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-14T14:01:48.563Z",
+    "description": "<p>At Google, we work at lightning speed. So when things get in the way of progress, the Business Systems Integration team steps in to remove those roadblocks. The team identifies time-consuming internal processes and then builds solutions that are reliable and scalable enough to work within the size and scope of the company. You listen to and translate Googler needs into high-level technical specifications, design and develop recommended systems and consult with Google executives to ensure smooth implementation. Whether battling large system processes or leveraging our homegrown suite of Google products for Googlers themselves, you help Googlers work faster and more efficiently.</p><p>The Googler Technology Lifecycle Management (GTLM) team provides Google ND Alphabet employees with laptops, desktops, monitors, printers, software, and accessories in fast, efficient, delightful fashion. We do this by managing the full lifecycle or Software, Hardware and Licensing needs, and ensure excellent price value ratio by continuously reviewing the products on the market and regularly renegotiating terms, conditions, and prices with our suppliers. We strive to simplify the usage of our asset tracking system to ensure easy of utilization and increased accuracy of data.</p><p>You&#39;ll help facilitate decision making, including evaluation of vendor applications and platforms by capturing feedback, help design solutions and coordinate tools efficiencies.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5981100493963264",
+    "location": {
+        "address_lines": [
+            "Austin, TX, USA"
+        ],
+        "city": "Austin",
+        "country": "TX",
+        "country_code": "US",
+        "display": "Austin, TX, USA",
+        "lat": 30.267153,
+        "lon": -97.7430608
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=1168x324&zoom=12&signature=UTSmzhT1GwaqAFOlXiNqYeEp1js=",
+        "large_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=1024x324&zoom=12&signature=ojF7AFQovSAd42Cxo1IUj70UZ4s=",
+        "small_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=600x400&zoom=12&signature=y_wUhfimj7y5il9HxUh_cxg3Bwk=",
+        "small_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=600x400&zoom=12&signature=SwUrs381CxcDbwPJMemUHah_AOk="
+    },
+    "modified": "2019-02-27T19:54:18.292Z",
+    "publish_date": "2019-02-27T19:54:18.292Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree or equivalent practical experience.</li><li>10 years of relevant work experience,</li><li>Experience in full implementation lifecycle for delivery of systems solutions (analyze, design, build, test, implement, support).</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience in project management.</li><li>Demonstrated analytical skills, agency management, events vendor management and international projects.</li></ul>",
+    "responsibilities": "<ul><li>Lead communicate and act as liaison between engineers and technical stakeholders, and the management teams across the GTLM organization, and their stakeholders.</li><li>Help architect, develop and automate systems and tool strategies across our tool landscape inclusive of support models with a view to increasing self-service options.</li><li>Make business recommendations with effective presentations of findings at multiple levels of stakeholders through visual display of quantitative information.</li><li>Collaborate with cross-functional stakeholders to understand their business needs, formulate a roadmap of project activity that leads to measurable improvement of metrics related to efficiency, speed and quality of tools interoperability and rationalization.</li></ul>",
+    "title": "Systems Analyst, Lifecycle Technology Management"
+}

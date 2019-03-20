@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZq1FJ3-9yrb56qkWPuFHSwq-00PyhWb912nZCcE19USOQCPMA3Tk_lv6razxBfnqqJomIPeK0bT5H5GZyDkSioM2Rn1zBKg4NAAnguNmym9-zWUx3b_am-1Qw%3D%3D_V2&jobTitle=Technical+Solutions+Engineer%2C+G+Suite%2C+Google+Cloud&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-04T18:01:46.362Z",
+    "description": "<p>The Google Cloud team helps companies, schools, and government seamlessly make the switch to Google products and supports them along the way. You swiftly problem-solve technical issues for customers to show how our products can make businesses more productive, collaborative, and innovative. You work closely with a cross-functional team of web developers and systems administrators, not to mention a variety of both regional and international customers. Your relationships with customers are crucial in helping Google grow its Google Cloud business and in bringing our product portfolio into companies around the world.</p>\n\n<p>In this role, you will work closely with Engineering, Product Management, and Deployment teams to improve the product&#39;s vision and to make Google customers successful. Applying your in-depth technical experience, you will develop a deep understanding of, and drive enhancements for, Google\u2019s services architecture. As part of a 24x7 global team, you will be working in a third tier engineering-level support role and drive resolution for problems and inquiries that customers report. More specifically, you will provide solutions to customers and the first and second tier support teams, and resolve all escalated customer cases for G Suite.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6044716944785408",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-14T14:31:49.695Z",
+    "publish_date": "2019-03-14T14:31:49.695Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in a technical field or equivalent practical experience.</li>\n<li>Industry experience in technical support, professional services, engineering, sustaining engineering, or systems engineering.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Hands-on experience implementing, troubleshooting, and supporting Internet-based applications, web servers, mail servers (e.g., Exchange, Lotus, sendmail or Postfix), and Linux/Unix operating systems. Experience with Identity Management or Directory Services (LDAP, AD).</li>\n<li>Experience with managing hosted services/SaaS. Familiarity with programming/scripting (i.e. one or more of the following: Java, C, C++, .NET, Python, Shell, Perl, JavaScript).</li>\n<li>Experience with various DBMS, data mining and analysis.</li>\n<li>Experience with managing long-term implementation projects.</li>\n<li>Strong network administration and troubleshooting skills with understanding of Linux/Unix system administration. Strong understanding of web and mail-related standards, such as HTTP, HTML, XML, cookie-based SSO, and SMTP.</li>\n<li>Outstanding troubleshooting, follow-through and problem solving skills, resourcefulness, attention to detail, and communication skills, both verbal and written. Ability to keep pace with rapid changes in enterprise products.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Diagnose and resolve customer problems for G Suite in a third tier engineering-level support function as part of a global 24x7 global team.</li>\n<li>Obtain and maintain an in-depth understanding of Google&#39;s product technology, architecture and implementation, build and transfer knowledge to Google\u2019s Tier 1 and 2 support groups.</li>\n<li>Guide or perform design and implementation of new support, productivity or investigation tools to increase efficiency for the technical support process.</li>\n<li>Act as a consultant and knowledge base for product managers, sales engineers, technical account managers, and deployment specialists, resolving technical deployment obstacles, improving the product&#39;s vision and make Google customers successful.</li>\n<li>Work closely with multiple G Suite product management and software engineering teams on understanding ways to improve the product, and interact with QA teams to drive exceptional testing quality.</li>\n</ul>",
+    "title": "Technical Solutions Engineer, G Suite, Google Cloud"
+}

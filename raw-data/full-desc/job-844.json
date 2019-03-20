@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWpwzlvjE9IpbsN2Q92Z74ilfbxwNRNRZ3J979QSa7MSOQCPMA3T3YK8ks5opWQaHR9AnO-3x9TQq8OAm6QTzYCkSxoTuqv2OoCydHE6dmC7HafUk31DyboB4Q%3D%3D_V2&jobTitle=Principal+Engineer%2C+Hangouts+Meet&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:06:47.755Z",
+    "description": "<p>G Suite includes applications such as Gmail, Google Docs and Hangouts and is growing at a tremendous pace. A key part of G Suite is our new video conferencing product, Hangouts Meet. The goal of Hangouts Meet is to transform team collaboration through video conferencing that is simple, reliable and ubiquitous. We believe that enabling effective collaboration across greater distances and in larger groups will revolutionize how people work. To make this happen, the Hangouts Meet team is taking an end-to-end approach to making the product work seamlessly across phones, laptops and meeting rooms. This includes building hardware for meeting rooms, client platform and applications, as well as large scale service infrastructure and tools for admins.</p>\n\n<p>As the Principal Engineer for Google Hangouts, you will be responsible for driving and scaling technology development for the next generation Hangouts products.</p><p>The web is what you make of it and our team is helping the world make more of the web. From open-source pros to user-experience extraordinaires, we develop products that help users connect, communicate and collaborate with others. Our consumer products and cloud platforms are giving millions of users at homes, businesses, universities and nonprofits around the world the tools that shape their web experience -- and changing the way they think about computing.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5961289119760384",
+    "location": {
+        "address_lines": [
+            "Kirkland, WA, USA"
+        ],
+        "city": "Kirkland",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Kirkland, WA, USA",
+        "lat": 47.6768927,
+        "lon": -122.2059833
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=1168x324&zoom=12&signature=BUakpYMrt4PcA_BkD8TEXxwl5yE=",
+        "large_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=1024x324&zoom=12&signature=zdt0AODknQHKKtlab5UzXYjjwOU=",
+        "small_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=600x400&zoom=12&signature=77Xz0BHyJOhV95ydWoFgQ5UMRoc=",
+        "small_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=600x400&zoom=12&signature=djRWF_5sVRDgCFnaqcEvXvug7iU="
+    },
+    "modified": "2019-02-27T19:44:00.483Z",
+    "publish_date": "2019-02-27T19:44:00.483Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science, Mathematics, related technical field or equivalent practical experience.</li><li>Experience working across the full technology stack.</li>\n<li>Experience leading initiatives and working with multiple global stakeholders.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience driving architectural strategy.</li>\n<li>Experience in media quality for real-time communication.</li>\n<li>Experience in networks, such as bandwidth management.</li>\n<li>Experience in machine learning, big data or digital signal processing. Experience with the hardware/software lifecycle.</li>\n<li>Experience working with enterprise customers, and an excellent understanding of enterprise workloads.</li>\n<li>Ability to travel domestically and internationally.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Drive technology development including next generation real-time audio / video solutions across multiple teams globally.</li>\n<li>Lead an end-to-end approach to owning and driving media quality efforts across the Hangouts Meet product.</li>\n<li>Work cross-functionally across product and engineering teams to identify media related problems and to drive user and product impact.</li>\n</ul>",
+    "title": "Principal Engineer, Hangouts Meet"
+}

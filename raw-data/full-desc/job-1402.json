@@ -1,0 +1,35 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckdj-b5NV_hZPuE_GJpV2lCCsUEVIkzEYiSQ9eOm11SESOgASYQ8wFzYO9ctYjTfaGTLAD5FWTSsIpYcDrX5fjYdUTmsQ-ia7C7qHiSoOYMtddvJfXS-yWqQ-ysw%3D_V2&jobTitle=Developer+Programs+Engineer%2C+Web+Infrastructure&loc=US",
+    "categories": [
+        "DEVELOPER_RELATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-07T17:31:50.667Z",
+    "description": "<p>Our team works to make it easier for web developers to build great software by building tools and utilities that support the ecosystem. In this role, you&#39;ll create new infrastructure for sites that helps our team scale and improve our ability to deploy content, samples and apps.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/143682577194984134",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-07T17:31:50.667Z",
+    "publish_date": "2019-03-07T17:31:50.667Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Experience shipping modern websites and web apps using new web platform technologies.</li><li>Experience in a Front-End Lead Developer, Front-End Lead Designer, Full-Stack Lead Developer, or Full-Stack Lead Architect role.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience working on web platforms.</li><li>Experience with blogging and writing technical articles about the web.</li><li>Experience creating scalable developer content, and effective command of web application or mobile application development landscapes.</li><li>Experience with deploying user facing sites.</li></ul>",
+    "responsibilities": "<ul><li>Create and maintain infrastructure (both front-end and back-end) and site design for our team&#39;s external sites.</li><li>Create and manage new infrastructure for new sites, and make it easy to publish content, samples and apps.</li><li>Identify, design and build new tooling to help web developers build, test and deploy sites and apps (e.g, new integrations, site rendering with puppeteer, etc.).</li></ul>",
+    "title": "Developer Programs Engineer, Web Infrastructure"
+}

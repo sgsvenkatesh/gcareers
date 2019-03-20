@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Applications are currently closed. Please check back in Fall 2019 to apply for our February 2020 cohort.</b><br><br><b>Note: By applying to this position your application is automatically submitted to the following locations: Austin, TX, USA; Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA</b>",
+    "categories": [
+        "INFORMATION_TECHNOLOGY"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-04T16:31:46.855Z",
+    "description": "<p>Google&#39;s Information Technology Residency Program (ITRP) is a 26-month role designed to jumpstart your career in technology at Google or beyond. Residents will learn what it takes to support and scale Google\u2019s technology, from our corporate infrastructure to our end users. Using various support channels (e.g. chat, email, phone, video, in-person, etc), you will be helping Googlers on all sorts of challenging support cases. You will encounter a sophisticated user base working on all major desktop and mobile operating systems (e.g.Windows, OS X, Linux, Chrome OS, Android, etc).\n</p>\n\n<p>Google aspires to be an organization that reflects the globally diverse audience that our search engine and tools serve. We believe that in addition to hiring the best talent, a diversity of perspectives, ideas and cultures leads to the creation of better products and services. Interacting with people in all parts of the company will give you insight into our unique enterprise and corporate culture.\n</p>\n\n<p>At Google, we believe that a successful IT career has its foundation in user support, and ITRP gives you exposure to a wide range of issues by assisting Googlers around the world. You will help Google&#39;s operations evolve at scale by finding innovative ways to make support more efficient. You will act as a liaison between technical and non-technical groups to enhance Google&#39;s infrastructure and internal services.\n</p>\n\n<p>We will equip you with everything you need to know to support our users, as well as skills you\u2019ll need as a future IT leader. You will receive specialized training in networking, infrastructure and multi-platform system administration, and you will develop further skills through hands-on experience in communication technology (video and voice), hardware, mobile device support and project management. You will spend three months on an operations team, focusing on an area such as networking, security or system administration. Additionally, through short-term travel, you\u2019ll have the opportunity to experience the diverse support landscapes in other Google offices.\n</p>\n\n<p>IT Residency alumni have advanced on to a variety of positions, both at Google and other technology companies, in roles such as networking, security, site reliability engineering, system administration and support.</p><p>At Google, our users come first, and the Systems Infrastructure team is at the heart of that promise. We build the technologies that transform the way we think about doing business. Whether working on our cloud systems, researching the latest in computer technology or keeping Google&#39;s internal systems humming, Googlers and users alike rely on us to keep things running. We&#39;re back-end experts: protecting your privacy and ensuring your security.</p>",
+    "education_levels": [
+        "ASSOCIATES_OR_EQUIVALENT",
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/139100724337222342",
+    "location": {
+        "address_lines": [
+            "Austin, TX, USA"
+        ],
+        "city": "Austin",
+        "country": "TX",
+        "country_code": "US",
+        "display": "Austin, TX, USA",
+        "lat": 30.267153,
+        "lon": -97.7430608
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=1168x324&zoom=12&signature=UTSmzhT1GwaqAFOlXiNqYeEp1js=",
+        "large_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=1024x324&zoom=12&signature=ojF7AFQovSAd42Cxo1IUj70UZ4s=",
+        "small_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=600x400&zoom=12&signature=y_wUhfimj7y5il9HxUh_cxg3Bwk=",
+        "small_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=600x400&zoom=12&signature=SwUrs381CxcDbwPJMemUHah_AOk="
+    },
+    "modified": "2019-03-08T16:02:47.718Z",
+    "publish_date": "2019-03-08T16:02:47.718Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Associate&#39;s degree in a technical field or equivalent practical experience.</li><li>6 months of experience troubleshooting in a Linux, OS X, or Windows networked environment.</li><li>Customer service and/or help desk experience.</li><li>Eligible to work in the United States.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Information Systems, Information Technology, Applied Networking, System Administration, or other degrees with applicable experience.</li><li>Completion of the Google IT Support Professional Certificate hosted on Coursera, or other comparable certifications.</li><li>1 year of relevant work experience, including deploying and supporting desktops/laptops, phone systems, video conferencing and various wireless devices.</li><li>Ability to work well in a team environment with a focus on knowledge sharing and collaboration.</li><li>Ability to problem solve and adjust quickly to changing priorities and to make quick decisions with limited information.</li>\n\n</ul>",
+    "responsibilities": "<ul>\n<li>Provide support across all channels, including chat, email, phone, video, in-person, etc. (the amount of time dedicated to each will vary by location).</li>\n<li>Troubleshoot across Google\u2019s corporate resources, applications, and various operating systems, including Linux, OS X, Windows, Chrome OS and Android platforms.</li>\n<li>Support various services such as video conferencing, remote access, new internal products and mobile technology.</li>\n</ul>",
+    "title": "Information Technology Residency Program (Fixed-Term Employee)"
+}

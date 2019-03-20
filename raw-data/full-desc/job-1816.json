@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckb5pur7h9DmP15vLi5wNbD-m6PGwdzCNJtVN57hoyTsSOgCPMA3TkJVTaUfoQukkYxFGIbiv45TDcG_GXiL8IAOfMFJcXaIPzfReszurv6ZEZ3XEFooexJaBRgM%3D_V2&jobTitle=Director+of+Engineering+Productivity%2C+Ads&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:03:34.395Z",
+    "description": "<p>In this role you will drive the engineering productivity strategy for Ads within Travel and head a team that focuses on the build, test, release, and monitoring of the infrastructure for Google\u2019s products. As part of the Ads Engineering Productivity Leadership team, you will work closely with VPs, Senior Directors and leaders across the Engineering Productivity function at Google.\n</p>\n\n\n<p>The team&#39;s scope ranges from developer infrastructure challenges of large scale, latency sensitive, real time systems to user and data privacy, developer tooling and engineering velocity. Within this domain, you will manage the developer and release tools, efficiency and coverage story.</p><p>Users come first at Google. Nowhere is this more important than on our Advertising &amp; Commerce team: we believe that ads and commercial information can be highly useful to our users if, and only if, that information is relevant to what our users wish to find or do. Advertisers worldwide use Google Ads to promote their products; publishers use AdSense to serve relevant ads on their website; and business around the world use our products (like Google Shopping, and Google Wallet) to support their online businesses and bring users into their offline stores. We build and maintain the platforms that have made Google what it is today, and are constantly innovating to deliver the most effective advertising and commerce opportunities of tomorrow.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6163176725086208",
+    "location": {
+        "address_lines": [
+            "Cambridge, MA, USA"
+        ],
+        "city": "Cambridge",
+        "country": "MA",
+        "country_code": "US",
+        "display": "Cambridge, MA, USA",
+        "lat": 42.3736158,
+        "lon": -71.10973349999999
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&size=1168x324&zoom=12&signature=JaO6-ZwWrNFtKn3WQm2SRjf9ZbE=",
+        "large_2x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&scale=2&size=1024x324&zoom=12&signature=ztO_GFdS-eUPL9b-BGZvaDyVm3I=",
+        "small_1x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&size=600x400&zoom=12&signature=6Okll-qvZ7t3C6x3-kMPp_P58Yc=",
+        "small_2x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&scale=2&size=600x400&zoom=12&signature=vS95FBFswniXfAJTkSOvWzAjgvg="
+    },
+    "modified": "2019-02-27T19:43:28.590Z",
+    "publish_date": "2019-02-27T19:43:28.590Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor\u2019s degree in Computer Science, related technical field or equivalent practical experience.</li><li>7 years of experience in managing internal infrastructure, developer tools or distributed computing infrastructure.</li><li>Experience translating data and insights into strategies.</li></ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with Java or C++.</li>\n<li>Ability to proactively anticipate challenges and look around the corner for obstacles.</li>\n<li>Comfortability in dealing with ambiguity.</li></ul>",
+    "responsibilities": "<ul>\n<li>Manage a diverse team, navigate deep technical problem spaces, lead ahead in infrastructure and tooling strategy while balancing a wide variety of projects and engagements.</li>\n<li>Have the technical ability to be hands-on, be close to the technology and driving the direction of the organization with conviction and experience.</li>\n<li>Build, grow and retain top talent and continually find ways to inspire and challenge a high functioning engineering organization.</li>\n<li>Build cross-functional partnerships, working closely with our developer and product management leadership in identifying productivity bottlenecks, issues with production quality and coverage, and providing optics on improving both through scale and tooling.</li>\n</ul>",
+    "title": "Director of Engineering Productivity, Ads"
+}

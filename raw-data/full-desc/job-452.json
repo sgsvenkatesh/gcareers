@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fcke2wFRsJojF0N2ZV813k9smw5vIm592GJaAjtUius-oSOgASYQ8wlthMMLOttRURf9ZBBrGzPrEI5iyQrwNtsNg6sy_77I3l_gGxCVUQ0guII1aFWoe4BIh8jck%3D_V2&jobTitle=Program+Manager%2C+Cloud+Developer+Relations+Events&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-07T21:01:43.917Z",
+    "description": "<p>We bring Google\u2019s most advanced technologies to millions of developers, architects, data scientists, and other technical practitioners across a variety of enterprises, startups, universities, and communities. We grow developer adoption of Google Cloud through a variety of programs, experiences, and channels, placing the developer at the center of everything that we do. By joining Google Cloud, you&#39;ll be part of the company&#39;s fastest growing organization and work alongside a team of exceptional engineers, developer advocates, community leaders, and marketers.\n</p>\n\n\n<p>As a Program Manager, you will lead the strategy, execution and growth of Google Cloud\u2019s third-party developer events. The program reaches practitioners globally through marquee events, strategic partner events, and dozens of community-focused conferences. You&#39;ll work to drive Google Cloud awareness, learning, product adoption, and feedback through engaging, audience-focused activations, as well as scoping out new programs for scaled support of developer community events and engagement with the developers of strategic partners. You are passionate and committed, and have experience working in a software or other technology cloud B2B organization.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/100624416179659462",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-01T15:02:02.770Z",
+    "publish_date": "2019-03-01T15:02:02.770Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience with producing events and leading teams (coaching, inspiring and mentoring).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Ability to understand technical subjects and emerging technologies and their relevance to the marketplace.</li>\n<li>Ability to lead and execute multiple projects independently, including supervising and/or influencing the work of direct or cross-functional teams.</li>\n<li>Appreciation for cloud technologies and the developer audience.</li>\n<li>Excellent organizational and project management skills, including overseeing complex work streams across multiple functions composed of both technical and non-technical members.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Strategize, implement and optimize programs and work streams, including managing budget in order to enable global program success and growth.</li>\n<li>Lead cross-functional strategic planning with key cross-functional stakeholders, including Developer Relations, Product and Marketing stakeholders.</li>\n<li>Manage development and roll out of work streams to further program growth, including collaborating with other industry leaders and community partners.</li>\n<li>Supervise a distributed team including vendors, agencies, and contractors.</li>\n<li>Develop processes to consistently track and measure the impact of event experiences and reporting outcomes to key stakeholders.</li>\n</ul>",
+    "title": "Program Manager, Cloud Developer Relations Events"
+}

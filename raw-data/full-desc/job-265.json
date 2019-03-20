@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXqU0MArqREB0BpCyuUy10y46pj5mVaaXu2zEPVF08oSOgASYQ8w9xL3pJphnyFpADVvqakUOBaaDtFyw14IwmqsPmnC5_mv16BBqGyMlVdxpCKNNc2wIBd7FR0%3D_V2&jobTitle=Project+and+Process+Manager&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-13T11:31:44.801Z",
+    "description": "<p>In Finance Operations, we embrace unique opportunities in scaling our varied and growing businesses effectively while enabling our Product teams to grow at an unprecedented pace. We design processes that work internationally while accommodating local needs and we provide rapid tactical and strategic responses to challenges, ensuring the positive impact is lasting. \n</p>\n\n\n<p>As a Project and Process Manager, you&#39;ll find innovative ways to manage our complex set of transactions. You will discover innovative ways to make our processes more efficient and scalable.\n</p>\n\n\n<p>You will play a key role in upholding the highest level of quality of our operations and you&#39;ll work proactively minimize operational risk. Externally, you will collaborate with our outsourcing partners and internally, you&#39;ll collaborate across all parts of Google, from Engineering to Product Areas.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/120552514811503302",
+    "location": {
+        "address_lines": [
+            "Chicago, IL, USA"
+        ],
+        "city": "Chicago",
+        "country": "IL",
+        "country_code": "US",
+        "display": "Chicago, IL, USA",
+        "lat": 41.8781136,
+        "lon": -87.6297982
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&size=1168x324&zoom=12&signature=gIOxZ7dGhwr2LpHWKXkFIvPRMTc=",
+        "large_2x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&scale=2&size=1024x324&zoom=12&signature=rKP_A-4nJuEU4qbWPyESRqYx2vk=",
+        "small_1x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&size=600x400&zoom=12&signature=ol3MCzT12A291E1FDNtdLB3cK5M=",
+        "small_2x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&scale=2&size=600x400&zoom=12&signature=MQ1gJIGd_vtm2oDAQWiFTlRbRaM="
+    },
+    "modified": "2019-03-13T11:31:44.801Z",
+    "publish_date": "2019-03-13T11:31:44.801Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Business, Engineering or Operations or equivalent practical experience.</li>\n<li>5 years of relevant work experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Lean Six Sigma Green Belt, or similar certification.</li>\n<li>Experience leading complex process improvement projects.</li>\n<li>Excellent data analysis skills with experience applying statistical methods, SQL, dashboard design.</li>\n<li>Demonstrated project management skills with the ability to manage multiple tasks in a dynamic environment.</li>\n<li>Proactive team player able to thrive in ambiguity, and navigate complexity to develop solutions.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Drive end-to-end process design and new system implementation, collaborating with Product, Engineering, Finance and Operations teams.</li>\n<li>Design reporting and perform analyses to drive effective process improvement, eliminate mistakes and provide quick fixes.</li>\n<li>Manage outsourced vendors and processes, ensuring operations targets are met and identifying opportunities for growth and improvement.</li>\n</ul>",
+    "title": "Project and Process Manager"
+}

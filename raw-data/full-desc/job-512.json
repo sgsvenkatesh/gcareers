@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYVynAejygKgdRESn_zY5szvfQIpIElg0q4dnIzPCa4SOgASYQ8wQaEvzlgmVA7-CCQJ3Pcl1XN06FUVNLLlnmk9KyK_DMPtB3Ci4s3CfuoxBFmPcpQJtG4_MuU%3D_V2&jobTitle=RF+Hardware+Engineer%2C+Pixel+Design&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-12T02:01:40.835Z",
+    "description": "<p>Our computational challenges are so big, complex and unique we can&#39;t just purchase off-the-shelf hardware, we&#39;ve got to make it ourselves. Your team designs and builds the hardware, software and networking technologies that power all of Google&#39;s services. As a RF Hardware Engineer, you design and build the systems that are the heart of the world&#39;s largest and most powerful computing infrastructure. You develop from the lowest levels of circuit design to large system design and see those systems all the way through to high volume manufacturing. Your work has the potential to shape the machinery that goes into our cutting-edge data centers affecting millions of Google users. <br><br>With your technical expertise, you lead projects in multiple areas of expertise (i.e., engineering domains or systems) within a data center facility, including construction and equipment installation/troubleshooting/debugging with vendors.</p>\n\n<p>As a RF Hardware Engineer, you will be a part of our design team that works on cellular consumer products, from conception to production.\n</p>\n\n<p>You have a RF systems design background, and experience with building and shipping consumer electronics products. You also have knowledge of system architecture and wireless communication standards. You&#39;ll be directly involved in cross-functional team engagement, defining overall product architecture to achieve optimal RF performance.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/79272863514665670",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:55:48.713Z",
+    "publish_date": "2019-02-27T19:55:48.713Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Electrical Engineering, specializing in RF or Electromagnetics, or equivalent practical experience.</li>\n<li>4 years of experience designing RF solutions for Consumer Electronics.</li>\n<li>Experience with board design, board bring-up, desense mitigation, factory processes and manufacturing.</li>\n<li>Automation experience using Python or other scripting languages.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>2 years of experience with Python scripting.</li>\n<li>RF design experience, board-level and firmware debug skills, and familiarity with schematic creation and PCB design.</li>\n<li>Experience with and knowledge of RF design in consumer products. Experience using common RF test equipment (e.g., spectrum analyzers, network analyzers, oscilloscopes, protocol and signaling testers) and/or antenna chambers. Ability to use test equipment in a hands-on lab environment.</li>\n<li>Knowledge of different wireless communication systems, such as GSM/UMTS/CDMA/LTE, 802.11, Bluetooth, GPS, etc.</li>\n<li>Familiarity with regulatory requirements (e.g., FCC, IC, CE, etc.), carrier specifications, 3GPP, 3GPP2, and their respective certification process.</li>\n<li>Familiarity with simulation tools and/or circuit simulation capability such as ADS, scripting and automation tools for data collection/analysis.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Define architecture, specification, design and test boards for innovative consumer electronic devices.</li>\n<li>Design and optimize RF system solutions, including cellular technologies LTE, UMTS, CDMA, GSM, WLAN, BT, and/or GPS.</li>\n<li>Design for volume manufacturing and support factory engineers from prototyping to product launch. Travel internationally up to 15% as required.</li>\n<li>Be responsible for PCB design for optimal RF performance.</li>\n<li>Work with component vendors and partners to develop the RF front end.</li>\n</ul>",
+    "title": "RF Hardware Engineer, Pixel Design"
+}

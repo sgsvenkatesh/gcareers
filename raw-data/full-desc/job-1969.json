@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcMmxaaFjTL28RFF8MdpRGqVMX9ZDueriRIYitZelboSOgASYQ8wbY3z5A5qPEreb6DlMYQSZq4sHid5kiMv3OTILeDRQPynr8ajQ9xjyj3Tf-jbmBfOt_B5rnM%3D_V2&jobTitle=Policy+Manager%2C+Google+Play&loc=US",
+    "categories": [
+        "MARKETING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-29T17:01:51.110Z",
+    "description": "<p>The Google Play Policy team within Android develops and provides business-critical content policies and helps the developer community and digital content catalog of Google Play. We are focused on protecting and improving store quality, supporting Google Play partners and aligning with the broader Google content policy globally.\n</p>\n\n<p>As a Policy Manager, you will be responsible for delivering high-quality policy evaluations and guidance related to privacy in areas such as data deletion, retention and access controls. You are comfortable delivering decisions and recommendations under tight time pressure, often with senior executives with competing viewpoints.</p><p>Google Play offers music, movies, books, apps and games for your devices, powered by the cloud. It\u2019s a Google approach to entertainment, syncing magically across your devices and on the web. As part of the Android and Mobile team, Googlers working on Google Play do everything from engineering our backend systems, to shaping the product strategy, to forming great content partnerships. They make it possible for people to do things like buy an ebook or song on their Android phone, then have it instantly available on their laptop. The Google Play team helps strengthen the overall Android ecosystem by giving developers and partners a premium store where they can reach millions of users.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/104612799314830022",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:52:56.702Z",
+    "publish_date": "2019-02-27T19:52:56.702Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>8 years of experience in Operations, Technical Program Management, Policy or Trust &amp; Safety.</li>\n<li>Experience with mobile ecosystems.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience working in a fast-paced and constantly evolving environment.</li>\n<li>Experience or demonstrated interest in privacy-related policy and product initiatives.</li>\n<li>Understanding of Google Play\u2019s permission structure and general handling of user data.</li>\n<li>Ability to use data to drive strategy and business action.</li>\n<li>Ability to build relationships with cross-functional partners at all levels.</li>\n<li>Outstanding influencing and communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Facilitate privacy by design in policy development, working with Product, Legal, Trust &amp; Safety, Security, Engineering and Operations.</li>\n<li>Oversee management of policy operationalization, both for internal and external stakeholders.</li>\n<li>Build relationships with stakeholders and help implement solutions to urgent policy issues.</li>\n</ul>",
+    "title": "Policy Manager, Google Play"
+}

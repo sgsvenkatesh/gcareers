@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcFNJT0uAUNzWHmGdwNNoLdFUxw20pRY36FbWkmSoA0SOgCPMA3TY5PyPkwJrac933zaIkNxOo859PzbrPh7my1ztLiNQZ3V0yPcLqqlm9F15cDvgD7WMp3r5KI%3D_V2&jobTitle=Camera+Test+Engineer%2C+Consumer+Hardware&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:06:11.130Z",
+    "description": "<p>At Google, our philosophy is build it, break it and then rebuild it better. That thinking is at the core of how we approach testing at Google. Unlike roles with similar names at the other companies, Test Engineers at Google aren&#39;t manual testers -- you write scripts to automate testing and create tools so developers can test their own code. As a Test Engineer, you navigate Google&#39;s massive codebase, identify weak spots and constantly design better and creative ways to break software and identify potential problems. You&#39;ll have a huge impact on the quality of Google&#39;s growing suite of products and services.</p>\n\n<p>As a Camera Test Engineer on the Centralized Test Engineering team, you will manage the testing of the functional performance of camera devices. You are a key member of the cross-functional team that will launch the product. \n</p>\n\n<p>You use your knowledge of testing and testability to influence better software design, promote proper engineering practice, bug prevention strategies, testability, accessibility and other advanced quality concepts across products.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6378081742946304",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:44:20.636Z",
+    "publish_date": "2019-02-27T19:44:20.636Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Engineering or equivalent practical experience.</li>\n<li>5 years of experience in testing products for manufacturing. Experience of coding in Python, MATLAB or C++. Experience with building and launching consumer electronics products.</li>\n<li>Experience with image quality evaluation and imaging science (3A, CCM, SFR/MTF, ISP, hot/dead pixels). Experience in DFM (design for manufacturing) and DFT (design for test).</li>\n<li>Ability to travel up to 20% of the time as required.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree or PhD in Engineering.</li>\n<li>Experience with camera lens, module and image sensor characterization.</li>\n<li>Experience in debug, troubleshooting and failure analysis investigation.</li>\n<li>Experience with hardware testing, system bring up and design validation. Experience with micro-electronics design and validation. Mechanical and/or Software expertise in test station development.</li>\n<li>Understanding of camera HW (camera sensor, VCM, lens, etc.) design. Understanding of camera tests in module level, sub assembly level and system level.</li>\n<li>Excellent project management and leadership skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop factory test stations with a focus on camera and/or optics tests. Responsible for design and implementation of camera test solutions, test SW, yield, parametric data and correlation.</li>\n<li>Design test algorithms to investigate camera failures.</li>\n<li>Collaborate with Design/Engineering teams on functional specs for the product and make recommendations to design and test coverage improvement.</li>\n<li>Work with the Infrastructure team on test framework improvements, data collection, etc.</li>\n<li>Work with OEM, ODM, JDM and CM partners to ensure tests are implemented across different factories.</li>\n</ul>",
+    "title": "Camera Test Engineer, Consumer Hardware"
+}

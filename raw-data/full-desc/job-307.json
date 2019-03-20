@@ -1,0 +1,36 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Boulder, CO, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfhRDMcMSuEhcE0PbNFt8pz6IDQaB8wq-5dWlhvClWkSOgASYQ8wOWgjS5oc5J3DcGz-iuVgZ778kjbYi85nsrEHM4lJOTyp-CdRgHADWR9UFsZSoMpDLVetPjQ%3D_V2&jobTitle=Database+Engineer&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-11T20:01:57.495Z",
+    "description": "<p>As a Database Engineer, you\u2019ll have the chance to collaborate with and learn from other Google engineering teams. You will define, plan, and execute projects to deliver efficient and scalable SaaS services hosted on public cloud, build and package database components in Kubernetes (K8s) to deploy and operate in public cloud and customer&#39;s private cloud, and lead/contribute to support efforts from design to operations, solving complex technical challenges around shared services and engineering productivity and velocity.</p><p>Apigee provides an API management platform that helps businesses deliver new connected experiences for their customers. Apigee\u2019s API platform powers developer ecosystems by connecting developers that provide APIs (within enterprises) with developers that consume APIs (build apps and services). We solve business, operations and security challenges that arise in these developer ecosystems by proxying API traffic between provider and consumer. Our Intelligent Analytics features, powered by machine learning, provides insights and helps businesses measure the success of their API programs, empowering organizations to accelerate their business by unlocking the value of data and delivering modern applications. Our goal is building a next-generation platform to handle trillions of calls for tens of thousands of customers running millions of APIs.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/140718292504322758",
+    "location": {
+        "address_lines": [
+            "Boulder, CO, USA"
+        ],
+        "city": "Boulder",
+        "country": "CO",
+        "country_code": "US",
+        "display": "Boulder, CO, USA",
+        "lat": 40.0149856,
+        "lon": -105.2705456
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=1168x324&zoom=12&signature=RWg9rdP4s-zj7r2ELoisZdFQ7jU=",
+        "large_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=1024x324&zoom=12&signature=lRnrHzcQtw0pgrtaHpD_4j8u63g=",
+        "small_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=600x400&zoom=12&signature=Kkn4WpW4jfSb41zSVJO_wPfUn5Y=",
+        "small_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=600x400&zoom=12&signature=aZnnbjI8phY0WeCAZPgUPofC1jo="
+    },
+    "modified": "2019-03-11T20:01:57.495Z",
+    "publish_date": "2019-03-11T20:01:57.495Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Experience with RDBMS and NoSQL (Cassandra, PostgreSQL/MySQL).</li>\n<li>Experience with Linux/Unix OS administration and network operations.</li>\n<li>Experience with infrastructure automation.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with distributed data systems.</li>\n<li>Experience creating the architecture for database deployments on Cloud platforms like Google Cloud Platform (GCP).</li>\n<li>Experience and exposure with GCP and Kubernetes.</li>\n<li>Experience working with public cloud providers like GCP.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Deliver multi-cloud, loosely-coupled, distributed, and highly available platform.</li>\n<li>Be the subject matter expert for the distributed data platform in a multi-cloud environment and private cloud (on-prem).</li>\n<li>Design, deploy, and operate data platform systems in containerized platforms like Kubernetes.</li>\n<li>Be responsible for the design, deploy, and operations of the distributed data platform.</li>\n</ul>",
+    "title": "Database Engineer"
+}

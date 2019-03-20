@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Applications are now closed. Please check back in 2020 for intern opportunities.</b><br><br><b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; Boulder, CO, USA; New York, NY, USA; San Bruno, CA, USA; San Francisco, CA, USA; Sunnyvale, CA, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Pittsburgh, PA, USA</b>",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-05T20:33:35.515Z",
+    "description": "<p>Design and user experience (UX) are at the forefront of everything we do. The job of a Designer is to envision how people experience our products and bring that vision to life in a way that feels inspired, refined and even magical. In a Designer role, you\u2019ll address complex tasks and transform them into intuitive, accessible and easy-to-use solutions for billions of people around the world\u2014from the first-time user to the sophisticated expert. Achieving this goal requires collaboration with teams of other Designers, Researchers, Engineers and Product Managers throughout the design process\u2014from creating user flows and wireframes to building user interface mockups and prototypes. At each stage, you will anticipate what our users need, advocate for them and ensure that the final product surprises and delights them.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to address some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From AdWords to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6659329969291264",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:53:05.939Z",
+    "publish_date": "2019-02-27T19:53:05.939Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Currently pursuing a BA/BS degree in graphic design, human-computer interaction, computer science, or related field.</li>\n<li>Experience with design tools (e.g., Adobe Photoshop, Sketch, Illustrator, After Effects, Quartz Composer, Framer Studio, etc.)</li>\n<li>A design portfolio that demonstrates design principles for web and/or mobile platforms.</li>\n<li>Available to work full time for 12-14 weeks during the summer from May 2019 to August 2019 or June 2019 to September 2019.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Currently pursuing a MS degree in graphic design, human-computer interaction, computer science, or related field.</li>\n<li>Strong design background in fundamentals along with relevant internship work, work experience, or personal project experience outside the classroom in interaction, graphic design or motion design.</li>\n<li>Solid analytical, creative and visual thinker with excellent communication skills, both verbal and visual.</li>\n<li>Returning to a degree program after the internship.</li>\n<li>Authorization to work in the United States.</li>\n<li>Available to start on May 28, 2019 or June 17, 2019.</li>\n</ul>",
+    "responsibilities": "<p><b>Perform specific responsibilities which vary by project area.</b></p><b>Interaction Designer:</b><ul><li>Produce and test interaction flows and mocks that accurately communicate product functionality to product, engineering, and visual design team members.</li> <li>Pair research with an intellectual curiosity that encourages testing and iteration is essential.</li> <li>Understand modern web and/or mobile environments such as HTML, CSS, JavaScript, Android UI, and iOS UI, as well as how the technologies of each can be used to further enhance the overall experience.</li> <li>Appreciate aesthetic details and a generally high level of production quality are encouraged.</li></ul><br /><b>Visual Designer:</b><ul><li>Produce the highest quality design that accurately reflect a visual design language or brand guideline.</li> <li>Understand typography, color, grid, and composition. Demonstrate best practices for pixel-perfect production considerations and methods.</li> <li>Use a broad range of styles that can be consistently executed; ideally with an aesthetic personality or voice that is consistent, though not restricting.</li> <li>Develop and communicate underlying concepts that inspire design implementation.</li></ul><br /><b>Motion Designer:</b> <ul><li>Create motion studies for enhancing usability, interaction, storytelling, and delight.</li> <li>Work closely with UX partners and product managers to ideate and define.</li> <li>Work closely with engineering to integrate explorations into product experiences.</li> Work closely with research to test and inform user experiences.</ul>",
+    "title": "User Experience Design Intern, Summer 2019"
+}

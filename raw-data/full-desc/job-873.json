@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Francisco, CA, USA; Mountain View, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRB5-DyrQhDEs5hldCwVjQBibCFZElpMjJmh30A-dVQSOgCPMA3TkuYl4PDZHy_EJdRPCw-biFhJ7och2wbzKk_sDVrkrnlhLnwT1Ayeu6KB-15HCzf4vS0TsXo%3D_V2&jobTitle=Unix%2FLinux+Systems+Programmer+and+Administrator&loc=US",
+    "categories": [
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:33:48.356Z",
+    "description": "<p>Systems Administrators embrace Google&#39;s motto to ensure millions of users can access the world&#39;s information without a glitch. As a Unix/Linux Systems Programmer and Administrator at Google, you own and support the needs of one of Google&#39;s server infrastructure systems. You&#39;re highly technical and work directly with other server and service owners to ensure reliability and sustainability of the Google service infrastructure as well as compliance with internal policies. Success in this role means you are able to support servers in a mixed operating system environment and work efficiently with our internal technology providers as well as other operations groups. Googlers rely on your guidance when it comes to design decisions so you&#39;ll have a direct impact in keeping the business productive.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5768700893528064",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:39:00.865Z",
+    "publish_date": "2019-02-27T19:39:00.865Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent practical experience.</li><li>7 years of experience in implementing, troubleshooting, and supporting Unix/Linux operating system, Internet-based applications and/or web servers.</li><li>Experience with scripting and actively writing/modifying code to improve monitoring or deployment (Python, Go, Perl, Java, C, Shell, etc).</li><li>Experience with TCP/IP networking (DNS, DHCP, etc).</li></ul><br><p>Preferred qualifications:</p><ul><li>12 years of experience in implementing, troubleshooting, and supporting Unix/Linux operating system, Internet-based applications and web servers.</li><li>Fluency in multiple programming languages.</li><li>Excellent customer service, leadership, organizational, communication and interface skills.</li></ul>",
+    "responsibilities": "<ul>\n<li>Work in a fast paced environment while ensuring the uptime and availability of Google&#39;s products to customers and Googlers.</li>\n<li>Participate in on-call rotation.</li>\n<li>Respond to tickets within team defined Service Level Objectives (SLO).</li>\n<li>Support, maintain and deploy team-supported infrastructure and documentation.</li>\n<li>Work closely with various network and software engineering teams.</li>\n</ul>",
+    "title": "Unix/Linux Systems Programmer and Administrator"
+}

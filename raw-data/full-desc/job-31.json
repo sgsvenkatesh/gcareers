@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbvyLSUuVZ_-sQ20jJ2jcSMu7P-rop7yZ0Tb1Skil5ASOgASYQ8woNZoGd6vpTHMfJ0apdyzoxSwIHTZ2XfK4N6e0vJYsYcTsQPKpDjMe55Tro1LJTdBcZtL294%3D_V2&jobTitle=Technical+Specialist%2C+Legal&loc=US",
+    "categories": [
+        "LEGAL"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-28T17:02:50.706Z",
+    "description": "<p>Our Legal team needs more than attorneys to keep things moving. Our Legal Operations team is charged with improving and maintaining the Legal team&#39;s internal processes, systems and tools. Responsible for tracking objectives, coordinating financial planning and solving technology challenges, you are entrepreneurial, proactive and highly organized. You keep costs down, engage third-party vendors and make the Legal team&#39;s services better, faster and more efficient.</p>\n\n\n<p>Our team provides technical support and end-to-end solutions for the Discovery Litigation Support team. Equipped with a variety of cutting-edge technological skills and savvy, members on this team are often called upon to assist with urgent requests related to database management, coding, data manipulation, automation, and overall process improvements in discovery operations. To that end, this team is also tasked with application development when it is determined a tool would provide more value than repeated one-off coding efforts. Pioneering the eDiscovery gold standard by engineering the most effective methods to collect, classify, and produce Google\u2019s electronic data is what we do.</p><p>20th century laws don&#39;t always solve 21st century problems, and Google Legal crafts innovative approaches for handling some of the toughest legal challenges of the information age. Whether you&#39;re a patent attorney, an intellectual property expert or an engineer headed to law school, Google Legal lets you take on unanswered legal quandaries and create new precedents. Our innovative services raise challenging questions that demand creative and practical answers. We provide those answers by working at the crossroads of the law and new technology, helping Google build innovative and important products for users around the world.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/97588178036105926",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-14T20:31:53.677Z",
+    "publish_date": "2019-03-14T20:31:53.677Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>2 years of relevant experience working in technology and/or legal field.</li>\n<li>Experience in software development using Python, SQL, or JavaScript.</li>\n<li>Authorization to work in the United States.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in full stack software development using Google APIs and working with Google Apps.</li>\n<li>Experience in UX design.</li>\n<li>Knowledge of Agile software development principles.</li>\n<li>Ability to prioritize and manage multiple projects under deadline pressure.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop small to medium scale end-to-end solutions in support of the Discovery Litigation Support team.</li>\n<li>Interact with stakeholders to define project requirements and recommend solutions.</li>\n<li>Work with managers to define project roadmaps, priorities, and deliverables.</li>\n<li>Manage the ongoing support and maintenance of project solutions: bug fixes, code refactoring, implementation of feature requests, data normalization and cleanup.</li>\n</ul>",
+    "title": "Technical Specialist, Legal"
+}

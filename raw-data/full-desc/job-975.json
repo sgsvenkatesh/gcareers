@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; Austin, TX, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYliPEiIlJIlHQw9xOIovhcwfafUUTi_pKk73iIVGL0SOgASYQ8wA9aBD-Mw6Tc-zjY72UAKGHTMiHjDTAibW-M02v52qjj6i_tkisZAtDutNIDLecL2FJyZeko%3D_V2&jobTitle=Team+Lead%2C+Online+Operations&loc=US",
+    "categories": [
+        "LEGAL"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-05T19:01:31.487Z",
+    "description": "<p>Google&#39;s legal department is at the center of an information law revolution, and you&#39;re at its core. As a Legal Assistant, you are a driving force behind the success of your Legal team, ready to roll up your sleeves to create and improve processes, maintain records, conduct legal research and coordinate communications across the team. As you closely support your team, you may find yourself working with multiple groups within the Legal Department, internal clients across Google, and external parties. You&#39;re an independent thinker who isn&#39;t afraid to ask questions, and you&#39;re organized in a way that never overlooks the details.</p><p>20th century laws don&#39;t always solve 21st century problems, and Google Legal crafts innovative approaches for handling some of the toughest legal challenges of the information age. Whether you&#39;re a patent attorney, an intellectual property expert or an engineer headed to law school, Google Legal lets you take on unanswered legal quandaries and create new precedents. Our innovative services raise challenging questions that demand creative and practical answers. We provide those answers by working at the crossroads of the law and new technology, helping Google build innovative and important products for users around the world.</p>",
+    "education_levels": [
+        "ASSOCIATES_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/123483598331224774",
+    "location": {
+        "address_lines": [
+            "Austin, TX, USA"
+        ],
+        "city": "Austin",
+        "country": "TX",
+        "country_code": "US",
+        "display": "Austin, TX, USA",
+        "lat": 30.267153,
+        "lon": -97.7430608
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=1168x324&zoom=12&signature=UTSmzhT1GwaqAFOlXiNqYeEp1js=",
+        "large_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=1024x324&zoom=12&signature=ojF7AFQovSAd42Cxo1IUj70UZ4s=",
+        "small_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=600x400&zoom=12&signature=y_wUhfimj7y5il9HxUh_cxg3Bwk=",
+        "small_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=600x400&zoom=12&signature=SwUrs381CxcDbwPJMemUHah_AOk="
+    },
+    "modified": "2019-03-11T19:31:49.948Z",
+    "publish_date": "2019-03-11T19:31:49.948Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>2 years of experience in a people management role or experience in leading teams.</li>\n<li>2 years of program or project management experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul><li>Experience with project management and process development, such as Six Sigma, with the ability to meet deadlines.</li><li>Experience working with large data sets, in order to develop key insights and opportunities.</li><li>Experience in designing and driving initiatives aimed at developing and improving culture.</li><li>Ability to influence others with composure and objectivity, balancing diplomacy and drive, with excellent judgment in sensitive matters and identifying and mitigating strategic risk.</li><li>Ability to work on a broad range of legal matters, effectively in the midst of ambiguity and complexity.</li><li>Demonstrated passion for internet policy.</li></ul>",
+    "responsibilities": "<ul><li>Provide mentorship, guidance and career development, remove roadblocks and encourage innovative solutions.</li><li>Track team metrics and manage operational targets for individual team members.</li><li>Analyze and respond to legal requests from agencies, participate in on-call pager rotation and respond to law-enforcement requests.</li><li>Assist in designing, implementing and documenting new policies and procedures that drive efficiency, improve quality and/or mitigate risk.</li><li>Manage ongoing initiatives and projects focused on improving the efficiency of how we process legal data requests.</li></ul>",
+    "title": "Team Lead, Online Operations"
+}

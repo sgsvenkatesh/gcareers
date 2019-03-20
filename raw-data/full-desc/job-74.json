@@ -1,0 +1,36 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYAClJVm9MjCSKYKKB0BJt23uOSbGG6-ySMx6v7sDbkSOgASYQ8wmxBNkMjTAJ8qqrT5x1iXs2vWJl4ctae_ZmpbYYAYmUFKLC4wc-OQmCuHKosXYMIgdWK9iPA%3D_V2&jobTitle=Metro+Production+Network+Deployment+Owner&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-27T22:31:54.002Z",
+    "description": "<p>Google is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is responsible for operating that network reliably and at scale. As a member of the team, you have a direct impact on design and feature enhancements to keep our systems running smoothly. You also ensure that network operations are safe and efficient by monitoring network performance, coordinating planned maintenance, adjusting hardware components and responding to network connectivity issues. Google&#39;s complex network generates a constant stream of challenges which require you to continually be innovative with an evolving set of technologies. Keeping the network reliable ensures that our users stay connected with our suite of applications, products and services.</p>\n\n\n<p>As a Metro Production Network Deployment Owner, you will be on the front lines of our efforts to deploy and maintain private data networks worldwide. You will work with Network Architects, Design Engineers, Infrastructure Engineers, Field Engineers, Strategic Negotiators, and Technical Project Managers within Google, as well as external industry vendors and contractors in order to strengthen and maintain the metro in which you are resident. As representative of Google, you will maintain a solid relationship with our construction contractors and telco vendors to streamline activities.\n</p>\n\n\n<p>You will use your experience in optical transport, data centers, and colocation, as well as your familiarity with the local metropolitan areas to which you are accountable, to drive greater efficiency and facilitate increased value-add for Google&#39;s network.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/93865729880662726",
+    "location": {
+        "address_lines": [
+            "The Dalles, OR 97058, USA"
+        ],
+        "city": "The Dalles",
+        "country": "OR",
+        "country_code": "US",
+        "display": "The Dalles, OR 97058, USA",
+        "lat": 45.5945645,
+        "lon": -121.1786823,
+        "post_code": "97058"
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=The+Dalles%2C+OR+97058%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=The+Dalles%2C+OR+97058%2C+USA&size=1168x324&zoom=12&signature=CRfgydpTS47A30OUEysU9ydvtjM=",
+        "large_2x": "/maps/api/staticmap?center=The+Dalles%2C+OR+97058%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=The+Dalles%2C+OR+97058%2C+USA&scale=2&size=1024x324&zoom=12&signature=x1uawb9azgSfD2n3tAi-WMQGq1M=",
+        "small_1x": "/maps/api/staticmap?center=The+Dalles%2C+OR+97058%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=The+Dalles%2C+OR+97058%2C+USA&size=600x400&zoom=12&signature=OdZjB1LLhImobT2HdlYrCrR7GxM=",
+        "small_2x": "/maps/api/staticmap?center=The+Dalles%2C+OR+97058%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=The+Dalles%2C+OR+97058%2C+USA&scale=2&size=600x400&zoom=12&signature=FZ7pYKF9iGmoyryiMlxyHix3TR8="
+    },
+    "modified": "2019-02-27T22:31:54.002Z",
+    "publish_date": "2019-02-27T22:31:54.002Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>2 years of experience working on installation, configuration and maintenance of network equipment for service providers, including field-based work in points of presence (POPs), carrier hotels, data centers, and/or central offices.</li>\n<li>2 years of experience with ISP network operations.</li>\n<li>Experience with enterprise/carrier-class routers and switches.</li>\n<li>Experience with Cisco and Juniper.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with power planning and installation, including AC- and DC-powered environments.</li>\n<li>Ability to travel as needed.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Act as the point of contact for all stakeholder and customer requests in relation to rack, space, power, network infrastructure, and service readiness for your assigned Metro.</li>\n<li>Position all metro resources to deliver network infrastructure projects, service orders, repairs, and maintenance tickets on time or within SLA.</li>\n<li>Manage and maintain assets, tools, test equipment, and consumable inventories to position local infrastructure build teams for meeting their objectives.</li>\n<li>Advocate continuous process improvements and work with internal teams and third-parties to constantly drive down unit cost and increase value-add for our end-users, customers, and stakeholders.</li>\n<li>Ensure all fire, security, power, HVAC, and other critical systems are periodically tested and maintained.</li>\n</ul>",
+    "title": "Metro Production Network Deployment Owner"
+}

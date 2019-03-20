@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckchwlZwK4TtgSwVfA2LkmJXKp2A19YRCYkMrdrVUlUISOgASYQ8w15qcTF_3Gfejnwx2RNS1geBt0ZC6W0tjS_Ggzaiv5tfdtV56Rc2-z3qE199AtxyIubPT2XI%3D_V2&jobTitle=Technical+Solutions+Engineer%2C+Chrome+and+Android%2C+Google+Cloud&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-21T11:31:38.643Z",
+    "description": "<p>The Google Cloud team helps companies, schools, and government seamlessly make the switch to Google products and supports them along the way. You swiftly problem-solve technical issues for customers to show how our products can make businesses more productive, collaborative, and innovative. You work closely with a cross-functional team of web developers and systems administrators, not to mention a variety of both regional and international customers. Your relationships with customers are crucial in helping Google grow its Google Cloud business and in bringing our product portfolio into companies around the world.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6567833546817536",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T22:58:17.778Z",
+    "publish_date": "2019-03-14T14:31:49.539Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science or a related technical field or equivalent practical experience.</li>\n<li>Experience in technical support, professional services, engineering, sustaining engineering, or systems engineering.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience implementing and supporting internet-based applications, web servers, mail servers (e.g. Exchange, Lotus, sendmail, or Postfix), and Linux/Unix operating systems. Experience with Identity Management or Directory Services (LDAP, AD).</li>\n<li>Experience with managing hosted services/Software-as-a-Service (SaaS). Familiarity with programming/scripting (i.e. one or more of Java, C, C++, .NET, Python, shell, Perl, JavaScript).</li>\n<li>Experience with various DBMS, data mining and analysis.</li>\n<li>Excellent network administration and troubleshooting skills with an understanding of Linux/Unix system administration and knowledge of Web and Mail-related standards, such as HTTP, HTML, XML, cookie-based SSO, and SMTP.</li>\n<li>Effective follow-through and problem solving skills, along with a high level of attention to detail, and excellent communication skills, with the ability to be resourceful and work effectively with rapid changes in enterprise products.</li>\n<li>Willingness to undergo a government background check to obtain clearance to work with government clients.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Obtain and maintain an in-depth understanding of Google&#39;s product technology, architecture and implementation, build and transfer knowledge to Google\u2019s Tier 1 and 2 support groups.</li>\n<li>Guide or perform design and implementation of new support, productivity or investigation tools to increase efficiency for the technical support process.</li>\n<li>Act as a consultant and knowledge base for product managers, sales engineers, technical account managers, and deployment specialists, resolving technical deployment obstacles, improving the product&#39;s vision and and make Google customers successful.</li>\n<li>Work closely with multiple Google product management and software engineering teams on understanding ways to improve the product, and interact with QA teams to drive testing quality.</li>\n<li>Diagnose and resolve complex customer challenges for the Google Chrome product area in a third tier engineering-level support function as part of a global 24x7 global team.</li>\n</ul>",
+    "title": "Technical Solutions Engineer, Chrome and Android, Google Cloud"
+}

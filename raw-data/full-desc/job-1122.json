@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Bruno, CA, USA; Mountain View, CA, USA; Sunnyvale, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZnXoZoTMDcvsbkQhHV-JmPpY7urbW-SSmR9Mb0YE4cSOQCPMA3TE0tpYwRJNEWP5qnQcODssG5RuT_Ct0YwB8p-gWnjQRp-RyDWXJtN5n2OzXJWgvaNiVXgdg%3D%3D_V2&jobTitle=Administrative+Business+Partner&loc=US",
+    "categories": [
+        "ADMINISTRATIVE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-11-27T17:01:56.854Z",
+    "description": "<p>As an Administrative Business Partner, you&#39;re at the heart of your team&#39;s business operations and activities and the soul that keeps your team moving forward. You anticipate the needs of your managers and team members and help them stay focused on their projects by resolving operational and administrative issues before they arise. You move quickly with the changing environment and are up to date with the latest Google products and services. You also use that knowledge to strategically support your team&#39;s projects. In addition to being organized and analytical, you possess the strong business judgment and communication skills needed to interact with a variety of people and job functions.</p><p>Administrative jobs at Google are staffed by organized and dependable people driven by a common company goal: to help us accomplish great things. Working behind the scenes, we make a significant impact on the people we support as well as on Google users around the world. We&#39;re adept at leading and managing a variety of simultaneous projects, which requires the particular talent of being able to communicate effectively with all levels of the organization.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6066697123201024",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T22:50:38.383Z",
+    "publish_date": "2019-02-27T19:42:08.666Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>1 year of direct executive support, project management or event planning experience.</li>\n<li>Authorization to work in the United States.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Proven ability to consistently and positively contribute in a high-paced, changing work environment with the ability to prioritize multiple functions and tasks and manage work time efficiently.</li>\n<li>Ability to adhere to an expectation of complete confidentiality on all business matters.</li>\n<li>Excellent communication and interpersonal skills; proven ability to take initiative and build strong, productive relationships.</li></ul>",
+    "responsibilities": "<ul>\n<li>Perform an extensive array of administrative tasks (manage calendars, book travel, and schedule facilities and equipment).</li>\n<li>Coordinate duties for multiple offices.</li>\n<li>Build efficiency and effective responsiveness into existing operations, and help define new operational strategies.</li>\n<li>Mentor new team members.</li>\n<li>Serve as a technical lead for, and manager of, small projects.</li>\n</ul>",
+    "title": "Administrative Business Partner"
+}

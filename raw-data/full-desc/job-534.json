@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXH0vTZjgxEDBuM34Nx1ncbpBO1mZr0chhOV4Cmy_PcSOQCPMA3TZsjq2l4Go__-QmjeK03UyTKoHaUwTPk4wevfO6vlFnrPoIARj4af2YjKIos1VYLI0wZtyA%3D%3D_V2&jobTitle=Enterprise+Network+Architect&loc=US",
+    "categories": [
+        "NETWORK_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-16T10:31:43.573Z",
+    "description": "<p>Google.com is the most popular website on the Internet. Our network has to operate at an unprecedented scale and reliability\u2014around the world and 24/7. We oversee the web\u2019s largest IP backbone and what is by far the biggest and most advanced cluster networking infrastructure on the planet. A huge amount of global Internet traffic depends on us, and on the technical masterminds who keep us running. Google\u2019s Network Architecture team defines and provides all manner of architectural elements, building blocks and technologies that allow Google&#39;s production network infrastructure to meet the needs of our nearly 1 billion users. Given the size and complexity of our network, we face a constant stream of interesting challenges. The ever-evolving set of technologies we use to take on these challenges are used by innovative and dynamic problem-solvers with expertise in all aspects of network management.</p>\n\n<p>CorpNet Engineering designs Google&#39;s enterprise network. Our focus is on engineering a network experience for users and environments spanning the globe through innovative hardware and software solutions, including Google&#39;s own Software-defined Networking (SDN) technology. \n</p>\n\n<p>As a Enterprise Network Architect, you\u2019ll be responsible for the architecture of Google\u2019s enterprise network infrastructure. The design and architecture you help to define will drive the next generation of Google\u2019s enterprise network. You will work with partner teams in the corporate enterprise infrastructure space to deliver innovative solutions, working seamlessly across technology environments that will render the network substrate ready for the new wave of business use cases, all the while responsible for solving challenging problems relating to scale, security and reliability.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6697718373089280",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:41:33.736Z",
+    "publish_date": "2019-02-27T19:41:33.736Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS in Computer Science or related field or equivalent practical experience.</li>\n<li>Software development experience in one or more programming languages (e.g. C++, Java, Python, or Go).</li>\n<li>Experience with networking protocols and technologies, including end-to-end packet flow, forwarding and routing.</li>\n<li>Experience architecting and designing networks.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s or PhD in Computer Science or related technical field.</li>\n<li>Experience writing networking software in Go.</li>\n<li>Expertise in designing, analyzing and troubleshooting large-scale distributed systems.</li>\n<li>Enterprise network operations experience and a systematic approach to troubleshooting.</li>\n<li>Experience with wireless technologies, optical design, data center networking, routing protocols, and network security.</li>\n<li>Knowledge of the Linux networking stack (e.g. TCP congestion control, routing, name resolution, etc).</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop network architecture for an enterprise environment.</li>\n<li>Be responsible for the lifecycle of architecture from inception to working with engineering teams on implementation and supportability of design.</li>\n<li>Develop architecture for Zero Touch Networking and design interoperability between Google SDN and vendors\u2019 equipment.</li>\n<li>Have total management of, and financial responsibility for, designs.</li>\n<li>Build reusable designs and systems that promote scale, reliability, security and efficiency.</li>\n</ul>",
+    "title": "Enterprise Network Architect"
+}

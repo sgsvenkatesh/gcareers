@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQsMVFfR_a-GrP7vQ4XdmopRY1VOq3UjsWeE2fyoBTsSOgASYQ8w4Fw3NiYnpGTQ-EfMgyM8FTGH1oajChnzHVM4JRcF5TpkuMMY2_ciNp70LC-Bk5eGONqQR-c%3D_V2&jobTitle=Head+of+Risk+Management+and+Incident+Response%2C+Google+Play&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-06T11:31:27.674Z",
+    "description": "<p>As the Head of Risk Management and Incident Response, you\u2019ll be part of a global Operations and Policy team working to ensure that sensitive incidents in the realm of user protection are managed effectively, with the least amount of impact on our business, users, developers or brand.</p><p>Google Play offers music, movies, books, apps and games for your devices, powered by the cloud. It\u2019s a Google approach to entertainment, syncing magically across your devices and on the web. As part of the Android and Mobile team, Googlers working on Google Play do everything from engineering our backend systems, to shaping the product strategy, to forming great content partnerships. They make it possible for people to do things like buy an ebook or song on their Android phone, then have it instantly available on their laptop. The Google Play team helps strengthen the overall Android ecosystem by giving developers and partners a premium store where they can reach millions of users.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/114984462569087686",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-06T11:31:27.674Z",
+    "publish_date": "2019-03-06T11:31:27.674Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree or equivalent practical experience.</li>\n<li>15 years of experience at a global institution, with experience in handling multiple stakeholders.</li>\n<li>5 years of people management experience.</li>\n<li>Experience conducting risk-based analysis of events and providing actions or solutions.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in working autonomously and prioritizing multiple goals.</li>\n<li>Understanding of international and geopolitical events, and how they may impact a global company.</li>\n<li>Familiarity with Google products, infrastructure and types of online abuse.</li>\n<li>Ability to function well in fast-paced environment and lead where required.</li>\n<li>Ability to work non-standard hours and differing work rotations/shifts as required (including working on holidays and shift rotations).</li>\n<li>Effective communication skills, with the ability to work with cross-functional teams, senior stakeholders and executives.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Identify and help manage incidents as the lead of the global 24/7 Incident Management team in the Google Play organization.</li>\n<li>Monitor news and internal/external sources for events that may need escalation to prevent risks related to fraud, abuse and user trust. Follow a set prioritization model to determine if event needs escalation, and ensure enforcement teams or executives are engaged as appropriate.</li>\n<li>Ensure incidents are triaged, tracked, investigated, resolved and communicated accurately using internal incident management tools and systems. Manage or assist in conducting reviews to capture lessons-learned and ensure regular follow-up for any items identified.</li>\n<li>Conduct trend analysis on past incidents to understand any gaps in coverage and help identify possible incidents before they occur.</li>\n<li>Help expand the incident management program globally. Refine our processes, systems and tools, and help expand our support and awareness of emerging product escalations as they occur.</li>\n</ul>",
+    "title": "Head of Risk Management and Incident Response, Google Play"
+}

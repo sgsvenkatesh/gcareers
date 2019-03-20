@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckf1xgqjVUK6QrZgA6bplS8A63HW-8We7-fq-BG4OkY4SOgCPMA3TQZaPUg1fQ22eQuxIVkIBoUBmlpv4MfGQJw3IS4vqe-A8_isfJoyHE0khs62jN9uAMxAuHQE%3D_V2&jobTitle=Site+Manager%2C+Data+Center+Hardware+Operations&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-11-28T21:32:02.257Z",
+    "description": "<p>Google isn&#39;t just a software company. The Hardware Operations team is responsible for monitoring the state-of-the-art physical infrastructure behind Google&#39;s powerful search technology. As a Hardware Operations Manager, you will manage a team of Operations Assemblers and Operations Engineers. You will oversee the quality installation of server hardware and components and take charge of complicated installations/troubleshooting.<br><br>Your team will install, configure, test, troubleshoot and maintain hardware (like servers and its components) and server software (like Google&#39;s Linux cluster). They will also take on the configuration of more complex components such as networks, routers, hubs, bridges, switches and networking protocols. They may lead small project teams on larger installations and develop project contingency plans.</p><p>As a Data Center Hardware Operations Site Manager, you will manage a team of Operations Managers and Data Center Technicians.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4829004695404544",
+    "location": {
+        "address_lines": [
+            "Moncks Corner, SC 29461, USA"
+        ],
+        "city": "Moncks Corner",
+        "country": "SC",
+        "country_code": "US",
+        "display": "Moncks Corner, SC 29461, USA",
+        "lat": 33.1960027,
+        "lon": -80.01313739999999,
+        "post_code": "29461"
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=Moncks+Corner%2C+SC+29461%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Moncks+Corner%2C+SC+29461%2C+USA&size=1168x324&zoom=12&signature=9UHQFYdAGKxZFRkqg6qibQ1I6ic=",
+        "large_2x": "/maps/api/staticmap?center=Moncks+Corner%2C+SC+29461%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Moncks+Corner%2C+SC+29461%2C+USA&scale=2&size=1024x324&zoom=12&signature=TwuhUK7gVczspQ6QKP_qVTfrBsw=",
+        "small_1x": "/maps/api/staticmap?center=Moncks+Corner%2C+SC+29461%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Moncks+Corner%2C+SC+29461%2C+USA&size=600x400&zoom=12&signature=Gx4zhGXlAxifyETdVr2-IP4WXd4=",
+        "small_2x": "/maps/api/staticmap?center=Moncks+Corner%2C+SC+29461%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Moncks+Corner%2C+SC+29461%2C+USA&scale=2&size=600x400&zoom=12&signature=k2724QdjeGC8hkCLD7Fsscmk0Vs="
+    },
+    "modified": "2019-03-18T22:22:32.219Z",
+    "publish_date": "2019-02-27T19:47:21.110Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>10 years of experience in managing technical teams as a team lead or manager.</li>\n<li>Experience in managing and developing managers.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>4 years of experience with Linux/Unix system administration.</li>\n<li>4 years of experience working in data centers and building out infrastructure.</li>\n<li>Demonstrated understanding of HVAC and power requirements for high-availability data centers.</li>\n<li>Understanding of networks and PC hardware architecture, including maintenance and repair.</li>\n<li>Effective strategic problem solving skills.</li>\n</ul>",
+    "responsibilities": "<ul><li>Take responsibility for the management and implementation of multiple projects for the team. Lead the community affairs program for the site.</li><li>Ensure data center related priorities are consistent with company objectives.</li><li>Oversee the computing hardware and networking operations of a data center site.</li><li>Hire, coach and develop a team of managers and technical staff to meet objectives.</li><li>Work with others to set and implement short-term and long-term strategy for the site. Identify problems and create solutions for computing and network architecture.</li></ul>",
+    "title": "Site Manager, Data Center Hardware Operations"
+}

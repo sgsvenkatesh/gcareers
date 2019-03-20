@@ -1,0 +1,35 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Raleigh, NC, USA; Durham, NC, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZONbvQD-WTthAtHxItdG1f_1j6QfuXGr4L_3lzB_RkSOgASYQ8wx2nJx1O8FSbGmOSEe6CzNuMZvc3jeIWt4qmbOrgrq7kDbY9UfdqQ14x546E_NDHSwa-2Is8%3D_V2&jobTitle=Technical+Solutions+Engineer%2C+Billing+BSS+Operations&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-14T21:01:34.157Z",
+    "description": "<p>At Access, our mission is to create abundant internet on networks that are always fast and always open. Google Fiber provides superfast Internet to homes across the U.S. We want to bring Google Fiber to customers even faster, so we\u2019re focused on making deployment more efficient and less intrusive.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/100250630007726790",
+    "location": {
+        "address_lines": [
+            "Raleigh, NC, USA"
+        ],
+        "city": "Raleigh",
+        "country": "NC",
+        "country_code": "US",
+        "display": "Raleigh, NC, USA",
+        "lat": 35.7795897,
+        "lon": -78.6381787
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=518+West+Jones+St.&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=518+West+Jones+St.&size=1168x324&zoom=12&signature=0UtgfjxgWAmq8_aocUUjcnujfEw=",
+        "large_2x": "/maps/api/staticmap?center=518+West+Jones+St.&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=518+West+Jones+St.&scale=2&size=1024x324&zoom=12&signature=Uu37reVpMfYDLVjYWO2OcB5WsI4=",
+        "small_1x": "/maps/api/staticmap?center=518+West+Jones+St.&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=518+West+Jones+St.&size=600x400&zoom=12&signature=sU9Mgrqaiy9f1gCQhHA1HzyoDoQ=",
+        "small_2x": "/maps/api/staticmap?center=518+West+Jones+St.&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=518+West+Jones+St.&scale=2&size=600x400&zoom=12&signature=f2wYrvS8CDKr_z74sb9TJBklq5o="
+    },
+    "modified": "2019-02-27T19:56:10.037Z",
+    "publish_date": "2019-02-27T19:56:10.037Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>2 years of experience working with enterprise software and systems.</li>\n<li>Experience with one or more: C, C++, Java, JavaScript, Python and/or Go, and HTML.</li>\n<li>Experience with Billing Support Systems</li>\n<li>Ability to work non-standard hours as needed.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience working with industry partners in the enterprise space</li>\n<li>Experience with integrating third party services with internal systems.</li>\n<li>Strong customer service, leadership, organizational, communication and interface skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Identify and implement technical solutions to efficiently troubleshoot and scale \u201cBSS\u201d and \u201cOSS\u201d operations.</li>\n<li>Design, code, test, and maintain tools to support cross-functional and cross-metro users.</li>\n<li>Build relationships with internal and external partners to help drive long term system vision.</li>\n<li>Analyze and monitor key metrics to drive request prioritization and issue resolution.</li>\n</ul>",
+    "title": "Technical Solutions Engineer, Billing BSS Operations"
+}

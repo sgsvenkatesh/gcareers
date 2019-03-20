@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbdtN1NOwB4R9UHpPedfurH32N4EJzcTNfBHyPLd9i8SOgASYQ8wk_M9JkOaivr1Jh2XR1Yei9h8VWu1q_-oOV4eKsK3ph3gZ2AuKCGC8wfclZ4W3-uiUyS4oOQ%3D_V2&jobTitle=Business+Analyst%2C+Cloud+Deal+Operations&loc=US",
+    "categories": [
+        "ADMINISTRATIVE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-21T16:31:41.451Z",
+    "description": "<p>As a Business Analyst, you&#39;ll provide systems support to multiple teams and help to create and process customer agreements, ensuring that all agreements are processed efficiently and that our customers needs are met.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/95169989712978630",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:50:20.107Z",
+    "publish_date": "2019-02-27T19:50:20.107Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience in a relevant area.</li>\n<li>Experience with SQL, data manipulation, reporting, and quantitative analysis.</li>\n<li>Experience in supporting Customer Relationship Management (CRM) technology, and workflow, reporting, integration and business application design.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in data extraction using SQL or other scripting languages.</li>\n<li>Experience in creating and maintaining reports, dashboards and data visualizations.</li>\n<li>Demonstrated ability to analyze large and complex data sets and to convert them into actionable insights that drive business decisions.</li>\n<li>Excellent communications and interpersonal skills, with the ability to interact/influence internal and external leadership.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design, document, and implement reporting dashboards models and tools to manage operational performance/business productivity for the Commercial Operations teams.</li>\n<li>Provide insights to the business through analysis to drive greater efficiency and effectiveness of our Sales and Deal Operations teams.</li>\n<li>Develop solutions to address Deal Operations business reporting, analytics and data requirements.</li>\n<li>Provide recommendations on challenges to the Operations teams. Interact with internal users to establish and clarify requirements in order to understand and develop their analytics needs.</li>\n<li>Use knowledge of predictive analytics, statistics and modeling techniques to drive operational insights and process improvements.</li>\n</ul>",
+    "title": "Business Analyst, Cloud Deal Operations"
+}

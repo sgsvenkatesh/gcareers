@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckSfgt4bnU1rzL5iJDZ0Dc72VDPlD9OLCrkXZbZ6s1CESOgCPMA3T10JFOd6L_Hpcwb4T2UBwJRfEr5_eX0qeahJl01VU7n28RVWkeOFMbWTO0oZF5Bik3iCCODA%3D_V2&jobTitle=Technical+Program+Manager%2C+Material+Design+Components&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-04T15:31:25.212Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n<p>The Material team at Google is responsible for building out and evolving the Material Design System, as well as producing and maintaining the guidelines for using Material Design. This role requires an excellent planner and a flexible project manager who can balance multiple projects. As Technical Program Manager, you will coordinate the work of engineers across four platforms. You\u2019ll work cross-functionally and collaborate with managers, designers and engineering teams to plan projects, define milestones, assign resources, assess risks and help projects meet deadlines.</p><p>The Google Product Infrastructure (GPI) team at Google is responsible for building infrastructure that powers Google&#39;s flagship products across the globe. We provide the cohesive set of shared Google technologies - such as identity, payments, notifications, and accounts - that work consistently across our platforms and enable Google&#39;s product teams to continue creating excellent products for billions of people seamlessly.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4880824759943168",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-18T20:44:39.249Z",
+    "publish_date": "2019-02-27T19:52:25.708Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience in Program Management.</li>\n<li>Experience with Android, iOS or web development.</li>\n<li>Experience with UI trends, techniques and technologies.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience refactoring code and evolving architectures. Product development and launch experience.</li>\n<li>Experience in solution architecture, business intelligence and data analysis. Experience managing a geographically distributed team.</li>\n<li>Experience working with design, research and engineering professionals. Familiarity with design, user research and innovation processes.</li>\n<li>Proven record of creative output.</li>\n<li>Knowledge of professional software engineering practices for the full software development lifecycle, including coding standards, code reviews, source control management, build processes, testing and operations.</li>\n<li>Ability to lead complex strategic and operational initiatives.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Partner with other System Program Managers to identify risks and dependencies across the different work streams and come up with possible mitigation plans.</li>\n<li>Create SQL queries to gather team metrics.</li>\n<li>Identify Engineering team needs regarding process, tools, documentation and asset management. Drive required changes to make sure cross-functional teams are working at optimum efficiency and bring shared processes to other groups within Material Design.</li>\n<li>Participate in the Program Manager community by sharing information, providing mentorship and strategic counsel within team. Collaborate with Product, Design and Engineering teams.</li>\n<li>Manage engineering resourcing and execution for system releases, acting as a bridge between Material UX, Engineering and Product Management (PM) teams. Connect all three groups and make sure interdependencies are understood and planned for. Manage prioritization of feature requests and tasks management.</li>\n</ul>",
+    "title": "Technical Program Manager, Material Design Components"
+}

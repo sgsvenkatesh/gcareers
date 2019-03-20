@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXOMoRHVc-xtTzjjPWnQwo6Z6cEqGI214sXdrBloaH8SOgCPMA3TP8Jo6dVqnwW4ybK6thlRHeIiyVF7teUxD6TDpmLPPN75Ugb-taD6-dqGDzRZAyzZSU-g_ww%3D_V2&jobTitle=ASIC+Top-Level+Design+Engineer&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:02:37.949Z",
+    "description": "<p>Google&#39;s products are known for their clean design, ensuring users can quickly and easily find what they&#39;re looking for. As an Engineering Designer, you leverage your strong technical background and understanding of &quot;good&quot;\u009d design to look for ways to streamline the user experience. You work closely with the product managers and development engineers throughout the entire production cycle. You design everything from high-level product flow to detailed UI mockups and then use your expert scripting skills to make your designs a reality.</p><p>In this role, you will own top-level RTL and integration of complex ASIC designs. This is a highly cross-functional and central role that will require interactions with numerous ASIC development teams. You will own deliverables to the Physical Design team at various project milestones. You will also be directly involved in defining and creating methodologies that enable a highly efficient design environment for all ASIC engineers.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5966863001649152",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:42:42.971Z",
+    "publish_date": "2019-02-27T19:42:42.971Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BSEE degree or equivalent practical experience.</li><li>6 years of experience in ASIC design flows and methodologies and 2 years of experience with top-level integration and design.</li><li>Experience in IP integration (memories, IO\u2019s and Analog IP) and working on various technologies such as embedded processors, DDR, networking fabrics, etc</li><li>Coding experience in scripting languages such as Python, Tcl or Perl and working knowledge of Verilog/System Verilog as well as experience working with datasheets and determining appropriate IP use cases.</li></ul><br><p>Preferred qualifications:</p><ul><li>MSEE degree or equivalent practical experience.</li><li>Experience with ASIC design methodologies for clock domain checks, reset checks and low power design.</li><li>Experience with SOC implementation standards and interfaces such as AXI</li><li>Expertise with silicon, emulation, FPGA validation and debug, functional verification, physical design and DFT methodologies</li><li>Expertise with low power design techniques, power gating, multi-voltage designs</li><li>Proven track record of delivering successful designs with one or more silicon success.</li></ul>",
+    "responsibilities": "<ul><li>Own the planning, creation and delivery of top-level RTL for ASIC and SOC projects from concept to working silicon volume.</li><li>Resolve structural or functional issues related to the integration of complex ASICs and SOCs.</li><li>Manage all cross-functional interactions related to top-level RTL of chip projects.</li><li>Improve cross-functional implementation methodologies to create consistency and efficiency across multiple parallel implementation teams and projects.</li><li>Perform technical evaluations of vendors and IP, provide recommendations, and perform process node tradeoffs for performance, power, area and cost.</li></ul>",
+    "title": "ASIC Top-Level Design Engineer"
+}

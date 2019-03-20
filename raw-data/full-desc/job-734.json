@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcY3va3RIX9nwMnOOGOrBFs3RnPOunvdtdF7N9ADNcYSOgCPMA3TNUJ1KLLY2kD3SYq9Y1-tscYMVb8GVqH6K9_sPWEtoiSO-cBKpcby8eoQ9PLr56Tl9MHHHg0%3D_V2&jobTitle=Technical+Solutions+Engineer%2C+Embedded+Home+Automation%2C+Consumer+Hardware&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:32:14.091Z",
+    "description": "<p>As a Technical Solutions Engineer, you will develop innovative solutions to help our Sales teams thrive, with an emphasis on making consumer support as efficient and effective as possible. You&#39;ll work with a variety of Googlers, all with different skills and specialties, from product managers to engineering teams.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4639126957785088",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T20:21:21.458Z",
+    "publish_date": "2019-02-27T19:46:05.824Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, similar technical field or equivalent practical experience.</li>\n<li>Experience in one of the following: C, C++, Java, Python.</li>\n<li>Experience working in a technical operations environment, solving technical software and/or hardware issues for clients/partners.</li>\n<li>Experience in the mobile/CE/embedded space.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with GNU toolchain or equivalent cross-platform development tools.</li>\n<li>Experience with Android and iOS software development.</li>\n<li>Experience working in UNIX/Linux environments and/or cloud technologies such as AppEngine, AWS or Hadoop.</li>\n<li>Experience in a technical client services environment.</li>\n<li>Experience troubleshooting technical issues for external clients. </li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Cultivate an in-depth understanding of Home automation partner use-cases and assist with associated implementations.</li>\n<li>Define experiences that realize associated requirements and build the necessary functionality working with key Google platforms and partner devices.</li>\n<li>Take on escalations of technical issues from Technical Solutions Consultants and partner with the Software Engineering team to resolve bugs and integration issues.</li>\n<li>Build samples and documentation to support partners integrations.</li>\n</ul>",
+    "title": "Technical Solutions Engineer, Embedded Home Automation, Consumer Hardware"
+}

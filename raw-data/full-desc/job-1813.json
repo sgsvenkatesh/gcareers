@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: New York, NY, USA; Mountain View, CA, USA; Seattle, WA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckSNwG4BQNE7JcQjCeyznthTB_3NTlVf4usUw8CvHOcYSOgCPMA3TVD6Fz7VeJ6-Fjq-KPYCJl1WtZAf2gFQIzNFihv4iUYnT28LPowlLshpMp6yssoViEQwWNbo%3D_V2&jobTitle=Data+Scientist+Technical+Lead%2C+Google+Maps&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:46.158Z",
+    "description": "<p>The Geo team builds the most accurate, comprehensive, and useful maps for our users. More than a billion people rely on Google Maps services to explore the world and navigate their daily lives. That includes sailing down the Amazon river, choosing where to get a bite of pizza, flying over a 3D version of New York City and saving time commuting. <br><br>Geo helps merchants get their businesses on Google, and more than a million developers use the power of Google Maps to enhance their apps and websites. They are solving complex computer science problems, designing beautiful and intuitive product experiences and improving the accuracy of our geo data, all in order to plot a course for the future of mapping.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4915828056326144",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-18T20:47:27.717Z",
+    "publish_date": "2019-02-27T19:44:18.561Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Master&#39;s degree in a quantitative discipline (e.g., Statistics, Operations Research, Bioinformatics, Economics, Computational Biology, Computer Science, Mathematics, Physics, Electrical Engineering, Industrial Engineering) or equivalent practical experience.</li>\n<li>10 years of relevant experience in data analysis or related field as a Statistician, Data Scientist, Computational Biologist, or Bioinformatician.</li>\n<li>5 years of experience in people management or leadership.</li>\n<li>Experience with statistical software (e.g., R, Python, MATLAB, pandas) and database languages (e.g., SQL).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Doctorate&#39;s degree in a quantitative discipline (e.g., Statistics, Operations Research, Bioinformatics, Economics, Computational Biology, Computer Science, Mathematics, Physics, Electrical Engineering, Industrial Engineering).</li><li>12 years of directly relevant, tech industry work experience (e.g., as a statistician, bioinformatician, or data scientist), with deep expertise in statistical data analysis, such as linear models, multivariate analysis, stochastic models, and sampling methods.</li>\n<li>8 years of demonstrated leadership and self-direction including people management.</li>\n<li>Applied experience with machine learning on large datasets.</li>\n<li>Experience articulating business questions and using mathematical techniques to arrive at an answer using available data.</li>\n<li>Demonstrated skills in selecting the right statistical tools given a data analysis problem.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work with large, complex Geo datasets and solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct end-to-end analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.</li>\n<li>Build and prototype analysis pipelines iteratively to provide insights at scale. Develop comprehensive understanding of Google data structures and metrics, advocating for changes where needed for both products development and sales activity.</li>\n<li>Make business recommendations (e.g., cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.</li>\n<li>Research and develop analysis, forecasting and optimization methods to improve the quality of Google&#39;s user facing products; example application areas include ads quality, search quality, end-user behavioral modeling, and live experiments.</li>\n<li>Manage a data science team. Interact cross-functionally with a wide variety of leaders and teams, and work closely with Engineers and Product Managers to identify opportunities for design and to assess improvements for Google products.</li>\n</ul>",
+    "title": "Data Scientist Technical Lead, Google Maps"
+}

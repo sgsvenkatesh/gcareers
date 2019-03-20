@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcGCGVObvMinZryzlXMVmO3L5qFa5kUDgp0OnBN1TvgSOgASYQ8wuxaWcwfgtpF9wt2Ew6wzU7TzsxpXvfpr_F5L6Iuhmwtn1-mHZ24lD1E8mTsMQrWu-PJPZis%3D_V2&jobTitle=Abuse+Specialist%2C+Emerging+Trends&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-07T18:01:52.964Z",
+    "description": "<p>Trust &amp; Safety team members are tasked with identifying and taking on the biggest problems that challenge the safety and integrity of our products. They use technical know-how, excellent problem-solving skills, user insights, and proactive communication to protect users and our partners from abuse across Google products like Search, Maps, Gmail, and Google Ads. On this team, you&#39;re a big-picture thinker and strategic team-player with a passion for doing what\u2019s right. You work globally and cross-functionally with Google engineers and product managers to identify and fight abuse and fraud cases at Google speed - with urgency. And you take pride in knowing that every day you are working hard to promote trust in Google and ensuring the highest levels of user safety.</p>\n\n\n<p>As a member of the Emerging Trends and Risk Management team within the Trust and Safety organization, you will identify new and emerging trends that could potentially cause harm, and you&#39;ll develop and implement preventative solutions. You will help mobilize cross-product solutions to protect users from threats associated with violent extremism and hate speech. Your core responsibility will be to work across multiple teams to execute on this issue, requiring extensive collaboration with peers and partners across many product areas.</p><p>At Google we work hard to earn our users\u2019 trust every day. Trust &amp; Safety is Google\u2019s team of abuse fighting and user trust experts working daily to make the internet a safer place. We partner with teams across Google to deliver bold solutions in abuse areas such as malware, spam and account hijacking. A diverse team of Analysts, Policy Specialists, Engineers, and Program Managers, we work to reduce risk and fight abuse across all of Google\u2019s products, protecting our users, advertisers, and publishers across the globe in over 40 languages.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/120218174424523462",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-07T18:01:52.964Z",
+    "publish_date": "2019-03-07T18:01:52.964Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience in technical operations, product management, or a similar role.</li>\n<li>5 years of experience in project management and stakeholder management.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience influencing without authority.</li>\n<li>Ability to think big and holistically, excellent problem solving skills, and extraordinary attention to detail.</li>\n<li>Comfortable working with data to influence business decisions.</li>\n<li>Exceptional verbal and written communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work closely with the Global Lead and Trust &amp; Safety Enforcement teams to design and implement a strategy to combat violent extremism and hate speech across Google products.</li>\n<li>Perform deep-dives and case studies on violent extremism and hate. Conduct assessments outlining these abuse vectors and measure the impact on Google products.</li>\n<li>Assess and experiment with different approaches and workflows to help Enforcement teams improve their operations.</li>\n<li>Surface insights and communicate effectively to influence and guide larger, cross-functional working groups towards solutions.</li>\n<li>Contribute to handling escalations and conduct post-incident analysis.</li>\n</ul>",
+    "title": "Abuse Specialist, Emerging Trends"
+}

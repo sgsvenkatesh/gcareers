@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckchygeHVxcgw8-Mw53RaQvbTqmIn77ESPW8OJsXp3TUSOgASYQ8w6hRCC9eXg5JJGcBPUBNkMmc1tx1QH77GLYO1TSoThvFACg5n2wQX5-wnO6CA3_5TgEleIYI%3D_V2&jobTitle=Technical+Program+Manager%2C+Network+Deployment+Automation&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-25T21:01:57.245Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Technical Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>Our team architects data structures, templates, processes and automation for deciding staffing models, planning hardware, designing circuit paths and instructing build activities. As a Technical Program Manager, you&#39;ll work with software development, network engineering, architecture and deployment teams. You will define tool requirements and lead development programs, create metrics, and analyze data and report results to executive levels. Overall, you will drive operational efficiency in an ever-evolving organization, building a network beyond imagination.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/116956540289589958",
+    "location": {
+        "address_lines": [
+            "Addison, TX, USA"
+        ],
+        "city": "Addison",
+        "country": "TX",
+        "country_code": "US",
+        "display": "Addison, TX, USA",
+        "lat": 32.96179,
+        "lon": -96.82916850000001
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=15303+North+Dallas+Parkway%0ASuite+400&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=15303+North+Dallas+Parkway%0ASuite+400&size=1168x324&zoom=12&signature=p_c9D9SwCDy9PhdUTuPIk_cIoz4=",
+        "large_2x": "/maps/api/staticmap?center=15303+North+Dallas+Parkway%0ASuite+400&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=15303+North+Dallas+Parkway%0ASuite+400&scale=2&size=1024x324&zoom=12&signature=kE2JU83KDl4A1GorUCgQQJ1N6Dg=",
+        "small_1x": "/maps/api/staticmap?center=15303+North+Dallas+Parkway%0ASuite+400&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=15303+North+Dallas+Parkway%0ASuite+400&size=600x400&zoom=12&signature=n2ZNpfm8xdL90n1kEC3r833L3VA=",
+        "small_2x": "/maps/api/staticmap?center=15303+North+Dallas+Parkway%0ASuite+400&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=15303+North+Dallas+Parkway%0ASuite+400&scale=2&size=600x400&zoom=12&signature=TP7Xy8W-8m4zgl1iAV78BXX9Ylg="
+    },
+    "modified": "2019-02-27T19:50:17.592Z",
+    "publish_date": "2019-02-27T19:50:17.592Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in Engineering, a technical discipline or equivalent practical experience.</li><li>8 years of experience in program management and software development life-cycles and methodology.</li><li>8 years of experience in physical network design, equipment and infrastructure.</li><li>8 years of experience with analytical querying, spreadsheet software, and manipulating and visualizing data.</li></ul><br><p>Preferred qualifications:</p><ul><li>Operational experience with enterprise/carrier-class routers and switches.</li><li>Experience developing networking products, technologies, software and protocols.</li><li>Experience managing large-scale, dynamic technical projects, with competing resources and priorities with accountability and ownership for end-to-end project lifecycle.</li><li>Experience with POPs, carrier hotels, data centers and central office environments.</li><li>Knowledge of the tools and elements of software development cycles.</li></ul>",
+    "responsibilities": "<ul><li>Communicate with internal users for needs and solutions.</li><li>Write requirements for tools and process development.</li><li>Lead software development programs.</li><li>Query data systems and create dashboards.</li><li>Discover data integrity problems and drive fixes.</li></ul>",
+    "title": "Technical Program Manager, Network Deployment Automation"
+}

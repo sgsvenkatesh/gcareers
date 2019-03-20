@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Francisco, CA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckX5-XlczL8ZPEGTVOwNujxrMN7_6NtfmpeW85YYGpksSOgCPMA3TZP0V2lGnlofIFjDz7auJ91cv8P-4TR_IxPJvjc8qP5Z1zx68mw_z6B21vYOZiKxtJlD76hs%3D_V2&jobTitle=Developer+Advocate%2C+Material+Design&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:41.808Z",
+    "description": "<p>The Developer Relations organization helps keep us connected to the communities that love technology as much as we do. Our focus is on supporting third party developers who build applications and businesses on Google&#39;s platforms. Developer Advocates act as passionate advocates for Google technologies, and are vocal champions for developer interests within Google. This is a position for engineers who love connecting with developers and speaking publicly about cutting-edge technologies on conference panels, at user groups, on blogs and with the press. You also communicate internally with Product Managers. Chrome, Android, App Engine, HTML5, as well as our core G Suite and Ads APIs, are just some of the platforms you promote and support. Your work fosters a community of developers working with Google technologies and helps to drive strategy around Developer Relations.</p>\n\n\n<p>Material Design is a unified system that combines design theory, engineering resources and tools for crafting software. The system works across platforms and supports all of Google&#39;s products and thousands of designers and developers outside of Google.\n</p>\n\n\n<p>As a Developer Advocate, you will help build a developer ecosystem, improve app and SDK quality and partner upstream with Material Design Android/Chrome Product and Engineering to deliver great products to developers. You\u2019ll play a key role in shaping how we bring new Material Design capabilities to developers, while partnering with teams across Material Design to advocate the needs of developers, driving our strategy, narratives, best practices, events and outreach to developers globally.\n</p>\n\n\n<p>In this role you will help external developers adopt and customize Material Design components to enable them to better express branding in their apps. You will create training materials, samples and documentation and work directly with developers integrating the library to help them solve their issues and to collect feedback.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5141838060257280",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:52:29.007Z",
+    "publish_date": "2019-02-27T19:52:29.007Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, similar technical field or equivalent practical experience.</li>\n<li>3 years of experience in software engineering, product management or developer relations.</li>\n<li>2 years of experience as a technology advocate in mobile app, tools and APIs development or SDK/library projects.</li>\n<li>Experience developing apps using the Material Design component libraries by programming for Android, web, and/or iOS.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience creating compelling overviews and product requirements documents/specs.</li>\n<li>Ability to influence and communicate cross-functionally and across teams.</li>\n<li>Ability to take initiative, innovate and experiment.</li>\n<li>Excellent skills in planning, structuring, analyzing and organizing.</li>\n<li>Excellent written and verbal communication skills, including public speaking at conferences/large events.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Drive developer strategy for MDC platform and product releases, partnering with Product Management, Engineering, PR, Marketing, Business Development and other teams.</li>\n<li>Participate in technical and design discussions with teams across Material Design, Android and Chrome to advocate for developer needs as well as technical best practices that improve quality, compatibility, security and privacy across apps and SDK.</li>\n<li>Build developer narratives, communications and outreach materials, such as code samples, blog posts, documents, videos, presentations and internal communications.</li>\n<li>Meet developers inside and outside Google to gain insights on current issues, trends and opportunities. Expand feedback through events, developer interviews, communities, videos, research and market intelligence.</li>\n<li>Create content for social channels to drive awareness and adoption of MDC by representing MDC in the developer community at external conferences.</li>\n</ul>",
+    "title": "Developer Advocate, Material Design"
+}

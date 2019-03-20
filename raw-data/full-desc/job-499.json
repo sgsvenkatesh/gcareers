@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUeQMHtl7eWfyvC25Tpv_XdavsU1EeO-6Pqxmiq0H7ASOgASYQ8w0QiDgdM2M6KZrhYHBdODS2RX-VRT_EvX1BB7_9IExrOuK9_NUI_zohEBPSMpB1F3IoXajIc%3D_V2&jobTitle=Senior+Business+Intelligence+Analyst%2C+Google+Customer+Solutions%2C+Ads+Finance&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-30T21:01:59.193Z",
+    "description": "<p>At Google, data drives all of our decision-making. As part of the Finance Business Intelligence team, you will use data to inform business and product decisions across the company. Using your technical skills, business acumen and creativity, you will build tools to automate reporting and generate insight that will allow clients to quickly and accurately see how our key business products and processes are performing. Previous experience managing finance systems projects, with emphasis on providing business intelligence and data driven insight through reporting, will have equipped you well for this role. You\u2019ll be involved in projects from inception to delivery, ensuring that your reporting delivers high-quality and relevant data to intelligently grow our business. You will also have extensive knowledge of key financial systems, such as Oracle and Hyperion, and experience working with a range of other business intelligence tools and platforms.</p>\n\n<p>Sales Finance is part of Google\u2019s Financial Planning and Analysis (FP&amp;A) organization, providing financial and analytical support to Google\u2019s business organization. Our work is integral to the operations and strategic decision-making of the commercial teams across all our advertising products. From understanding market and usage trends to exploring the productivity and returns on our various investments, the Finance organization is an important partner and adviser to the commercial leaders. In this role, you will work on a team that provides Finance support to Sales leadership.</p><p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to the business.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/143309002952843974",
+    "location": {
+        "address_lines": [
+            "Redwood City, CA, USA"
+        ],
+        "city": "Redwood City",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Redwood City, CA, USA",
+        "lat": 37.48521520000001,
+        "lon": -122.2363548
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=1168x324&zoom=12&signature=qMd_c5mmqxWSefkzRvq5u3HXeX8=",
+        "large_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=1024x324&zoom=12&signature=QI9LkVYQ-IlH0lZ6MENCZ2TRJPQ=",
+        "small_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=600x400&zoom=12&signature=sGZIA9O0g6zpsi2BMerq7kWkMSo=",
+        "small_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=600x400&zoom=12&signature=ZaSXyTdqAKk9FmiP1ehW8vV8TuI="
+    },
+    "modified": "2019-02-27T19:55:17.070Z",
+    "publish_date": "2019-02-27T19:55:17.070Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>4 years of experience in financial/quantitative analysis.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience working with databases, using SQL across standard relational environments.</li>\n<li>Experience with programming and scripting languages.</li>\n<li>Experience working on large distributed data systems</li>\n<li>Knowledge of industrial grade IS architectures and reporting tools.</li>\n<li>Ability to meet deadlines and work well in ambiguous environments.</li>\n<li>Excellent project management skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Partner with Business and Finance leadership and their teams to understand needs, ensuring that our data solutions are an excellent fit to their evolving needs.</li>\n<li>Partner with Business Intelligence to shape Google\u2019s data infrastructure, including business intelligence, reporting, and analytics platforms.</li>\n<li>Drive cross-functional systems projects with Google Customer Solutions (GCS) Business/Business Intelligence/Engineering teams to improve the visibility, profitability, and risk profile for GCS.</li>\n<li>Manage, drive, and deliver multiple data workstreams on an ongoing and ad-hoc basis.</li>\n<li>Contribute to the development of the team\u2019s tools, skills, culture, and impact.</li>\n</ul>",
+    "title": "Senior Business Intelligence Analyst, Google Customer Solutions, Ads Finance"
+}

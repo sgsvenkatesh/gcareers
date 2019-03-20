@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZVfo5Zt_TJphXS6EaLv1jCw19tHBV7sIERiPYmJRE4SOgASYQ8wzXTWCDYrbbOCdptL0dCwe7xe8PS3Z1ReCjCY_xxC5xV0-GvzcYq2b3wTfMeiQUWuxGyddpg%3D_V2&jobTitle=Lead+Software+Engineer%2C+Silicon+Validation&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-07T04:31:33.499Z",
+    "description": "<p>Google&#39;s software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We&#39;re looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google\u2019s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.<br><br>With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.</p>\n\n<p>You&#39;ll be a part of Google\u2019s Consumer Hardware Silicon team, developing high performance and low power hardware to enable Google\u2019s continuous innovations in mobile. You&#39;ll lead a team responsible for the bare-metal software stack that is employed for both pre-silicon verification and post-silicon validation, ensuring that we deliver high-quality silicon.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/140235095664403142",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:55:07.764Z",
+    "publish_date": "2019-02-27T19:55:07.764Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, related technical field or equivalent practical experience</li>\n<li>Experience programming in C/C++ and scripting (e.g., Python/Perl)</li>\n<li>Hands-on experience developing silicon validation software stacks or related embedded software infrastructure</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>10 years of experience developing silicon validation software stacks or related embedded software infrastructure</li>\n<li>Experience writing firmware for SoC boot and functional tests, including bare-metal and Linux driver development</li>\n<li>Experience working cross-functionally with hardware and software teams for silicon emulation, bring-up, validation, and characterization. Experience with ARM based SoCs including CPUs and other IP</li>\n<li>Working knowledge of Verilog/SystemVerilog, and experience working with hardware emulators and Field Programmable Gate Arrays</li>\n<li>Familiarity with the software paradigms for customizing, verifying, and validating 3rd party ASIC IP, including hardware debug standards</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work with architects and logic designers during the development phase to understand the capabilities and test coverage of each IP.</li>\n<li>Design, build, and verify a software infrastructure prior to power-on that can support the full range of silicon verification and validation activities.</li>\n<li>Collaborate with pre-silicon and post-silicon teams whose tests are written atop the stack (and executed on emulators or silicon, respectively) to boot, bring-up, and debug the design.</li><li>Work with internal cross-functional teams as well as external silicon partners and IP vendors to deliver the complete software stack that is required to both functionally validate and parametrically characterize the silicon, including bare-metal kernel, drivers, and RTOS.</li>\n</ul>",
+    "title": "Lead Software Engineer, Silicon Validation"
+}

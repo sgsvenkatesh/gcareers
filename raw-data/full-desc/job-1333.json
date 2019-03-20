@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Austin, TX, USA; Boulder, CO, USA; Cambridge, MA, USA; Kirkland, WA, USA; New York, NY, USA; Seattle, WA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVbeZ96SQgk6PC3XdsqrA6_oqeIR0nH0No482l-XvDoSOgASYQ8wH-9OrssmiCqnP-1Wg2PidVRSBzmOBde11kHIZSSDfyLMt8Szf_bFX9btAwIYN-ZxSyO9Bfw%3D_V2&jobTitle=Technical+Curriculum+Lead%2C+Application+Development%2C+Google+Cloud&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-11T20:31:57.824Z",
+    "description": "<p>The Google Cloud team helps companies, schools, and government seamlessly make the switch to Google products and supports them along the way. You swiftly problem-solve technical issues for customers to show how our products can make businesses more productive, collaborative, and innovative. You work closely with a cross-functional team of web developers and systems administrators, not to mention a variety of both regional and international customers. Your relationships with customers are crucial in helping Google grow its Google Cloud business and in bringing our product portfolio into companies around the world.</p>\n\n\n<p>The Cloud Learning team is a growing organization within Google Cloud, and we\u2019re seeking a passionate person to design and architect our learning curriculum for application developers. You&#39;re a code-savvy technical specialist looking to positively impact the people who use our cloud products. \n</p>\n\n\n<p>As a Technical Curriculum Lead, you&#39;ll work with technical subject matter experts (SMEs) to design, develop and maintain technical learning content and curriculum for technical personnel who write software products for the cloud. \n</p>\n\n\n<p>You\u2019ll guide and mentor technical curriculum developers who build training materials from designs. You have experience with instructional design, learning development principles and tools, cloud computing technologies and development languages, and the ability to translate technical content into effective learning solutions. You&#39;ll use your coaching skills, and your familiarity with training as a professional service.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/97517793454236358",
+    "location": {
+        "address_lines": [
+            "Kirkland, WA, USA"
+        ],
+        "city": "Kirkland",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Kirkland, WA, USA",
+        "lat": 47.6768927,
+        "lon": -122.2059833
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=1168x324&zoom=12&signature=BUakpYMrt4PcA_BkD8TEXxwl5yE=",
+        "large_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=1024x324&zoom=12&signature=zdt0AODknQHKKtlab5UzXYjjwOU=",
+        "small_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=600x400&zoom=12&signature=77Xz0BHyJOhV95ydWoFgQ5UMRoc=",
+        "small_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=600x400&zoom=12&signature=djRWF_5sVRDgCFnaqcEvXvug7iU="
+    },
+    "modified": "2019-03-11T20:31:57.824Z",
+    "publish_date": "2019-03-11T20:31:57.824Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, a related discipline, or equivalent practical experience.</li>\n<li>5 years of experience developing learning content for programmers or related technical roles.</li>\n<li>Back-end or systems software development experience in one or more of the following: Java, Python, Go, JavaScript, C++, or Ruby. Experience with source code version control systems (e.g., Git).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Computer Science or a related discipline.</li>\n<li>Experience with delivering technical training in an instructor-led or video format.</li>\n<li>Experience with peer coaching and leadership.</li>\n<li>Experience with creating and managing demonstration sites and lab activities.</li>\n<li>Experience with developing software in a Continuous Integration/Continuous Delivery (CI/CD) environment.</li>\n<li>Excellent communication, writing, and editing skills, including effectively explaining technical topics to audiences. Ability to collaborate with technical SMEs and managers.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Perform needs and task analyses, scope projects, and evaluate existing materials to identify the most appropriate training approach and content to help diverse global audiences learn.</li>\n<li>Design and develop creative learner-centered training programs, modules, and materials in multiple modalities, including blended classroom learning, interactive e-learning modules, videos, device learning labs, job aids, facilitator guides and resource materials.</li>\n<li>Mentor Technical Curriculum Developers for application development and drive the overall learning curriculum for this area.</li>\n<li>Work closely with the Google Cloud Professional Certification team to ensure alignment of learning assets to credentials and certifications.</li>\n</ul>",
+    "title": "Technical Curriculum Lead, Application Development, Google Cloud"
+}

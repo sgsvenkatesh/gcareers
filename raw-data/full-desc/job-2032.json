@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckT1thsoFZXY0gUNCa_Mhbu-oa8TJbn2vvNy0k2UPN04SOgCPMA3T6VNaAJlivn4rYeB6L70XFCQ1jJ4qNbcFeF7RtvpZJkAqvHLPdxS-74KjUj7dXdbxLon9xgw%3D_V2&jobTitle=Technical+Program+Manager%2C+Google+Domains&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:05:10.662Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n<p>Google Domains enables Small and Medium Business (SMB) to easily establish their online presence and grow their business through Google-ecosystem products. As part of this mission, Google Domains serves customers directly through its own storefront, as well as providing registrar platform support for other products and entry points.\n</p>\n\n<p>As a Technical Program Manager, you will work directly with the Engineering group, Product Managers, business and cross-functional stakeholders to shape the product direction and see key projects through. A key part of the role is effectively turning business questions into data analysis, and provide meaningful recommendations on strategy, shaping the product roadmap and delivering new product features to external customers.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5635329556152320",
+    "location": {
+        "address_lines": [
+            "Seattle, WA, USA"
+        ],
+        "city": "Seattle",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Seattle, WA, USA",
+        "lat": 47.6062095,
+        "lon": -122.3320708
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&size=1168x324&zoom=12&signature=ps_sPvgcgFUcz72GpSwau1rebxc=",
+        "large_2x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&scale=2&size=1024x324&zoom=12&signature=LGHj2cxqA3QhLZJTwZmYSkwFGho=",
+        "small_1x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&size=600x400&zoom=12&signature=D1jnhP7KcjQ4mOvW3HCzt_s7wc8=",
+        "small_2x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&scale=2&size=600x400&zoom=12&signature=LHlLQ_7VV0axWi1ctKvQwOcu_UM="
+    },
+    "modified": "2019-03-18T21:30:06.287Z",
+    "publish_date": "2019-02-27T19:44:18.434Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Statistics, a related technical/quantitative field or equivalent practical experience.</li>\n<li>4 years of experience in project and program management.</li>\n<li>Experience working with engineering teams through development cycles.</li>\n<li>Experience in SQL and running statistical analyses.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with scripting, internet protocols and DNS.</li>\n<li>Experience in an inter-disciplinary/cross-functional role, working with engineers and project managers through a product&#39;s lifecycle.</li>\n<li>Experience with data, metrics, analysis, trends and measurement, statistics and program evaluations.</li>\n<li>Ability to take initiative, adapt quickly to changing priorities and driving projects to completion with minimum guidance and high attention to detail.</li>\n<li>Excellent written and verbal communication skills with the ability to translate analysis results into business recommendations.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work closely with Engineering, Product Managers, User Experience (UX), Business Development and leadership to build and launch new features.</li>\n<li>Conduct data analysis to make business recommendations in areas such as cost-benefit, invest-divest, forecasting and impact analysis.</li>\n<li>Deliver effective presentations of findings and recommendations to multiple levels of leadership, creating visual displays of quantitative information.</li>\n</ul>",
+    "title": "Technical Program Manager, Google Domains"
+}

@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Seattle, WA, USA; Kirkland, WA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWkTaCcCcNBY7VkTbPWGZB4EEgrxSjJunYVTuaIm0k8SOgCPMA3TnAK0sU8VzXg5M0UFUMsgxFRmwI6yRvAkEwW7z9FMKjsNi1zAZ_PczkuVrRDav29Nw8HjzD0%3D_V2&jobTitle=Software+Engineer%2C+Database+Systems&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-02T18:01:27.927Z",
+    "description": "<p>Google is known for developing innovative database technologies and is seeking engineers to bring fresh ideas around database technologies and distributed computing to our organization to help develop next generation capabilities.</p>\n\n<p>As a Software Engineer working on database systems, you will work on projects such as developing distributed database architecture, performance optimization, data warehousing, data integration, query optimization and indexing.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5534490902069248",
+    "location": {
+        "address_lines": [
+            "Seattle, WA, USA"
+        ],
+        "city": "Seattle",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Seattle, WA, USA",
+        "lat": 47.6062095,
+        "lon": -122.3320708
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&size=1168x324&zoom=12&signature=ps_sPvgcgFUcz72GpSwau1rebxc=",
+        "large_2x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&scale=2&size=1024x324&zoom=12&signature=LGHj2cxqA3QhLZJTwZmYSkwFGho=",
+        "small_1x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&size=600x400&zoom=12&signature=D1jnhP7KcjQ4mOvW3HCzt_s7wc8=",
+        "small_2x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&scale=2&size=600x400&zoom=12&signature=LHlLQ_7VV0axWi1ctKvQwOcu_UM="
+    },
+    "modified": "2019-02-27T19:47:57.333Z",
+    "publish_date": "2019-02-27T19:47:57.333Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, related technical field or equivalent practical experience.</li>\n<li>Experience coding in C/C++, Go, Python or Java.</li>\n<li>Experience developing large scale distributed databases.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with open-source database applications.</li>\n<li>Expertise in two or more areas of database systems (database internals, performance optimization, DBMS/RDBMS, data warehousing and integration, query optimization, indexing, memory management, etc.).</li>\n<li>Full stack database knowledge from database kernel to cloud service platform, including core database kernel architecture, automation of database lifecycle management and tuning, integration with other cloud services.</li><li>Knowledge and understanding of parallel programming, thread programming, concurrency control and scalability.</li>\n<li>Knowledge and application of CAP theorem and ACID properties.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design, develop, test, deploy, maintain and debug software programs for databases, applications, tools, networks, etc.</li>\n<li>Manage individual projects priorities, deadlines and deliverables with your technical expertise.</li>\n<li>Improve end to end feature velocity for data extraction and make systems easier to use.</li>\n</ul>",
+    "title": "Software Engineer, Database Systems"
+}

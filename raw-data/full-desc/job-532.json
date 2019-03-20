@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckY8iLXsFVAoivkpSNqWa-uYv4k1SVJMDEi0mIZ31SnsSOgASYQ8wFSg1kxgjJW3-_dakIaYwyKSDLhFbiikDjDJXb3zBXXm27kZG23g2mZlL5xJIqpKlePjS994%3D_V2&jobTitle=Technical+Program+Manager%2C+Network+Operations&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-24T22:01:47.671Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>Our team is responsible for the scalable and cost-efficient design and deployment of the corporate network. This encompasses wired and wireless connectivity in office environments. As a Program Manager, you will identify, scope and manage projects that help grow the Corporate Network and other networking products and services to our users and customers. You will focus on our customer&#39;s needs, aligning them with our standard solutions. As a subject matter expert in our space, you will gather a deep understanding of our users and customers, their needs and priorities, and ensure that our network products and services deliver the highest quality and value possible. You will ensure our processes result in transparency for user and customer requests, including alignment of prioritization, commitment, and delivery.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4701938916556800",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T20:27:28.137Z",
+    "publish_date": "2019-02-27T19:48:32.978Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience in project management.</li>\n<li>3 years of experience in network infrastructure deployment.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in project management of complex data center hardware and network infrastructure deployment.</li>\n<li>Experience working in data centers and building out infrastructure.</li>\n<li>Experience with at least two of the following and ability to learn: server hardware and software, network hardware and software, datacenter infrastructure and operations, mechanical and electrical systems .</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Lead cross-functional collaboration between internal Google teams and external vendors to support corporate network services on the office spaces. Lead the deployment of corporate network infrastructure projects by coordinating with global delivery teams across the company to deploy network services to our users.</li>\n<li>Effectively and accurately communicate relevant project information to stakeholders.</li>\n<li>Work with multiple teams to document and launch new processes, institute process improvements, and ensure the efficient/reliable achievement of target efficiencies.</li>\n<li>Apply project management tools to ensure critical building blocks such as scope, scheduling, budgeting, resourcing, risks, and updates are kept current.</li>\n<li>Improve Google\u2019s ability to increase network capacity, decrease network cost, and achieve maximum efficiency through design and automation.</li>\n</ul>",
+    "title": "Technical Program Manager, Network Operations"
+}

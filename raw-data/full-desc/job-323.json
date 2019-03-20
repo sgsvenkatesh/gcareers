@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckfg1J0rifGfpOdQ5x1VPBGPgFximJKkd8CvwQX8BCioSOgASYQ8wMtPR0qfjU1XZdYPmLpcaByV_-6hPcujQjd5OqIxxVbFDpkp8_Q1O5kUHByvtiru8GFZpfFk%3D_V2&jobTitle=Manager%2C+Cloud+Identity+Programs&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-11T16:01:58.112Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n\n<p>In this role, you will mobilize cross-functional teams, delivering solutions for scale and data-driven decision making to refine, launch, and take to market solutions that accelerate our customers\u2019 success in the cloud. You will lead and manage a team of (Technical) Program Managers focussed on identity and access management programs for enterprise use on the Google Cloud Platform (GCP), partnering with different groups across Security and Privacy (S&amp;P), Google Product Infrastructure (GPI), GSuite, and Google Survey Platform (CSP) to bring alignment, coordination, and purpose.\n</p>\n\n\n<p>As a Manager, you will be part of the leadership team of the S&amp;P Programs organization, helping evolve your team and the organization. S&amp;P Programs is tightly coupled with the S&amp;P organization, managing the delivery of a wide range of programs responsible for protecting Google, our users, our customers, and the Internet at large.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/93297532819382982",
+    "location": {
+        "address_lines": [
+            "Kirkland, WA, USA"
+        ],
+        "city": "Kirkland",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Kirkland, WA, USA",
+        "lat": 47.6768927,
+        "lon": -122.2059833
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=1168x324&zoom=12&signature=BUakpYMrt4PcA_BkD8TEXxwl5yE=",
+        "large_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=1024x324&zoom=12&signature=zdt0AODknQHKKtlab5UzXYjjwOU=",
+        "small_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=600x400&zoom=12&signature=77Xz0BHyJOhV95ydWoFgQ5UMRoc=",
+        "small_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=600x400&zoom=12&signature=djRWF_5sVRDgCFnaqcEvXvug7iU="
+    },
+    "modified": "2019-03-11T16:01:58.112Z",
+    "publish_date": "2019-03-11T16:01:58.112Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>15 years of experience in technical program management.</li>\n<li>10 years of experience in people management.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Excellent interpersonal and relationship-building skills with leadership team and stakeholders.</li>\n<li>Ability to navigate and work well in ambiguity.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Provide the required hands-on software development and project management, cross-functional coordination, and inter/intra team communications to deliver excellent program outcomes.</li>\n<li>Work closely with software engineers, Quality Assurance (QA), product managers, and other engineering teams to get high-quality products and features through the software project lifecycle (e.g., build, test, and release on time).</li>\n<li>Take responsibility for release schedules and milestones, keeping up a high velocity in a fast-paced environment.</li>\n<li>Lead several technical programs for the Google Cloud Business, setting priorities for products and engineering, leading cross-functional teams to take products to market, ensuring success metrics are informing future efforts, and quickly fine tuning the program as needed.</li>\n</ul>",
+    "title": "Manager, Cloud Identity Programs"
+}

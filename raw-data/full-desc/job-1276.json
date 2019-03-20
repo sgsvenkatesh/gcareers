@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>This role may also be located in our Playa Vista, CA campus.</b><br><br><b>Note: By applying to this position your application is automatically submitted to the following locations: Austin, TX, USA; Chicago, IL, USA; Irvine, CA, USA; Los Angeles, CA, USA; Seattle, WA, USA; San Francisco, CA, USA; Sunnyvale, CA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTHG1BNLuRM-g2D5xD9UMSgwdMw6E1b8MaRBdIs1HwoSOgCPMA3TeAR0szenk-vvV4DwZQDHPqjIRH2DA-dPr2o2xGCqQoYEwoLf4hmm4xE-Y04OgrbRtx3-kqw%3D_V2&jobTitle=Big+Data+and+Analytics+Cloud+Consultant&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-01T21:01:57.125Z",
+    "description": "<p>As a Big Data and Analytics Cloud Consultant, you will work directly with Google\u2019s most strategic customers on critical projects to help them transform their businesses. You will provide management, consulting and technical expertise to customer engagements while working with client executives and key technical leaders to deploy solutions via Google\u2019s Cloud Platform. You will also work closely with key Google partners currently servicing top accounts to manage programs, deliver consulting services, and provide technical guidance and best practice expertise. \n</p>\n\n<p>You possess a diverse background with cloud solutions in areas such as architecture design, infrastructure migration and deployment strategies. To be successful, you know how to navigate ambiguity, have extensive experience working with cloud technologies, have technical depth and enjoy working with client executives. You also possess excellent communication and project management skills.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/81089716151034566",
+    "location": {
+        "address_lines": [
+            "Los Angeles, CA, USA"
+        ],
+        "city": "Los Angeles",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Los Angeles, CA, USA",
+        "lat": 34.0522342,
+        "lon": -118.2436849
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=1168x324&zoom=12&signature=fXRbaDAJUcl_n404VGXhz3cu-ag=",
+        "large_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=1024x324&zoom=12&signature=B8IUulSshv-3RzKj_Nyk8FPOXUs=",
+        "small_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=600x400&zoom=12&signature=QGgFwn7c6rmdqNJ6DzYmX6KMU2g=",
+        "small_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=600x400&zoom=12&signature=TH_gDtTJHy22kPuDOsdMJxqBUM4="
+    },
+    "modified": "2019-03-13T18:01:51.667Z",
+    "publish_date": "2019-03-13T18:01:51.667Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in a Technical or Engineering field or equivalent practical experience.</li>\n<li>7 years of experience designing and deploying distributed data processing systems with one or more technologies (MySQL, Oracle, Cassandra, HBase, Redis, MongoDB, Hadoop, Spark, fluentd, etc.).</li>\n<li>7 years of experience reading software code in one or more programming languages (Java, JavaScript, Python, etc.).</li><li>Experience in architecting, developing or maintaining production-grade cloud solutions in public clouds such as; Google Cloud platform.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in systems design, with the ability to architect or explain complex systems interactions including data flows, common interfaces, APIs and methods available.</li>\n<li>Experience architecting, developing and/or maintaining production-grade cloud solutions in virtualized environments.</li>\n<li>Ability to work well with a cross-functional, geographically dispersed team and customer base.</li>\n<li>Effective cross-functional project management, communication and stakeholder management skills.</li>\n<li>Excellent presentation and communication skills, with a focus on translating business requirements into technology solutions.</li>\n<li>Ability to travel up to 40% of the time. </li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Interact with sales/partner leads and technical stakeholders to translate complex customer requirements into recommendations for appropriate solution architectures and consulting services.</li>\n<li>Provide a point of escalation for customer inquiries and serve as the first point of contact to Google for consulting services.</li>\n<li>Work with customer technical leads, client executives and partners to manage and deliver successful migrations to cloud solutions.</li>\n<li>Work closely with practice areas, Product and Engineering to package best practices and lessons learned into thought leadership, methodologies and published assets.</li>\n<li>Understand customer needs and help shape Google\u2019s long term product strategy. Be an advocate of Google\u2019s \u201cproduct innovation story.\u201d</li>\n</ul>",
+    "title": "Big Data and Analytics Cloud Consultant"
+}

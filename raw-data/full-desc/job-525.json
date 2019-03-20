@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUveF-rUDNLXmNLTGQ0VAX6hDUYvhYHA_hGbpjUzd6wSOgASYQ8wKQHziW6YNOeegR-RpWyKIVy5jl-Q-uTpiSnwKWEw3W_2tB4GfviZJ-3S9-2Hszd_hbsquW8%3D_V2&jobTitle=Analyst%2C+Treasury+Tech&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-05T21:31:31.883Z",
+    "description": "<p>Google&#39;s Treasury team is on a mission to optimize the return on Google&#39;s financial assets. As a member of this team, you&#39;re always looking for innovative ways to help Google invest for the future while limiting volatility and material surprises. In addition to risk busting and asset management, you work collaboratively to administer business insurance programs and stock programs, and provide financial analysis support to our internal teams. You make creative yet calculated decisions that are backed by both experience and your extensive knowledge of the economy and financial industry.</p>\n\n\n<p>In this role, you will join the Treasury Tech team in managing access to the company\u2019s bank accounts globally from a systems and technology perspective. This will include straight through processing for payments, host to host file delivery, online banking portals, and more. We enable and scale business growth via various Treasury systems and technologies while mitigating risk.\n</p>\n\n\n<p>As a Treasury Analyst, you will oversee the full user access controls operations, including granting, modifying, and removing users from various Treasury and banking systems. You\u2019ll also collaborate with a cross-functional group of Finance and Treasury teams, Legal, Compliance, and Engineering teams to develop and implement best practices for data privacy, user access controls, and overall risk mitigation. In addition, you will assist with other team projects related to M&amp;A integration as well as industry technologies (e.g., APIs).</p><p> </p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/142411368478188230",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:55:34.044Z",
+    "publish_date": "2019-02-27T19:55:34.044Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience in process management and operational controls within a finance environment.</li>\n<li>Experience in a business analyst function, defining and documenting business requirements and processes with teams inside and outside Finance.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in a global treasury operations function.</li>\n<li>Knowledge of GSuite (i.e., Sheets, Docs, Slides) and SQL.</li>\n<li>Ability to communicate and work well cross-functionally in a fast-paced environment.</li>\n<li>Ability to take initiative and define possible solution alternatives and foresee challenges.</li>\n<li>Ability to facilitate discussions with executives to arrive to key decisions.</li>\n<li>Excellent problem-solving skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Be the global process manager for user access controls to treasury and banking systems, responsible for team members in Sunnyvale, California, Manilla, and the Philippines.</li>\n<li>Strive for operational excellence in our management of user access controls, through process innovation, instrumentation, metrics, and reporting.</li>\n<li>Partner with Security Operations to facilitate vendor security audits (VSAs).</li>\n<li>Develop best practices for all of Treasury to ensure compliance with data privacy policies (e.g., general data protection regulation, data policy) and participate in other Treasury Tech projects (e.g., M&amp;A Integration, APIs).</li>\n<li>Be the control manager for certifying SOX compliance and other audit requirements.</li>\n</ul>",
+    "title": "Analyst, Treasury Tech"
+}

@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQ1i6k9ZxGJ4Hx8QfvsTUQg0Agt9ONbz7NboR9R9XN0SOgASYQ8wVl-_CjUJ0gD3vK--LBeTzABNXHpY726GR2k3GvO3shlCUtDdrxkQ_uoFI5gSmsNnTEHSXnw%3D_V2&jobTitle=Technical+Program+Manager%2C+NestCam%2C+Software&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-28T16:32:04.931Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n\n<p>The Nest/Home team&#39;s mission is to create a home that takes care of the people inside it and the world around it. As a Technical Program Manager, you will be responsible for managing continuous improvement of our existing product lines and implanting an innovative vision for how consumers will manage the security and safety of their homes in the future.\n</p>\n\n\n<p>In this role, you&#39;ll work with a highly cross-functional team of software engineers (e.g., platform, cloud, device app, mobile app), leading the team in planning, tracking, issue resolution, and communication.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/133743144014357190",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-28T16:32:04.931Z",
+    "publish_date": "2019-02-28T16:32:04.931Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>3 years of experience as a Program or Engineering manager.</li>\n<li>2 years of experience as an engineer in a technical domain or equivalent practical experience.</li>\n<li>Experience developing tools and processes to improve software engineering productivity. Experience managing technical relationships with vendors and partners.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience launching camera products or camera software releases.</li>\n<li>Experience tracking and translating engineering discussions into actionable engineering tasks and next steps.</li>\n<li>Experience delivering software designed to work with/on hardware products.</li>\n<li>Track record of delivering successful software.</li>\n<li>Ability to lead and influence.</li>\n<li>Excellent project management skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage projects or programs, working closely with Google engineers, product managers, and designers to develop, track, and alight release milestones and schedules.</li>\n<li>Develop and drive Software release schedules with well-defined milestones.</li>\n<li>Assess the quality of releases through monitoring of incoming bugs.</li>\n<li>Develop tools and processes to improve software engineering productivity.</li>\n<li>Manage technical relationships with vendors and partners.</li>\n</ul>",
+    "title": "Technical Program Manager, NestCam, Software"
+}

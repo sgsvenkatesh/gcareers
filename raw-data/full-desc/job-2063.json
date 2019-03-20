@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Austin, TX, USA; Boulder, CO, USA; Cambridge, MA, USA; Kirkland, WA, USA; Seattle, WA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRfMGGgZLqAhBSLYkzhFZk0bAyBQKNbtRxORSk1ls48SOgASYQ8w9_2hYiBTtn55l2VdgnfYokD7I5TtY9qCGJ7N6GupDMPvDz8uW4AvKBjo-g-uQTkweAAiiPU%3D_V2&jobTitle=Technical+Curriculum+Developer%2C+Infrastructure%2C+Google+Cloud&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-22T19:01:31.396Z",
+    "description": "<p>Google Cloud teams work with companies, government agencies and academic institutions to make them more productive, mobile and collaborative by using Google Cloud products to get their work done. The Google Cloud Training team is an organization within Google Cloud seeking an individual to develop a creative and engaging learning experience to help our customers succeed with the Google Cloud Platform products. \n</p>\n\n<p>As a Technical Curriculum Developer, you will design, develop and maintain technical learning content and curricula for various cloud roles, including Cloud Solutions Architects, Site Reliability Engineers, System Operations professionals, DevOps Engineers, IT Managers and Software Developers. \n</p>\n\n<p>To thrive in this job, you must have the ability to translate technical content into effective learning solutions. You must have an exceptional grasp of cloud computing technologies as well as of learning-and-development tools and principles, including instructional design. You enjoy keeping your technical skills honed and you aspire to achieve and maintain a technical leadership role in your organization.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5497447602225152",
+    "location": {
+        "address_lines": [
+            "Seattle, WA, USA"
+        ],
+        "city": "Seattle",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Seattle, WA, USA",
+        "lat": 47.6062095,
+        "lon": -122.3320708
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&size=1168x324&zoom=12&signature=ps_sPvgcgFUcz72GpSwau1rebxc=",
+        "large_2x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&scale=2&size=1024x324&zoom=12&signature=LGHj2cxqA3QhLZJTwZmYSkwFGho=",
+        "small_1x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&size=600x400&zoom=12&signature=D1jnhP7KcjQ4mOvW3HCzt_s7wc8=",
+        "small_2x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&scale=2&size=600x400&zoom=12&signature=LHlLQ_7VV0axWi1ctKvQwOcu_UM="
+    },
+    "modified": "2019-03-18T21:23:27.475Z",
+    "publish_date": "2019-02-27T19:42:19.158Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Mathematics, Information Architecture, a related discipline or equivalent practical experience.</li>\n<li>Experience in at least one of these languages: Java, Python, PHP, Go, Ruby, C#, C or Javascript (specifically Node.js).</li>\n<li>Experience with cloud computing technologies.</li>\n<li>Experience in one of the following areas: networking, security, systems administration, cloud-native application development, DevOps practices and automation tools.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Computer Science, Engineering, Instructional Design, Technical Communications or a related discipline.</li>\n<li>5 years of experience as an instructor or in technical training curriculum development.</li>\n<li>Experience with Camtasia, Adobe Captivate, Articulate Storyline or similar e-learning development tools.</li>\n<li>Experience creating or managing demonstration sites and creating or managing lab activities or lab environments.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Dive deeply into Google Cloud technologies in order to understand the services and develop effective training for our customers.</li>\n<li>Collaborate effectively with cross-functional subject-matter experts and others to support initiatives. Be responsive to the fast-paced nature of innovation and revise content in a structured manner.</li>\n<li>Design and develop creative learner-centered training programs, modules and materials in multiple modalities, including synchronous remote learning methodologies, blended classroom learning, interactive e-learning modules, videos, hands-on labs, job aides, facilitator guides and resource materials.</li>\n<li>Perform needs and task analysis, scope projects and evaluate existing documentation to identify the most appropriate training approach and content to meet the learning needs of each audience across multiple global locations.</li>\n<li>Ensure and drive best-practices standardization across all projects, content and sites.</li>\n</ul>",
+    "title": "Technical Curriculum Developer, Infrastructure, Google Cloud"
+}

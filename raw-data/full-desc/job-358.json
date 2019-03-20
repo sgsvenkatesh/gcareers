@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWfZe4eyrYwGGChl8wraf0W4YLSP3sGKRAkc2tJsGq0SOgASYQ8wIMTwXje7QEMqm2VxIrSH0Czs409S1luvOAQNb1bE0eEDC18JFaXAmFDe-qSDzSQhExRkQ1o%3D_V2&jobTitle=Network+Analyst%2C+Demand+Forecasting+and+Risk+Analysis&loc=US",
+    "categories": [
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-19T18:01:48.891Z",
+    "description": "<p>Every day, Google provides service to millions of Internet users around the world. We make sure that the network our users rely on always exceeds Google&#39;s high standards. You enable the team to make informed decisions for network expansion and growth. With Google&#39;s ever-evolving technologies at your fingertips, you&#39;ll be challenged to innovate. At the same time, you work to ensure that the future network will accommodate bandwidth and quality needs for Search, video platforms, and more. By directing how and where to cost-effectively expand network infrastructure, you&#39;ll ensure that our users stay connected with our growing suite of applications, products, and services.</p>\n\n\n<p>The Network Demand team within Network Capacity Planning is responsible for the forecasting network bandwidth across Google&#39;s backbone networks and data centers. We are also responsible for understanding risk due to inorganic network demands, and we work with partner teams to develop risk mitigation strategies. We work closely with product managers and product areas to help define internal network products and development teams to implement forecasting algorithms and supply teams to capacity plan the network.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/81364768675242694",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-07T22:31:48.421Z",
+    "publish_date": "2019-03-07T22:31:48.421Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Programming experience in R, Matlab, Python, C++, Java or Perl.</li>\n<li>Experience in network routing protocol troubleshooting in BGP, OSPF, IS-IS and MPLS.</li>\n<li>Experience in analysis across datasets.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>5 years of experience in a Network Engineer/Architecture position with an Internet service provider or enterprise-level network.</li>\n<li>Capacity planning experience.</li>\n<li>Experience addressing and solving complex problems.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Automate network allocation processes to provide zero touch activation of network resources.</li>\n<li>Analyze network data (i.e. utilization, cost, traffic behavior, etc.) related to key Google services (e.g., analyzing network utilization by video, relative network unit cost by region) and applying to network capacity, change or optimization initiatives.</li>\n<li>Optimize network (e.g., topology, sizing, cost) utilizing existing models, methodologies and tools and incrementally improving upon those with minimal guidance.</li>\n<li>Operate and maintain or enhance network model (e.g., cost allocation, utilization and failure behavior) and ensure that models are scalable and evolvable throughout the life of the network.</li>\n<li>Work with Google Services to understand and enumerate Network needs, cost and scalability associated with demands (e.g., forecasting network usage for Gmail).</li>\n</ul>",
+    "title": "Network Analyst, Demand Forecasting and Risk Analysis"
+}

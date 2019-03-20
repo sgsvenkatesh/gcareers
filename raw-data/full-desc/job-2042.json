@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckf1jl7okG5twbX87X-r8pqEjGYAISOjf1hOkcQ-kN0USOgCPMA3TAcmcEiRQ8V-Aabh3jGuU1K5iyOEVYrSfWxjYEiG1NYVH7bb3SFO_s-QJkvAS7pT1O68m1H8%3D_V2&jobTitle=Program+Manager%2C+Lifestyle+and+Personalization&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-08T11:31:31.881Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>As Program Manager for Lifestyle and Personalization products on the Goods team, you&#39;ll play an instrumental role leading a category of Lifestyle and Personalization products - our phone cases, watch bands etc. Personalization is an important category of products for Pixel and our business. \n</p>\n\n<p>In this role, you will help create the vision for these highly visible products, built upon identification of key differentiators unique to Google and delighting users with Google design excellence. You will connect the technical with the business and the design with the experience working with teams across Engineering, UX, Industrial Design, Marketing Supply Chain, Sales, Business Planning, Partnerships and Finance. With your technical expertise, you will identify project risks and implement solutions for resolving them quickly; you will shape the future of our very visible accessory products business.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5742338141257728",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:47:26.358Z",
+    "publish_date": "2019-02-27T19:47:26.358Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>MBA degree or equivalent practical experience.</li>\n<li>Experience working in a business operations role.</li>\n<li>Experience working as a program manager with cross-functional teams including; Engineering, Industrial/Product Design, Sales, Marketing, Finance, Supply Chain, Customer Support, Partnerships, and Legal.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Passion and talent for building and scaling amazing consumer products.</li>\n<li>Familiarity with consumer hardware development life cycles and ODM/CM working models.</li>\n<li>Familiarity with computing and mobile operating systems and SW applications development life cycles.</li>\n<li>Ability to work effectively as part of a team and to build relationships with cross-functional peers.</li>\n<li>Excellent cross-functional collaboration skills both with technical and business teams, along with commercial and technical acumen, and excellent analytical and communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Define overall strategy and product roadmap including the key differentiators good for Google and our Users and lead technical/feature specifications for new products.</li>\n<li>Manage product life cycle, work with device side Product Manager (PM) and Product Marketing Manager (PMM) colleagues to define marketable moments, manage from inception through to execution and end of life.</li>\n<li>Optimize line offering and Stock Keeping Unit (SKU) efficiency for Google smartphone and smartwatch personalization accessories.</li>\n<li>Coordinate, align and ensure successful execution of cross-functional teams such as Hardware Engineering, Software Engineering, Phone and Android Product Management, Go-to-Market (GtM), Marketing, Finance, Supply Chain, Customer Support, Made For Google, and Legal.</li>\n<li>Partner closely with Product teams across Google to understand their vision, objectives and opportunities for strategic alignment.</li>\n</ul>",
+    "title": "Program Manager, Lifestyle and Personalization"
+}

@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdCZJFRDIJHrGxXBaIMXw-vG_MZ4LjTd4sxSkOge44oSOgCPMA3TesrMBgisf3XdyK1dCbsCte9nIFkDhcQNuppefwQFJHL6eGiDRo5LZQMC-xXnyUEvPLZ2h_4%3D_V2&jobTitle=Quantitative+User+Experience+Researcher&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:06:25.385Z",
+    "description": "<p>In our User Experience (UX) teams, UX Researchers partner with Designers, Product Managers, Engineers, and Googlers across the company to improve the user experience and drive product excellence. Quantitative UX Researchers do this by leveraging empirical research methods from computer science, quantitative social science, statistics, econometrics, data science, and other fields to understand user behavior and extract meaningful patterns from large data sets.\n</p>\n\n<p>In this role, you\u2019ll combine skills in experimental design, statistical analysis, programming, and human-computer interaction to improve user experience. As a key member of a product team, you\u2019ll work with stakeholders across functions and levels. You\u2019ll solve challenging problems and empower the team to move forward by developing metrics, measuring results, and integrating new methodologies into existing systems. You\u2019ll do more than just crunch numbers: through reports and team engagement, you provide a UX perspective on quantitative data to help stakeholders understand their users. You\u2019ll also identify and quantify problems, and embark on new research areas worth exploring through innovative methods.\n</p>\n<p>This differs from data science roles as it involves the application of data science to User Experience problems, and many Quant UX Researchers at Google come from a data science background. The primary difference between this role and a pure data science role is a strong interest in understanding user needs. Day to day, this is expressed in work with Qualitative UX Researchers, UX Designers, and Engineering teams to ensure that we\u2019re addressing users&#39; needs.</p><p>User experience (UX) is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users\u2019 needs, behaviors, and emotions to yield insights that inform product strategy and guide the design of the experiences we create. Our multidisciplinary UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and performance. We collaborate closely with product managers, software engineers, and many others to solve complex challenges and craft powerful experiences that highlight our products\u2019 unique capabilities and personalities. Our work touches billions while exemplifying a key principle that is core to Google\u2019s philosophy: \u201cFocus on the user and all else will follow.\u201d</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6388373843542016",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:46:00.812Z",
+    "publish_date": "2019-02-27T19:46:00.812Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Human-Computer Interaction, Statistics, Psychology, related field or equivalent practical experience.</li>\n<li>2 years of experience in an applied research setting.</li>\n<li>Experience in a programming language commonly used for data manipulation and computational statistics (e.g. Python, R, Matlab, C++, Java, or Go), and with SQL.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MS or PhD degree in Computer Science, Human-Computer Interaction, Psychology, Statistics, or a related field.</li>\n<li>5 years of experience with User Experience or Human-Computer Interaction teams.</li>\n<li>Demonstrated expertise in multivariate statistics and the design of experiments.</li>\n<li>Proficiency in programming computational and statistical algorithms for large data sets.</li><li>Ability to develop research questions within a given domain, and technical tools for the analysis of data within that field.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work with engineering and product teams to help define user experience goals and metrics.</li>\n<li>Identify quantitative markers of user experience.</li>\n<li>Help drive change by communicating findings to stakeholders in the company.</li>\n</ul>",
+    "title": "Quantitative User Experience Researcher"
+}

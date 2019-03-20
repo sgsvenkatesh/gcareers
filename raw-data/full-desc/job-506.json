@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZDRNI5W2Wf6ojKCGSMUat8nkV6PGUOtD5P1AfUP72USOgASYQ8wFhhXamQMCbpd4K6GvZI04bwQnx7L7QzL3e0W5C85uCUDMwgfvRJPheAwkUiLTpYYg1iDD9Y%3D_V2&jobTitle=Manager%2C+Tax+Systems+and+Process&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-19T22:31:37.612Z",
+    "description": "<p>Google&#39;s in-house tax team knows all things corporate tax. Made up of smart, perceptive Googlers with a flair for domestic, international and sales &amp; use tax, the knowledge and expertise of this team runs deep. You have years of experience in this field and an extensive knowledge of those tax issues most relevant to internet companies. While we don&#39;t give our Googlers individual tax advice, you make it easy for Googlers to get what they need to make good tax decisions. You find ways to work smarter by streamlining and automating our tax processes and systems, and find ways to be both innovative and compliant.</p><p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to the business.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/73063513867592390",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:56:38.178Z",
+    "publish_date": "2019-02-27T19:56:38.178Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Finance, Accounting or Information Systems degree.</li>\n<li>9 years of experience in transaction tax (VAT/GST and sales/use tax).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MST, JD or CPA. Advanced Information Systems Degree/Certification.</li>\n<li>Experience working with engineering teams.</li>\n<li>Knowledge of ERP systems and tax engines.</li>\n<li>Relevant industry experience.</li>\n<li>Excellent knowledge of Vertex/OneSource tax engines</li>\n<li>Knowledge of programing languages such as SQL and Python.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Provide guidance and support to business and product areas as to systems and process impact resulting from changes in global tax rules/regulations.</li>\n<li>Work closely with payments engineering and corporate engineering teams in preparation of tax requirement and constraint documents.</li>\n<li>Work with internal teams in prioritizing system changes, feature requests, helping to resolve outstanding issues.</li>\n<li>Implement and maintain tax logic rules in tax engine.</li>\n<li>Work with cross-functional leadership in tax, finance, and systems to ensure timely compliance with tax law changes/requirements.</li>\n</ul>",
+    "title": "Manager, Tax Systems and Process"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYTj-67-G3bDT2MuxOtzXBSsgkafNa2MqJdCtfO0E3MSOgCPMA3T_h0WdMJVl49ZmZIm7NjBW9oElFirjgRj1QpYzbmlCOSYFTIUqLJ3ZaB02kzNAsiTuV-SbNU%3D_V2&jobTitle=Program+Manager%2C+Google+Store&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-15T18:01:44.392Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>As a Program Manager for the Google Store, you&#39;ll use your passion for e-commerce and consumer electronics.\n</p>\n\n<p>The Google Store (http://store.google.com) is the company\u2019s online channel for Made By Google products. Our product assortment spans Pixel, Google Home, Chromecast, Google Wifi, VR and accessories. Our team collaborates with cross-functional partners, including Product, Engineering, UX, Marketing, Operations, and Customer Support. You have excellent project and process management skills and a track record of demonstrating technical understanding and sound business judgment. \n</p>\n\n<p>As a Program Manager, you&#39;ll work cross-functionally to launch new products, features and services on our site, and own the management and ongoing operational execution of these programs post release to ensure their continued success. Many of our projects are complex and require external integrations and significant operating dependencies (e.g., logistics, planning, business systems, finance, legal, etc.), and you&#39;ll be responsible for ensuring optimal collaboration and project execution across all key functional stakeholders. You&#39;re passionate about delivering an excellent end-end customer experience, achieving business as well as product results, and working with multiple external and internal partners.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5385135510716416",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T21:17:28.473Z",
+    "publish_date": "2019-02-27T19:46:16.960Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>7 years of experience at an e-commerce and/or technology company.</li>\n<li>3 years of project or operations management experience.</li>\n<li>Experience managing projects interfacing with technical and non-technical stakeholders/groups in a matrixed organization.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in e-commerce, including domain expertise in new product introduction, systems (inventory, order, and content management), and logistics/supply chain management.</li>\n<li>Ability to independently build and lead project plans, roadmaps, and balance priorities driving projects to completion.</li>\n<li>Adept at managing multiple complex projects.</li>\n<li>Demonstrated attention to detail with a bias for action, and extremely organized.</li>\n<li>Demonstrated cross-functional relationship management skills.</li>\n<li>Excellent communication skills (both written and verbal).</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage projects and execute Google Store product launches. Collaborate with and manage related dependencies owned by cross-functional teams in technical, business and operating roles.</li>\n<li>Partner closely with Product Managers, Engineers, and UX on the development of new features/functionality and their implementation. Advocate for improving/enhancing existing capabilities where appropriate.</li>\n<li>Identify needs to develop or improve the Google Store&#39;s tools or processes to satisfy customer and business requirements and/or increase overall efficiency.</li>\n<li>Manage ongoing programs and operating initiatives on the Google Store.</li>\n<li>Coordinate cross-functionally and collaborate with external parties.</li>\n</ul>",
+    "title": "Program Manager, Google Store"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRaCiFLGR3fjep6Iw0zI9CgyMv02i3LGckJTMvgINeISOgASYQ8wW5ecD2Ns9Ea4_calyND7FOdn7B28dCpHiV7tvsTJ-YxTCOe3A4RGAjXvaVxXXLHOL2ovR2g%3D_V2&jobTitle=Program+Manager%2C+Quantity+Surveying&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-05T20:01:52.153Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>As a Quantity Surveying Program Manager, you will be responsible for end to end unit cost while leading the integration of estimating and value engineering and lean and continuous improvement initiatives across the data center design architecture. You will, manage internal stakeholder relationships including Engineering, Regional Construction, and Finance teams and will develop and maintain effective external relationships. Additionally, you will be as comfortable explaining your team&#39;s analysis and recommendations to executives as you are discussing the processes and trade-offs with engineers.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/112092451709035206",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-12T20:31:32.845Z",
+    "publish_date": "2019-03-12T20:31:32.845Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Construction Management, Quantity Surveying, Engineering, related technical field, or equivalent practical experience.</li>\n<li>10 years of experience managing multinational programs/projects. 5 years of experience in construction of technology facilities.</li>\n<li>Experience with the principles of cost management/planning, model based estimating, and report/construction planning.</li>\n<li>Experience creating reports and presenting to management.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience leading cross-functional process improvements and holding project leads accountable.</li>\n<li>Experience in Machine Learning and Automation. Experience with Lean Six Sigma and continuous improvement.</li>\n<li>Ability to collaborate and influence across multiple levels of an organization.</li>\n<li>Ability to comfortably shift between hands-on detailed analysis and big picture thinking and customize communication based on the audience.</li>\n<li>Ability to manage complexity and multiple priorities.</li>\n<li>Excellent problem-solving, facilitation, presentation, influencing, and communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Liaise between Google Engineering teams, Global Data Center Construction teams, and Vendors to resolve contract terms and ensure contract accuracy. Maintain Central contracts repository.</li>\n<li>Train other internal teams on building business cases and cross-discipline unit costs and design change impacts on projects. Build effective relationships with stakeholders and develop sourcing strategies.</li>\n<li>Identify opportunities for smarter design cost options and more efficient processes. Collaborate with teams to speed up innovation, understand the supply market, and educate stakeholders.</li>\n<li>Communicate directly with internal clients and vendors regarding clarification of Google\u2019s rationale for agreement terms. Develop scalable solutions for managing the end-to-end agreement process.</li>\n<li>Travel up to 20% of the time.</li>\n</ul>",
+    "title": "Program Manager, Quantity Surveying"
+}

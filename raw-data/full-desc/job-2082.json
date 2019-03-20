@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckST8mFfIerWzWu-duZ86EIUgOvBt286K7xacHgRJw7ASOgCPMA3TS49gygR8qgc4UWOHEsNYKDlrUboJ3M_xFgcwNDd2Bm7qeA7nwjx6P2alvQuy1g9PGmBAHOQ%3D_V2&jobTitle=Web+Solutions+Engineer%2C+Google+Cloud&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:32:29.208Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>\n\n<p>As part of the Global Operations Engineering team, you will act as a fullstack engineer and work on a variety of both front-end and backend systems that help assist Google Cloud sales teams. You will have the opportunity to work on complex, multi-disciplinary projects that play a key role in shaping the growth of Google Cloud. In this role, you will collaborate with engineers, data scientists and business strategists to solve these challenges.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6534422981705728",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:42:48.864Z",
+    "publish_date": "2019-02-27T19:42:48.864Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in Computer Science, Math, or related technical field, or equivalent practical experience.</li>\n<li>Experience with large systems software design including storage, networking, deployment and scaling methodologies.</li>\n<li>Experience in one or more programming languages.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with Google Cloud Platform and its suite of serving, hosting, and storage services.</li>\n<li>Experience engaging, working, and communicating with external customers in a professional manner.</li>\n<li>Experience developing Chrome Extensions/React JS.</li>\n<li>Experience with large system software design including storage, networking, deployment and scaling methodologies.</li>\n<li>Web UI development experience with HTML, JavaScript, AJAX, CSS and similar technologies.</li>\n<li>Knowledge of at least one backend language and SQL.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop frontend and backend systems from start to finish with a strong focus on business critical systems.</li>\n<li>Work closely with business and data science partners in Google Cloud to drive the growth of Cloud and maximize impact. Work in partnership with the product team and other stakeholders to produce high quality and specific requirements.</li>\n<li>Be a strong communicator, leader, and advocate for our customers. Deliver highly scalable and reliable business solutions to customers and partners.</li>\n<li>Write high quality designs that document technical alternatives and make sound engineering decisions across known and unknown interacting systems. Provide estimates and dependencies for engineering tasks.</li>\n<li>Be able to lead all aspects of development including design, task allocation, implementation, testing, documentation, ongoing support and maintenance.</li>\n</ul>",
+    "title": "Web Solutions Engineer, Google Cloud"
+}

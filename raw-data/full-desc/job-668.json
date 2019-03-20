@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckau-C2Jl34PTtW0YnfaZRJoAT6M-FDTuwLllaXshRZkSOgASYQ8wWCToMMd5dkyGzZQgpbcOMvhHhoLySrO7bvxy443opIsmes75dcKdGg1GyXxNW9m3jnelnXM%3D_V2&jobTitle=Quantitative+Business+Analyst%2C+gTech&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-28T14:31:45.208Z",
+    "description": "<p>gTech\u2019s Strategy and Operations team (gSO) is made up of strategic partners and trusted advisors that drive success and transformative changes for gTech. We create value through deep functional and business expertise combined with analytical rigor to formulate and deliver strategies. Using core capabilities \u2015 strategy, analytics, and communications \u2015 we empower gTech to do amazing things to land the present, and build for the future.</p><p>gTech\u2019s Strategy and Operations (gSO) team is made up of strategic partners and trusted advisors that drive success and transformative changes for gTech. We create value through deep functional and business expertise combined with analytical rigor to formulate and deliver strategies. Using core capabilities \u2015 strategy, analytics, and communications \u2015 we empower gTech to do amazing things to land the present, and build for the future.Within gSO, the Analytics and Insights (A&amp;I) team leverages big data sets, analytical tools, and business partnering to help the Ads business to provide customer experience and drive smart business decisions.</p><p>Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. Our teams of solution-oriented trusted advisors support millions of customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers\u2019 complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.<br><br>To learn more about gTech, check out our <a href=\"https://www.youtube.com/watch?v=HcjR6ZngQcw\">video</a>.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/125805718436487878",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:54:58.466Z",
+    "publish_date": "2019-02-27T19:54:58.466Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree with a quantitative focus in Economics, Computer Science, Mathematics, Physics,Statistics or Accounting or equivalent practical experience.</li><li>5 years of analytical work experience in a Sales or Customer Service environment.</li><li>Experience working with SQL.</li></ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience applying data driven insights to have a tangible impact on business performance.</li>\n<li>Knowledge of data analysis tools (R, Python) and techniques (machine learning, experimental\nanalysis, predictive modeling etc.).</li>\n<li>Knowledge of Google advertising products.</li>\n<li>Demonstrated problem solving skills, with the ability to synthesize data into useful formats and bring\nactionable insights through effective communication.</li>\n<li>Effective task management skills, with the ability to handle competing priorities and work towards goals in a fast-paced and dynamic environment.</li></ul>",
+    "responsibilities": "<ul><li>Partner closely with cross-functional teams to develop an understanding of the business, from its data and metrics, to its strategic challenges and opportunities.</li><li>Provide thought leadership to your key business stakeholders, translating data into actionable insights using appropriate analytical solutions.</li><li>Support business performance deep dives to identify and size opportunities for growth and efficiency - contributing to the strategic direction of the business.</li><li>Conduct repeatable and ad-hoc analyses to measure and interpret business trends and inform business partner decisions.</li></ul>",
+    "title": "Quantitative Business Analyst, gTech"
+}

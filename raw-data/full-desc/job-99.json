@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWs-ztz0af-llaR9eViH7qaWbhlVfkNBAWvL9fUx02ASOgASYQ8wjIUPVGXb6dCjmu058O7zHIQtLOfVUe8SMlOzKwYNja633So_cCQ7u3DYO5i5XCtUo7I5Xkk%3D_V2&jobTitle=Business+Operations+Manager&loc=US",
+    "categories": [
+        "BUSINESS_STRATEGY",
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-28T20:01:51.183Z",
+    "description": "<p>The Business Strategy &amp; Operations organization provides business critical insights using analytics, ensures cross functional alignment of goals and execution, and helps teams drive strategic partnerships and new initiatives forward. We stay focused on aligning the highest-level company priorities with effective day-to-day operations, and help evolve early stage ideas into future-growth initiatives.</p>\n\n<p>As a Business Operations Manager, you will be responsible for operating the partner facing aspects of our business. Your responsibilities will include developing a strategy to efficiently scale operations related to payments, reporting, data collection and other aspects of the partner facing business, inform the product roadmap as business systems are developed, communicate business growth updates to partners, scale monthly/quarterly payments and design monthly reports. You will work with cross-functional teams, including Business Development, Strategy and Operations, Marketing, Product Management, Legal, Finance and Engineering.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5989564681322496",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:55:08.565Z",
+    "publish_date": "2019-02-27T19:55:08.565Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>Experience in leading business operations as a Revenue Operations Manager, Finance Operations/Business Analyst or similar role.</li>\n<li>Experience working at a technology company.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in management consulting, finance or accounting.</li>\n<li>Systems integration experience.</li>\n<li>Familiarity with the advertising industry.</li>\n<li>Demonstrated ability to lead and manage large cross-functional working groups.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design, manage and implement initiatives to improve governance around partner operational processes and systems.</li>\n<li>Drive processes through the entire product lifecycle from startup to scale.</li>\n<li>Drive structured, recurring reviews of business metrics against stated objectives.</li>\n<li>Manage monthly partner payment calculations and payment delivery.</li>\n<li>Partner with cross-functional teams to define a long term strategic plan for the Next Billion Users (NBU) business.</li>\n</ul>",
+    "title": "Business Operations Manager"
+}

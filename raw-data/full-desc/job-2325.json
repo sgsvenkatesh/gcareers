@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdEwEGcTyxPjmerB7URHXLENmMwjf-APytTUo57vkjESOgCPMA3TeNlPJJ1xkX3_DFSAl338jCq_RO0GMYSACzwPK0-mdSkywYOToMSzBXEuUCt8vwEI6OG12cY%3D_V2&jobTitle=Software+Engineer%2C+Site+Reliability+Engineering&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:04:13.165Z",
+    "description": "<p><i>Hope is not a strategy. Engineering solutions to design, build, and maintain efficient large-scale systems is a true strategy, and a good one.</i><br><br>Site Reliability Engineering (SRE) is an engineering discipline that combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. SRE ensures that Google&#39;s services\u2014both our internally critical and our externally-visible systems\u2014have reliability and uptime appropriate to users&#39; needs and a fast rate of improvement while keeping an ever-watchful eye on capacity and performance.<br><br>SRE is also a mindset and a set of engineering approaches to running better production systems\u2014we build our own creative engineering solutions to operations problems. Much of our software development focuses on optimizing existing systems, building infrastructure and eliminating work through automation. As SREs are responsible for the big picture of how our systems relate to each other, we use a breadth of tools and approaches to solve a broad spectrum of problems. Practices such as limiting time spent on operational work, blameless postmortems and proactive identification of potential outages factor into iterative improvement that is key to both product quality and interesting and dynamic day-to-day work.<br><br>SRE&#39;s culture of diversity, intellectual curiosity, problem solving and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.<br><br><b>To learn more:</b> check out <i><a href=\"https://landing.google.com/sre/book.html\">Site Reliability Engineering</a></i>, written by Google SREs, watch a recorded <a href=\"https://www.youtube.com/watch?v=bwt6TZjefGM&amp;feature=youtu.be\">Hangout on Air</a> to meet some of our SREs, or read a <a href=\"https://careers.google.com/stories/site-reliability-engineering-profile-google/\">career profile</a> about why a software engineer chose to join SRE.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6275020462686208",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:39:28.430Z",
+    "publish_date": "2019-02-27T19:39:28.430Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, a related technical field involving coding (e.g. Physics or Mathematics), or equivalent practical experience.</li>\n<li>Experience with algorithms, data structures, complexity analysis and software design.</li>\n<li>Experience in one or more of the following: C, C++, Java, Python, Go, Perl, Ruby.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Expertise in designing, analyzing and troubleshooting large-scale distributed systems.</li>\n<li>Systematic problem-solving approach, coupled with effective communication skills and a sense of ownership and drive.</li>\n<li>Ability to debug and optimize code and to automate routine tasks.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Engage in and improve the whole lifecycle of services\u2014from inception and design, through to deployment, operation and refinement.</li>\n<li>Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, capacity planning and launch reviews.</li>\n<li>Maintain services once they are live by measuring and monitoring availability, latency and overall system health.</li>\n<li>Scale systems sustainably through mechanisms like automation, and evolve systems by pushing for changes that improve reliability and velocity.</li>\n<li>Practice sustainable incident response and blameless postmortems.</li>\n</ul>",
+    "title": "Software Engineer, Site Reliability Engineering"
+}

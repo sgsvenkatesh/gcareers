@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdbGH4xug04cV-8dOJ0hm9Rtdvo0HisvaAYLlnBsQ20SOgCPMA3Tst1sJWZrkCRhZLhRQmkwH3EDHc8LoGawW5ElhG0GE5zIObcnA5gMfIf04WmoG7oA1mBp5nw%3D_V2&jobTitle=Global+Practice+Engineer%2C+Infrastructure&loc=US",
+    "categories": [
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:32:21.141Z",
+    "description": "<p>The Google Cloud team helps companies, schools, and government seamlessly make the switch to Google products and supports them along the way. You swiftly problem-solve technical issues for customers to show how our products can make businesses more productive, collaborative, and innovative. You work closely with a cross-functional team of web developers and systems administrators, not to mention a variety of both regional and international customers. Your relationships with customers are crucial in helping Google grow its Google Cloud business and in bringing our product portfolio into companies around the world.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5168685625049088",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:43:04.254Z",
+    "publish_date": "2019-02-27T19:43:04.254Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science, Mathematics or related technical field, or equivalent practical experience.</li>\n<li>8 years of experience in Site Reliability Engineering (SRE), Production Operations, Development and Operations or an equivalent field.</li>\n<li>Experience in writing software in one or more languages such as Java, Python, Go, JavaScript, C++, or similar.</li>\n<li>Ability to travel up to 25% of the time.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Knowledge of networking and web standards such as DNS, DHCP, TCP/IP, HTTP, web security mechanisms, proxies, firewalls and load balancers.</li>\n<li>Knowledge of cloud computing; virtualization, hosted services, multi-tenant cloud infrastructures, storage systems and content delivery networks.</li>\n<li>Experience with large cross-functional teams, with a track record of having developed professional documentation, developed and delivered training, and published articles or books.</li>\n<li>Excellent customer-facing communication, with the ability to work directly with customers and customer technical teams. Ability to represent Google officially at conferences and events.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage and drive the Google Cloud Professional Services organization infrastructure roadmap. Focus on educating, advocating and assisting Google Cloud customers on the promise, culture and reality of infrastructure implementation; leveraging both professional services and partner resources.</li>\n<li>Advocate for Google Cloud and how it benefits companies.</li>\n<li>Work cross-functionally to understand relevant product, training and support direction and inform product roadmap as the &#39;voice of the infrastructure customer&#39;.</li>\n<li>Interface with management at Google Cloud&#39;s largest customers to understand their infrastructure needs and translate these needs into new and improved engagement types, materials, and tooling.</li>\n</ul>",
+    "title": "Global Practice Engineer, Infrastructure"
+}

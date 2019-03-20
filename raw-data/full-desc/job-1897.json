@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Seattle, WA, USA; Austin, TX, USA; Boulder, CO, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckawcEzDMbUM9MQnqQFhx67CoWaPCBG3D7J_Q2AdFmRwSOgCPMA3TzwfsrHisPghzM8RhVdfwiINioqoY9s816mc_bZXHARJsM253H8fQOLwY8PbqASZwh3GzSbI%3D_V2&jobTitle=Developer+Programs+Engineer%2C+Go&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:27.798Z",
+    "description": "<p>The Developer Relations team consists of experts from a wide range of technology roles who combine their domain expertise with a desire to help Google build products and solutions that solve their challenges in simple, scalable, and innovative ways. \n</p>\n\n\n<p>As a Developer Programs Engineer (DPE), you&#39;ll empathize deeply with your communities and advocate on their behalf to the Product and Engineering teams, ensuring that our products are built to meet their needs and that they provide the best possible user and developer experiences. \n</p>\n\n\n<p>Developer Programs Engineers are the engineering wing of Developer Relations. Part software engineer, part community manager and part developer advocate, DPEs collaborate with developers at conferences and online, and advocate for developers interests internally at Google. We act as &quot;customer zero&quot; to ensure our products meet the needs of our developer communities. We write sample code, provide guidance and feedback on product features and consult with other teams, like the technical writing, on quickstarts, tutorials, and documentation. And we participate in the wider developer community sharing best practices and helping people solve challenges.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6625019443740672",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:52:44.997Z",
+    "publish_date": "2019-02-27T19:52:44.997Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>1 years of experience in Go programming.</li>\n<li>Experience working directly with third-party developers.</li>\n<li>Experience working with developer communities.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience as a contributor to one or more open source projects, with experience in communities like Stack Overflow or similar.</li>\n<li>Full-stack or back-end application development experience.</li>\n<li>Experience automating and scaling web or mobile back-ends.</li>\n<li>Ability to clearly communicate complex technical concepts.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Drive the success of the Go programming language and it\u2019s ecosystem and community through your knowledge of, and interactions with, technical communities.</li>\n<li>Guide the new Go user experience through writing tutorials and developing educational solutions.</li>\n<li>Write demos and sample applications using Go.</li>\n<li>Participate in building developer communities, publishing blog posts/guides and promoting our APIs.</li>\n<li>Build an ecosystem for Go developers by blogging, writing technical articles, making presentations at developer conferences and working with local and international developer communities.</li>\n</ul>",
+    "title": "Developer Programs Engineer, Go"
+}

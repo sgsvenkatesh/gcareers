@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckS_glMjl7eRSIBEMyv_zfHdfx2rglwMr1cmunhWy4o4SOgASYQ8w7HUCn3UEE86OdnZm0n097ZnR5cy7M9w4VwObAYcVfAxUH0II0M9X6VqzIUK_D0i-KF_XOg4%3D_V2&jobTitle=Ethical+Investigations+Strategist%2C+Ethical+Machine+Learning%2C+Trust+and+Safety&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-12T20:01:42.236Z",
+    "description": "<p>Trust &amp; Safety team members are tasked with identifying and taking on the biggest problems that challenge the safety and integrity of our products. They use technical know-how, excellent problem-solving skills, user insights, and proactive communication to protect users and our partners from abuse across Google products like Search, Maps, Gmail, and Google Ads. On this team, you&#39;re a big-picture thinker and strategic team-player with a passion for doing what\u2019s right. You work globally and cross-functionally with Google engineers and product managers to identify and fight abuse and fraud cases at Google speed - with urgency. And you take pride in knowing that every day you are working hard to promote trust in Google and ensuring the highest levels of user safety.</p>\n\n<p>Our team works to address the technological and ethical issues that arise from Machine Learning (ML) through strategic and operational efforts.\n</p>\n\n<p>As an Analyst, you&#39;ll be responsible for identifying emerging trends, investigating ML Fairness incidents, performing deep dives and identifying patterns. You\u2019ll work to surface actionable insight to mitigate concerns across a variety of Google products.</p><p>At Google we work hard to earn our users\u2019 trust every day. Trust &amp; Safety is Google\u2019s team of abuse fighting and user trust experts working daily to make the internet a safer place. We partner with teams across Google to deliver bold solutions in abuse areas such as malware, spam and account hijacking. A diverse team of Analysts, Policy Specialists, Engineers, and Program Managers, we work to reduce risk and fight abuse across all of Google\u2019s products, protecting our users, advertisers, and publishers across the globe in over 40 languages.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/93041435059593926",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:56:03.593Z",
+    "publish_date": "2019-02-27T19:56:03.593Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Psychology, Anthropology, Ethnography or equivalent practical experience.</li>\n<li>4 years of experience in technical fields (e.g., data analysis, hazard assessment, risk and fraud investigation, security vulnerabilities, ethical hacking).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with Machine Learning algorithms.</li>\n<li>Experience with societal and/or civic issues for social good.</li>\n<li>Domain knowledge in risk management, failure modes, hazard assessment, or experiment design.</li>\n<li>Knowledge of ethics and socio-technical considerations of technology and the future of AI.</li>\n<li>Data analysis and interpretation skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Perform deep-dives and case studies into fairness issues and vulnerabilities in advanced technologies, and conduct assessments outlining user impact issues, abuse vectors and trends.</li>\n<li>Design and implement operational processes to investigate and detect machine learning fairness and ethical AI patterns across Google products.</li>\n<li>Assess and experiment with different approaches and workflows to identify a scalable/stable state.</li>\n<li>Surface insights and communicate effectively to influence and guide larger, cross-functional working groups towards solutions.</li>\n<li>Partner with other teams in Trust and Safety and across Google to exchange information on emerging ethical ML and abuse trends, and be an expert on emerging ethical ML trends.</li>\n</ul>",
+    "title": "Ethical Investigations Strategist, Ethical Machine Learning, Trust and Safety"
+}

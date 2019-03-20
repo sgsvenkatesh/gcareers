@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Kirkland, WA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYecG0UAqANMgwGYNg-sirIZNZqXnXU9YpJ2-pVz8rkSOQASYQ8w0VcYoKYMO6DZZXkcDzMBsst8VoP_lfDKBw23PlsUzdG_Uc6sBCM4JwNOBYj2DaPjmWq2TQ%3D%3D_V2&jobTitle=Technical+Solutions+Consultant%2C+Google+Cloud+%28Gaming%29&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-01T20:31:59.962Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>\n\n<p>The Video Games Industry is rapidly adapting and evolving as mobile games with in-app purchases challenge console game business models. More than ever before, game analytics and machine learning models can help determine if a game is successfully. The Video Games Vertical team in Google Cloud Platform (GCP) is focused on building the best solutions for game developers using all of Google\u2019s product portfolio.\n</p>\n\n<p>As a Technical Solutions Consultant, you have a passion for solving machine learning challenges for the Video Games Industry. You will work very closely with game developers and technical partners to deliver innovative solutions across GCP\u2019s machine learning product offerings including TensorFlow, CloudML, AutoML, Machine Learning APIs, BigQuery/BQML, KubeFlow, and other ML products. In this role, you will prototype proof of concept models and solutions, work closely with internal teams to enhance core products, engage with customers to tune our solution portfolio, and build scalable internal/partner facing applications.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/120733067854652102",
+    "location": {
+        "address_lines": [
+            "Kirkland, WA, USA"
+        ],
+        "city": "Kirkland",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Kirkland, WA, USA",
+        "lat": 47.6768927,
+        "lon": -122.2059833
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=1168x324&zoom=12&signature=BUakpYMrt4PcA_BkD8TEXxwl5yE=",
+        "large_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=1024x324&zoom=12&signature=zdt0AODknQHKKtlab5UzXYjjwOU=",
+        "small_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=600x400&zoom=12&signature=77Xz0BHyJOhV95ydWoFgQ5UMRoc=",
+        "small_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=600x400&zoom=12&signature=djRWF_5sVRDgCFnaqcEvXvug7iU="
+    },
+    "modified": "2019-02-27T19:49:14.763Z",
+    "publish_date": "2019-02-27T19:49:14.763Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Mathematics, Industrial Engineering, related technical field, or equivalent practical experience.</li>\n<li>7 years of experience in a technical, customer facing role</li>\n<li>Experience in machine learning frameworks such as TensorFlow, Scikit-Learn, Keras, or equivalent experience with big data stacks such as BigQuery, Hadoop, and/or Spark.</li>\n<li>Experience with building and deploying machine learning models with a programming language such as Python or R</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Analytics, Computer Science, or related software engineering field.</li>\n<li>5 years of experience as a data/ML solution manager or as a developer working on new solutions.</li>\n<li>Knowledge of video game development, VR, AR, and cloud developer operations.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design, assemble, and deploy reusable ML models and solutions incorporating both Google Cloud Platform(GCP) and partner products.</li>\n<li>Establish the tools, infrastructure, and experience required to ensure comprehensive ML solutions and scalable deployments.</li>\n<li>Analyze, review, and modify ML solution architectures and models to increase operating efficiency and incorporate new requirements. Provide partners with specific tools and consultation to optimize partnership value.</li>\n<li>Author and review technical documentation including design, development, and revision documents. Write and review code and models in compiled or scripted languages.</li>\n<li>Contribute to ML product solutions using standard and Google-specific software development tools. Test, debug, maintain, and/or update models and solutions.</li>\n</ul>",
+    "title": "Technical Solutions Consultant, Google Cloud (Gaming)"
+}

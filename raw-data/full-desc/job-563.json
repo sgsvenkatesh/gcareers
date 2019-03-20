@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckSBrEIXFyZgJ20-gEjSjWSWWLxvU28ZCTrGg_XzGcGkSOgASYQ8wAmb1aWNXnUzC1mM60mnWdjUddnAL9a2x_QpU0LiQk4HySWLJmn-G3faHWalV0BpRmpHPKTs%3D_V2&jobTitle=Director%2C+Product+Management%2C+Google+Cloud+Platform&loc=US",
+    "categories": [
+        "PRODUCT_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-04T19:01:39.894Z",
+    "description": "<p>Every successful digital business needs great operations capabilities. As companies transform and grow, they require new levels of reliability, availability, scale, and security. Technologies such as cloud and AI are creating new opportunities, and changing the way operations teams and operators work.</p>\n\n<p>Google has been a leader in this modern ops transformation, having developed and shared innovative practices such as Service Reliability Engineering (SRE). \n</p>\n\n<p>As the Director of Product Management, you will be responsible for establishing Google Cloud Platform (GCP) as the breakthrough platform for operators and operations teams. You will lead and deliver a product suite that provides a complete and productive experience for operations on GCP, and productize innovative practices and tools that help organizations successfully transform their IT practices and substantially increase their velocity.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/129089979801313990",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:53:55.229Z",
+    "publish_date": "2019-02-27T19:53:55.229Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor\u2019s degree in Computer Science, related technical/quantitative field or equivalent practical experience.</li><li>10 years of experience as a product management leader for products and systems, from strategy to market.</li><li>Experience with cloud platforms and technologies; industry experience in cloud computing, enterprise software, and/or operating systems.</li><li>Experience with open source software.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience owning and growing a software business or category.</li><li>Experience with large scale products and systems, ideally in the operations and management tools and/or cloud domains.</li><li>Strong track record of collaboration, including the ability to work with cross-functional teams, and across complex ecosystems.</li><li>Exceptional communications skills (including articulating product vision and inspiring teams, and presenting to customers).</li></ul>",
+    "responsibilities": "<ul><li>Define and deliver a strong product vision and roadmap for the operator experience for Google Cloud Platform (GCP). Own and drive the product lifecycle from product strategy to go-to-market strategy.</li><li>Understand the market, customer, and competitive landscape, including new technologies and trends in the ops management space. Understand and define the voice of the operator user.</li><li>Lead and grow the business for Stackdriver, GCP\u2019s ops management suite. Collaborate across the business to provide a complete offering for operations on GCP.</li><li>Build and lead a strong product management team, distributed across multiple locations. Collaborate with engineering, UX design, product marketing, sales, and leadership teams across GCP.</li></ul>",
+    "title": "Director, Product Management, Google Cloud Platform"
+}

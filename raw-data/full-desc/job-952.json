@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfBuFm9cXDuwMYfzTss7ut1cMFssFweOPZeOmqmWD38SOgASYQ8wcPw2Sj4ujWkAqUu4tyWH2HxamKydzLfet6rI8v7n0DoZngBtm7XJXFXhXHk0G5gaMoDXDF8%3D_V2&jobTitle=Manager%2C+Store+Certification%2C+Store+Programming&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-13T15:31:37.492Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>As the Manager in Store Certification/Store Programming, you\u2019ll lead the certification operations function to deliver a high-quality store experience for our gaming customers on a global basis. You\u2019ll work cross-functionally across a set of internal stakeholders including partner management, technical certification, programming, business operations, release management and other groups, managing the certification and approval process for all digital store and platform UI assets. Working collaboratively across functions, you will establish effective working relationships with peers in the organization while managing a growing pipeline of content.\n</p>\n\n\n<p>In this role, you will focus on delivery and execution, demonstrating a desire to build and evolve operational capabilities in a fast-paced startup environment. Additionally, you will managing multiple simultaneous work streams, and a team to deliver certification at scale while managing shifting prioritization of deliverables.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/125522946245436102",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-13T15:31:37.492Z",
+    "publish_date": "2019-03-13T15:31:37.492Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience in project management, software compliance testing, or operations.</li>\n<li>Experience managing customers and streams of work.</li>\n<li>Experience with software development methodologies and working cross-functionally with operations, product, and business teams.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with technical certification processes and methodologies.</li>\n<li>Experience defining and leading quality assurance testing plans and resources.</li>\n<li>Experience with and/or passion for games and the gaming industry.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work closely with the store operations team, partner management, release management, technical certification, and other groups while managing a team to deliver high-quality results against established SLAs and agreed-to partner timelines.</li>\n<li>Focus on quality and operational efficiency, delivering consistent results against established guidelines.</li>\n<li>Handle competing priorities and deliver against schedules and milestones in a fast-paced environment.</li>\n<li>Manager multiple interdependent projects and work streams of moderate complexity and scope.</li>\n</ul>",
+    "title": "Manager, Store Certification, Store Programming"
+}

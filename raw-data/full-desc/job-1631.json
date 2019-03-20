@@ -1,0 +1,35 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Waterloo, ON, Canada; Mountain View, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcgaNPOK18RsI_8p1QF1r766Ci3mCk0RSbN-ltkiUXsSOgASYQ8wFWEyDvkggNEzFXtVsA-O0vla6CPFc7GpQSKzCMm4X5o-et2seKaE9kzRHlzbKUC_oNQ9Kns%3D_V2&jobTitle=Product+Manager%2C+Graphics&loc=CA",
+    "categories": [
+        "PRODUCT_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-19T21:01:38.911Z",
+    "description": "<p>At Google, we build products that organize the world&#39;s information and make it universally accessible to our users. These products are the lifeblood of who we are. As part of the Product Management team, you work closely with our engineers to guide products from conception to launch. You connect the technical and with the business, working with teams across Engineering, Sales, Marketing and Finance. With your technical expertise, you identify a project\u2019s setback and generate solutions for resolving them quickly. As a Product Manager, you help shape the future of Google products.</p>\n\n\n<p>As a Product Manager, you will contribute experience relevant to technology used in entertainment productions. In this role, you will drive product strategy and long-term roadmaps for graphics technology and graphic development tools.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/116721094074737350",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:50:04.050Z",
+    "publish_date": "2019-02-27T19:50:04.050Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Electrical Engineering, Mechanical Engineering, Computer Science, related technical field, or equivalent practical experience.</li>\n<li>5 years of Product Management experience. Experience in consumer product launches.</li>\n<li>Experience working with cross-functional teams, including Engineering, Product, Sales, etc.</li>\n<li>Experience with consumer hardware and software development life cycles, ODM/CM working models, personal, mobile, and embedded device operating systems.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>5 years of experience in a technical role producing or developing entertainment for gaming or movie special effects.</li>\n<li>Experience in real time 3D graphics and rendering as a developer or content creator.</li>\n<li>Experience with content creation tools, asset management systems, and workflows used in video game productions or modern movie special effects.</li>\n<li>Experience with debugging and profiling systems for graphics effects.</li>\n<li>Experience collaborating with open source communities.</li>\n<li>Track record of launching innovative software solutions that delight users.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Evolve the product vision and strategy for real-time graphics and graphics developer tooling.</li>\n<li>Work closely with Engineering, UX, Partner Engineering, Business Development, Legal, and other functions to assess product priorities, establish a roadmap and author detailed product requirements.</li>\n<li>Work with external partners, including independent hardware vendors to create shared long-term road maps.</li>\n<li>Work with open source communities (e.g., Khronos, Vulkan, RenderDoc) to help shape their roadmaps.</li>\n</ul>",
+    "title": "Product Manager, Graphics"
+}

@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Austell, GA, USA; Council Bluffs, IA, USA; Clarksville, TN, USA; Midlothian, TX, USA; The Dalles, OR 97058, USA; Henderson, NV, USA; Lenoir, NC, USA; Moncks Corner, SC 29461, USA; Pryor, OK 74361, USA; Reston, VA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXcbZqagFxCbX_vcB9sa7wxmPjCivEr3BDG6woau2dUSOgASYQ8wvtBLNzLqH8bLkuAiCXuF3N7kYfA5Lnw1ZXM61fR-i28T8I36BuJCl3H0HSvfXFtMmO72Gw4%3D_V2&jobTitle=Technical+Program+Manager%2C+End+to+End+Design+Safety&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-04T17:31:45.517Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>As the End to End Design Safety Technical Program Manager, you will provide leadership in the development of Environmental Health and Safety (EHS) programs that enable our teams to work safely and efficiently. You will engage with all levels of employees and leadership to design new tools, processes, and procedures to mitigate risks to our workforce and the environments that we operate in. Additionally, you will work with key stakeholders in Data Center R&amp;D and Engineering (DCRE), Deployment Constraint Service (DCS), Data Center Program Management Group (DCPMG), Hardware Operations (HWOps), Data Center Operations (DCOps), and EHS to design a comprehensive strategy that allows leaders to continuously evaluate program risks and opportunities, and then develop work plans to execute on agreed objectives.</p><p> </p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/128991710949581510",
+    "location": {
+        "address_lines": [
+            "Clarksville, TN, USA"
+        ],
+        "city": "Clarksville",
+        "country": "TN",
+        "country_code": "US",
+        "display": "Clarksville, TN, USA",
+        "lat": 36.5297706,
+        "lon": -87.3594528
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=1168x324&zoom=12&signature=4g7D15gS_KsRZAcPRJBPHshHxPo=",
+        "large_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=1024x324&zoom=12&signature=QYWwXS75248qfpdwqfEBBnm8V4Y=",
+        "small_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=600x400&zoom=12&signature=mjzy6xqVL8hvXff8Zn76i9zQc0o=",
+        "small_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=600x400&zoom=12&signature=WRLiawPe1x4P6Qs4PKUv_xfNnR0="
+    },
+    "modified": "2019-02-27T19:49:10.362Z",
+    "publish_date": "2019-02-27T19:49:10.362Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Occupational Health and Safety, Environmental Science, Engineering, or equivalent practical experience.</li>\n<li>6 years of experience in Environmental Health and Safety design or engineering.</li>\n<li>Experience evaluating safety in engineering and design solutions and implementing systems to manage and track risk. Experience designing and constructing buildings or industrial systems.</li>\n<li>Ability to travel up to 25% of the time.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in Safety, Mechanical, or Electrical Engineering.</li>\n<li>Ability to identify key challenges and gather and analyze large complex data sets to support hypotheses and develop actionable recommendations.</li>\n<li>Experience implementing EHS needs in the design of data centers.</li>\n<li>Ability to create workable project plans with project scope and execute on such plans.</li>\n<li>Knowledge of Data Center Operations, Facilities Management, Engineering, and Construction.</li>\n<li>Excellent project management, analytical, data quality troubleshooting, and data-driven problem-solving skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Formulate strategy for providing end-to-end safety reviews on Google Data Centers (GDC) product/process designs.</li>\n<li>Work with key stakeholders to identify business requirements and build a strategies for achieving key objectives. Manage multiple programs and initiatives and report back regularly to leadership on progress and milestone accomplishment.</li>\n<li>Work with other Program Managers to explore new innovative EHS technologies and evaluate potential for integration with existing and future business processes.</li>\n<li>Evaluate EHS risks for DCOps, HWOps/Platforms, and other GDC functions and products/processes and implement solutions to address them. Build tracking system to measure impact of design safety improvements.</li>\n<li>Travel up to 25% of the time.</li>\n</ul>",
+    "title": "Technical Program Manager, End to End Design Safety"
+}

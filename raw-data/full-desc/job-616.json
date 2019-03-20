@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWwH0FddXNfY9LZwMcElFmhOqBpmgGoIonlnDXVPrgkSOQCPMA3TNkERSLfRd79P4i1Atl87uhoP_IPDKmQk81JgbPm4ya2kxWT4XumfI1jzmdGx5VcSJFnuug%3D%3D_V2&jobTitle=IP+Network+Architect&loc=US",
+    "categories": [
+        "NETWORK_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T23:02:07.212Z",
+    "description": "<p>Our network operates reliably at a large scale around the world and 24/7. Google\u2019s Network Architecture team defines and provides all manner of architectural elements, building blocks and technologies that allow Google&#39;s production network infrastructure to meet the needs of our users. Given the size and complexity of our network, we face a constant stream of opportunities. The ever-evolving set of technologies we use to solve these challenges are used by innovative and dynamic problem-solvers with expertise in all aspects of network management.</p>\n\n<p>In this role, you&#39;ll be responsible for defining the IP network architecture, peering edge and backbone networks. This includes driving the technology evolution of every aspect of Google\u2019s IP networking stack with a focus on software-defined networking (SDN). \n</p>\n\n<p>You&#39;ll specify the standards and architectural guidelines for the layer-3 network, define scaling domains, establish and design service-level agreements (SLAs) for the network, provide SDN building blocks and translate Google service needs into new or evolving network functions. You have a developed understanding of all current and evolving technology options for layer-3 to 7 network design and the ability to apply your knowledge to creative, scalable and cost-effective solutions. \n</p>\n\n<p>You&#39;ll be responsible for effectively documenting and communicating these architectural guidelines through documented standards. You\u2019ll work closely with Network Engineering, Network Design and Network Technology Development teams to carefully consider and incorporate the future scalability and technology needs. You&#39;re a critical and strategic thinker, able to absorb and process large amounts of technical information in a continuously evolving environment.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5106096551428096",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:46:19.387Z",
+    "publish_date": "2019-02-27T19:46:19.387Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Master&#39;s degree in Electrical Engineering, Computer Engineering, Computer Science, related technical field or equivalent practical experience.</li>\n<li>10 years of experience in leading, developing and operating network infrastructures in engineering, architecture or design roles.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>PhD in Electrical Engineering, Computer Engineering or Computer Science.</li>\n<li>Experience with Standards Development Organizations such as IETF, IEEE and ITU-T. Experience in development and operations with routing equipments, architecture and protocols (e.g., Packet Forwarding Architectures, MPLS, BGP, Overlay Networks, SDN, OpenFlow, Network Function Virtualization).</li>\n<li>Fluency in Go, C++ and/or Python.</li>\n<li>Demonstrated performance in prior roles, with increasing levels of responsibility and independence. Customer-service focus, with the ability to communicate with highly-technical management teams.</li>\n<li>Developed analytical, negotiation and organizational skills. Clear focus under pressure, with a creative approach to problem solving and ability to think &#39;out of the box&#39;.</li>\n<li>Excellent communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Define strategies and technology roadmap for building networks that will meet the service-level objectives. Help develop technologies internally and externally.</li>\n<li>Analyze network data and expected service behaviors to model future network needs. Optimize the network architecture, topology and building blocks.</li>\n<li>Define and/or track standards needed to build the network and implementations of those standards, internally and externally.</li>\n<li>Define and publish building blocks that will be used to construct the network and capabilities/scaling properties of each block.</li>\n<li>Support Google&#39;s internal application and hosted applications on Google Cloud by translating application requirements to network functions and drive implementations.</li>\n</ul>",
+    "title": "IP Network Architect"
+}

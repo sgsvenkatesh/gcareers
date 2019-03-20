@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Francisco, CA, USA; Mountain View, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckaPqRIge6ru14tF_sV2ObbtIT3EDler7oUJoyJQ1cfMSOQCPMA3TvPpavQiD3jov6kUyzXZ1PXfDLjxgSYbbvRd9_9OCJjVpcT85XxpjwXRhSuDHljX9fzYRJA%3D%3D_V2&jobTitle=Developer+Advocate%2C+Web+Assembly&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:54.452Z",
+    "description": "<p>The Web Developer Relations team is focused on supporting the long term health of the web platform by working with developers to create the guidance and tools, samples and apps they need to be successful. We want to make it easy for web developers to build great experiences quickly on the web. We work with Product teams to convey feedback from developers to help identify and prioritize changes to the platform and we work with developers to help build next-generation experiences using WebAssembly (WASM).\n</p>\n\n<p>As a Developer Advocate, you will focus on deeply understanding and activating the ecosystem around WebAssembly with activities ranging from inspiring developers with the latest advancements in the platform to educating the industry on the possibilities of WASM. The role will also have a strong focus on the creation and development of best practices by working closely with partner developers both big and small to understand their needs and work closely with the engineering team and the wider standards bodies to prioritize the direction of both the WASM core features and the toolchain.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5451649125646336",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:43:54.425Z",
+    "publish_date": "2019-02-27T19:43:54.425Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree or equivalent practical experience.</li>\n<li>1 year of experience building with WebAssembly and Emscripten tool-chains.</li>\n<li>Relevant working experience, including experience working directly with third-party partners.</li>\n<li>Experience working with one or more of the following languages and runtimes: WASM, JavaScript, CSS, HTML, and/or Java, PHP, Python, Ruby, Node.js, Go, or .NET.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience working with on the bleeding edge of the web platform, and blogging and writing technical articles.</li>\n<li>Experience creating scalable developer content and strong command of web application or mobile application development landscapes.</li>\n<li>Experience as a Frontend Lead/Architect, Tech Director, Designer or Consultant working with new web platform technologies.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Advocate for the adoption of the Open Web and WebAssembly to strategic partners and the broader developer community with a focus on identifying opportunities for ecosystems and platforms to come to the web with WASM.</li>\n<li>Provide technical guidance and expertise to partner teams adopting WASM about best practices, bug resolution and what topics on the roadmap might be relevant to them.</li>\n<li>Understand the many various WASM projects in the ecosystem and provide guidance on which projects are worth highlighting and advocating for changes to the platform.</li>\n<li>Promote our developer products in person and online by presenting at conferences, blogging, writing technical tutorials and other similar activities.</li>\n<li>Advocate for developers internally, and consult Google developer product strategy by working with Product Management, Engineering, PR, Marketing, Business Development and other cross-functional teams.</li>\n</ul>",
+    "title": "Developer Advocate, Web Assembly"
+}

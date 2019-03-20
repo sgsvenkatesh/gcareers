@@ -1,0 +1,40 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTKYaoBulkQ9Lg1fva9in0FxwAFUls8G2aoz-_zmoTASOgCPMA3TAPw9DSSRQ2fz0nJutZiir432_HSeadYNA0BesWrBZkUFovAX7b7gwK1R5DP11c5XrsXay5g%3D_V2&jobTitle=Software+Engineer%2C+ARCore&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:32:57.060Z",
+    "description": "<p>Google&#39;s software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We&#39;re looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google\u2019s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.<br><br>With your technical expertise you manage individual projects priorities, deadlines and deliverables. You design, develop, test, deploy, maintain, and enhance software solutions.</p>\n\n<p>On the ARCore team, you\u2019ll build software to make augmented reality more collaborative and useful. Imagine being able to redecorate a room with a friend, get walking navigation directions from your smartphone&#39;s camera, or see information about the Eiffel Tower when you look at it. You\u2019ll work on all this and more.</p><p>The Google Virtual Reality and Augmented Reality team is a fast moving group of engineers, designers, and research scientists tasked with building the foundations for great immersive and augmented reality apps and prototyping novel, delightful user experiences. We are focused on making virtual reality accessible to millions of people through mobile devices, and its scope continues to grow and evolve.<br></p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5596141791150080",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T21:28:06.231Z",
+    "publish_date": "2019-02-27T19:42:24.186Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in Computer Science, similar technical field of study, or equivalent practical experience.</li>\n<li>Software development experience in one or more general purpose programming languages.</li>\n<li>Experience in Augmented Reality including but not limited to Computer Vision, Computational Geometry, Visual Simultaneous Localization and Mapping (VSLAM), Visual Inertial Odometry (VIO), and/or Image Processing.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MS or PhD degree in Computer Science or a related field.</li>\n<li>Experience with mobile development in Android, iOS, or other constrained mobile environments.</li>\n<li>Experience with sensor accuracy, calibration, and fusion.</li>\n<li>Coding experience in C#.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design new AR features, building new APIs, services, and tools from scratch.</li>\n<li>Collaborate with internal and external teams to define new capabilities for AR.</li>\n<li>Launch new APIs/features in Google\u2019s AR products including ARCore and Android.</li>\n<li>Leverage technology like Visual Simultaneous Localization and Mapping (VSLAM), Visual Inertial Odometry (VIO), and Image Processing.</li>\n<li>Work on projects in C++, Java, Objective C, or Swift.</li>\n</ul>",
+    "title": "Software Engineer, ARCore"
+}

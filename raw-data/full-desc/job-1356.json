@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: New York, NY, USA; Chicago, IL, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckemQgxdiV8IAsI-K2LaMZ2x_9U9LSk73hL2X56o7vR0SOgCPMA3Ta2dcuc3Z2OKMyANfAskBBge2HQ-4oU3_UcNAjVFjv-owXc7kBaXrOZRDkMLlQsKFd-lGssA%3D_V2&jobTitle=Machine+Learning+Cloud+Consultant&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:28.711Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>\n\n<p>As a Machine Learning Cloud Consultant, you&#39;ll work directly with Google\u2019s most strategic customers on key projects to help them transform their businesses. You will help our customers understand how Google\u2019s products can be used to support a wide range of data analytics and machine learning workloads. You&#39;ll provide management, consulting and technical horsepower to customer engagements while working with client executives and key technical leaders to deploy solutions via Google\u2019s Cloud Platform. \n</p>\n\n<p>You&#39;ll also work closely with key Google partners currently servicing key accounts to manage programs, deliver consulting services, and provide technical guidance and best practice expertise.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4690705005084672",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-11T15:31:39.361Z",
+    "publish_date": "2019-03-11T15:31:39.361Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in a technical or engineering field or equivalent practical experience.</li><li>5 years of relevant work experience. Experience with one or more programming languages including but not limited to: Python, Java, C/C++ and R.</li><li>Experience with one or more of the following; Machine Learning, recommendation systems, natural language processing, computer vision, pattern recognition, and/or artificial intelligence.</li><li>Experience in cross-functional project management, communication, and stakeholder management with a focus on translating business requirements into technology solutions.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Computer Science or related technical field, or equivalent practical experience.</li>\n<li>Experience in a statistical programming language such as R or Python and applied Machine Learning techniques (i.e. dimensionality reduction strategies, classification, and natural language processing frameworks).</li>\n<li>Experience in designing and deploying using one or more the following technologies; Tensor Flow, Spark ML, CNTK, Torch, and/or Caffe.</li>\n<li>Systems design experience, with the ability to architect and explain data analytics pipelines and data flows.</li>\n<li>Effective cross-functional project management, communication, and stakeholder management skills.</li>\n<li>Excellent written, verbal and presentation communication skills, with a focus on translating business requirements into technology solutions.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Interact with sales/partner leads and technical stakeholders to translate complex customer requirements into recommendations for appropriate solution architectures and consulting services.</li>\n<li>Participate in technical and design discussions with technical executives to speed adoption and ensure best practices during implementation.</li>\n<li>Provide a point of escalation for customer inquiries and serve as the first point of contact to Google for consulting services.</li>\n<li>Work with customer technical leads, client executives, and partners to manage and deliver successful migrations to cloud solutions.</li>\n<li>Work closely with practice areas, product and engineering to package best practices into thought leadership, methodologies and product strategy.</li>\n</ul>",
+    "title": "Machine Learning Cloud Consultant"
+}

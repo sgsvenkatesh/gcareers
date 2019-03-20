@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckeViRUSB2knnghdLaA8q9z90nfy2jyY2AIZyg_an3q4SOgCPMA3TAyblm7G3FPUAK1XnbU22V7orcsAhHNfJ-WPs944LY6xsVtTrssLjOpyfumALumDr8EakgEQ%3D_V2&jobTitle=Developer+Advocate%2C+Android+Games&loc=US",
+    "categories": [
+        "DEVELOPER_RELATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:03:56.876Z",
+    "description": "<p>The Developer Relations organization helps keep us connected to the communities that love technology as much as we do. Our focus is on supporting third party developers who build applications and businesses on Google&#39;s platforms. Developer Advocates act as passionate advocates for Google technologies, and are vocal advocates for developer interests within Google. This is a position for engineers who love connecting with developers and speaking publicly about cutting-edge technologies on conference panels, at user groups, on blogs and with the press. You also communicate internally with Product Managers. Chrome, Android, App Engine, HTML5, as well as our core G Suite and Ads APIs, are just some of the platforms you promote and support. Your work fosters a community of developers working with Google technologies and helps to drive strategy around Developer Relations.</p>\n\n<p>Educate, inform, and collect feedback from external developers, facilitate the interplay of ideas between the Android engineering teams and the broader Android community. Advocate on behalf of our developer products by blogging, videos, writing technical tutorials, and building sample applications.\n</p>\n\n<p>Interested in working with internal and external developers Android a better real-time operating system for games? This is an opportunity to work closely with the framework team as we continue to improve Android as a game development platform.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5432664687575040",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T21:20:06.754Z",
+    "publish_date": "2019-02-27T19:41:30.690Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science or a similar technical field or equivalent practical experience</li>\n<li>3 years of experience in mobile game development or developer relations</li>\n<li>Android game development experience with one commercial title</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>5 years of relevant work experience, with considerable success as a game developer, architect, technology advocate, CTO, or consultant working with mobile gaming technologies</li>\n<li>Experience speaking, blogging, podcasting, creating videos, answering questions on stack overflow, and/or writing within the Android developer community, with a following</li>\n<li>Experience with Unity, Unreal Engine, Cocos 2D, and/or custom game engines, particularly when interfacing with Android internals</li>\n<li>Experience designing/modifying game engines, particularly with regard to aspects of real-time programming and experience with OpenGL/ES and/or Vulkan</li>\n<li>Contributor or architect of active open-source projects and a strong command of mobile game development landscape</li></ul>",
+    "responsibilities": "<ul>\n<li>Inform and educate developers about Android developer products by blogging, videos, writing technical tutorials and codelabs, building samples, and participating in the development of open-source Android applications.</li>\n<li>Engage with the Android developer community in-person by presenting at conferences and helping to run internal Google events.</li>\n<li>Advocate for developers internally and influence developer product strategy by working with product management, engineering, public relations, marketing, business development, and other cross-functional teams.</li>\n<li>Drive the success of developers on the Android platform and the adoption of Android developer products.</li>\n</ul>",
+    "title": "Developer Advocate, Android Games"
+}

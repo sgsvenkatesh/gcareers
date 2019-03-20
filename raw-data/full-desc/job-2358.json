@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRfdo8o8R6ryGl4YGP6ueGmSZL2cEAJG3oCCrv9KUe8SOgCPMA3TYQhMcx_25OCiISZsL3aCYVYVq0rZxmu5cOyJh38zssTxb9Yc2TXBml9PMsYvCzHrKEM3a78%3D_V2&jobTitle=Technical+Program+Manager+Product+Quality%2C+Consumer+Hardware&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:06:44.649Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p><p>As a Product Quality Technical Program Manager, you will work with a team of experts from diverse fields (e.g. Engineering, Manufacturing, Sales, Marketing, Designers, etc) to act as an advocate for Product Quality and Engineering activities, ranging from product development through transfer to manufacturing on VR and Wearables.</p><p>You will be responsible for supporting all the quality aspects of the product development life cycle. You will ensure that all corporate business requirements, regulations, and other standards are met as applicable. This is a hands-on role where you will apply intensive, self-directed and diversified knowledge of engineering and quality principles for Google\u2019s VR and Wearables devices and systems.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Only one thing consistently stands in the way between our users and the world&#39;s information\u2014hardware. Our Consumer Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Consumer Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6481468400533504",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:40:45.371Z",
+    "publish_date": "2019-02-27T19:40:45.371Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BS degree in Engineering or equivalent practical experience.</li><li>5 years of experience in Product Quality and Manufacturing.</li><li>Experience with building and launching consumer electronics products as a Product Quality Engineer, Product Quality Manager, or a similar discipline. Experience working with interdisciplinary teams.</li><li>Ability to travel up to 25% of the time.</li></ul><br><p>Preferred qualifications:</p><ul><li>MS or PhD degree.</li><li>Experience with statistical concepts, including SPC techniques, hypothesis testing, DOE and sampling plans.</li><li>Experience working with original equipment manufacturer partners.</li><li>Flexible, organized, efficient, and process-oriented. Self-motivated and proactive team member.</li><li>Effective interpersonal and communication skills.</li></ul>",
+    "responsibilities": "<ul><li>Be the voice of the customer for VR and Wearables. Establish product quality and CSAT metrics and goals, and develop monitoring and reaction protocols. Consult design based on DFx, past product learnings, design risk assessment. Consult manufacturing process and design based on PFMEA and lessons learned.</li><li>Develop Program level quality plan congruent with business needs. Develop robust quality gates to ensure quality problems are not passed on and are detected early.</li><li>Build in quality into production processes via specs and controls. Manage OK2SHIP activity and drive CTQ, xFMEA, or other risk based design feedback and mitigation.</li><li>Use field data to drive quality improvements through cross functional quality improvement forum and convert product weaknesses and CSAT detractors into lessons learned feedback.</li><li>Support the development of system architecture that enable quality operations.</li></ul>",
+    "title": "Technical Program Manager Product Quality, Consumer Hardware"
+}

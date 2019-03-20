@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXwYjG4MjmCOuEhRrHZqVErPYJyojoNj7xa13SBjEDESOgASYQ8wEs8AD7-swnELcThJxR9WwBn6m8op7hk4EoCDTTNUdDtUe7K6ivGAX2y5EBcMBCGrYaUOAX4%3D_V2&jobTitle=Sales+Analytics+and+Solutions+Program+Manager&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-23T16:31:28.493Z",
+    "description": "<p>The Google Customer Solutions (GCS), Revenue Strategy and Operations (RSO) organization provides business key analytical insights, ensures cross-functional alignment of goals and execution, and helps teams to drive global initiatives forward. The Sales Analytics and Solutions team (SaS) resides in the RSO organization and is accountable for many of the systems and processes which GCS members use. These include the systems behind scaled insights generation, assignments models and goal attainment. These systems need to maintain high quality and robustness in order to ensure our members can work effectively.\n</p>\n\n<p>As a Sales Analytics and Solutions Program Manager, you\u2019ll have a birds-eye perspective of GCS. You\u2019ll manage a cross-GCS effort spanning across teams responsible for tooling, incentives, program design and other functions at the heart of GCS. You will collaborate with team leads to identify innovative changes to improve how GCS operates and provide a foundation for GCS seller success.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6418545401430016",
+    "location": {
+        "address_lines": [
+            "Redwood City, CA, USA"
+        ],
+        "city": "Redwood City",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Redwood City, CA, USA",
+        "lat": 37.48521520000001,
+        "lon": -122.2363548
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=1168x324&zoom=12&signature=qMd_c5mmqxWSefkzRvq5u3HXeX8=",
+        "large_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=1024x324&zoom=12&signature=QI9LkVYQ-IlH0lZ6MENCZ2TRJPQ=",
+        "small_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=600x400&zoom=12&signature=sGZIA9O0g6zpsi2BMerq7kWkMSo=",
+        "small_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=600x400&zoom=12&signature=ZaSXyTdqAKk9FmiP1ehW8vV8TuI="
+    },
+    "modified": "2019-02-27T19:52:59.311Z",
+    "publish_date": "2019-02-27T19:52:59.311Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>4 years of relevant work experience in sales analytics.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Ability to influence without direction across Product Management/Engineering teams, leadership, and cross-functional stakeholders.</li>\n<li>Ability to drive impact in a fast-paced environment while maintaining careful attention to detail.</li>\n<li>Excellent presence and written and verbal communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage and communicate project plans, deliverables, and schedules.</li>\n<li>Partner with Program Management and Engineering teams to design and deploy solutions to simplify sales processes.</li>\n<li>Communicate status, risks, and dependencies to executive stakeholders. End-to-end ownership of GCS-wide initiatives.</li>\n<li>Coordinate across Engineering, Central Strategy, and Sales teams to proactively identify challenges and problem-solve solutions.</li>\n</ul>",
+    "title": "Sales Analytics and Solutions Program Manager"
+}

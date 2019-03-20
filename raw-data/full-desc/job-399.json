@@ -1,0 +1,40 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYfmrwePHf_Xxg1up0QXRHC8QSooqyZS8Z2T-npTofYSOgASYQ8wyZzHgkOPeChwbcAvkJ2506hsC5v1irozIB7khfCCamXv6xax3pltsLNm2qt32NeE9Ju4xE8%3D_V2&jobTitle=Technical+Solutions+Consultant%2C+Music+Data+Infrastructure%2C+YouTube&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2019-01-28T19:01:46.725Z",
+    "description": "<p>Business operations at YouTube spans many functions such as partner management and agreement origination, trust and safety, creator and viewer support, and technical support. YouTube Insights, Infrastructure, and Tools (IIT) builds the tools and infrastructure that powers these activities effectively and efficiently. Our work includes CRM solutions, support workflow tooling, and the data infrastructure that make those tools possible. Beyond tooling, our Insights team provides careful analytical support for the business teams, including performance and impact measurement and data-driven business recommendations. </p>\n\n<p>Data is the fundamental building block for every tool and every insight. The YouTube IIT Infrastructure team builds the data sets that help run the business, piping the relevant data into and out of our tools, and making it useful for analysts across the organization to drive reporting and insights. Our team partners directly with business stakeholders to understand their business areas, build business requirements, and interface with Engineering and Product Management teams to build the pipelines, datasets, and workflows required to satisfy those requirements. Ultimately, we help the YouTube Business Organization operate efficiently and effectively. \n</p>\n\n<p>As a Technical Solutions Consultant for Music Data Infrastructure, you will be the in-house expert on YouTube music data. You will identify gaps in our data infrastructure related to our music business, and use your experience to close those gaps. You will also encourage better internal reporting, tools integrations, new insights, and external reporting.</p><p>At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun \u2014 and we do it all together.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4658117227872256",
+    "location": {
+        "address_lines": [
+            "San Bruno, CA, USA"
+        ],
+        "city": "San Bruno",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Bruno, CA, USA",
+        "lat": 37.6304904,
+        "lon": -122.4110835
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=1168x324&zoom=12&signature=8kTssaOIezLC995xz1jzX_ZsmEY=",
+        "large_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=1024x324&zoom=12&signature=qd1d-lHbtksAR7tvbMxtF6isGS4=",
+        "small_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=600x400&zoom=12&signature=muZNYVJol8PMclT8mtEQc7rdogE=",
+        "small_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=600x400&zoom=12&signature=CPaUJbMpoSOqDb7VXdK1SJbE0EI="
+    },
+    "modified": "2019-03-07T00:32:02.565Z",
+    "publish_date": "2019-03-07T00:32:02.565Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>6 years of experience in an analytical role (e.g., media analytics, advertising sales, consulting, or financial analysis).</li>\n<li>Experience with coding, relational databases, SQL queries, database definitions, and schema design.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MBA, Master&#39;s degree, or PhD in a related field.</li>\n<li>Experience designing data models and building data warehouses. Experience writing and maintaining extract, transform, and load scripts (ETLs), which operate on a variety of structured and unstructured sources.</li>\n<li>Experience working with Pandas, R, and/or other analytics/data visualization languages.</li>\n<li>Experience in digital music or music publishing.</li>\n<li>Experience in marketing analytics, ROI/financial modeling, and statistical analysis. Knowledge of the video advertising business model.</li>\n<li>Ability to work in a customer-facing or partner-facing role, including negotiations, demonstrating excellent business judgment and problem-solving and analytical skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Make YouTube music data universally useful, reliable, and accessible to other stakeholders across YouTube, including Product Managers, Product Specialists, and Analysts. Apply engineering-grade tools and practices.</li>\n<li>Sits at intersection or business and technical organizations, partnering directly with Music Partner Solutions, Product Management, and Engineering teams to gain experience on YouTube\u2019s music ecosystem.</li>\n<li>Navigate YouTube\u2019s data warehouse to access and work with all music related data, using SQL and other query languages.</li>\n<li>Form hypotheses and helps business team articulate theirs in order to resolve issues and identify opportunities.</li>\n<li>Manage part of large on-going and ad-hoc initiatives.</li>\n</ul>",
+    "title": "Technical Solutions Consultant, Music Data Infrastructure, YouTube"
+}

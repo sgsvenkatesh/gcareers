@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRI1NRnyA1oO8eTT9f6AEZaEtkd0npZmX419x5M3hx0SOgASYQ8w02Oep3LKjEz5m8ujPFCOkgP8ba48oB3lweAddnZl1qihHSw23Znedv5LurTeeGuQBD9i2v4%3D_V2&jobTitle=Data+Scientist%2C+Revenue+Acceleration%2C+Google+Cloud&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-18T14:31:37.233Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>\n\n\n<p>The Google Cloud Revenue Acceleration team (RevX) focuses on boosting business growth of Google Cloud using quantitative programs. These programs combine data science, workflow solutions, and strategy.\n</p>\n\n\n<p>As a Data Scientist on the RevX team, you will be solving difficult and non-routine problems by applying analytical methods to achieve results. You will process, analyze, and interpret large and complex data sets, with emphasis in delivering data-driven insights and solutions. You will also collaborate closely with Engineers, Program Managers, and other stakeholders to implement model-based solutions, measure the effectiveness of programs, and drive customer growth and success.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/84276987490640582",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T14:31:37.233Z",
+    "publish_date": "2019-03-18T14:31:37.233Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Master&#39;s degree in Mathematics, Physics, Statistics, Computer Science, Engineering, Economics, Operations Research, Bioinformatics, Computational Biology, a similar quantitative field or equivalent practical experience.</li>\n<li>Experience in statistical software and database languages (e.g., SQL, R, Python, MATLAB).</li>\n<li>Experience using applied statistics to analyze data.</li>\n<li>Experience in training and deploying Machine Learning models.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>PhD degree in a scientific field leveraging statistics.</li>\n<li>Experience with Machine Learning libraries (e.g., TensorFlow, Scikit-learn, Keras, Theano, Torch).</li>\n<li>Experience with the Google Cloud Platform.</li>\n<li>Ability to draw conclusions from data and recommend actions.</li>\n<li>Ability to break down technical concepts into simple terms to present to diverse, technical, and non-technical audiences.</li>\n<li>Effective written and verbal communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Process large amounts of data from multiple sources and extract relevant insights.</li>\n<li>Research new ways of modeling data for actionable insights and processes improvement.</li>\n<li>Perform statistical analyses and build Machine Learning solutions to support Google Cloud business needs.</li>\n<li>Collaborate on complex and technical work with effective communication to develop quantitative strategies.</li>\n<li>Design agile and rigorous experiments to measure effectiveness of models, tools, and programs.</li>\n</ul>",
+    "title": "Data Scientist, Revenue Acceleration, Google Cloud"
+}

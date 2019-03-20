@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUYwJEVPsZnxZVT_ns3vn2mkdbAwnJr_3bZijT2pkCsSOgCPMA3TBLIDxhbChJqPCaLpqV975sDMevxx0pjM7UAacj2HlsDc7tGwoe5gapqFJVnyNyuO3FhhUM8%3D_V2&jobTitle=Manager%2C+Engineering+Program+Management%2C+Consumer+Hardware&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:06:50.159Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n<p>As an Technical Program Manager, you will work closely with software engineers, product managers, and Original Device Manufacturers (ODM)/Original Equipment Manufacturers (OEM) to get high-quality products built, tested and released on time. You will coordinate many moving parts with excellent communication skills. Additionally, you will serve as point of contact for questions about schedules, quality and progress updates. You will identify and manage risks with excellent judgment, deciding when is the right time to accelerate or stop production.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4654348141527040",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T21:50:18.270Z",
+    "publish_date": "2019-02-27T19:44:27.130Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree or equivalent practical experience.</li><li>8 years of experience in Electrical Engineering, Computer Engineering, Computer Science or related field.</li><li>Experience managing engineering program managers.</li><li>Experience in consumer electronics.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience in product development, program management, project management, professional services or engineering management within the technology industry.</li><li>Demonstrated understanding of product life cycle, tools and processes and operations planning.</li><li>Effective business judgment and leadership skills with the ability to collaborate across technical and cross-functional teams and vendors.</li><li>Effective written and verbal communication skills.</li></ul>",
+    "responsibilities": "<ul><li>Develop and manage hardware project schedules with engineering teams and communicate project status to stakeholders.</li><li>Work closely with ODMs and vendors on product development schedules, dependencies and budgets.</li><li>Manage a team of engineering program managers and help with the overall strategy of team.</li><li>Identify risks, develop mitigation strategies and facilitate conflict resolution.</li><li>Interact with vendors and product engineering teams; set and manage schedules and milestones.</li></ul>",
+    "title": "Manager, Engineering Program Management, Consumer Hardware"
+}

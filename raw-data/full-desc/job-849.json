@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRAPwVeMfoK5EePNVPP9qtMVJo2_PkDeVQ24wZWj9OgSOgCPMA3TqX1QQvZ6mwXaM5oRKQ9z0RVGJyx8zQtny2oXGYckzzcx7SEoFfE6uN7RTVXTnPwjjS7sYiw%3D_V2&jobTitle=Data+Scientist%2C+Revenue+Programs%2C+Google+Customer+Solutions&loc=US",
+    "categories": [
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-11-19T11:31:52.598Z",
+    "description": "<p>The Data Science Group is the machine learning and data analysis hub of Google Customer Solutions (GCS). Our responsibilities include building the recommendation engine for the GCS sales teams, increasing their impact and efficiency by reaching our customers in more personalized ways and to answer high priority business questions using cutting edge statistical analysis techniques. \n</p>\n\n\n<p>In this role, you will build machine learning frameworks and launch them into production, while learning and applying a variety of data science techniques to an ultra-high impact area. You will gain practical knowledge of the power of statistical analysis and modeling in fast paced and rewarding environment, helping millions of businesses across the world succeed.</p><p>When our millions of advertisers and publishers are happy, so are we! Our Google Customer Solutions (GCS) team of entrepreneurial, enthusiastic and client-focused members are the &quot;human face&quot; of Google, helping entrepreneurs both individually and broadly build their online presence and grow their businesses. We are dedicated to growing the unique needs of advertising companies. Our teams of strategists, analysts, advisers and support specialists collaborate closely to spot and analyze customer needs and trends. In collaboration, we create and implement business plans broadly for all types of businesses.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6684747077844992",
+    "location": {
+        "address_lines": [
+            "Redwood City, CA, USA"
+        ],
+        "city": "Redwood City",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Redwood City, CA, USA",
+        "lat": 37.48521520000001,
+        "lon": -122.2363548
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=1168x324&zoom=12&signature=qMd_c5mmqxWSefkzRvq5u3HXeX8=",
+        "large_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=1024x324&zoom=12&signature=QI9LkVYQ-IlH0lZ6MENCZ2TRJPQ=",
+        "small_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=600x400&zoom=12&signature=sGZIA9O0g6zpsi2BMerq7kWkMSo=",
+        "small_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=600x400&zoom=12&signature=ZaSXyTdqAKk9FmiP1ehW8vV8TuI="
+    },
+    "modified": "2019-02-27T19:51:54.905Z",
+    "publish_date": "2019-02-27T19:51:54.905Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Master&#39;s degree in a quantitative discipline such as Statistics, Engineering, Natural Sciences, or equivalent practical experience.</li>\n<li>2 years of experience applying statistical models, and supervised and unsupervised Machine Learning techniques (regression, classification, clustering, pattern recognition, etc.) in an outcomes oriented setting.</li>\n<li>Experience in programming, especially with data science and visualization libraries in Python or R.</li>\n<li>Experience in SQL.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>PhD in a quantitative discipline such as Statistics, Engineering, Natural Sciences, or equivalent practical experience.</li>\n<li>Understanding of Machine Learning Theory.</li>\n<li>Understanding of Deep Learning.</li>\n<li>Ability to collaborate with cross-functional partners to build the business.</li>\n<li>Developed verbal and written communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Collect, cleanse, integrate, data-mine and visualize a variety of internal and external data sources to identify opportunities and influence strategy.</li>\n<li>Understand business challenges, transform problems into mathematical frameworks, and communicate complex findings in a structured and clear manner to a non-technical audience.</li>\n<li>Build Data Science and Machine Learning frameworks and help launch them into production.</li>\n<li>Answer business questions through data analysis, data mining, and statistical modeling. Help the team with methodology and guidance in experimental design.</li>\n<li>Partner with Program Managers, Engineers, and Sales leaders to translate business insights into decisions and action.</li>\n</ul>",
+    "title": "Data Scientist, Revenue Programs, Google Customer Solutions"
+}

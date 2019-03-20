@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRLeF3zO_NljUMp8l8kzlcZAQRpHc_iyQYwpkINgCcwSOgASYQ8w8tB4aZsi1pJJ_yizEhD2wvQccuYcSQGBzwOJdPbppCFeerbwUqOYZUEdP0zUqf-WZnewLcA%3D_V2&jobTitle=Data+Scientist%2C+Global+Premium+Services&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-28T16:31:41.595Z",
+    "description": "<p>gTech\u2019s Professional Services team takes a creative, collaborative, and customer-centric approach to provide foundational services and forward-looking business solutions to top advertiser and publisher customers. Through technical implementation, optimization, and key solutions, gTech Professional Services helps customers attain their business goals while building long-term capabilities.</p>\n\n<p>As a Data Scientist you will work closely with our largest clients and produce innovative and actionable quantitative models and analyses to address the challenges of marketing effectiveness, ROI, and prediction. The Global Premium Services team is a solution-generating force that helps our sales teams and advertisers. These solutions need to be scalable to support millions of customers worldwide. In addition to troubleshooting on the customer side, we work with Sales, Product and Engineering teams within Google to develop better tools and services to improve our products based on the evolving needs of our users. As a cross-functional and global team, it&#39;s our job to help keep the lights on and the ads relevant.</p><p>Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. Our teams of solution-oriented trusted advisors support millions of customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers\u2019 complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.<br><br>To learn more about gTech, check out our <a href=\"https://www.youtube.com/watch?v=HcjR6ZngQcw\">video</a>.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5360140076220416",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-18T21:16:15.868Z",
+    "publish_date": "2019-03-12T18:02:04.814Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>MS degree in Statistics, Mathematics, Economics, Engineering or an Applied Science or equivalent practical experience.</li>\n<li>3 years of quantitative analytics experience with a focus on marketing analytics, statistical modeling, machine learning, digital attribution, forecasting, optimization and/or predictive analytics.</li>\n<li>Experience with media (paid, owned and earned).</li>\n<li>Programming experience in Python and/or R.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Strong SQL and big data experience</li>\n<li>Proven experience delivering bespoke analytics to senior stakeholders (problem scoping/definition, modeling, interpretation, presentation)</li>\n<li>Experience using and/or deploying digital analytics and measurement solutions.</li>\n<li>Expert level knowledge of statistical programming languages (R/Python/Tensorflow)</li>\n<li>Ability to visualize models and results. Ability to debug and troubleshoot code and models.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Lead analytics aspects of client engagements in the area of marketing effectiveness and marketing portfolio management (with deep knowledge of modeling).</li>\n<li>Work effectively with clients to align Google Marketing Platform attribution and analytic solutions with key organizational challenges and develop value-based roadmaps to solve client business issues on a continuous and repeatable basis.</li>\n<li>Collaborate with clients to build an end-to-end machine learning framework. Engage various stakeholders, assess data readiness. Be able to scale a proof of concept to a larger solution.</li>\n<li>Work with client and internal teams to translate data and model results into tactical and strategic insights that are clear, complete, accurate, relevant, understandable and applicable to decision making and needs for varying client audiences. Co-present to and work with clients to integrate recommendations into business processes.</li>\n<li>Collaborate with Product/Engineering teams to increase and optimize capabilities, employing methods which create opportunities for scale, proactively helping to drive innovation.</li>\n</ul>",
+    "title": "Data Scientist, Global Premium Services"
+}

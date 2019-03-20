@@ -1,0 +1,40 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Francisco, CA, USA; Sunnyvale, CA, USA; Pittsburgh, PA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckfxg8fM8ORAmcNgjWOBLZkzpCLGwza3wmY0QTZjR7xwSOgCPMA3T8HfW60SANquf5IPMP0l_bY2Z57hO4boinqEzY7FugbtTfrByNEmf2lARhpZH9qJ5PmyxT_s%3D_V2&jobTitle=Cloud+Partner+Integration+Engineer&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:13.799Z",
+    "description": "<p>The Google Cloud team helps companies, schools, and government seamlessly make the switch to Google products and supports them along the way. You swiftly problem-solve technical issues for customers to show how our products can make businesses more productive, collaborative, and innovative. You work closely with a cross-functional team of web developers and systems administrators, not to mention a variety of both regional and international customers. Your relationships with customers are crucial in helping Google grow its Google Cloud business and in bringing our product portfolio into companies around the world.</p>\n\n<p>As a member of the Partner Integration Engineering team, you will define and execute complex, multidisciplinary integration projects using your engineering expertise. You will combine software development, networking, and systems administration expertise with an aptitude for solution analysis, design, and implementation. You will engage with a wide range of software and infrastructure technology providers to build integrations to our platform. You will enable the next wave of Cloud adoption by building the bridge for existing technologies that power the businesses of today.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5766979265953792",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:39:35.381Z",
+    "publish_date": "2019-02-27T19:39:35.381Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science or a related technical field, or equivalent practical experience.</li>\n<li>2 years of industry experience in technical support, professional services, engineering, sustaining engineering or systems engineering.</li>\n<li>Experience with one or more general purpose programming languages including but not limited to: C/C++, Python, Java, or Go.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MS or PhD degree in Computer Science, Electrical Engineering or related field or 5 years of industry experience.</li>\n<li>Experience developing applications with Java, Python, NodeJS, or Go.</li>\n<li>Solid understanding of public cloud systems.</li>\n<li>Understanding of Unix/Linux or Windows systems from kernel to shell, system libraries, file systems and client-server protocols.</li>\n<li>Strong understanding of web development protocols (i.e. HTML5, AJAX, XML, JSON, RFCs 2109/2965, 1945/2616).</li>\n<li>Strong network administration and troubleshooting skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Understand GCP and G Suite partner integration use cases and scenarios, and distill these into product requirements. Define the experience that would realize these requirements.</li>\n<li>Develop and deliver a complete product to partners and plan for support and maintainability.</li>\n<li>Obtain and maintain an in-depth understanding of Google&#39;s product technology and underlying hardware and software architectures, to build integrations with third party software.</li>\n</ul>",
+    "title": "Cloud Partner Integration Engineer"
+}

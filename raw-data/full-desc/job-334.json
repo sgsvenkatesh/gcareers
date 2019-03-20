@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdYQ_kK9_ymHNsduxi2q2zdGwIes54bXa0h2nrPnIP8SOgASYQ8wlggMBnAAAR5Cdr0dEpnqKxrrtvtp-Ra_pJ-kqrE7_hYz3mmAjfOFImUW_CfgmG2sLfLJU2E%3D_V2&jobTitle=Marketing+Manager%2C+Performance+Media&loc=US",
+    "categories": [
+        "MARKETING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-08T23:01:55.758Z",
+    "description": "<p>In this role, you will shape Google&#39;s own digital advertising campaigns and use your feedback to invent the future of Google\u2019s advertising products. You will have the unique opportunity to work on campaigns across a portfolio or products, be it a consumer product (like Search, hardware devices, Maps, or Chrome) or a business product (like AdWords or Google Cloud). You will lead innovation across new and established product campaigns across your region and act as a key connection point to other regions and our agency partners.</p><p>Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google&#39;s products solve the world&#39;s problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/128543870548878022",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-08T23:01:55.758Z",
+    "publish_date": "2019-03-08T23:01:55.758Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>4 years of biddable and direct response media experience managing complex, large-scale campaigns; combined client-side and agency experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Superb program management skills with extreme attention to detail. Experience in forecasting and managing to forecast.</li>\n<li>Proven track record of using biddable media to acquire and engage users.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Understand overarching business objectives and strategy, and ensure these are translated into the media campaigns.</li>\n<li>Act as the day-to-day primary point of contact between product marketing managers and our media agency of record.</li>\n<li>Drive data-driven analysis and insights to improve campaign effectiveness and value to the business.</li>\n<li>Lead excellent customer experience testing and optimizations throughout the customer journey (ad creative, ad placement, landing page experience, conversion forms, post-conversion relationship, and multivariate testing).</li>\n</ul>",
+    "title": "Marketing Manager, Performance Media"
+}

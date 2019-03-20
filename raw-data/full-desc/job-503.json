@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcZbkggIQLYk2qiA6yuVNzf4T-L7LsF1_mqC_39Quz4SOQASYQ8wkz8AeBVsbWyd3QqxrzR8tCz_4kAlWgjmYuMXWQM7vj8ZNW_c4bvybgMKYjSSWSTSOV5eRw%3D%3D_V2&jobTitle=Verticals+and+Strategic+Partners+Lead%2C+Launchpad&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-06T23:01:42.530Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. In this role at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p><p>As a Verticals and Strategic Partners Lead for Launchpad Startup Accelerator, you&#39;ll lead programs focussed on specific industry verticals and starting a new program to work with startups.</p><p>We strive to organize the world&#39;s information to make it universally accessible and useful, but we know that relevance means something different to each person. The Social team recognizes that great information is more than pages -- it&#39;s also about relationships. We want all of Google&#39;s products to reflect something personal, and we&#39;re dedicated to making your Google experience centered around you.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/119422070695043782",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:55:26.400Z",
+    "publish_date": "2019-02-27T19:55:26.400Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree or equivalent practical experience.</li><li>3 years of experience in a startup/VC related position.</li></ul><br><p>Preferred qualifications:</p><ul><li>Master&#39;s degree.</li><li>Understanding of applied machine learning and advanced technology.</li></ul>",
+    "responsibilities": "<ul><li>Lead research and conduct analysis on relevant verticals, leaders, and startup to discern how advanced technology is being applied within each industry at a global scale.</li><li>Identify and source startups to join the Acceleration program and become instrumental strategic partners for Google products, thought leadership and strategy.</li><li>Work with startups on their acceleration, manage multiple high-level organizational and product acceleration projects whilst deriving strategic insights for Google products, regions, and stakeholders.</li><li>Build a program and work with partners, to help them solve their technical and personnel challenges by connecting them with relevant Google teams.</li><li>Identify and source Google Product Managers, and Machine Learning and Industry experts to provide mentorship and thought leadership to the Acceleration programs and Launchpad startups.</li></ul>",
+    "title": "Verticals and Strategic Partners Lead, Launchpad"
+}

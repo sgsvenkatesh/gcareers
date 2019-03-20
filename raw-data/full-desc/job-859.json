@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRQBbje2qaPWKMfSAXUHugxEv-vum5zKI1Ope6FoJq0SOgCPMA3T9xR8d1DzERGtkVdVZjXebKi5eDMUMbTH0E9iBZ0w0OSyyiLQa7vEZpxh1MMSPECGm2L4CPQ%3D_V2&jobTitle=Manager%2C+Manufacturing+Test+Engineering&loc=US",
+    "categories": [
+        "MANUFACTURING_SUPPLY_CHAIN"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T23:02:04.296Z",
+    "description": "<p>Google has one of the largest and most powerful computing infrastructures in the world. Your team is responsible for providing the manufacturing capability to deliver this state-of-the-art physical infrastructure. As a Manufacturing Test Engineer, you evaluate the product designs and create the processes, tools and procedures behind Google&#39;s powerful search technology. When vendors build parts for our infrastructure, you&#39;re right there alongside ensuring manufacturing processes are repeatable and controlled. You collaborate with Commodity Managers and Design Engineers to determine Google&#39;s infrastructure needs and product specifications. Your work ensures the various pieces of Google&#39;s infrastructure fit together perfectly and keep our systems humming along smoothly for a seamless user experience.</p>\n\n<p>In this role, you will leverage your technical expertise to design and analyze products and related data, develop and improve manufacturing test and supportive processes and provide consultation to vendors, manufacturers and internal teams. You will lead complex projects to completion by managing resources and activities along the way.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5740390814777344",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T22:44:19.017Z",
+    "publish_date": "2019-02-27T19:45:52.956Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Electrical Engineering, Computer Engineering, Software Engineering, related field or equivalent practical experience</li>\n<li>5 years of experience in technology manufacturing and/or test engineering management.</li>\n<li>Experience supporting or leading multiple projects.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Electrical Engineering, Computer science, Mechanical Engineering or a similar technical discipline.</li>\n<li>10 years of experience in technical operations supporting product testing in various industry technologies like consumer equipment, networking, server, storage, etc.</li>\n<li>5 years of technical management experience with expert knowledge in test engineering.</li>\n<li>Experience in software development practices such as Agile, revision control and unit testing.</li>\n<li>Experience in NPI with a good understanding of the processes required to qualify and release new products into CM/ODM environments.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Build and manage a team responsible for performing the Integration Manufacturing Test Engineering function for Google&#39;s Platform products. Define team strategy and roadmap, and drive adoption cross-functionally.</li>\n<li>Develop quarterly objectives for team, aligning with roadmap and overall departmental vision. Assess and manage team performance through regular staff meetings, one on ones and quarterly assessments.</li>\n<li>Interface with Platforms Hardware/Software engineering teams to drive requirements for volume test and manufacturing early into the various products in development.</li>\n<li>Evaluate team workload and develop staffing plans, assign projects and balance workloads. Serve as primary interface to staffing team, creating job descriptions, identifying sources for candidates, conducting interviews and shepherding candidates through the hiring process.</li>\n<li>Provide technical expertise and leadership throughout product lifecycles, driving Design for X (DFx), supporting new product insertion (NPI) builds and readying Google&#39;s supply chain. Identify gaps and drive improvements in processes, products and suppliers. Represent your team to drive initiatives cross-functionally.</li>\n</ul>",
+    "title": "Manager, Manufacturing Test Engineering"
+}

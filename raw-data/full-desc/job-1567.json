@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckeMY_QfKV-fNYx7p5BaJ05_h1s58Rdt6Vf97d3neDi8SOgASYQ8wJ-zRh8QSTxC-tUykmbZEM0Z83WhtukiGFqVYMtuEDnZnWiB2te3jZ7NBDWHXR5zDY7sYu5g%3D_V2&jobTitle=Developer+Programs+Engineer%2C+DevRel+Infrastructure&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-04T15:01:36.003Z",
+    "description": "<p>Passionate people are everywhere at Google. In Developer Relations, we are excited to collaborate and connect with the communities that love technology as much as we do. Part community manager and part developer advocate, Developer Programs Engineers collaborate with developers at conferences and online, and advocate for developers interests internally at Google. Not afraid to be hands-on, you write sample code and client libraries as well as participate in developer forums and support queues to troubleshoot and debug coding problems developers encounter. Internally, you work with product engineering teams to improve our products by conveying feedback from developers, reviewing API designs, and testing new features. Chrome, Android, App Engine, HTML5, and our core G Suite and Ads APIs are just some of the platforms you promote and support.</p>\n\n<p>As a Developer Programs Engineer (DPE) on the DevRel Infrastructure team you&#39;ll amplify the efforts of other DPEs and Tech Writers. You will ensure Google&#39;s developer experience is great from end to end. You&#39;ll build user-facing features for Google\u2019s developer documentation Content Management System (CMS), create reusable events infrastructure, and improve discovery and global accessibility of Google developer content.</p><p>We strive to organize the world&#39;s information to make it universally accessible and useful, but we know that relevance means something different to each person. The Social team recognizes that great information is more than pages -- it&#39;s also about relationships. We want all of Google&#39;s products to reflect something personal, and we&#39;re dedicated to making your Google experience centered around you.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/144073935286084294",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:55:28.576Z",
+    "publish_date": "2019-02-27T19:55:28.576Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science or related technical field, or equivalent experience.</li>\n<li>4 years of experience in engineering/programming.</li>\n<li>Background in user-facing web development.</li>\n<li>Experience with Golang, Python and/or JavaScript.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Familiarity with App Engine or another cloud platform.</li>\n<li>Proficiency in CSS as well as JavaScript frameworks.</li>\n<li>Ability to provide developer training/education.</li>\n<li>Excellent communication skills and experience with writing technical documentation.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Maintain and develop new features for Google\u2019s developer documentation CMS (e.g. Python WSGI/Jinja on App Engine). As well as Build real applications used for first party testing of new developer products</li>\n<li>Provide training to help other Googlers use the CMS more effectively.</li>\n<li>Configure new sites and work with their DevRel representatives to launch successfully.</li>\n<li>Improve content discovery for Google developer products</li>\n<li>Create applications that drive developer engagement at large Google events.</li>\n</ul>",
+    "title": "Developer Programs Engineer, DevRel Infrastructure"
+}

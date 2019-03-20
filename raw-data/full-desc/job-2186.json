@@ -1,0 +1,40 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYuy42qYXOeDjnVD_HcyEmfpWEKP0j1yKwrwYHicWPgSOgCPMA3TaK8mVvHpUjw0TJiNDtqVVkkVx45PUmttoxG3f__Km46TMEAmQVHkpSYatHhDPPtm7G_5wH0%3D_V2&jobTitle=Technical+Program+Manager%2C+Privacy&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:53.352Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p><p>As a Technical Program Manager, you will partner with Engineering and Product teams across the globe, working closely with Legal, Privacy and Management teams to evaluate Google\u2019s products, services and infrastructure for privacy. Your experience in privacy, audit and compliance processes will be integral as you review projects through design, development and launch phases. You&#39;ll develop deep insights into the mechanics of how Google runs, working with other members of the team on impactful initiatives.</p><p>You will plan and execute technical delivery programs with cross-functional teams in various product areas. You&#39;ll dive in and learn Google&#39;s storage infrastructure and data protection technologies, and be able to translate technical issues into topics that can be discussed with functional leaders.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6056059472117760",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:41:10.700Z",
+    "publish_date": "2019-02-27T19:41:10.700Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree or equivalent practical experience.</li><li>3 years of experience in Program/Project Management.</li><li>Experience in privacy, security, or compliance, and with privacy principles and relevant technologies.</li><li>Experience collaborating with Attorneys, Software Developers, and Program Managers.</li></ul><br><p>Preferred qualifications:</p><ul><li>Master&#39;s degree or PhD in Computer Science or related technical field.</li><li>Ability to conceive of and accept responsibility for projects and complete full life cycle, and capability to work as an individual contributor as part of a larger team.</li><li>Ability to lead through influence.</li><li>Background dealing with privacy-related issues.</li><li>Excellent problem-solving, consultation, organizational and project management skills, with the ability to deliver software product features.</li></ul>",
+    "responsibilities": "<ul><li>Partner with acquired personnel to build privacy engineering principles into organizations without disruption to innovation.</li><li>Conduct product privacy vulnerability assessments and provide concrete feedback to mitigate challenges.</li><li>Assist in responding to inquiries from product and business groups across the company regarding privacy and security requirements applicable to their activities.</li><li>Ensure compliance with Google policies, laws and regulations relating to privacy and international data transfers.</li><li>Partner with business stakeholders to drive privacy engineering considerations.</li></ul>",
+    "title": "Technical Program Manager, Privacy"
+}

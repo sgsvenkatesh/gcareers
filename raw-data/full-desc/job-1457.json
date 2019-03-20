@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Seattle, WA, USA; Sunnyvale, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbXXvPBeS5Gp5pkR84Yjh29Al-REKGG-vbTwitm9jtcSOQCPMA3TVcldERlsSe8l9e_zyE_IV9qS13ZzRouuX6QnVLuenXGhnKoWPl_7sbmaNQwxz0y6eNVTQg%3D%3D_V2&jobTitle=Cloud+Application+Engineer%2C+Professional+Services%2C+Google+Cloud&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:19.625Z",
+    "description": "<p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>\n\n<p>The Google Cloud Professional Services Team is responsible for bringing Google\u2019s most strategic customers to G Suite and Google Cloud Platform. We solve the most challenging and complex technical issues, ranging from onboarding our customers to improving their use of Google Cloud while ensuring Google-standard engineering practices along the way. \n</p>\n\n<p>As a Software Solutions Engineer, you will be a full-stack developer with a proven track record of delivering strongly engineered applications and tools using cloud technologies. You will be capable of designing and developing significant new functionality as well as long lasting and scalable infrastructure services. With your technical expertise, you will manage individual project priorities, deadlines and deliverables. You will design, develop, test, deploy, maintain, and enhance software products. You will also have excellent communication skills, as you will interact frequently and closely with our stakeholders from around the world and across different functions.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5189904524050432",
+    "location": {
+        "address_lines": [
+            "Seattle, WA, USA"
+        ],
+        "city": "Seattle",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Seattle, WA, USA",
+        "lat": 47.6062095,
+        "lon": -122.3320708
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&size=1168x324&zoom=12&signature=ps_sPvgcgFUcz72GpSwau1rebxc=",
+        "large_2x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&scale=2&size=1024x324&zoom=12&signature=LGHj2cxqA3QhLZJTwZmYSkwFGho=",
+        "small_1x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&size=600x400&zoom=12&signature=D1jnhP7KcjQ4mOvW3HCzt_s7wc8=",
+        "small_2x": "/maps/api/staticmap?center=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=601+N.+34th+Street%2C+Seattle%2C+WA+98103%2C+USA&scale=2&size=600x400&zoom=12&signature=LHlLQ_7VV0axWi1ctKvQwOcu_UM="
+    },
+    "modified": "2019-03-06T19:31:44.143Z",
+    "publish_date": "2019-03-06T19:31:44.143Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Electrical Engineering, Math, or related field, or practical experience.</li>\n<li>Experience in one or more programming languages.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with Google Cloud Platform and its suite of serving, hosting, and storage services.</li>\n<li>Experience in Computer Science, with strong competencies in data structures, algorithms, and software design optimized for large-scale distributed software systems.</li>\n<li>Experience engaging, working, and communicating with external customers in a professional manner.</li>\n<li>Experience with large system software design, including storage, networking, deployment, and scaling methodologies.</li>\n<li>Experience in Web UI development with HTML, JavaScript, AJAX, CSS, and similar technologies.</li>\n</ul>",
+    "responsibilities": "<ul><li>Be a strong communicator, leader, and advocate for our customers. Deliver highly scalable and reliable business solutions to customers and partners.</li><li>Work in partnership with the product team and other stakeholders to produce high quality and specific requirements.</li><li>Write high quality designs that document technical alternatives and make sound engineering decisions across known and unknown interacting systems.</li><li>Provide estimates and dependencies for engineering tasks. Deliver highly scalable and reliable software applications.</li><li>Be able to lead all aspects of development including design, task allocation, implementation, testing, documentation, ongoing support and maintenance.</li></ul>",
+    "title": "Cloud Application Engineer, Professional Services, Google Cloud"
+}

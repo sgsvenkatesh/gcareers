@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRVj1BGmNhnVW6pEGsvcY1Oe-6AUFtN7I--S0pOSVF4SOgASYQ8w79ILxvHz2NvfgvaKmEih7AxeWAVrnvjfj6BVi66zt8lLyungAoMU_2jVcSkLwBy2drKJ_aY%3D_V2&jobTitle=Program+Manager%2C+Datacenter+Construction+Contracts+and+Vendor+Management&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-07T11:01:46.810Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>As a Program Manager, you will work with global Construction teams to develop Supplier sourcing strategies, oversee the procurement process, maintain global vendor management database and dashboard, maintain contract queue and dashboard, develop training materials, conduct training, maintain vendor relationships, and drive continuous improvement.\n</p>\n\n\n<p>In this role, you&#39;ll coordinate and facilitate continuous improvement workshops, prepare presentations for management reviews. You will network across Data Center business units. You will build relationships with stakeholders and develop sourcing strategies which help support their business. Additionally, you will anticipate challenges and propose solutions, manage dependencies and cross-functional challenges, and identify the need to develop or improve tools/processes. You will also identify when meetings are needed or can be removed, set appropriate frequency, duration, drive the agenda, and keep meetings on track.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/95481954528305862",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-07T11:01:46.810Z",
+    "publish_date": "2019-03-07T11:01:46.810Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Construction Management, Construction Law, Civil Engineering, Construction Economics, or similar technical field, or equivalent practical experience.</li>\n<li>5 years of experience in managing construction contracts, evaluating project delivery models and Supplier Management, or in-house legal experience supporting Global construction clients.</li>\n<li>Experience in operations, contract management, consultation and procurement.</li>\n<li>Ability to travel up to 20% of the time.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in change management.</li>\n<li>Effective influencing and problem solving skills with the ability to successfully manage complexity and multiple priorities.</li>\n<li>Excellent communication, facilitation and presentation skills, with the ability to tailor format and style based on the audience.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Liaise between Legal, Strategic Sourcing team, Global Data Center team and Vendors to interpret clauses, negotiate redlines, and draft agreement language. Maintain Central contracts repository for Datacenter Construction.</li>\n<li>Be the subject matter expert to train other internal teams on contractual provisions, program risk analysis, objection handling, lean construction, Integrated Project Delivery, etc.</li>\n<li>Identify opportunities for smarter supplier relationships and more efficient processes. Know the supply market in order to educate stakeholders and make better decisions.</li>\n<li>Manage robust supplier selection processes using market analysis, pre-qualification, Vendor relationship management, request for proposals (RFPs), etc. including reviewing and responding to vendors.</li>\n<li>Communicate directly with internal clients and vendors regarding clarification of Google\u2019s rationale for agreement terms and develop scalable solutions for managing the end-to-end agreement process.</li>\n</ul>",
+    "title": "Program Manager, Datacenter Construction Contracts and Vendor Management"
+}

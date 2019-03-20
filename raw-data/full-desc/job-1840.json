@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Boulder, CO, USA; Sunnyvale, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZolnMwMhqADOWO85_MkL5WLYUBBAEfqVaYrvrNE8-ASOgCPMA3Tirl1Xg-bfTiSZBMjxRuwNh9ocgoSEqLlCFAUlf_Cm5rmBHG20N2bnFgAZKN51cMJtFyIkYk%3D_V2&jobTitle=Security+Systems+Administrator&loc=US",
+    "categories": [
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:32:39.873Z",
+    "description": "<p>Security Systems Administrators embrace Google&#39;s motto to ensure millions of users can access the world&#39;s information without a glitch. As a Security Systems Administrator at Google, you own and support the needs of one of Google&#39;s server infrastructure systems. You&#39;re highly technical and work directly with other server and service owners to ensure reliability and sustainability of the Google service infrastructure as well as compliance with internal policies. Success in this role means you are able to support servers in a mixed operating system environment and work efficiently with our internal technology providers as well as other operations groups. Googlers rely on your guidance when it comes to design decisions so you&#39;ll have a direct impact in keeping the business productive.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4862420607762432",
+    "location": {
+        "address_lines": [
+            "Boulder, CO, USA"
+        ],
+        "city": "Boulder",
+        "country": "CO",
+        "country_code": "US",
+        "display": "Boulder, CO, USA",
+        "lat": 40.0149856,
+        "lon": -105.2705456
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=1168x324&zoom=12&signature=RWg9rdP4s-zj7r2ELoisZdFQ7jU=",
+        "large_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=1024x324&zoom=12&signature=lRnrHzcQtw0pgrtaHpD_4j8u63g=",
+        "small_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=600x400&zoom=12&signature=Kkn4WpW4jfSb41zSVJO_wPfUn5Y=",
+        "small_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=600x400&zoom=12&signature=aZnnbjI8phY0WeCAZPgUPofC1jo="
+    },
+    "modified": "2019-03-18T20:43:30.418Z",
+    "publish_date": "2019-02-27T19:52:11.414Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>Experience with TCP/IP networking.</li>\n<li>Experience implementing, troubleshooting and supporting Linux/Unix operating system, Internet-based applications and web servers.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with scripting languages, particularly Python.</li>\n<li>Understanding of network administration.</li>\n<li>Knowledge of webservers, security, DNS and filesystems.</li>\n<li>Excellent Linux/Unix System Administration skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage security tools and services for authentication, authorization, attack prevention and other security services.</li>\n<li>Develop and deploy services that will detect their own failures and self-heal.</li>\n<li>Assist in compliance audits by providing tools to gather sample data.</li>\n</ul>",
+    "title": "Security Systems Administrator"
+}

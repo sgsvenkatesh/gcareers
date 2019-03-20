@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Please include URLs for an online portfolio in addition to resume. Submissions without a portfolio included will not be considered.</b><br><br><b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; San Bruno, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVeBRIvYNWi9qDxBOgAGGfDWNnHPqCUAOokLZPy0J4wSOgCPMA3T43Vglo1CIAFhCWWe9cmPF2KBoONa2i8aNBsIVpF2j4i3fY7F8Hy9vTWmahNUAjuBnlhhGzk%3D_V2&jobTitle=Senior+Interaction+Designer&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T23:02:05.902Z",
+    "description": "<p>Design and user experience (UX) are at the forefront of everything we do. The job of an Interaction Designer is to envision how people experience our products and bring that vision to life in a way that feels inspired, refined and even magical. In an Interaction Designer role, you\u2019ll take on complex tasks and transform them into intuitive, accessible and easy-to-use designs for billions of people around the world\u2014from the first-time user to the sophisticated expert. Achieving this goal requires collaboration with teams of Designers, Researchers, Engineers and Product Managers throughout the design process\u2014from creating user flows and wireframes to building user interface mockups and prototypes. At each stage, you will anticipate what our users need, advocate for them and ensure that the final product surprises and delights them.</p><p>User experience (UX) is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users\u2019 needs, behaviors, and emotions to yield insights that inform product strategy and guide the design of the experiences we create. Our multidisciplinary UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and performance. We collaborate closely with product managers, software engineers, and many others to solve complex challenges and craft powerful experiences that highlight our products\u2019 unique capabilities and personalities. Our work touches billions while exemplifying a key principle that is core to Google\u2019s philosophy: \u201cFocus on the user and all else will follow.\u201d</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5803785358344192",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:42:35.749Z",
+    "publish_date": "2019-02-27T19:42:35.749Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Design (e.g. interaction, graphic, visual communications, product, industrial, etc), Human-Computer Interaction (HCI), Computer Science (CS) or a related field, or equivalent practical experience.</li>\n<li>10 years of experience.</li>\n<li>Experience designing and shipping software design experiences.</li>\n<li>Experience collaborating with Product Management and Engineering counterparts and experience working with collaborators across time zones.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MA/MS degree in Design, HCI, CS, or a related field.</li>\n<li>Expert with design tools (e.g. Sketch, Illustrator, Photoshop) to produce wireframes and high fidelity mockups.</li>\n<li>Experience working with web or mobile based technologies such as HTML, CSS, JavaScript, Android Studio, etc.</li>\n<li>Experience defining brands, providing overall creative direction for larger projects.</li>\n<li>Experience partnering with UX Research to amplify research and design impact.</li>\n<li>Experience managing or leading design teams.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Storytell and frame problems for a diverse audience of stakeholders, helping them envision the opportunities.</li>\n<li>Articulate user journeys with scenarios, storyboards and presentations, low- and high-fidelity mocks, detailed interaction specs, and prototypes to effectively communicate interaction and design ideas.</li>\n<li>Build strong relationships, influence and partnerships with leaders inside and outside their core product team to efficiently implement user experiences that are cohesive, inclusive, and well-informed.</li>\n<li>Contribute to UX vision and strategy, generating buy-in and operationalizing the strategy across larger teams and timelines.</li>\n<li>Raise the bar for product quality across our products by advocating for user centered product roadmaps, investments in last-mile refinement and polish, and insights driven by user research.</li>\n</ul>",
+    "title": "Senior Interaction Designer"
+}

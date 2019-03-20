@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYAAKcUQ1LK-R47pSAdPTO_dkq03wfq3rwUSj3OzAB4SOgASYQ8wnRq60H8IPKkboHu8Rv8t3jqFgIX3ioDpjgUZlr3FScCdx4QaRRtw_NYFA2FEFFurlPSvRgE%3D_V2&jobTitle=Strategic+Technology+Partner+Manager%2C+Big+Data+and+Analytics%2C+Google+Cloud&loc=US",
+    "categories": [
+        "PARTNERSHIPS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-19T12:01:42.626Z",
+    "description": "<p>The Global Tech Partnerships team develops and supports strategic enterprise partnerships and the partner ecosystem across Google Cloud \u2014 G Suite, Google Cloud Platform (GCP), Maps and Education. We work closely with external partners and across Google\u2019s product management, engineering, marketing and all customer-facing organizations to foster tighter integration by partners with Google&#39;s open APIs across Google&#39;s products. Through these technical and business partnerships, we seek to build joint success, customer multipliers and a thriving ecosystem of partners aimed at delighting customers.</p><p>As a Strategic Technology Partner Manager, you&#39;ll develop and lead the Google Cloud business relationship with key Independent Software Vendors (ISV) across the Big Data and Analytics ecosystem. This includes vendors in the ETL, data migration, Data Warehousing and Master Data Management space. In addition to owning the relationship with these partners, you will be responsible for driving the entire partner lifecycle from strategy, to recruiting, integrations, and launches. You will manage a diverse set of stakeholders ranging from product and engineering leadership to sales, and your depth of experience in the Cloud (SaaS/PaaS/IaaS) ISV ecosystem gives you first-hand insights into the vendors and industry trends that will enable your success in driving partnerships.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/90046967754695366",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:49:58.666Z",
+    "publish_date": "2019-02-27T19:49:58.666Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree in Computer Science or related Engineering field, or equivalent practical experience.</li><li>5 years of experience in Partner Management and/or Business Development.</li><li>Experience working with public cloud solutions across Software-as-a-Service, Platform-as-a-Service and Infrastructure-as-a-Service markets.</li><li>Experience working with cloud-based technologies.</li></ul><br><p>Preferred qualifications:</p><ul><li>8 years of experience in Partnership Management and Strategy/Business Development.</li><li>Experience managing and growing relationships with cross-functional teams internally and externally.</li><li>Experience in Software Engineering and/or Product Management.</li><li>Demonstrated ability to plan and manage at strategic and operational levels, and to launch new products in the marketplace.</li></ul>",
+    "responsibilities": "<ul><li>Lead the development and strategy with partners in the Big Data and Analytics ecosystem.</li><li>Engage with Product Management, Sales and Engineering teams to align product directions with our external partners.</li><li>Work with peer teams to establish partner strategy and priorities that will determine recruiting and partner development focus. Be responsible for recruiting, developing and supporting strategic technology partnerships and the partner ecosystem.</li><li>Help partners leverage Google&#39;s technology to enhance their own offerings, integrate with them to fill gaps in and extend our product portfolio, and work with them in the field to help land these partnerships with customers, channel partners and sales.</li><li>Be the point of contact for partners around all key areas (operations, financial, sales, training, product enhancement, etc.) and drive new partnerships, support integration of new products to existing partners, and ensure the prompt and proper resolution of daily business issues.</li></ul>",
+    "title": "Strategic Technology Partner Manager, Big Data and Analytics, Google Cloud"
+}

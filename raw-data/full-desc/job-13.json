@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckeqX8fJIDyEK9wpbFV06_xU-y5aSIYKu8oKeJaRjoZwSOgASYQ8wge7piixrNElwxTRBvZqfad1WR6pPl6CsoE7X026cC4Q_ddFeeVoloZ0J79V10uOKylZuP8k%3D_V2&jobTitle=Data+Center+Maintenance+Planner&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-19T18:32:01.740Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. You lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p><p>Within this position you will be responsible for the effective execution of all planning and scheduling of maintenance work and control processes. In order to fulfill these responsibilities in the most effective manner you will work with the site supervisors and technicians to manage work priority, develop job plans, define parts and material, define trades and skills and engage the proper resources to develop a safe, effective and efficient work control plan. In addition you will provide the equipment-related expertise and technical guidance on improving Preventive Maintenance activities. </p><p>You are also responsible for the use and administration of the CMMS (Computerized Maintenance Management System) program at a site level. This includes the creation, update and maintenance of equipment, PM (Preventative Maintenance) and safety records within the CMMS program.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/83274900753523398",
+    "location": {
+        "address_lines": [
+            "Clarksville, TN, USA"
+        ],
+        "city": "Clarksville",
+        "country": "TN",
+        "country_code": "US",
+        "display": "Clarksville, TN, USA",
+        "lat": 36.5297706,
+        "lon": -87.3594528
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=1168x324&zoom=12&signature=4g7D15gS_KsRZAcPRJBPHshHxPo=",
+        "large_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=1024x324&zoom=12&signature=QYWwXS75248qfpdwqfEBBnm8V4Y=",
+        "small_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=600x400&zoom=12&signature=mjzy6xqVL8hvXff8Zn76i9zQc0o=",
+        "small_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=600x400&zoom=12&signature=WRLiawPe1x4P6Qs4PKUv_xfNnR0="
+    },
+    "modified": "2019-03-19T18:32:01.740Z",
+    "publish_date": "2019-03-19T18:32:01.740Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in a technical field or equivalent practical experience.</li><li>5 years of experience in maintenance planning, scheduling and associated maintenance work.</li><li>3 years of experience working with HVAC and electrical equipment.</li><li>Experience with 3rd party CMMS programs.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience and knowledge in planning and scheduling of maintenance activities, HVAC.</li><li>Ability to develop long-term strategic maintenance plans and forecasts.</li><li>Ability to communicate with internal customers and external parties, and able to address any issues.</li><li>Collaboration and problem solving skills.</li></ul>",
+    "responsibilities": "<ul><li>Manage the flow of all maintenance work orders by working with Data Center Operations teams, vendors and be responsible for the Planning and Scheduling of technicians and parts needed to perform maintenance activities.</li><li>Collaborate with facility management in the development and maintenance of schedules and resource leveling by utilizing the site CMMS program.</li><li>Establish and maintain CMMS equipment files, parts inventory, equipment bill of materials and PM schedules.</li><li>Manage the process of launching a CMMS solution at the site level used in the daily operation of our data centers.</li></ul>",
+    "title": "Data Center Maintenance Planner"
+}

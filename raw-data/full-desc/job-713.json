@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUG-0PdkTeLey3WjcApjh1b-0mloI_0NiGoQiU_i5DUSOgCPMA3TnXZQ2epY_s1P3vhiQQ2KA54iPdeMzuZ7kgIKb2n7tsZVIX55UUrMxq2M8Re8XyM0k_SogNs%3D_V2&jobTitle=Application+Data+Engineer%2C+Business+Intelligence%2C+Google+Cloud&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T23:01:49.914Z",
+    "description": "<p>At Google, we work at lightning speed. So when things get in the way of progress, the Business Systems Integration team steps in to remove those roadblocks. The team identifies time-consuming internal processes and then builds solutions that are reliable and scalable enough to work within the size and scope of the company. You listen to and translate Googler needs into high-level technical specifications, design and develop recommended systems and consult with Google executives to ensure smooth implementation. Whether battling large system processes or leveraging our homegrown suite of Google products for Googlers themselves, you help Googlers work faster and more efficiently.</p>\n\n\n<p>As part of the Google Technology Solution (GTS) Data and Business Intelligence team, you will help build out a data platform that will support our users in Google Cloud business and the needs of executives for data and insights. \n</p>\n\n\n<p>As an Application Data Engineer, you will develop solutions to high visibility data challenges in one of the fastest growing businesses within Google.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4616984803344384",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:51:40.104Z",
+    "publish_date": "2019-02-27T19:51:40.104Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in Computer Science, Software Engineering, other technical degree or equivalent practical experience.</li><li>Experience developing business big data solutions, including data-modeling, data architecture, data platform development and optimization.</li><li>Experience building Business Intelligence/Online Analytical Processing (OLAP) solutions using SQL or similar query language.</li><li>Programming experience in Python or Java and SQL</li></ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree or PhD in a technical field.</li>\n<li>Experience working with web-scale databases and building scalable data pipelines capable of aggregating and processing millions of events per day on Cloud Platforms.</li>\n<li>Experience in analytics and machine learning.</li>\n<li>Experience implementing CRM domain usecases (e.g. sales, marketing, customers).</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design and implement data transforms to build the data warehouse for Cloud Business Systems.</li>\n<li>Design, build, launch, optimize and extend full-stack Big Data and business intelligence solutions spanning extraction, storage, transformation and visualization layers.</li>\n<li>Improve the data stack using the latest and greatest innovations in Google&#39;s internal and external Google Cloud Platform stack.</li>\n<li>Partner with User teams and other Engineering/Product teams on development, support issues, process issues, bug fixes and delivery of enhancements using an agile approach.</li>\n</ul>",
+    "title": "Application Data Engineer, Business Intelligence, Google Cloud"
+}

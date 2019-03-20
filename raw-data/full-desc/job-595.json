@@ -1,0 +1,40 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckfwo9PR4RKFKUHwvC-_wtGPsB3lKynGmr38Q-W8lRhcSOgCPMA3TrOgMeygRQtwXFlNp7VQJyH5IcW50S6L7MIJJ-mG1j4PK8gOh-mAmXc0YTE8WOyf7zRw1rAE%3D_V2&jobTitle=Product+Strategy+Lead%2C+Platforms+Data+Infrastructure&loc=US",
+    "categories": [
+        "BUSINESS_STRATEGY",
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-18T10:01:34.401Z",
+    "description": "<p>The Product Go-to-Market team works with multiple partners and stakeholders to create and deploy product and sales strategies that drive advertiser success and Google\u2019s growth. We partner closely with Global Product Leads (GPL), Sales, gTech, Marketing, and our counterparts around the world to shape the product roadmap and drive the commercialization strategy for key products and features.</p><p>The Go-to-Market Operations (GtM) team ensures Google&#39;s complex and ever-evolving Ads business runs smoothly. We are instrumental in setting go-to-market strategy, and ensuring flawless execution and operations against the strategy. We have teams embedded in each of the major Ads business areas as well as global teams that work across the business areas. Team members are analytical and strategic, with a pragmatic sense of how to get things done.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4526495600934912",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-18T21:47:08.649Z",
+    "publish_date": "2019-02-27T19:54:37.942Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Experience working with marketing platforms and cloud solutions.</li>\n<li>Experience in packaging and presenting solutions, and engaging directly with activation specialists, Sales teams, and advertisers.</li>\n<li>Experience influencing others and working in a highly cross-functional environment.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MBA or similar advanced degree in a Management, Technical or Engineering field.</li>\n<li>Ability to present to executives and communicate with highly technical management team.</li>\n<li>Passion for product development with an extraordinary attention to detail and the ability to juggle multiple work-streams in a fast-paced environment.</li>\n<li>Distinctive problem solving and analysis skills, combined with impeccable business judgement.</li>\n<li>Excellent written and oral communication and interpersonal skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Partner with Measurement Go-to-Market lead to identify and scale use cases as well as hone client fit for data infrastructure solutions.</li>\n<li>Assist with managing data infrastructure feedback and feature request loop by identifying gaps in products and build business cases to influence the product roadmap based on advertiser needs.</li>\n<li>Develop and deliver training and sales enablement and activation materials for relevant Sales teams and partners.</li>\n<li>Partner with Go-to-Market and GPL counterparts to commercialize and launch new data infrastructure features that connect to the Google Marketing Platform (GMP).</li>\n</ul>",
+    "title": "Product Strategy Lead, Platforms Data Infrastructure"
+}

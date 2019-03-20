@@ -1,0 +1,36 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Bellevue, WA, USA; Mountain View, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTFPROOIzS1d3rUELT-hH7Ve8RA-HD6UXrdkrhElxgsSOgASYQ8wX5uDTl2TguaqO35wC5TAyKwIkHHbk4vp2GQvlC2nmh5xBNWtLPD3l_3d87S5yA-MZFTnRDg%3D_V2&jobTitle=Developer+Relations+Program+Manager%2C+Android+Game+Device+Certification&loc=US",
+    "categories": [
+        "DEVELOPER_RELATIONS",
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-13T16:31:52.530Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you&#39;ll lead complex, multi-disciplinary projects. You will plan requirements with internal customers and guide projects through the entire project lifecycle, managing project schedules, identifying risks, and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>As a Developer Relations Program Manager, you will be driving the Game Device Certification process across the Android Ecosystem\nEngage with device OEMs and SoC design/manufacturers to educate them on upcoming requirements. This will entail working with the GameSDK/DevTech teams in Android to create workloads demonstrating device support. You will also drive the automation and scaling process of device test infrastructure to support game device certification.\n</p>\n\n\n<p>In this role, you will design and implement the hardware device certification program for Android Gaming, including hiring the team, designing the software tests and automation, and building out device labs. You will work with our SoC and OEM partners and game developers to move the android hardware ecosystem into a place where gaming devices have well-understood requirements around performance and capability.</p><p> </p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/107872589163963078",
+    "location": {
+        "address_lines": [
+            "Bellevue, WA, USA"
+        ],
+        "city": "Bellevue",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Bellevue, WA, USA",
+        "lat": 47.6101497,
+        "lon": -122.2015159
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1100+112th+Ave+NE&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1100+112th+Ave+NE&size=1168x324&zoom=12&signature=shVI9a8puhmEZvAoqlAxGViEr74=",
+        "large_2x": "/maps/api/staticmap?center=1100+112th+Ave+NE&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1100+112th+Ave+NE&scale=2&size=1024x324&zoom=12&signature=S2m0FUHweIvOAgaQbHoK2BFVt_c=",
+        "small_1x": "/maps/api/staticmap?center=1100+112th+Ave+NE&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1100+112th+Ave+NE&size=600x400&zoom=12&signature=r9Cd0XXWd-IwQtzoF3DKtVyiZUE=",
+        "small_2x": "/maps/api/staticmap?center=1100+112th+Ave+NE&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1100+112th+Ave+NE&scale=2&size=600x400&zoom=12&signature=WjmeginEn-lvG9qdEouBWwi5djI="
+    },
+    "modified": "2019-03-13T16:31:52.530Z",
+    "publish_date": "2019-03-13T16:31:52.530Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>10 years of experience in a device or software certification role.</li>\n<li>Experience in game-related technologies and their requirements (i.e., Graphics, Multiplayer, Physics, Audio)</li>\n<li>5 years of experience in the game development field, working on games and/or game platforms.</li>\n<li>Experience managing a team or a subset of a game-related or device-related test/certification program.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>5 years of experience managing a large-scale certification or test program.</li>\n<li>Experience shipping to a major game development platform (e.g., console, mobile device, operating system).</li>\n<li>Experience managing managers/leads in a game/platform development environment.</li><li>Excellent verbal and written communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Hire and manage the game device certification team.</li>\n<li>Work closely with existing Android certification teams.</li>\n<li>Work closely with the SoC vendors and OEMs to drive standardization and define requirements.</li>\n<li>Work closely with game developers to understand their needs and create tests to validate the requirements.</li>\n</ul>",
+    "title": "Developer Relations Program Manager, Android Game Device Certification"
+}

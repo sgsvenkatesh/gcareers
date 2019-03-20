@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTwI6RXQwSqbkRpnGhYQ8K8UH7jC8QWVZeyHKF2cnhoSOgCPMA3T1KrM_7tZ_Jdyz1iMhBP3tYTxZ00w_-LQKu0P1DZglKsJEWcBtndwcdMVBEsox1Oq5aDBU00%3D_V2&jobTitle=Solutions+Consultant%2C+Pixel%2C+Technical+Carrier+Relations&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-10-23T22:38:33.628Z",
+    "description": "<p>As a Solutions Consultant, you are responsible for technical partner management and certification of wireless devices. You secure technical acceptance of wireless hardware products and manage relationships with Google&#39;s strategic carrier partners. You will plan carrier requirements with internal and external customers and usher projects through the entire project lifecycle. This includes managing certification schedules, identifying risks and managing acceptance with carrier technical staff.</p><p>You will provide the key interface between external teams and partner test labs to internal test and development teams. You are the interface between the Carriers and the Pixel team and are driving product and platform releases. You will coordinate with test partners, ensure all issues are tracked, and report issues back to the development teams. You will apply your detailed technical knowledge of wireless standards (i.e. Cellular, Wi-Fi) to understand, prioritize and drive resolution to issues found during certification testing. You will support the product definition process with regards to certification. You will also help shape Google&#39;s best practices, tools and processes for new Pixel products.</p><p>Whether working with next-gen chipset manufacturers or emerging market telcos, Google&#39;s Android Partner Engineering team helps solve some of the toughest mobile technology problems. We work with teams throughout Google to develop solutions for strategic partners around the globe. We maintain crucial relationships with and build technical solutions for our long-term partners who are making Android into a world-changing platform. But we&#39;re just getting started.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4924442054295552",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:42:43.504Z",
+    "publish_date": "2019-02-27T19:42:43.504Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Electrical Engineering, or equivalent practical experience.</li>\n<li>2 years of experience working with cellular carriers on carrier certifications.</li>\n<li>Experience with protocol features of 2G, 3G and 4G and WLAN technologies.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in an Engineering or a technical field.</li>\n<li>PTCRB/GCF certification.</li>\n<li>Experience driving developer, carrier, or original equipment manufacturer (OEM) partnerships.</li>\n<li>Experience with antenna design and tests.</li>\n<li>Ability to speak and write in English fluently and idiomatically to business stakeholders.</li>\n<li>Excellent planning, communication, and project management skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Support and drive the carrier and industry approvals of wireless devices.</li>\n<li>Report project status, prioritize tasks, drive issue resolution to completion.</li>\n<li>Generate and maintain compliance matrix documents for wireless devices.</li>\n<li>Complete, submit and own responses to carrier compliance matrices.</li>\n<li>Analyze new network features and gather operator requirements, to provide guidance and feedback to engineering and product managers.</li>\n</ul>",
+    "title": "Solutions Consultant, Pixel, Technical Carrier Relations"
+}

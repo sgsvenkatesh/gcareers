@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Reston, VA, USA; Thornton, CO, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckckbnkEaFCIqUxFCrPBrxMoPii8XqP8nqeyNzSiRUbsSOgASYQ8w9HrulNBzUKIYB-93SzpseVdu-76-tm79QophBtCCOIIjGD_5WEoRWVAzLuHCbJbkqjVSRJo%3D_V2&jobTitle=Optical+Transport+Engineer%2C+NetDeploy&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-12T10:01:41.317Z",
+    "description": "<p>Google is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is responsible for operating that network reliably and at scale. As a member of the team, you have a direct impact on design and feature enhancements to keep our systems running smoothly. You also ensure that network operations are safe and efficient by monitoring network performance, coordinating planned maintenance, adjusting hardware components and responding to network connectivity issues. Google&#39;s complex network generates a constant stream of challenges which require you to continually be innovative with an evolving set of technologies. Keeping the network reliable ensures that our users stay connected with our suite of applications, products and services.</p>\n\n\n<p>The Network Deployment team is responsible for operating Google&#39;s network reliably and at scale. The team designs, configures and manages the installation or of Google\u2019s network including infrastructure, hardware setup, commissioning, trouble-shooting and decommissioning old gear as we are in a constant upgrade cycle. \n</p>\n\n\n<p>As an Optical Transport Engineer, you will conduct audits to verify that each network site has been built to the right specifications. Beyond day-to-day responsibilities, you&#39;ll also develop creative approaches to keep operational costs low and improve the efficiency of our ever-growing infrastructure. This role will focus on building Long haul Optical Networks and activating capacity on Google&#39;s Network.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/91614408150524614",
+    "location": {
+        "address_lines": [
+            "Reston, VA, USA"
+        ],
+        "city": "Reston",
+        "country": "VA",
+        "country_code": "US",
+        "display": "Reston, VA, USA",
+        "lat": 38.9586307,
+        "lon": -77.35700279999999
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&size=1168x324&zoom=12&signature=FO3u6hazHD_hOatnJgsqGlsYqYU=",
+        "large_2x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&scale=2&size=1024x324&zoom=12&signature=T_f2pdXeKWBJBlJdgF_Wq3sTKiQ=",
+        "small_1x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&size=600x400&zoom=12&signature=F1k9qg3kFctxjjTJiTEaXPyuZ9A=",
+        "small_2x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&scale=2&size=600x400&zoom=12&signature=A4XKQ5Fj_IRHI4dc1byXLoZICWU="
+    },
+    "modified": "2019-03-12T10:01:41.317Z",
+    "publish_date": "2019-03-12T10:01:41.317Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>4 years experience working with optical networking technologies.</li>\n<li>Experience with strategic negotiations and/or business development obtaining services from high-technology providers in the areas of colocation data centers (space and power), dark fiber, network transport, internet transit, and telecom construction services.</li>\n<li>Experience in designing and implementing network protocols.</li>\n<li>Experience with network architecture, management, troubleshooting and operation of enterprise networks.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Electrical Engineering, Computer Science or Computer Engineering, or equivalent practical experience.</li>\n<li>5 years of experience in vendor management in the telecommunications network and/or data center operations industries.</li>\n<li>Familiarity with IP Transit/Peering, Dark Fiber, Wavelengths, Cloud, and Undersea cable infrastructure investments.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage capacity e.g. adds, changes, and migrations.</li>\n<li>Manage the devices in network inventory systems.</li>\n<li>Partner with internal cross-functional teams to achieve organizational objectives on major programs while\ndeveloping and reviewing network designs.</li>\n<li>Plan, design and execute turn up of long haul optical systems.</li>\n<li>Develop standards/best practices and efficiency improvements.</li>\n</ul>",
+    "title": "Optical Transport Engineer, NetDeploy"
+}

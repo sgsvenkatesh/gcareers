@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbGgz_oJi80iRZdprrl2X183JV0NC1spQ8g4BMiZBzMSOgASYQ8wMJkIFo0Jm0HxovnamEuwatOL6t7cRcvIDsWTrNBEgpt4aiUb4vB_p9KiGFNYSuAEjGM1OBM%3D_V2&jobTitle=Program+Manager%2C+Supply+and+Demand+Planning&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-25T20:31:55.722Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>The Global Infrastructure Group (GIG) is responsible for driving optimal fulfillment and transforming Google\u2019s fleet by balancing and shaping demand intent from our Product Areas, deployment decisions for new technology, and supply capability across data centers, networking, and machines.\n</p>\n\n<p>In this role, you&#39;ll be a balance point between demand and supply to ensure that Google has the right amount of infrastructure (machines, networking, data centers) to meet the needs of our Product Areas. You will collaborate with all organizational levels to define project requirements for new processes and software systems, coordinate with cross-functional teams to drive decision making, and plan for scalable, efficient, and predictable growth. You demonstrate the ability to provide matrix leadership across functional teams, lead complex projects to successful completion, evaluate capacity forecast data and understand complex technical topics affecting Google services and users.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6431596866469888",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:53:56.266Z",
+    "publish_date": "2019-02-27T19:53:56.266Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Supply Chain, Data Science, Business, Engineering, related technical disciplines or equivalent practical experience.</li>\n<li>5 years of experience in a program or project management function.</li>\n<li>Experience with supply chain management, demand planning, planning data center infrastructure, and/or capital investment decision making.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree or MBA.</li>\n<li>Ability to collaborate and influence across multiple levels of an organization with experience leading cross-functional process improvements.</li>\n<li>Demonstrated sense of accountability and ownership for end-to-end project lifecycle. Knowledge of the tools and elements of project management.</li>\n<li>Excellent analytical skills, with high attention to detail.</li>\n<li>Comfortable shifting between hands-on detailed analysis and big picture thinking and customizing communication based on the audience.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop short- and long-term supply and demand models that seek to minimize total costs and inventories while maintaining service levels.</li>\n<li>Establish and utilize best methods (e.g., statistical models, processes and software tools) in creating forecasts and respective inventory targets.</li>\n<li>Present supply and demand recommendations to leadership, drive timely decisions, and ensure clear and concise communication to all stakeholders in the supply chain.</li>\n<li>Lead forecast and inventory planning meetings with cross-functional teams, reviewing recommended demand forecasts and inventory goals. Prepare, report, and communicate forecast and inventory measurements to management by defending recommendations with sound models and logic.</li>\n<li>Drive product success by being accountable for metrics such as forecast accuracy, inventory, excess and obsolescence, material spend, cost of goods sold (COGS) and gross margins.</li>\n</ul>",
+    "title": "Program Manager, Supply and Demand Planning"
+}

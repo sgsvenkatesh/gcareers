@@ -1,0 +1,36 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcqGPDZftS68iR6PQCXJIM9GS9z6EcknXFIw50bR9YoSOgASYQ8wZxhEoXFYePQBEX09tlHp5IvI0RQZFdceIXpZNRz4sgfT0wW0T2zlITcrOaSj-g5OAPM7cVI%3D_V2&jobTitle=Site+Manager%2C+Hardware+Operations&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING",
+        "PRODUCT_SUPPORT",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-06T22:31:40.672Z",
+    "description": "<p>Our computational challenges are so big, complex and unique we can&#39;t just purchase off-the-shelf hardware, we&#39;ve got to make it ourselves. Your team designs and builds the hardware, software and networking technologies that power all of Google&#39;s services. As a Hardware Engineer, you design and build the systems that are the heart of the world&#39;s largest and most powerful computing infrastructure. You develop from the lowest levels of circuit design to large system design and see those systems all the way through to high volume manufacturing. Your work has the potential to shape the machinery that goes into our cutting-edge data centers affecting millions of Google users.<br><br>Pulling on your technical and leadership expertise, you lead end-to-end research projects in multiple areas of expertise across data center facilities and manage a team of direct reports working on equipment installation, troubleshooting and debugging.</p>\n\n\n<p>The Hardware Operations (HwOps) team deploys and maintains the hardware components of Google\u2019s Compute, Storage and Network infrastructure in the most efficient, reliable, secure, and scalable way possible. We monitoring the physical infrastructure behind Google&#39;s powerful search technology.\n</p>\n\n\n<p>As a Hardware Operations Site Manager, you will manage a team of operations managers and datacenter technicians, overseeing the quality installation of server hardware and components and taking charge of complicated installations/troubleshooting. Additionally, you will stay informed on how the site is performing and anticipate and address challenges and roadblocks. You\u2019ll also participate and lead global conversations, initiatives, and strategies, working in close collaboration with the data center site facilities manager and their team.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/109317128667964102",
+    "location": {
+        "address_lines": [
+            "Henderson, NV, USA"
+        ],
+        "city": "Henderson",
+        "country": "NV",
+        "country_code": "US",
+        "display": "Henderson, NV, USA",
+        "lat": 36.0395247,
+        "lon": -114.9817213
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&size=1168x324&zoom=12&signature=dXyrN3M5HDjCTYSHQlz7QBA6wSk=",
+        "large_2x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&scale=2&size=1024x324&zoom=12&signature=K99pG0XVIRb-bAfjLozwbACo8Pg=",
+        "small_1x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&size=600x400&zoom=12&signature=qMmGu2CVwfq23qzp9Hy6iXWg1AQ=",
+        "small_2x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&scale=2&size=600x400&zoom=12&signature=YpaEnOOIRORaqh1jrh8AR-pRE9E="
+    },
+    "modified": "2019-03-06T22:31:40.672Z",
+    "publish_date": "2019-03-06T22:31:40.672Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>7 years of experience managing technical teams as a team lead or manager.</li>\n<li>3 years of experience in site-level data center leadership.</li>\n<li>Experience managing and developing managers.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>4 years of experience working in data centers and building out infrastructure.</li>\n<li>Understanding of HVAC and power requirements for high-availability data centers.</li>\n<li>Understanding of networks and server hardware architecture, including maintenance and repair.</li>\n<li>Excellent strategic problem-solving skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Take responsibility for the hire, management, and implementation of multiple projects for your team.</li>\n<li>Ensure data center related priorities are consistent with company objectives.</li>\n<li>Oversee the computing hardware and networking operations of a data center site.</li>\n<li>Work with others to set and implement short-term and long-term strategy for the site. Identify problems and create solutions for computing and network architecture.</li>\n<li>Be the face of Google to the local community and lead the community affairs program for the site.</li>\n</ul>",
+    "title": "Site Manager, Hardware Operations"
+}

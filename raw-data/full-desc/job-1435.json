@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckX971rxrbjFfZ_h01KwvgIeGnMc_JkGxp_8Sfjs1eYASOgCPMA3Tkmbqp4v1oPSLQnGUVgVpcuvRmAJUz-LnyduSJmDDfIhAWv4mtf6fprxZJv0GWu6d-ia7Zbo%3D_V2&jobTitle=Product+Manager%2C+Google+Home%2FNest+Apps&loc=US",
+    "categories": [
+        "PRODUCT_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-15T21:01:46.521Z",
+    "description": "<p>At Google, we build products that organize the world&#39;s information and make it universally accessible to our users. These products are the lifeblood of who we are. As part of the Product Management team, you work closely with our engineers to guide products from conception to launch. You connect the technical and with the business, working with teams across Engineering, Sales, Marketing and Finance. With your technical expertise, you identify a project\u2019s setback and generate solutions for resolving them quickly. As a Product Manager, you help shape the future of Google products.</p> <p>We are building the thoughtful home, a home that takes care of the people inside it and the world around it. Our vision is one of powerful, intuitive, cross-surface experiences that wrap the first party hardware and our third-party ecosystem around the backbone of the Google Assistant. This is not about the techified, rarified smart home we\u2019ve heard about for years - the thoughtful home is for everyone. </p> <p>Critical to this mission is the effectiveness of our Google Home and Nest apps. They are core pillars of the experiences we are creating. Our vision is that our mobile apps become the command center of the thoughtful home. They\u2019re where users effortlessly set up, activate, control, manage, and understand all the devices in their homes. </p> <p>You will build outstanding mobile experiences for the people that use our mobile apps daily. You&#39;ll work with product verticals, including Nest Cams, thermostats, and doorbells, and be involved in surfaces, like Home Hub. You will drive streamlined integrations with partners across smart home and media. You will also learn about the connected &quot;smart&quot; home, and see how it&#39;s coming into its own.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5098353380491264",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T20:59:46.301Z",
+    "publish_date": "2019-03-06T23:02:03.115Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul> <li>5 years of experience in product management or similar field.</li> <li>Experience developing mobile products and technologies, across mobile operating systems.</li> <li>Experience with product launches.</li> </ul><br><p>Preferred qualifications:</p><ul> <li>Bachelor&#39;s degree in Computer Science, Electrical Engineering, Mechanical Engineering, or related technical field.</li> <li>Experience with the smart home technology stack, including wireless, networking, security, and cloud technologies.</li> <li>Passion and for building and scaling consumer products that are technically excellent, aesthetically appealing, and easy to use.</li> <li>Ability to think clearly and be persuasive and approachable.</li>\n<li>Excellent written and verbal communication skills. </li> </ul>",
+    "responsibilities": "<ul> <li>Refine and represent the vision for a core part of the apps\u2019 feature set.</li> <li>Work with hardware vertical teams \u2013 including smart speakers and displays, media/Chromecast, cameras, thermostats, doorbells, locks, security systems, smoke alarms, and sensors \u2013 for user awareness and to drive app requirements.</li> <li>Work directly with apps\u2019 engineering and UX to drive projects from ideation through execution, plus analysis and follow-on improvements.</li> <li>Translate requirements into app experiences that work well across all device categories.</li> </ul>",
+    "title": "Product Manager, Google Home/Nest Apps"
+}

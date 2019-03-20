@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckcw7LZKc9w18ZPceSugWL2h5kbBlNmCDiVFAubVp7ekSOgCPMA3TKcbDMV-ye5IW7abP17uBmDKOaEfebFRSrKmSoHZWctEj4tw88TJjiWg832WrImuavqiUq5Q%3D_V2&jobTitle=Linguist%2C+Text+Classification+%28Multiple+Languages%29&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-19T15:01:32.601Z",
+    "description": "<p>Analytical Linguists work across Google to drive improvements in quality, classification, information structure, and natural language understanding and generation. As an Analytical Linguist you will work both on complex projects spanning multiple products, groups, and disciplines, and on tightly focused efforts to produce specific product components or answer specific research questions. Analytical Linguists work in many different areas and arrive with a wide variety of skills\u2014your specialization might involve natural language processing and understanding, phonology, phonetics, syntax, semantics, ontology, program management, human subject research, experimental design, statistics, corpus linguistics, large scale data acquisition, or any combination. This team is part of some of the most groundbreaking and exciting work at Google. It&#39;s our goal to use insights from linguistics and related fields to constantly improve our products.</p>\n\n\n<p>As a Linguist on the Text Classification team, you will collaborate with software engineers, product managers, and language experts to build high-quality text classifiers for the display advertising ecosystem. You will develop taxonomies and category sets, working closely with key stakeholders to understand product requirements. You will also set data labeling policies and designs and build and curate labeled cross-language datasets for classifier training and evaluation. Additionally, you will build and evaluate custom classifiers using machine learning tools and techniques to help Google better understand the web, mobile applications, and their users.</p><p>Users come first at Google. Nowhere is this more important than on our Advertising &amp; Commerce team: we believe that ads and commercial information can be highly useful to our users if, and only if, that information is relevant to what our users wish to find or do. Advertisers worldwide use Google Ads to promote their products; publishers use AdSense to serve relevant ads on their website; and business around the world use our products (like Google Shopping, and Google Wallet) to support their online businesses and bring users into their offline stores. We build and maintain the platforms that have made Google what it is today, and are constantly innovating to deliver the most effective advertising and commerce opportunities of tomorrow.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5722149140758528",
+    "location": {
+        "address_lines": [
+            "Los Angeles, CA, USA"
+        ],
+        "city": "Los Angeles",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Los Angeles, CA, USA",
+        "lat": 34.0522342,
+        "lon": -118.2436849
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=1168x324&zoom=12&signature=fXRbaDAJUcl_n404VGXhz3cu-ag=",
+        "large_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=1024x324&zoom=12&signature=B8IUulSshv-3RzKj_Nyk8FPOXUs=",
+        "small_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=600x400&zoom=12&signature=QGgFwn7c6rmdqNJ6DzYmX6KMU2g=",
+        "small_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=600x400&zoom=12&signature=TH_gDtTJHy22kPuDOsdMJxqBUM4="
+    },
+    "modified": "2019-03-18T21:36:38.989Z",
+    "publish_date": "2019-02-27T19:52:42.899Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor\u2019s degree or equivalent practical experience.</li>\n<li>2 years of relevant work experience (e.g., as a data scientist, ontologist, computational linguist, etc.).</li>\n<li>Experience working in Linux environments, in web development, and with scripting languages or database query languages. Experience in experimental design, research methodologies, qualitative and quantitative analysis, and working with datasets.</li>\n<li>Ability to speak and write in English and another language fluently and idiomatically.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree or PhD in an analytical discipline (e.g., Linguistics, Cognitive Science, Statistics, etc.).</li>\n<li>Experience in ontology design, crowdsourcing of data, and/or machine learning.</li>\n<li>Experience in the field of online advertising.</li>\n<li>Knowledge of Python, C++, Bash, and SQL.</li>\n<li>Interest in emerging trends in web culture, media, and advertising.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Define and describe categories and taxonomies in accordance with product needs.</li>\n<li>Design categorization tasks and write annotation guidelines for language experts contributing in multiple languages.</li>\n<li>Administer annotation workflows for language experts, ensuring balanced workloads and timely completion of projects.</li>\n<li>Assess and improve the quality and consistency of annotated datasets.</li>\n<li>Build classifiers, and evaluate their quality in the context of product requirements. Debug classifier performance in order to reveal areas of improvement.</li>\n</ul>",
+    "title": "Linguist, Text Classification (Multiple Languages)"
+}

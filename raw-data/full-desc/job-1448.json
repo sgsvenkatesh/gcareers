@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; Chicago, IL, USA; Boulder, CO, USA; Pittsburgh, PA, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVed0ngvaz0FMrVgYmk5PxKmXAlTYChH5ZbAfiI8jL0SOgCPMA3Tr18wlfqTYPEXAQbrKoUiBqIGhDfgQsm5F6T0P5b84Tjt-AbkRqw2jbRYhMS9Ab1G6qI5y94%3D_V2&jobTitle=Technical+Solutions+Consultant%2C+Google&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-10-23T22:40:36.107Z",
+    "description": "<p>The team is on a mission to delight the millions of consumers, advertisers and publishers who rely on our flagship products like Google Ads, AdSense, Google Ad Manager, Google Marketing Platform, Pixel, Google Fi and Google Play. We\u2019re an operational team that focuses on delivering excellent customer care and being there for them when they need us most. We&#39;re looking for people with excellent analytical and communication skills who are passionate about customers and helping them get the most out of Google.</p><p>Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. Our teams of solution-oriented trusted advisors support millions of customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers\u2019 complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.<br><br>To learn more about gTech, check out our <a href=\"https://www.youtube.com/watch?v=HcjR6ZngQcw\">video</a>.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4664486545653760",
+    "location": {
+        "address_lines": [
+            "Pittsburgh, PA, USA"
+        ],
+        "city": "Pittsburgh",
+        "country": "PA",
+        "country_code": "US",
+        "display": "Pittsburgh, PA, USA",
+        "lat": 40.44062479999999,
+        "lon": -79.9958864
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&size=1168x324&zoom=12&signature=bML2TGs1mgqZUrRr4AbUGft114I=",
+        "large_2x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&scale=2&size=1024x324&zoom=12&signature=yYDwtb4snIKR5aq5kGb0m8lAHdQ=",
+        "small_1x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&size=600x400&zoom=12&signature=w1iNbGf2icUDv9rzW2JCq5rI-RA=",
+        "small_2x": "/maps/api/staticmap?center=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=6425+Penn+Ave%2C+Pittsburgh%2C+PA+15206%2C+USA&scale=2&size=600x400&zoom=12&signature=zy8WswLAzKtXGWV1PfX3HzTcfVU="
+    },
+    "modified": "2019-03-18T21:50:37.305Z",
+    "publish_date": "2019-03-06T20:01:59.347Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, related technical field or equivalent practical experience.</li>\n<li>Experience working with web technologies such as HTML, CSS, JavaScript and HTTP.</li>\n<li>Experience with one or more general purpose programming languages, including but not limited to: Java, C/C++ or Python.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Familiarity with SQL/MySQL and Unix/Linux operating systems and commands.</li>\n<li>Ability to deliver messages on a technical level, and present technical materials to groups of any size and background.</li><li>An ability to work and communicate effectively with stakeholders.</li>\n<li>Effective project management, problem solving, analytical and troubleshooting skills.</li>\n<li>Ability to travel as required to meet with specific partners/clients.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Analyze and resolve complex problems around data and tools access.</li>\n<li>Optimize workflows by identifying opportunities and automating them.</li>\n<li>Work closely with Product Management and Software Engineering teams to improve Google\u2019s Customer Relationship Management tools.</li>\n<li>Collaborate with Consumer and Engineering teams to implement tools to improve agent troubleshooting efficiency and the end-user experience.</li>\n<li>Work effectively with others in order to solve problems and manage stakeholder expectations and ability to listen well in order to understand what others are communicating.</li>\n</ul>",
+    "title": "Technical Solutions Consultant, Google"
+}

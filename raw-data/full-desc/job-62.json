@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckb_qOy12SEyaWms-ZM7E80hiNlO8_gARyiZW2nxReNESOgASYQ8wrhvaGE-ANi3tHbEtxNQcQJFP3TWcl12q5z-Cg04vJhRePdqVYKzP-jBbQOs-1oQqlpIcRDI%3D_V2&jobTitle=Executive+Support+Technician%2C+Technical+Infrastructure&loc=US",
+    "categories": [
+        "INFORMATION_TECHNOLOGY"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-07T10:31:53.320Z",
+    "description": "<p>Executive Support technicians (XTechs) serve as the custodians of the IT experience that Corporate Engineering delivers to Googlers. \n</p>\n\n\n<p>As a XTech, you will drive technological innovation and operational effectiveness of executive support in Alphabet&#39;s complex and evolving environment.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/86282065860797126",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-07T10:31:53.320Z",
+    "publish_date": "2019-03-07T10:31:53.320Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree or equivalent practical experience.</li>\n<li>Support experience with Linux, Windows, Mac OS, or Chrome OS.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with creating scripts to automate common tasks.</li>\n<li>Experience creating or optimizing deployment and/or support processes for desktops/laptops, video conferencing, wireless devices, software and patches.</li>\n<li>Understanding of LAN/WAN and mobile computing environments.</li>\n<li>Ability to adjust quickly to changing priorities and make quick decisions with limited information.</li>\n<li>Developed customer service, organizational, prioritization, multitasking, communication, and leadership skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Find solutions to technical challenges, through root cause analysis, working with users and collaborating with partner teams.</li>\n<li>Solve problems with multiple operating systems and a range of devices.</li>\n<li>Collaborate with various global teams including security, networking and infrastructure.</li>\n<li>Participate in the team oncall rotation.</li>\n</ul>",
+    "title": "Executive Support Technician, Technical Infrastructure"
+}

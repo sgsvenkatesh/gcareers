@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVr4E0YHRJtHKF4ZKf1v8QhQHFfInl5bJmojoCbcoLQSOgCPMA3Tmjbxs6534JQ_E08fsA1YBd5EBZwtjtV0S_oEo2jdDCsP62cLIZYfh6WHjXTBmKZHR06FEVU%3D_V2&jobTitle=Technical+Solutions+Consultant%2C+Google&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-10-23T22:42:23.891Z",
+    "description": "<p>The organization is all about focusing on the user. You&#39;ll work on our flagship consumer products like Gmail, Chrome, Nexus and Google Fi, and actively advise and guide our global users through help centers, contact centers, and online communities. In this cross-functional role, you are the voice of our users, tasked with problem-solving with the Product, Marketing, Legal and Engineering teams. You process suggestions, bugs, abuse and other product information to ensure we are constantly improving the user experience.\n</p>\n\n<p>As a Technical Solutions Consultant, you will leverage your technical background and troubleshooting skills to investigate and resolve the most technically complex issues our users face, often in collaboration with other Consumer teams and Product and Engineering. As a Google product power user, you&#39;ll field customer and internal escalations, troubleshoot and manage bugs, synthesize user feedback reports and drive process improvements.</p><p>Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. Our teams of solution-oriented trusted advisors support millions of customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers\u2019 complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.<br><br>To learn more about gTech, check out our <a href=\"https://www.youtube.com/watch?v=HcjR6ZngQcw\">video</a>.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5731605928542208",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:42:33.246Z",
+    "publish_date": "2019-02-27T19:42:33.246Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in Computer Science, related technical discipline or equivalent practical experience.</li><li>Experience working with common programming/scripting languages such as Java, C, C++, Python and/or Shell scripting.</li><li>Technical troubleshooting experience.</li></ul><br><p>Preferred qualifications:</p><ul><li>Relevant technical work experience including network and/or Linux system administration and troubleshooting.</li><li>Experience working with end customers.</li><li>Understanding of networking standards, such as DNS, DHCP, TCP/IP, HTTP, XML, SOAP and 802.11.</li></ul>",
+    "responsibilities": "<ul><li>Analyze and resolve complex customer problems discovered in Consumer products.</li><li>Work closely with Google Product Management and Software Engineering teams to improve Google products.</li><li>Collaborate with Consumer and Google Engineering teams to Implement tools to improve support troubleshooting efficiency and the end user experience.</li></ul>",
+    "title": "Technical Solutions Consultant, Google"
+}

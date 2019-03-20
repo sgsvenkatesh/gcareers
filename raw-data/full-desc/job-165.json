@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckU27qpCsvOsMD_lMRPncYWCr9-SRBgRHjPx8-eD2CcUSOQASYQ8wQBjyFb7YgId7LJGzB_0F7xllF8rKx3IBUQUt9wUyzqvmPAmDD5PJnxMgJrFYtt2b-7Hkxw%3D%3D_V2&jobTitle=Power+and+UPS+System+Engineer%2C+Platforms+Engineering&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-19T11:31:45.822Z",
+    "description": "<p>Our computational challenges are so big, complex and unique we can&#39;t just purchase off-the-shelf hardware, we&#39;ve got to make it ourselves. Your team designs and builds the hardware, software and networking technologies that power all of Google&#39;s services. As a Hardware Engineer, you design and build the systems that are the heart of the world&#39;s largest and most powerful computing infrastructure. You develop from the lowest levels of circuit design to large system design and see those systems all the way through to high volume manufacturing. Your work has the potential to shape the machinery that goes into our cutting-edge data centers affecting millions of Google users. <br><br>With your technical expertise, you lead projects in multiple areas of expertise (i.e., engineering domains or systems) within a data center facility, including construction and equipment installation/troubleshooting/debugging with vendors.</p>\n\n\n<p>The Platforms team designs and builds the software, hardware, computing platform and networking technologies that power all of Google&#39;s services. You will deliver innovative power, UPS and energy storage solutions for Google\u2019s data centers. Working with a small team, your role will be to architect, specify and design, analyze and implement/test system level solutions for large scale power application environments.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/111904860690883270",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-19T11:31:45.822Z",
+    "publish_date": "2019-03-19T11:31:45.822Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Masters degree in Electrical or related discipline, or equivalent practical experience.</li>\n<li>10 years of relevant experience with proven depth and breadth of knowledge in architecting, designing, developing and deploying large scale power and energy storage systems.</li>\n<li>5 years working with large scale power system and distribution methodologies.</li>\n<li>5 years of direct experience in data center level development and solutions deployments.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with theoretical analysis and solutions prototyping.</li>\n<li>Knowledge in battery management system (BMS) architecture, and system knowledge.</li>\n<li>Ability to execute work with minimal supervision.</li>\n<li>Developed analytical and organizational skills, coupled with a well-focused attention to detail.</li>\n<li>Demonstrated communication skills and ability to work effectively with energetic cross-functional project teams.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Architect, specify and develop power, UPS battery and energy storage systems.</li>\n<li>Provide technical leadership and direction while troubleshooting complex system level issues related to power, UPS battery and energy storage deployment.</li>\n<li>Develop power and UPS management systems, integrating with rack and data center infrastructure for cohesive solutions.</li>\n<li>Research literature and industry for advanced technologies that may be applicable for next generation power, and energy storage programs and work with vendor supply base to evaluate solution efficacy and readiness.</li>\n<li>Work together with the commodity team, develop criteria for supplier selection and provide technical leadership on supplier development on system integration.</li>\n</ul>",
+    "title": "Power and UPS System Engineer, Platforms Engineering"
+}

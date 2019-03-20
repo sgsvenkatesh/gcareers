@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQlW7zTOv8GsWMbx7E1KWoyP0lGRl9SLkrEYawAeboASOgASYQ8wRM6LTgd9GbgDvj3RpPCm4gednP3YaceIS_oXpE5J44dy5bKV64T9BVWO7uKeqp3KJS19prc%3D_V2&jobTitle=Head+of+Operations+and+Technical+Program+Management%2C+Material+Design&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-13T16:31:50.046Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As Head of Operations and Technical Program Management at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>\u201cBeautiful Design, Google Scale\u201d is the mission of the Material\u2019s Design and Engineering team. Its audience includes nearly all Google teams, as well as external product teams looking to deliver excellent experiences with speed and ease. Experiences built using Material Design are used by billions of users around the world.\n</p>\n\n\n<p>As the Head of Operations and Technical Program Management for Material Design, you will build and drive the operational backbone for Material Design to support customers\u2019 demands. You&#39;ll partner with the Material Leadership team to influence and operationalize our strategic roadmap, plan, organize, and work with teams to help execute the vision, and deliver upon our stakeholders&#39; expectations. You will also help drive Material release plans, priorities, and business requirements to groups throughout the organization.</p><p>The Google Product Infrastructure (GPI) team at Google is responsible for building infrastructure that powers Google&#39;s flagship products across the globe. We provide the cohesive set of shared Google technologies - such as identity, payments, notifications, and accounts - that work consistently across our platforms and enable Google&#39;s product teams to continue creating excellent products for billions of people seamlessly.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/105339314373567174",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-13T16:31:50.046Z",
+    "publish_date": "2019-03-13T16:31:50.046Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>10 years of experience in engineering management or technical program management within a technology environment.</li>\n<li>5 years of experience in program management.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with socializing and presenting analysis, proposals, and strategies to executive leadership.</li>\n<li>Ability to apply processes and principles to novel situations, think creatively, and find new solutions to new problems.</li>\n<li>Strong analytical skills, with the ability to demonstrate conclusions based on data-driven approach.</li>\n<li>Exceptional partnering and collaboration skills.</li>\n<li>Excellent communication and interpersonal skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage program/feature dependencies across multiple product teams, functions, divisions, and stakeholders.</li>\n<li>Anticipate and remove obstacles that slow down or prevent product teams from delivering on project goals.</li>\n<li>Provide monthly program reviews and facilitate executive reviews with stakeholders.</li>\n<li>Create a collaborative environment that fosters creativity, innovation, and learning.</li>\n<li>Lead alignment on program scope through program and partnerships and release planning.</li>\n</ul>",
+    "title": "Head of Operations and Technical Program Management, Material Design"
+}

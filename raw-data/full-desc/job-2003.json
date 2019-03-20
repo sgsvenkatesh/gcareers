@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckbG3w8lW1muLTzhGsdzyzB3vcxsSh7ls4aVYGZ_ssn0SOgASYQ8wFBdGG6oLD4tsGvCVVWIwxsXryaA4BphMHpgeMm2_j-dW_dXT6wAeCEPhQOsRqHckr7NHEWY%3D_V2&jobTitle=Technical+Program+Manager%2C+Payments&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-25T17:02:49.496Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p><p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks, and clearly communicating goals to project stakeholders. Your projects often span offices, time zones, and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p><p>We partner with Google products that accept payments, such as Play, YouTube, Cloud, and Ads, to facilitate business growth and make it easy for customers to utilize goods and services. We build front-end user flows, tools, and back-end systems, and help expand our payments partnerships globally. We also support partnership and third-party vendor integrations necessary to enable features on our consumer-facing Google Pay app.</p><p>The Google Product Infrastructure (GPI) team at Google is responsible for building infrastructure that powers Google&#39;s flagship products across the globe. We provide the cohesive set of shared Google technologies \u2014 such as identity, payments, notifications, and accounts \u2014 that work consistently across our platforms and enable Google&#39;s product teams to continue creating excellent products for billions of people seamlessly.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5867714625175552",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:45:21.345Z",
+    "publish_date": "2019-02-27T19:45:21.345Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in business or a technical field, or equivalent practical experience.</li><li>5 years of experience in a systems administration, desktop support and/or software development role.</li><li>5 years of experience leading and growing technical teams across multiple geographies.</li><li>3 years of experience managing software development projects and working with third-party partners.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience in commerce and/or payments space.</li><li>Proven ability to lead projects from end to end, and bring order into chaos; ability to collaborate well with others.</li><li>Strong organizational and written/verbal communication skills.</li></ul>",
+    "responsibilities": "<ul><li>Manage technical projects and drive them to launch by working closely with ENG, PM, and cross-functional partners to define requirements, scope, schedule, resourcing, and milestones.</li><li>Manage relationships with key internal stakeholders and third-party vendors.</li><li>Understand complex systems at high and low levels.</li><li>Facilitate team discussions, drive issues to resolution, help identify risk mitigations. Communicate project status to various audiences, including cross-functional and senior leadership; run internal meetings and represent project team as the payments POC.</li><li>Ensure launch readiness and coordinate testing, rollout, post-launch monitoring. Identify, develop and implement process improvements to help teams scale.</li></ul>",
+    "title": "Technical Program Manager, Payments"
+}

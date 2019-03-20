@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQR0Z4cg6CDEeV1R0-7yM_BYSZQDoVcYXmxxP-bvzUcSOgCPMA3TEvgr0DHLWQO3eZ2JsYA2RVjeuHxehTH3q38qvsoNHKi-HQ2XdPVCZ3wTqZ5C1He3rUYJIYQ%3D_V2&jobTitle=Technical+Analyst&loc=US",
+    "categories": [
+        "BUSINESS_STRATEGY",
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-08T20:01:45.885Z",
+    "description": "<p>The Data Operations team provides business critical insights using analytics, ensures cross-functional alignment of goals and execution, and helps teams drive strategic partnerships and new initiatives forward. We stay focused on aligning the highest-level company priorities with day-to-day operations, and help evolve early stage ideas into future-growth initiatives.</p>\n\n<p>In this role, you will provide reporting, serve as a business analyst to drive business recommendations, and support strategic and tactical initiatives globally, with an emphasis on tools. You will identify, prioritize, and focus on the key drivers of tools satisfaction and usage among our Sales teams. You&#39;ll partner with business leaders across functions and regions to help drive action on key efficiency opportunities to improve our operational metrics. You will develop data-driven insights and qualitative recommendations to drive the business forward in a measurable way. You&#39;re a self-starter who can work in a rapidly changing environment, you tolerate ambiguity, and demonstrate problem-solving leadership with limited oversight.</p>The Go-To-Market team ensures that Google&#39;s complex and ever-evolving business runs smoothly. Experts in leading process improvements and consistency, team members are analytical and strategic with a pragmatic sense of how to get things done. They develop global initiatives and set high-level goals to improve productivity.",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6309645990166528",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:54:07.917Z",
+    "publish_date": "2019-02-27T19:54:07.917Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>Database experience in architecting, designing and developing backend databases, including SQL coding across standard relational environments.</li>\n<li>Experience in data volume environments in software, internet, media or telecom industries.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with conducting data analysis across datasets.</li>\n<li>Familiarity with programming languages (e.g., Java, Python or C++).</li>\n<li>Ability to build relationships and work effectively cross-functionally.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Extract data through logs or data marts with SQL queries to understand tools usage and satisfaction. Understand required data, identify where datasets reside and how to manipulate them.</li>\n<li>Improve and develop ETL pipelines to support the Global Productivity and Sales Tools team&#39;s (GPST) internal reporting.</li>\n<li>Collaborate with datasource owners in Engineering to define optimal data structure to support our internal reporting capabilities.</li>\n<li>Build and maintain relationships with cross-functional teams to address data infrastructure and reporting needs. Conduct data analyses to improve key performance indicators (KPIs).</li>\n<li>Work independently, prioritize multiple stakeholders and tasks, and manage work time efficiently. Advise, coach, and partner with peer analysts on other teams.</li>\n</ul>",
+    "title": "Technical Analyst"
+}

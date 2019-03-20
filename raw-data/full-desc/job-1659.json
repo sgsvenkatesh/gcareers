@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckX7Px4zElEAm6zCqVJ_GX5DoKuZNW2aRDS8WfLVPh6cSOgCPMA3TDuQkAIlmi1YutmkAJTBIXLsyoPtcg352PqAXEM27aTPlHOep5lZ76Fr0i3jkNuGXsFIZXew%3D_V2&jobTitle=Analyst%2C+Payment+Solutions+Operations&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T23:02:17.444Z",
+    "description": "<p>The Finance Operations team manages Google&#39;s cash transactions on a global basis and ensures that Google&#39;s incoming and outgoing cash processes are controlled, effective and efficient. As a member of this team, you&#39;ll find innovative ways to manage our complex set of transactions. You thrive on making processes more efficient and scalable, you work to ensure the highest level of quality of our operations and you proactively minimize operational risk. Externally, you collaborate with our outsourcing partners and internally, you collaborate across the five areas of the Financial Operations team: Global Revenue Operations, Procure to Pay, Electronic Payment Services, Business Process Outsourcing, and Payroll.</p><p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to the business.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5667064310333440",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:44:56.424Z",
+    "publish_date": "2019-02-27T19:44:56.424Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Finance, Accounting, Operations, or equivalent practical experience.</li><li>4 years of relevant work experience</li><li>Experience leading operations and solving operational issues.</li><li>Project management experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience and a proven track record of process improvement and/or Six Sigma.</li>\n<li>Work experience with an outsourced service provider in operations, procure-to-pay, or other relevant area. Payments experience.</li>\n<li>Demonstrated ability to manage complex escalations in a timely and efficient manner, effectively balancing business and technical risks.</li>\n<li>Success leading complex, global operational initiatives in a cross-functional, fast-paced environment.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage Google\u2019s global invoicing and payment operations executed by our Business Process Outsourcing (BPO) partner. Operational support includes management of urgent and often complex escalations.</li>\n<li>Analyze data-sets to identify, prioritize, and address risks and opportunities. Partner with key stakeholders to drive standardization and continuous improvement. Evaluate, research, and resolve complex compliance or longer-term operational challenges</li>\n<li>Define and manage the collation of metrics and analytical insights to measure process effectiveness across multiple dimensions</li>\n</ul>",
+    "title": "Analyst, Payment Solutions Operations"
+}

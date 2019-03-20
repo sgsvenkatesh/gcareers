@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXVqQWvlilkZjO4lEANB_v8AQ9tphQl5oj9fyutl90cSOgASYQ8wTLw9fDaZFVlAnRuHA4PDF5jCxt7F1yPvqtmwNJHApzr62xTvrMbh4_HdcM97WZ7YbrU06Vg%3D_V2&jobTitle=Technology+Manager%2C+Music+Business+Intelligence%2C+YouTube&loc=US",
+    "categories": [
+        "SALES",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2019-02-25T23:01:49.548Z",
+    "description": "<p>As a Technology Manager, you will be responsible for the success of YouTube\u2019s largest partnerships, collaborating on complex partner business intelligence requests and studies, driving Music insights, and working closely with Music Product and Engineering to develop relevant data tools and features. In this role, you will become an expert on YouTube\u2019s data and advise us on how to use it to operate our business and make important strategic decisions. You will ensure that we have the right tools, data visualization, and processes to deliver analytical insights to partners that improve their business and the organization that drive product decisions. </p>\n\n\n<p>In this role, you will lead projects and cross-functional teams with the goal of improving strategic partnerships. You will rely on creative thinking and a data driven approach when handling both technical and business challenges.</p><p>At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun \u2014 and we do it all together.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/143756135489249990",
+    "location": {
+        "address_lines": [
+            "San Bruno, CA, USA"
+        ],
+        "city": "San Bruno",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Bruno, CA, USA",
+        "lat": 37.6304904,
+        "lon": -122.4110835
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=1168x324&zoom=12&signature=8kTssaOIezLC995xz1jzX_ZsmEY=",
+        "large_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=1024x324&zoom=12&signature=qd1d-lHbtksAR7tvbMxtF6isGS4=",
+        "small_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=600x400&zoom=12&signature=muZNYVJol8PMclT8mtEQc7rdogE=",
+        "small_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=600x400&zoom=12&signature=CPaUJbMpoSOqDb7VXdK1SJbE0EI="
+    },
+    "modified": "2019-03-13T19:01:47.822Z",
+    "publish_date": "2019-03-13T19:01:47.822Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, related technical field, or equivalent practical experience.</li>\n<li>2 years of experience in an analytical role (e.g., management consulting).</li>\n<li>2 years of experience in data analysis, modeling, SQL, and presentation development.</li>\n<li>Experience working with Unix/Linux systems, programming with C/C++, Java, Go, and scripting with Shell, Perl, or Python.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in statistical analysis (e.g., Python, MATLAB) and data analysis workflows (e.g., data mining, statistical analysis).</li>\n<li>Experience as a product manager or engineer building software products. Experience in the music or online video industries.</li>\n<li>Experience identifying opportunities for business improvement and defining/measuring the success of those initiatives.</li>\n<li>Ability to work in a customer or partner facing role. Excellent project management skills and attention to detail.</li>\n<li>Ability to communicate and influence effectively by presenting data in a compelling way.</li>\n<li>Ability to teach others and learn new techniques, demonstrating excellent leadership and self-direction.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Define, design, and lead cross-functional business intelligence projects, tools, and initiatives.</li>\n<li>Understand YouTube&#39;s data infrastructure and data systems. Conduct data analysis to make business recommendations (e.g., cost-benefit, invest-divest, forecasting, impact analysis).</li>\n<li>Deliver effective presentations of findings and recommendations to multiple levels of stakeholders, creating visual displays of quantitative information.</li>\n<li>Develop and automate reports. Build and prototype dashboards to provide insights at scale, solving for analytical needs.</li>\n<li>Improve product offerings by collecting, distilling, and sharing market feedback to the Product team.</li>\n</ul>",
+    "title": "Technology Manager, Music Business Intelligence, YouTube"
+}

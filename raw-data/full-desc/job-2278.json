@@ -1,0 +1,37 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Austin, TX, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRa0tzMxI3xy1AkW3iurNSSXrDJbVb9CnNu30TikwQ4SOgCPMA3Tja9naNvnyGFZGAbL7mKjYQGwqIJk92ZGH5En7ezYaM5mNpSB3ELlxPzVc47oQo_3uUO4tKA%3D_V2&jobTitle=Program+Manager%2C+Finance+Systems&loc=US",
+    "categories": [
+        "FINANCE",
+        "PROGRAM_MANAGEMENT",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:57.583Z",
+    "description": "<p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in-depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to teams across the company.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. As Lead Program Manager of Finance Systems, you will partner with Finance Business teams to execute a multi-year systems roadmap. You will drive a multi-year transformation effort to automate business processes and tools, and enable capabilities to strengthen finance reporting. You will work closely with the Finance Leadership team to address areas of opportunity and risks, as well as partner with teams in Corporate Engineering and the business to ensure clear, consistent coordination and timely execution.</p><p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6685347376463872",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:44:51.414Z",
+    "publish_date": "2019-02-27T19:44:51.414Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>5 years of experience with data or system transformations that involve finance process re-engineering within corporate IT accounting and finance systems.</li>\n<li>Experience with financial data models, driving end-to-end data flow and articulating the data flow\u2019s impact on different types of subledgers and finance compliance processes.\n</li>\n<li>Experience with finance business models (e.g., multi-element revenue operations, payroll, source to pay, P&amp;L reporting).\n</li>\n<li>Experience with architecture and process design to drive master data flow consistency, quality and compliance. \n</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>15 years of experience in enterprise resource planning (ERP), with a background in computer science, management information systems, and/or finance.\n</li>\n<li>Systems support or development experience, including current knowledge of modeling techniques and the opportunities presented by new advancements in analytic and big data platforms.\n</li>\n<li>Proven ability to be successful in a complex, globally scaled Product, Sales and Engineering environment, planning and managing at both the strategic and operational level. Organized, detail-oriented and strategically focused.\n</li>\n<li>Excellent business partnering skills, including the ability to build senior-level relationships and get things done across functional boundaries (e.g., Sales, Product, Engineering and Finance leadership). \n</li>\n<li>Ability to communicate effectively with senior business partners and to advocate for \u201cthe right thing to do&quot; for the business. \n</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design and oversee major multi-year transformations to facilitate business growth, including collaboration with third-party service providers.\n</li>\n<li>Gain an in-depth understanding of existing Finance systems and frameworks, including data, process, systems and applications.</li>\n<li>Collaborate with and influence various stakeholders to develop and deliver on a prioritized investment strategy to align with business values.\u00a0\n</li>\n<li>Ensure program alignment with internal and external governance entities through compliance and controls.\u00a0\n</li>\n</ul>",
+    "title": "Program Manager, Finance Systems"
+}

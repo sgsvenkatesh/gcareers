@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckay51kh1lo4lnUbvxr-xczaz3knOCVNyMtGx8CM9pbESOgASYQ8w2Yl1loB_E2U9Pi8YoenJefhLsmZYx0xvlaqjqzdKpaIGY2W-yuj-iyQV3ZtZhTvYpAKlOFQ%3D_V2&jobTitle=Account+Development+Manager%2C+Google+Cloud&loc=US",
+    "categories": [
+        "SALES"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-11T14:31:49.659Z",
+    "description": "<p>As an Account Development Manager, you&#39;ll be responsible for driving the pipeline growth of your respective regions through effective team management and programmatic sales campaigns. Your responsibility will include onsite Temps, Vendors, Contractors (TVCs) management, team performance management, alignment with regional corporate Sales team, hiring and capacity planning. On top of that, you will use your analytical rigor, strategic insights and innovative thought processes to action on programs to close pipeline gaps for your respective regions.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/118623202617238214",
+    "location": {
+        "address_lines": [
+            "Austin, TX, USA"
+        ],
+        "city": "Austin",
+        "country": "TX",
+        "country_code": "US",
+        "display": "Austin, TX, USA",
+        "lat": 30.267153,
+        "lon": -97.7430608
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=1168x324&zoom=12&signature=UTSmzhT1GwaqAFOlXiNqYeEp1js=",
+        "large_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=1024x324&zoom=12&signature=ojF7AFQovSAd42Cxo1IUj70UZ4s=",
+        "small_1x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&size=600x400&zoom=12&signature=y_wUhfimj7y5il9HxUh_cxg3Bwk=",
+        "small_2x": "/maps/api/staticmap?center=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=500+West+2nd+Street+Austin%2C+TX+78701%2C+USA&scale=2&size=600x400&zoom=12&signature=SwUrs381CxcDbwPJMemUHah_AOk="
+    },
+    "modified": "2019-03-18T19:01:53.838Z",
+    "publish_date": "2019-03-18T19:01:53.838Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree or equivalent practical experience.</li>\n<li>4 years of experience working in sales, marketing, business development or relevant program management experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>2 years of people management experience.</li>\n<li>Experience using Customer Relationship Management (CRM) systems.</li>\n<li>Understanding of Cloud technology, with the ability to use a combination of basic technical knowledge and solution selling to coach the team.</li>\n<li>Excellent communication and stakeholder management skills.</li>\n<li>Advanced analytical, presentation skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Recruit, onboard, coach and motivate a team of account development representatives to work towards team metrics every quarter.</li>\n<li>Proactively identify sales pipeline gap within region, develop structured hypothesis and lead pipeline generation programs that will contribute to the region&#39;s long-term revenue generation.</li>\n<li>Work with cross-functional teams to understand Google Cloud Go-to-Market strategy and provide Sales teams with key insights around outbound acquisition plans.</li>\n<li>Ensure close alignment with regional Sales teams on key metrics, business reviews and other moments of impacts.</li>\n<li>Ensure team members are proficient in tools and systems, as well as assisting tools team to prioritize feature requests as well as Management of escalation, team attrition, representative\u2019s capacity and other areas of improvement.</li>\n</ul>",
+    "title": "Account Development Manager, Google Cloud"
+}

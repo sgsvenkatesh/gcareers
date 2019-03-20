@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; New York, NY, USA; Chicago, IL, USA; San Francisco, CA, USA; Austin, TX, USA; Reston, VA, USA; Atlanta, GA, USA; Irvine, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXuVcXyfw3e7FD1VqTCL7b1ABfBd_i926K33RVychtUSOgCPMA3TQF4W8Nv5KynetebMKU3Rb3wNiF8miNHJrmNBNwhf4XN7aEComfj1Ucf0yGmTUkzazPqCwJY%3D_V2&jobTitle=Cloud+DevOps+and+Infrastructure+Engineer%2C+Google+Professional+Services&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:51.424Z",
+    "description": "<p>As a Cloud DevOps &amp; Infrastructure Engineer you will guide customers on how to configure and deploy their Google Cloud infrastructure consisting of identity and access management, network architecture, application security, logging, monitoring, billing and more. You will consult with customers on how to best design their cloud applications for optimal scaling including CDN design, load balancer setup, caching, compute optimizations, continuous integration and delivery pipeline, and more. You will travel to customer sites to deploy solutions and deliver workshops to educate and empower customers. Additionally, you will work closely with Product Management and Product Engineering to build and constantly drive excellence in our products.</p>\n\n<p>In this role, you are the Google Engineer working with strategic Google Cloud customers. Together with the team, you will support customer implementation of Google Cloud products through architecture guidance, best practices, data migration, capacity planning, implementation, troubleshooting, monitoring, and more.</p><p>The Google Cloud Platform team helps customers transform and evolve their business through the use of Google\u2019s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6742497318600704",
+    "location": {
+        "address_lines": [
+            "Reston, VA, USA"
+        ],
+        "city": "Reston",
+        "country": "VA",
+        "country_code": "US",
+        "display": "Reston, VA, USA",
+        "lat": 38.9586307,
+        "lon": -77.35700279999999
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&size=1168x324&zoom=12&signature=FO3u6hazHD_hOatnJgsqGlsYqYU=",
+        "large_2x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&scale=2&size=1024x324&zoom=12&signature=T_f2pdXeKWBJBlJdgF_Wq3sTKiQ=",
+        "small_1x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&size=600x400&zoom=12&signature=F1k9qg3kFctxjjTJiTEaXPyuZ9A=",
+        "small_2x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&scale=2&size=600x400&zoom=12&signature=A4XKQ5Fj_IRHI4dc1byXLoZICWU="
+    },
+    "modified": "2019-02-27T19:41:16.610Z",
+    "publish_date": "2019-02-27T19:41:16.610Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Mathematics, related technical field or equivalent practical experience.</li>\n<li>Experience in writing software in one or more languages, such as Java, Python, Go, JavaScript, C++ or similar.</li>\n<li>Experience maintaining internet facing production-grade applications in virtualized environments (cloud computing platforms and services). Experience managing internal or client-facing projects, troubleshooting clients&#39; technical issues and working with engineering, sales and services teams and customers.</li>\n<li>Ability to travel 30% of the time as required.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience working with scalable networking technologies such as Load Balancers/Firewalls and web standards (REST APIs, web security mechanisms).</li>\n<li>Experience working with deployment and orchestration technologies (such as Docker, Kubernetes, Mesos, OpenStack, Puppet, Chef, Salt, Ansible, Jenkins).</li><li>Understanding of open source server software (such as NGINX, RabbitMQ, Redis, Elasticsearch).</li>\n<li>Familiarity with standard IT security practices such as encryption, certificates and key management.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Act as a trusted technical advisor to customers and solve complex Google Cloud Infrastructure and DevOps challenges.</li>\n<li>Create and deliver best practices recommendations, tutorials, blog articles, sample code, and technical presentations adapting to different levels of key business and technical stakeholders.</li>\n<li>Ability to travel 30% of the time as required.</li>\n<li>Communicate effectively via video conferencing for meetings, technical reviews and onsite delivery activities.</li>\n</ul>",
+    "title": "Cloud DevOps and Infrastructure Engineer, Google Professional Services"
+}

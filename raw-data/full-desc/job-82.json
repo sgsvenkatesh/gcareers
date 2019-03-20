@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckV1Vi_6Scmc8jpnDiXH13gzcg0JTHNasDQj32jZ9jlUSOgASYQ8wSwVrMMNTtHRemlsB7Q0XBjuOWNMfJazkpjyMCj1cnXSaszqd-4cvVECqINdiOZWfO7RkL6s%3D_V2&jobTitle=Process+Excellence+Manager%2C+Google+Play&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-12T11:01:40.683Z",
+    "description": "<p>The Google Play Content Operations team within Android broadly provides business-critical content policy enforcement, partner support, and content ingestion to facilitate, review, and manage the (ever-growing) digital content catalog of Google Play. We are focused on protecting and improving store quality (through policy compliance), supporting Play partners, and growing/managing the Play content catalog globally. You&#39;ll design, manage and continually improve processes to deliver operational excellence and support the rapidly-expanding Google Play Apps and Games business. Focus areas include: launch readiness management, stakeholder management, operational program management, and process excellence.</p><p>Google Play offers music, movies, books, apps and games for your devices, powered by the cloud. It\u2019s a Google approach to entertainment, syncing magically across your devices and on the web. As part of the Android and Mobile team, Googlers working on Google Play do everything from engineering our backend systems, to shaping the product strategy, to forming great content partnerships. They make it possible for people to do things like buy an ebook or song on their Android phone, then have it instantly available on their laptop. The Google Play team helps strengthen the overall Android ecosystem by giving developers and partners a premium store where they can reach millions of users.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/103871371190117062",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:55:50.040Z",
+    "publish_date": "2019-02-27T19:55:50.040Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree or equivalent practical experience.</li><li>5 years of relevant work experience in operational process improvement/design.</li><li>Experience working with Six Sigma, Lean, TQM or other process improvement methods.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience working in digital content operations and/or operations consulting.</li><li>Data analysis skills, with experience applying statistical methods, SQL and dashboard design.</li><li>Pro-active team player able to thrive in ambiguity, and navigate complexity to develop solutions.</li><li>Demonstrated project management skills, and the ability to manage multiple tasks in a dynamic environment.</li></ul>",
+    "responsibilities": "<ul>\n<li>Collaborate with subject matter experts to drive continual process improvements and advise on process management best practices.</li>\n<li>Perform deep dive data analysis to identify inefficiencies, drive to root causes of inefficiencies, and propose improvement recommendations.</li>\n<li>Work with cross-functional stakeholders to implement solutions to drive improvements in operational quality and efficiency.</li>\n<li>Collaborate with cross-functional stakeholders to document and analyze current state processes and pain points for critical business workflows.</li>\n</ul>",
+    "title": "Process Excellence Manager, Google Play"
+}

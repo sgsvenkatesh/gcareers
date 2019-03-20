@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Bruno, CA, USA; Mountain View, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdK7S7FH_wYLa6zRsAjqJlMBeeL-N7VIMqUqAgR_kNwSOgASYQ8w9LpYlHmTWZNV7dde4TVvyLTidD8av2Zp9DQTlpwDUvXDUMiyguH-Sr-oMvpDwcDaR_n6_Gw%3D_V2&jobTitle=Web+Solutions+Test+Engineer%2C+Content+Tools%2C+YouTube&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2019-01-30T17:31:36.110Z",
+    "description": "<p>YouTube&#39;s Technology Solutions Organization is a global organization dedicated to developing and managing the company&#39;s largest and most strategic partnerships. We work closely with the YouTube product, engineering, and content teams to address our partners&#39; most pressing and complex technology challenges. Our work includes building and maintaining internal tools, external portals, and data pipelines. We partner closely with YouTube Engineering teams and Business groups to define requirements and build consensus around solutions.</p><p>At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun \u2014 and we do it all together.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/104846041808806598",
+    "location": {
+        "address_lines": [
+            "San Bruno, CA, USA"
+        ],
+        "city": "San Bruno",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Bruno, CA, USA",
+        "lat": 37.6304904,
+        "lon": -122.4110835
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=1168x324&zoom=12&signature=8kTssaOIezLC995xz1jzX_ZsmEY=",
+        "large_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=1024x324&zoom=12&signature=qd1d-lHbtksAR7tvbMxtF6isGS4=",
+        "small_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=600x400&zoom=12&signature=muZNYVJol8PMclT8mtEQc7rdogE=",
+        "small_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=600x400&zoom=12&signature=CPaUJbMpoSOqDb7VXdK1SJbE0EI="
+    },
+    "modified": "2019-03-07T00:32:03.205Z",
+    "publish_date": "2019-03-07T00:32:03.205Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience</li>\n<li>2 years of experience in automated testing frameworks for one or more object oriented programming languages (e.g., Java, C++, Go or Python)</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>5 years of experience working with C++, Java, Go or Python</li>\n<li>Experience designing and implementing test strategies to maintain an organization\u2019s business infrastructure</li>\n<li>Experience working closely with business partners or experience in another customer facing role</li>\n<li>Ability to work well as part of a team with excellent problem-solving and technical innovation skills</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Partner closely with engineering teams stakeholders to understand testing and reliability requirements</li>\n<li>Manage test suites for complex technical projects, including unit tests, integration tests, and automated UI tests</li>\n<li>Design and implement automated testing frameworks for projects solving large business challenges, often with automation, such as internal tools, backend services, and web applications</li>\n<li>Aggregate and manage success metrics around deployment, test coverage, failure resistance</li>\n</ul>",
+    "title": "Web Solutions Test Engineer, Content Tools, YouTube"
+}

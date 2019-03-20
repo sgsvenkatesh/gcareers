@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; San Francisco, CA, USA; Seattle, WA, USA; Boulder, CO, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRE_9c3NmFoL7ss3aCEVtdxRaLGe2zej2u5ugR5E29wSOgASYQ8wk2D7XVeiMW7T1XaO6dQsmFRKiS-5IsLtqeeApy8Z1y_d3Yj6_nKXq_BMTVgshH6x0Cw0w0I%3D_V2&jobTitle=Developer+Programs+Engineer%2C+Cloud+SQL&loc=US",
+    "categories": [
+        "DEVELOPER_RELATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-06T16:31:39.397Z",
+    "description": "<p>As a Cloud Developer Programs Engineer (DPE), you stand at the intersection of a technology movement shaping our world - between the people who build it and the customers who use it. Developer Programs Engineers (DPEs) are the engineering wing of Developer Relations. We ensure that Google Cloud and related open source projects like Kubernetes, Beam and TensorFlow are amazing for developers. As &quot;customer zero&quot; we&#39;re the first developers to use upcoming services. We provide feedback on API design, platform consistency and functionality. We write sample code and work with our technical writing teams to produce developer documentation, quickstarts and tutorials. We release open source code, participate in developer forums and help troubleshoot developer problems.</p>\n\n\n<p>As an engineer in Cloud Developer Relations, you stand at the intersection of technology, the people who build it, and the customers who use it. Our team ensures Google Cloud and related open source projects like Kubernetes, Beam, and TensorFlow work well for developers. We are the first customers to use upcoming services and we provide feedback on API design, platform consistency, and functionality. We build client libraries, developer tooling, and sample applications, and we work with our technical writing teams to produce developer documentation and tutorials. We release open source software, participate in developer forums, and help troubleshoot developer problems.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/79240043924726470",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-06T16:31:39.397Z",
+    "publish_date": "2019-03-06T16:31:39.397Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Experience with one or more general purpose programming languages (e.g., C#, Java, Python).</li>\n<li>Experience developing web applications, APIs, and/or open source software.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science or related technical field.</li>\n<li>Experience building cloud applications using Cloud SQL, RDS, or similar.</li>\n<li>Expertise with SQL servers.</li>\n<li>Experience engaging with the Windows/.NET developer community, either through conferences or other offline and online forums</li>\n<li>Track record of designing and implementing distributed software systems.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Write sample code, client libraries, and other developer tools to craft an excellent Google Cloud developer experience.</li>\n<li>Assist third-party developers in troubleshooting their integrations with Google APIs and use of other Google developer products.</li>\n<li>Manage and participate in developer discussion forums, and work to address issues raised in these forums.</li>\n<li>Build effective ecosystems for developer products by blogging, writing technical articles, presenting at developer conferences, and working with external developer communities.</li>\n</ul>",
+    "title": "Developer Programs Engineer, Cloud SQL"
+}

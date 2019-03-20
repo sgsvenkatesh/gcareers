@@ -1,0 +1,35 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTHGVIDXuE1C839zNLDxChho04zB4Ccf_oayE86Y0JsSOgCPMA3TP_uF97-LpXJEv0ecSSwtAsS92MeHfTB1wNiZROUEzLJF3-9xFQyY4FjEbETKwjJVgcEMA6A%3D_V2&jobTitle=Manager%2C+Data+Engineering%2C+Google+Customer+Solutions&loc=US",
+    "categories": [
+        "SALES",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-11T15:31:40.441Z",
+    "description": "<p>Businesses that partner with Google come in all shapes, sizes and market caps, and no one Google advertising solution works for all. Your knowledge of online media combined with your communication skills and analytical abilities shapes how new and existing business grow. Using your influencing and relationship-building skills, you provide Google-caliber client service, research and market analysis. You anticipate how decisions are made, persistently explore and uncover the business needs of Google&#39;s key clients and understand how our range of product offerings can grow their business. Working with them, you set the vision and the strategy for how their advertising can reach thousands of users.</p><p>The Google Customer Solutions (GCS) Data Engineering team is responsible for the internal financial and operational data infrastructure that our GCS ads business runs on. The team consists of data scientists, engineers and architects, who are focused on accelerating GCS growth with high quality data and next generation insight.</p>\n\n<p><br></p><p>When our millions of advertisers and publishers are happy, so are we! Our Google Customer Solutions (GCS) team of entrepreneurial, enthusiastic and client-focused members are the &quot;human face&quot; of Google, helping entrepreneurs both individually and broadly build their online presence and grow their businesses. We are dedicated to growing the unique needs of advertising companies. Our teams of strategists, analysts, advisers and support specialists collaborate closely to spot and analyze customer needs and trends. In collaboration, we create and implement business plans broadly for all types of businesses.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5424625513332736",
+    "location": {
+        "address_lines": [
+            "Redwood City, CA, USA"
+        ],
+        "city": "Redwood City",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Redwood City, CA, USA",
+        "lat": 37.48521520000001,
+        "lon": -122.2363548
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=1168x324&zoom=12&signature=qMd_c5mmqxWSefkzRvq5u3HXeX8=",
+        "large_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=1024x324&zoom=12&signature=QI9LkVYQ-IlH0lZ6MENCZ2TRJPQ=",
+        "small_1x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&size=600x400&zoom=12&signature=sGZIA9O0g6zpsi2BMerq7kWkMSo=",
+        "small_2x": "/maps/api/staticmap?center=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Seaport+Boulevard%2C+Redwood+City%2C+CA+94063&scale=2&size=600x400&zoom=12&signature=ZaSXyTdqAKk9FmiP1ehW8vV8TuI="
+    },
+    "modified": "2019-02-27T19:52:00.349Z",
+    "publish_date": "2019-02-27T19:52:00.349Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Experience with Big Data toolsets and data analytics.</li>\n<li>Experience in full life-cycle design and implementation.</li>\n<li>Experience working in a technical lead capacity.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Mathematics, Statistics, Engineering or a related field, or equivalent practical experience.</li>\n<li>6 years relevant work experience, including experience as a technical lead.</li>\n<li>3 years of experience working in a managerial capacity with a high-performing team in engineering, reporting or business intelligence.</li>\n<li>Experience delivering business insights and solutions through statistical modeling and ML, and experience working hands on with Big Data toolsets and data analytics.</li>\n<li>Multiple full life-cycle design and implementation experience and demonstrated expertise in problem solving and technical innovation.</li>\n<li>Excellent interpersonal, communication, and cross-functional leadership skills, with the ability to drive cross-functional initiatives forward.</li>\n</ul>",
+    "responsibilities": "<ul><li>Mentor and coach a team of talented engineers, architects and data scientists who deliver innovative BI and ML solutions to our global sales teams. Your work has a clear path to optimizing opportunities in one of Google&#39;s largest and fastest growing business units.</li><li>Design and own GCS&#39;s data architecture blueprint, developing thoughtful principles that enables our data infrastructure to stay agile as business needs evolve and change.</li><li>Design, build and deploy statistical and ML models that identify and enhance growth opportunities in the long tail of our advertising business, helping small and mid sized businesses around the world thrive with Google.</li><li>Operate a robust, fault tolerant automated &quot;lights out&quot; data infrastructure, working closely with Engineering teams, service desk and Analyst partners to continuously drive bug and customer issue volume lower and lower each quarter.</li></ul>",
+    "title": "Manager, Data Engineering, Google Customer Solutions"
+}

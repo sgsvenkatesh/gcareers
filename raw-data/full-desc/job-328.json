@@ -1,0 +1,35 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZd7e5nvZB3E6uSgRhwmZX6D_9c_D8TIpYU1NtTXGNoSOgASYQ8wbmYfL_7l9-JYJiRmc_A6VBRhLZVpjC_w1SYQ0T4yUScEE67o6aZ2i33Z1u9d-95sawd2F6g%3D_V2&jobTitle=Environmental+Health+and+Safety+Construction+Program+Manager&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-11T14:31:50.868Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>As a member of Data Center Environmental Health and Safety (DCEHS) team, you&#39;ll be responsible for supporting construction EHS program and team. You will play a key role in ensuring all EHS challenges are identified and addressed by working collaboratively with a cross functional team of Google Data Center (GDC) departments and contractors to safe guard Google\u2019s interests. You will also support Construction EHS audits and project safety launches as needed, while assisting the team with purchase, resource sourcing and contract execution (PO, SOW, Invoice).</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/122215788141519558",
+    "location": {
+        "address_lines": [
+            "Austell, GA, USA"
+        ],
+        "city": "Austell",
+        "country": "GA",
+        "country_code": "US",
+        "display": "Austell, GA, USA",
+        "lat": 33.8126059,
+        "lon": -84.6343783
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=300+Riverside+Parkway+SW&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=300+Riverside+Parkway+SW&size=1168x324&zoom=12&signature=_Fd3JF10U9jbbT29v6s32S_kM7k=",
+        "large_2x": "/maps/api/staticmap?center=300+Riverside+Parkway+SW&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=300+Riverside+Parkway+SW&scale=2&size=1024x324&zoom=12&signature=NDDCAPRoX-Ne8mvHCcRq58-25ks=",
+        "small_1x": "/maps/api/staticmap?center=300+Riverside+Parkway+SW&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=300+Riverside+Parkway+SW&size=600x400&zoom=12&signature=rt14MjNhO8a7GVNHCKg3K2J1HNg=",
+        "small_2x": "/maps/api/staticmap?center=300+Riverside+Parkway+SW&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=300+Riverside+Parkway+SW&scale=2&size=600x400&zoom=12&signature=pGUbaYQWex3_xudOe92kGL38uJQ="
+    },
+    "modified": "2019-03-11T14:31:50.868Z",
+    "publish_date": "2019-03-11T14:31:50.868Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>8 years of experience with EHS programs including construction and general industry.</li>\n<li>Experience working with cross functional teams and external contractors and vendors</li>\n<li>Program Management experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Environmental Science, Occupational Health and Safety, Earth Science or a related discipline, or equivalent practical experience.</li>\n<li>Experience managing best practice implementation in a Contractor workforce.</li>\n<li>Experience with smartsheets or equivalent project management tools.</li>\n<li>Experience leading/supporting large cross functional teams to align and deliver technical projects.</li>\n<li>Excellent analytical, data quality troubleshooting and problem solving skills.</li>\n<li>Effective collaboration, project management, and communication skills (written and verbal).</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Be responsible for Construction EHS weekly, monthly and Quarterly Business Review (QBR) reports.</li>\n<li>Oversee the entire construction EHS data collection, analysis and dashboard management (ReEHSe, Tableau).</li>\n<li>Manage projects associated with all aspects of Construction and MARCUS EHS team (e.g. Focus Four, Calendar contest, Safety campaigns).</li>\n<li>Manage Construction EHS documentation including but not limited to Project Manual, Safety Exhibits, Audits, SPE/SE, Incident records, Safety stand-down records.</li>\n<li>Monitor BOTG dashboard and create reports and trend analysis to develop targeted safety campaigns, trainings. Develop, facilitate and communicate construction safety alerts &amp; SPE/SEs. Support Construction EHS audits and project safety launches as needed.</li>\n</ul>",
+    "title": "Environmental Health and Safety Construction Program Manager"
+}

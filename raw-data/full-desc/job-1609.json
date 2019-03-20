@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckccqlAHSZEPN_dfqAUOyitQAwA4ewZQm-upFNQgVwBQSOgCPMA3T_UoLh09YznTtckuAGoRPt9UpLGmkimUlXh9vOg4hDQYzryWq6WzXo1BjUK-d_joXHkRay4c%3D_V2&jobTitle=Program+Manager%2C+Security+and+Compliance%2C+Google+Payments&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:33:27.573Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>Google has been a driving force in shaping the online payments industry for over 10 years. Payments is a strategic focus area for Google and the Payments Security team is dedicated to protecting our users\u00b4 financial data while ensuring compliance with a number of security frameworks. The Google Pay suite of consumer products and services reach users in existing and emerging markets around the world!\n</p>\n\n<p>As a Security and Compliance Program Manager, you will be a key player in information security, problem-solving and relationship management to lead internal programs aimed at protecting our users and ensuring that vigorous security and data protection standards are maintained with our integrators and third parties. Your work will be at the confluence of Product, Security Engineering, Legal, and Business Development. You will also play a major role in managing cross-functional programs to continuously improve the security posture of Google\u2019s consumer payments products and infrastructure.</p><p>The Google Product Infrastructure (GPI) team at Google is responsible for building infrastructure that powers Google&#39;s flagship products across the globe. We provide the cohesive set of shared Google technologies - such as identity, payments, notifications, and accounts - that work consistently across our platforms and enable Google&#39;s product teams to continue creating excellent products for billions of people seamlessly.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5928405558296576",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T22:47:13.971Z",
+    "publish_date": "2019-02-27T19:41:21.981Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree or equivalent practical experience.</li><li>3 years of experience in program/project management.</li><li>Experience working with teams and other cross-functional stakeholders.</li><li>Experience in an Engineering or Technical role, delivering privacy and/or security solutions.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience working with security compliance standards such as PCI, SOC 1 &amp; 2, and ISO 27001.</li><li>Experience with security, data protection, technical/engineering compliance, or risk management, and response.</li><li>Proven project management, interpersonal and communication skills, with high attention to detail.</li><li>Proven successful technical program management outcomes from idea to launching programs in multiple contexts throughout your career.</li><li>Demonstrated analytical, problem-solving, negotiation, prioritization, and organizational skills.</li><li>Comfortable talking about technical matters with business people and business matters with technical people.</li></ul>",
+    "responsibilities": "<ul>\n<li>Work with Product and Engineering teams to design great products with security and data protection in mind.</li>\n<li>Manage programs of one or multiple security engineering and compliance initiatives.</li>\n<li>Drive technical risk assessments of third party vendors, partners, product areas, and infrastructure to protect Google\u2019s users.</li>\n<li>Lead security, compliance, and privacy related initiatives and campaigns.</li>\n<li>Drive security and privacy discussions and negotiations between Product, Engineering, Legal and other cross-functional teams to ensure security and data-protection in all agreements and contracts.</li></ul>",
+    "title": "Program Manager, Security and Compliance, Google Payments"
+}

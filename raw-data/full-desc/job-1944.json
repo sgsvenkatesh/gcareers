@@ -1,0 +1,40 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfUvpHOED_OxUnV8fO16D5g-0ZrKWxfmXqf1YCjwgqcSOgCPMA3T2cnk6zUyuGT1Icc18F-R5t3irY18J2_2Q4eRkC9FRrJPX8Tkbb22VbaL6p0Bd4_rR5vNLwc%3D_V2&jobTitle=Technical+Program+Manager%2C+Pixel+Phones&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:06:24.302Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.<br><br>Using your extensive technical and leadership expertise, you manage projects of various size and scope, identifying future opportunities, improving processes and driving the technical directions of your programs.</p>\n\n<p>The Pixel System Software team is working to build the next Pixel devices. As a Technical Program Manager, you have experience in embedded devices, linux kernel and/or consumer electronics. You&#39;ll work directly with the System Software Engineering team to bring together the various sub-systems that go into building a Pixel phone. In addition to driving the System Software teams, you will also work with cross-functional teams across Android and hardware to ensure that the long-term schedules are aligned.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5501993407938560",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T21:23:44.961Z",
+    "publish_date": "2019-02-27T19:45:41.806Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Engineering or equivalent practical experience.</li>\n<li>5 years of experience in program management, managing engineering projects cross-team and cross-functional interactions/implications in a technical field.</li>\n<li>3 years of experience in consumer electronics or embedded systems design.</li>\n<li>3 years of experience in developing hardware and hardware/software systems.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree or PhD in Engineering.</li>\n<li>Experience with embedded hardware devices and Android.</li>\n<li>Experience in developing process where little exists with demonstrated flexibility to get things done.</li>\n<li>Ability to work through ambiguity to detailed solutions. Ability to take a vague problem, frame the challenge, identify a path forward and drive an initiative to completion.</li>\n<li>Ability to prioritize and multi-task across projects with cross-functional partners and technical teams, while meeting deadlines in a fast-paced environment.</li>\n<li>Excellent attention to detail and time management skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage a complex and large scale software execution project. Work with multiple teams on cross-functional initiatives. Engage and energize the project teams to achieve goals.</li>\n<li>Drive new features in various sub-systems such as sensors, storage, touch, display and graphics. Develop broad domain and technical knowledge.</li>\n<li>Remove obstacles to drive momentum and progress and drive results proactively. Identify communication gaps, manage issue escalations and provide support to teams balancing competing priorities.</li>\n<li>Understand the technical implementation at the architecture level and propose technical alternatives when necessary. Ask questions that clarify priorities and encourage the team to be highly effective.</li>\n<li>Interface with Engineering Managers and Engineers across hardware and software to estimate work efforts, define milestones and manage resources. Track progress, resolve dependencies, evaluate risks and communicate status updates to executive management and project stakeholders.</li>\n</ul>",
+    "title": "Technical Program Manager, Pixel Phones"
+}

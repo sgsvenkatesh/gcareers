@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckeIYJgMjRfYlRjGetWfQ7xF5R1Ezqypq-tdQZgh2SYUSOgCPMA3T2GvVWkpBQDZUxPfDsH4m52DTr6JLA3zL5Z6JEqhT_-UwFatXPoQA9xEBz-HJtNCGCDAhCaQ%3D_V2&jobTitle=Research+Software+Engineer%2C+Machine+Learning+and+Hardware&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-20T19:01:23.875Z",
+    "description": "<p>Research and Machine Intelligence is a high impact team that\u2019s building the next generation of intelligence and language understanding for all Google products. To achieve this, we\u2019re working on projects that utilize the latest techniques in Artificial Intelligence, Machine Learning (including Deep Learning approaches like Google Brain) and Natural Language Understanding. We impact products across Google including Search, Maps and Google Now.<br><br>We strive to be the best and the brightest in the fields of Research and Machine Intelligence and we\u2019re looking for talented software engineers that have applied experience to join our team. <br><br>As a Research Software Engineer in Research and Machine Intelligence, you work on a small team, collaborating closely with other product teams and you\u2019re able to switch projects as our fast-paced business grows and evolves. We need our engineers to be versatile and passionate to take on new problems. Because you\u2019ll be working with cutting-edge technology, you\u2019ll also get a chance to work closely with researchers across Google.</p>\n\n\n<p>Our team within Google AI Perception develops concepts, designs, user interfaces, user experiences, input and output devices, and interaction techniques. We are a highly motivated team and work in a fast-paced environment. We work both with near-term products to support and inform product decision, as well as, with experiments, explorations, and longer term research and development (R&amp;D) efforts. \n</p>\n\n\n<p>As a Research Software Engineer, you will join our team to explore research topics that allow Google to innovate and create new classes of wearable devices and interface methods. You will progress the scientific research in these areas while contributing to hands-on prototype development and the design of new architectures. Additionally, you will rapidly innovate, make progress, and stay connected to the research community by formulating partnerships with universities and publishing papers.</p><p>There is always more information out there, and the Research and Machine Intelligence team has a never-ending quest to find it and make it accessible. We&#39;re constantly refining our signature search engine to provide better results, and developing offerings like Google Instant, Google Voice Search and Google Image Search to make it faster and more engaging. We&#39;re providing users around the world with great search results every day, but at Google, great just isn&#39;t good enough. We&#39;re just getting started.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4697875189792768",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:43:39.038Z",
+    "publish_date": "2019-02-27T19:43:39.038Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Engineering, Computer Science, Electrical Engineering, related technical field, or equivalent practical experience.</li>\n<li>Experience programming in one or more of the following: C, C++, Python.</li>\n<li>Experience with Machine Learning frameworks (e.g., TensorFlow, Keras, scikit-learn).</li>\n<li>Experience with software/hardware, including novel display systems, soft and flexible electronics, and/or augmented reality.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Computer Engineering, Computer Science, Electrical Engineering, related technical field, or equivalent practical experience.</li>\n<li>Experience in embedded development and prototyping (e.g., microcontrollers, FPGAs)</li>\n<li>Experience in Human-Computer Interaction, Interface Hardware, Sensors, Displays, and Actuators.</li>\n<li>Experience with Low-level Android development (NDK).</li>\n<li>Experience contributing to research communities and/or efforts, including publishing papers at academic conferences.</li>\n<li>Ability to collaborate with designers, researchers, and engineers to develop new solutions.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Deliver innovative and engaging prototypes using the latest hardware and software technologies.</li>\n<li>Advise, collaborate with, and synthesize feedback from researchers, engineers, and members across the organization.</li>\n<li>Create prototypes and develop software for new sensor and display systems.</li>\n<li>Synthesizing prototypes and concepts into functional hardware in collaboration with an interdisciplinary team.</li>\n<li>Understand applied signal processing and machine learning.</li>\n</ul>",
+    "title": "Research Software Engineer, Machine Learning and Hardware"
+}

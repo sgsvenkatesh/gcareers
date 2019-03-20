@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdIKRwhkaEMWEoUkszH3Pi7GyaJwXq7tzBMMTVVb858SOgASYQ8wiZ6cGvyxVVJV8V7kz35zqbX6RtfJ9NS88JZn8E2Ul8uGgEItwKKc2BCz59hWoaZo2VZv4o0%3D_V2&jobTitle=Economist&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-15T15:01:58.884Z",
+    "description": "<p>The Economics team works with other Google teams such as Operations, Strategy, Finance, Marketing, Pricing, Market Design, Legal Analytics, Policy and Research. We seek a self-directed, detail-oriented problem-solver with a broad knowledge of economics and econometrics to provide consultation and support in these areas. Given the broad range of issues that we work on, excellent communication skills are critical.</p>\n\n\n<p>Google\u2019s stated mission is to organize the world\u2019s information and make it universally accessible and useful. The relevant topics for this position include: antitrust, data analytics, fiscal policy, taxation, transfer pricing, privacy, productivity, and the impact of automation on jobs.\n</p>\n\n\n<p>As an Economist, you&#39;ll work to help shape how Google approaches these issues as well as to work on economic aspects of legal and regulatory proceedings for the company.\n</p>\n\n\n<p>You&#39;ll work closely with the company\u2019s Legal and Policy teams, helping them understand and refine Google\u2019s position in various areas, analyze its business practices, respond to government agencies\u2019 queries and data requests, and prepare evidence for court filings.\n</p>\n\n\n<p>You&#39;re a thought leader, and you&#39;ll help Google interpret the key debates touching on the technology sector from an economic perspective, and contribute to advancing policy in those areas. This is a unique opportunity for an economist with demonstrated quantitative and communications skills to work on some important policy issues.</p><p> </p>",
+    "education_levels": [
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/95877194330317510",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-15T15:01:58.884Z",
+    "publish_date": "2019-03-15T15:01:58.884Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>PhD in Economics, Business, Marketing or Operations Research or equivalent practical experience.</li>\n<li>Experience with econometrics and databases.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with database applications and scripting experience in Python and/or R.</li>\n<li>Consulting experience.</li>\n<li>Understanding of the economic drivers of information technology businesses, with a quantitative background.</li>\n<li>Ability to communicate with people from various backgrounds.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Provide strategic analysis of auctions and related market design issues.</li>\n<li>Analyze the impact of proposed changes and evaluate outcomes.</li>\n<li>Deliver economic, strategic and policy analysis and consultation.</li>\n<li>Develop forecasts for key business and operational metrics.</li>\n<li>Develop and deploy methods for causal inference, and consult with other groups within the organization as needed.</li>\n</ul>",
+    "title": "Economist"
+}

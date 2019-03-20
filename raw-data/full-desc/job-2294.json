@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Reston, VA, USA; Washington, DC, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckSC3-QEJb0KYgX8Zl-CcmUfx-37BUUgN3KYRc_sLHaUSOgCPMA3T6RZ7GUBmdnZRyAGXiPAp6kUlCY9yaK-KiSsmiB-CAyh_n2pu-5ZLtfpKgz3iukUlYWaY93U%3D_V2&jobTitle=Technical+Account+Manager%2C+Google+Cloud&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-09T15:31:38.852Z",
+    "description": "<p>As a Technical Account Manager (TAM), you will be responsible for ensuring customers get the most from their Google Cloud Platform and G Suite investments. You will establish deep and lasting customer relationships by providing customers with technical and project management leadership, which align directly to the customers\u2019 larger business objectives. </p>\n\n<p>In this role, you&#39;ll develop relationships, both internally and externally, and connect with business executives and IT stakeholders to develop an understanding of their business requirements and goals. Building on this knowledge, you will develop a strategic roadmap and facilitate customers\u2019 digital transformation and migration to Google Cloud Platform and G Suite solutions. As the primary contact, you will manage ongoing transformation activities and ensure the long-term success of the account.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5948837908119552",
+    "location": {
+        "address_lines": [
+            "Washington, DC, USA"
+        ],
+        "city": "Washington",
+        "country": "DC",
+        "country_code": "US",
+        "display": "Washington, DC, USA",
+        "lat": 38.9071923,
+        "lon": -77.0368707
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=Washington%2C+DC%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Washington%2C+DC%2C+USA&size=1168x324&zoom=12&signature=INQ2tYfa33uh4YB3KdYOzWGIRgE=",
+        "large_2x": "/maps/api/staticmap?center=Washington%2C+DC%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Washington%2C+DC%2C+USA&scale=2&size=1024x324&zoom=12&signature=F02zb3nllEVVQPDVulGaHeF2OnY=",
+        "small_1x": "/maps/api/staticmap?center=Washington%2C+DC%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Washington%2C+DC%2C+USA&size=600x400&zoom=12&signature=Leq_NLtAoHWBM4BdqTNjtYrRsFQ=",
+        "small_2x": "/maps/api/staticmap?center=Washington%2C+DC%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Washington%2C+DC%2C+USA&scale=2&size=600x400&zoom=12&signature=KeifREUolWXC01FFllmzO3_ZwWo="
+    },
+    "modified": "2019-02-27T19:41:01.566Z",
+    "publish_date": "2019-02-27T19:41:01.566Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>3 years of experience with creating and executing on physical-to-virtual (P2V) and vehicle-to-vehicle (V2V) solution architectures or enterprise infrastructure migration plans.</li>\n<li>Experience working with cross-functional and geographically dispersed teams and customer bases.</li>\n<li>Ability to travel 30% of the time as required.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MBA degree in Management, Engineering, or related technical field.</li>\n<li>Experience in application/workload migration, and experience working with channel partners, systems integrators and third party developers to deliver successful solutions.</li>\n<li>Experience in account management, client service and/or management consulting.</li>\n<li>Demonstrated ability to present technical materials to a range of partners on both technical and non-technical matters.</li>\n<li>Excellent communication, project and stakeholder management skills, with a focus on translating business requirements into technology solutions.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Establish and maintain a position as an advisor to business executives and IT stakeholders for Google Cloud Platform and G Suite accounts, ensuring their business priorities are met using Google Cloud solutions.</li>\n<li>Work with customer technical leads, client executives, and partners to manage and deliver successful migrations to Google Cloud solutions.</li>\n<li>Become a trusted expert in Google Cloud Platform and G Suite solutions to provide effective operational and technical advice around these technologies.</li>\n<li>Channel customers\u2019 feedback to Google Product Management and Engineering teams to ensure excellent in-production experience.</li>\n<li>Develop best practice recommendations for Google Cloud partners based on experience gained during customer engagements.</li>\n</ul>",
+    "title": "Technical Account Manager, Google Cloud"
+}

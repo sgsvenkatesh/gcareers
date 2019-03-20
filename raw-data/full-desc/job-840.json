@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRzb2sptcgOQUcXF6dl59YvzkApnQDaqOJ1cl8_L7_YSOgASYQ8wPzd2olHprpCAwzQSsP-2wq1ymOpeFpXxRebMtXSXD457Vgq3WTarjJamW4XsrdN3eKuV-hk%3D_V2&jobTitle=Strategic+Consultant&loc=US",
+    "categories": [
+        "BUSINESS_STRATEGY"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-21T12:01:43.938Z",
+    "description": "<p>At Google, we aim to foster Googley work environments that are collaborative, friendly and fun. The Facilities Management team brings our spaces to life as you oversee the daily operations of our offices. While roles with similar names at other companies can be far more mundane, you&#39;re a creative, organized customer service specialist, who takes pride in seeing things run smoothly and efficiently. You go out of your way to make sure your clients are not only satisfied, but singing Google&#39;s praises. You&#39;re comfortable in a fast-paced environment with the highest standards of excellence. You aren&#39;t afraid to have fun with your job, and bring an enthusiasm, dedication and a collaborative spirit to build and maintain office spaces that facilitate some of the world&#39;s most cutting edge innovation.</p>\n\n<p>As a Strategic Consultant, you will fully immerse yourself in data collection, draw insight from analysis, and then zoom out to develop compelling, synthesized recommendations. Taking strategy one step further, you&#39;ll also persuasively communicate your recommendations to executives, roll-up your sleeves to help drive implementation and check back-in to see the impact of your recommendations.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/81528915882844870",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:50:21.497Z",
+    "publish_date": "2019-02-27T19:50:21.497Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree or equivalent practical experience.</li>\n<li>5 years of experience working in a business/design strategy, consulting, project or program management role</li>\n<li>Experience in translating analysis results into business recommendations.</li>\n<li>Experience in tailoring communications for varied audiences to maximize effectiveness.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master\u2019s degree.</li>\n<li>Experience in real estate, architecture, facilities management or workplace service industries.</li>\n<li>Experience in product strategy, management or design in any industry.</li>\n<li>Experience facilitating decision-making with disparate functions to achieve shared goals.</li>\n<li>Experience improving business outcomes based on analysis, recommendations, and implementation.</li>\n<li>Comfortable navigating within rapidly changing environments.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Analyze and solve complex, ambiguous organizational challenges.</li>\n<li>Independently execute analysis of quantitative and qualitative information, in order to develop insightful recommendations that creatively solve systemic challenges.</li>\n<li>Develop creative, impactful communications that educate, facilitate alignment and inspire change across cross-functional teams.</li>\n<li>Drive project outcomes and manage change; serve as a trusted consultant to internal customers, and represent users and customers in every thought and interaction.</li>\n</ul>",
+    "title": "Strategic Consultant"
+}

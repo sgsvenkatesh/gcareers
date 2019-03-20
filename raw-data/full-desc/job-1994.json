@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUYHSbLPbiXz90wgz3Yx2DMVuASuIvLXA-l527ZJTY4SOgCPMA3TK9gddmEAQG8X1BX286SkMoP5Ndqfqh7x7z2j0p-XPe8ZLZYu0k3ZSEYSWlA0w-2oAVQiSW0%3D_V2&jobTitle=Technical+Writer%2C+Data+Center&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "TECHNICAL_WRITING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:34:15.461Z",
+    "description": "<p>Technical writers communicate complex information clearly, concisely and accurately, and without relying on jargon. As a technical writer, your role involves tasks such as writing conceptual overviews and procedures, reading and writing example code, or updating help center queries and FAQs. Technical writers play a big part at Google. They are a key link between engineers, marketing associates, developer advocates, as well as all the external users and developers, tying together many vital but disparate parts of the Google ecosystem.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6333364707721216",
+    "location": {
+        "address_lines": [
+            "Clarksville, TN, USA"
+        ],
+        "city": "Clarksville",
+        "country": "TN",
+        "country_code": "US",
+        "display": "Clarksville, TN, USA",
+        "lat": 36.5297706,
+        "lon": -87.3594528
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=1168x324&zoom=12&signature=4g7D15gS_KsRZAcPRJBPHshHxPo=",
+        "large_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=1024x324&zoom=12&signature=QYWwXS75248qfpdwqfEBBnm8V4Y=",
+        "small_1x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&size=600x400&zoom=12&signature=mjzy6xqVL8hvXff8Zn76i9zQc0o=",
+        "small_2x": "/maps/api/staticmap?center=1000+Solar+Way&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1000+Solar+Way&scale=2&size=600x400&zoom=12&signature=WRLiawPe1x4P6Qs4PKUv_xfNnR0="
+    },
+    "modified": "2019-02-27T19:44:05.276Z",
+    "publish_date": "2019-02-27T19:44:05.276Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>Experience planning, researching, writing and editing documents that need to be produced. Experience defining the overall structure of a documentation set.</li>\n<li>Experience in developing and managing procedures, contracts, requirements documents and engineering documents.</li>\n<li>Ability to travel 50% of the time as required.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Engineering, Science, Technical Communication, Journalism or similar field.</li>\n<li>Ability to understand technology (e.g., previous experience as an engineer or having successfully written about engineering and technology).</li>\n<li>Ability to write documents that capture engineering requirements and standard operating procedures and processes.</li>\n<li>Passionate attention to detail, willingness to work with both internal and external teams to produce the technical content for white papers, procedures and other documentation.</li>\n<li>Ability to understand technology (e.g., experience as an engineer or having successfully written about engineering and technology).</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Interact with Google Data Center teams, as well as contractors and vendors, to produce multiple types of professional writing.</li>\n<li>Work with management to organize existing documentation, identify deficiencies and prioritize solutions.</li>\n<li>Obtain information by interviewing and collaborating with Google Data Center Engineering, Construction and Operations teams.</li>\n<li>Produce documents that can be understood by technical teams and prepare for external publication. Act as the designated contact for suggestions and updates to documents.</li>\n</ul>",
+    "title": "Technical Writer, Data Center"
+}

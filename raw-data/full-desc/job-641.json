@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfnkNeVjWjRgbxT6Ya-6hMQ44df57yJJs8WPNDXelXwSOgCPMA3TA5F7B2FMKy7aSYqSqVpxMB0e1ziFi0rY5Id-Ukk4ZK0-mmiwj1uvXoBmx45fhQvAqLLRD-o%3D_V2&jobTitle=Director%2C+Android+Application+Safety&loc=US",
+    "categories": [
+        "PRODUCT_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-07T21:01:43.242Z",
+    "description": "<p>Android is Google\u2019s open-source mobile operating system that powers smartphones, tablets, TVs, set-top boxes and wearables. Android is the world&#39;s most popular mobile operating system, powering more than 2 billion devices. \n</p>\n\n<p>Google Play is Google\u2019s store for Android. For over 1 billion active monthly users, Google Play offers movies, books, apps and games that bring their devices to life. \n</p>\n\n<p>For developers worldwide, Play provides app discovery, distribution, consulting and commerce services - access to a global market of users in over multiple countries and an opportunity to build thriving businesses.\n</p>\n\n<p>You will be responsible for leading our mission to keep Android users safe from harmful app content and behavior. \n</p>\n\n<p>The Google Play Store provides certain security, privacy, and app management and policy services to Android users who also have the Play store installed. This includes evaluation of apps when they are submitted (and their developers), abuse-resistant tuning to search and discovery algorithms, and on device scanning and elimination of malware and other threats through Google Play Protect. \n</p>\n\n<p>You will also be responsible for the strategic direction of Google Play Policy development and enforcement of those policies, which is executed by a peer policy and operations organization.\n</p>\n\n<p>You will directly manage and grow a team of product managers across multiple Google offices. Your team will work closely with several engineering teams in the Play, Android, and Google Security organizations, as well as Google-wide product privacy and policy bodies.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5740887110254592",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:51:46.107Z",
+    "publish_date": "2019-02-27T19:51:46.107Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>10 years of experience leading security and/or privacy technology teams in a technology, security, or privacy company.</li>\n<li>Experience managing teams of 50 or more technology professionals.</li>\n<li>Experience operating global consumer products in security environments.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor\u2019s degree in Computer Science, Engineering, a related field or equivalent practical experience.</li>\n<li>C-level experience.</li>\n<li>Demonstrated aptitude and excitement for driving impact, recruiting and managing high performing teams, creatively solving extremely challenging security and privacy problems.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Lead the development and evolution of a holistic app safety strategy for Google Play and the Android developer ecosystem and ensure this strategy is aligned with Android Security objectives and that non Play users are protected where possible.</li>\n<li>Secure alignment and any needed additional resources from senior Android, Play, and Google executive decision-makers.</li>\n<li>Establish a multi-year plan for executing a step change in real and perceived trust and safety for Google Play and Android Users.</li>\n</ul>",
+    "title": "Director, Android Application Safety"
+}

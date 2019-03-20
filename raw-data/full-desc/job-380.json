@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfNvBIcBbxcz4tFt92Z4GNdHbyP4MO7TcaXgfTU_n8oSOQCPMA3TJLszYmTUznW8zoY9P8hAYCiwZMoMxEua5zL4DqHV9k3XfRJTpUl4Kb42y4F6Lr3ZKiV7DQ%3D%3D_V2&jobTitle=Business+Analyst%2C+YouTube+Trust+and+Safety&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2018-12-16T22:05:54.163Z",
+    "description": "<p>Fast-paced, dynamic, and proactive, YouTube\u2019s Trust &amp; Safety team is dedicated to making YouTube a safe place for users, viewers, and content creators around the world to belong, create, and express themselves. Whether understanding and solving their online content concerns, navigating within global legal frameworks, or writing and enforcing worldwide policy, the Trust &amp; Safety team is on the frontlines of enhancing the YouTube experience, building internet safety, and protecting free speech in our ever-evolving digital world.</p>\n\n\n\n<p>As a Business Analyst, you&#39;ll utilize data and analytical techniques to quantify abuse rates, identify emerging trends on the site, enable high operational efficiency, evaluate impact of policy positions and implement solutions collaboratively. You will work with key business partners to understand data needs, write extract, transform and loads (ETL) scripts and collaborate closely with other internal teams. With your analytical expertise, you will help deliver on YouTube\u2019s mission to give everyone a voice, show them the world and build a community.</p><p>At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun \u2014 and we do it all together.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5267925642706944",
+    "location": {
+        "address_lines": [
+            "San Bruno, CA, USA"
+        ],
+        "city": "San Bruno",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Bruno, CA, USA",
+        "lat": 37.6304904,
+        "lon": -122.4110835
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=1168x324&zoom=12&signature=8kTssaOIezLC995xz1jzX_ZsmEY=",
+        "large_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=1024x324&zoom=12&signature=qd1d-lHbtksAR7tvbMxtF6isGS4=",
+        "small_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=600x400&zoom=12&signature=muZNYVJol8PMclT8mtEQc7rdogE=",
+        "small_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=600x400&zoom=12&signature=CPaUJbMpoSOqDb7VXdK1SJbE0EI="
+    },
+    "modified": "2019-03-07T01:32:01.238Z",
+    "publish_date": "2019-03-07T01:32:01.238Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Mathematics, Statistics, Computer Science, Operations Research, Economics or equivalent practical experience.</li>\n<li>Experience working with SQL, Dremel, Python, Java, R or SAS.</li>\n<li>Experience in user research, operations, marketing or sales.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with delivering production level metrics, insights and actions.</li>\n<li>Experience in project management and process optimization with data analytics.</li>\n<li>Experience in extracting, sampling and visualization of large data sets.</li>\n<li>Experience writing and maintaining ETLs which operate on a variety of structured and unstructured sources.</li>\n<li>Familiar with abuse prevention, policy and regulatory systems.</li>\n<li>Effective written and verbal communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Investigate abuse rates and effectiveness of automated and manual review methods. Define key areas of focus following root cause analyses.</li>\n<li>Develop and build operational metrics (productivity, service level agreement, quality, cost, efficiency, timeliness), deploy dashboards and generate insights to improve the efficiency of our operations.</li>\n<li>Analyze user impact of policies and generate insights around launch process and post-launch monitoring.</li>\n<li>Run ongoing and ad-hoc analyses in support of site-wide Trust and Safety objectives as well as operational effectiveness and incident response.</li>\n<li>Collaborate with Operations, Engineering, Legal, PR and Product Management teams to craft solutions to escalations and emerging threats based on methodical and data-driven approach. Develop well-crafted narratives for documentation and presentation to Trust and Safety teams as well as YouTube leadership.</li>\n</ul>",
+    "title": "Business Analyst, YouTube Trust and Safety"
+}

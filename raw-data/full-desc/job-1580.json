@@ -1,0 +1,34 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdUeake4cPnkSLdCfheTZJwlAPoPNL99pLp5cRytd14SOgASYQ8wX1-eg20932e3BklHYVZs3kYx6jO0S43eKAg91wRZ6Gc8cDKdtzE_yB_wKJwTC3lW6WX5pxw%3D_V2&jobTitle=Data+Center+Security+Manager&loc=US",
+    "categories": [
+        "REAL_ESTATE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-26T19:31:48.752Z",
+    "description": "<p>Security is at the core of Google&#39;s design and development process: it is built into the DNA of our products. The same is true of our offices. You&#39;re an expert who shares our seriousness about security and our commitment to confidentiality. You&#39;ll collaborate with our Facilities Management team to create innovative security strategies, investigate breaches and create risk assessment plans for the future. You believe that providing effective security doesn&#39;t come at the expense of customer service - you will be our bodyguard (and our long lost pal).</p>\n\n\n<p>It is the mission of the Global Data Center Security Team to operate the most secure Data Centers in the world, through a scalable, holistic, and efficient physical security program. It is our goal to bring dynamic, innovative, and functional security solutions to the Data Center environment. As a Data Center Security Manager, you will be in charge of managing security vendors and budgeting for security services on location. You will collaborate with other Google business units to implement security policy, investigate violations, and resolve security concerns at the Data Center. You will manage active security incidents, respond to all critical events, and liaise with public safety.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/99619204719616710",
+    "location": {
+        "address_lines": [
+            "Henderson, NV, USA"
+        ],
+        "city": "Henderson",
+        "country": "NV",
+        "country_code": "US",
+        "display": "Henderson, NV, USA",
+        "lat": 36.0395247,
+        "lon": -114.9817213
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&size=1168x324&zoom=12&signature=dXyrN3M5HDjCTYSHQlz7QBA6wSk=",
+        "large_2x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&scale=2&size=1024x324&zoom=12&signature=K99pG0XVIRb-bAfjLozwbACo8Pg=",
+        "small_1x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&size=600x400&zoom=12&signature=qMmGu2CVwfq23qzp9Hy6iXWg1AQ=",
+        "small_2x": "/maps/api/staticmap?center=Henderson%2C+NV%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Henderson%2C+NV%2C+USA&scale=2&size=600x400&zoom=12&signature=YpaEnOOIRORaqh1jrh8AR-pRE9E="
+    },
+    "modified": "2019-02-27T19:56:55.867Z",
+    "publish_date": "2019-02-27T19:56:55.867Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>5 years of experience in managing security operations.</li>\n<li>Experience with security technologies including CCTV, Access Control, Incident Management Systems and Security Operations Centers.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Criminal Justice or equivalent practical experience.</li>\n<li>Experience in conducting investigations including criminal, human resources and safety incidents.</li>\n<li>Experience in data center and security system elements of design.</li>\n<li>Experience in working on active construction sites and providing safety/security countermeasures.</li>\n<li>Excellent written and verbal communication skills with the ability to multitask in a fast-paced environment.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop and implement corporate security standards, policies and practices to make continual improvements and increase the effectiveness of the security program.</li>\n<li>Conduct awareness training, risk assessments, and monitor local and regional issues.</li>\n<li>Review, audit, and enforce security design elements for all new data center construction on location.</li>\n<li>Partner closely with and offer guidance and consultation to Facility and Operations Management. Liaise with public safety to ensure strong community relations and training synergies.</li>\n<li>Oversee management of security vendors providing guard force staffing and manage budget for all security services on location. Assist in coordination of security services to support planned and unplanned operations.</li>\n</ul>",
+    "title": "Data Center Security Manager"
+}

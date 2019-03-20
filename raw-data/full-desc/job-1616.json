@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVRZA0q5scNe4TITWEGcFmYnE5JjoS8tbbR4bPpRIWQSOgASYQ8wjQXHTDNqNmzOrDMLAlrmbJFTapivqNnKcpJSvRk6Iq-caixH7S6ynNWa43Gmw-f4sOU2LBE%3D_V2&jobTitle=Technical+Account+Manager%2C+Chrome+OS+Partner+Engineering&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-07T15:31:39.524Z",
+    "description": "<p>Google engineers develop the next-generation technologies that change how users connect, explore, and interact with information and one another. As a member of an extraordinarily creative, motivated and talented team, you develop new products that are used by millions of people. We need our engineers to be versatile and passionate to take on new problems as we continue to push technology forward. If you get excited about building new things and working across discipline lines, then our team might be your next career step.</p>\n\n<p>Google\u2019s Chrome OS Partner Engineering team works closely with leading-edge chipset Manufacturers and OEMs/ODMs in designing and delivering next-generation innovative mobile/cloud devices. We build relationships with our long-term partners, who are jointly making Chrome/Android AR C++ platform into optimized cloud and portable devices. We are driving toward a fast, secure and simple user experience for all Chrome devices and we&#39;re growing with the newly enabled Android Apps in the Chromebook ecosystem.\n</p>\n\n<p>As a Technical Solutions Consultant in the Chrome OS Partner Engineering team, you&#39;ll be responsible for driving device technical innovations and making our business partners successful. You will contribute to our current product lines: Chromebook, Chromebook Convertible, Detachable, Chromebook Tab, Chromebox, Chromebase, Chromebit, as well as future mobility and productivity devices. You\u2019ll collaborate with teams throughout Google to develop device solutions for strategic partners around the globe.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/117364205834642118",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:42:19.979Z",
+    "publish_date": "2019-02-27T19:42:19.979Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>3 years of relevant work experience, including hardware and OS/embedded software development experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MS degree or equivalent practical experience.</li>\n<li>Experience with hardware, and with embedded systems development and software/firmware debugging.</li>\n<li>Familiarity with Linux application and kernel package management.</li>\n<li>Skills in scripting languages; Python and Shell.</li>\n<li>Excellent attention to detail skills while working in a fast-paced environment and the ability to innovate and work with ambiguity.</li>\n<li>Demonstrated technical, vendor project management and communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage strategic Chrome device partnerships with large hardware manufacturers, Original Device Manufacturers (ODMs) and network operators.</li>\n<li>Plan an innovative device roadmap with Original Equipment Manufacturers (OEMs) and SoC partners.</li>\n<li>Ensure successful device design and technical integration. Work with Go-to-Market and Business Development teams to launch devices internationally.</li>\n<li>Manage ODMs and drive for device qualification process. Work closely with chipset and component vendors to qualify new components. Act as a main point of technical contact and drive product and technical challenges to resolution.</li>\n<li>Work with Engineering and Product Management teams from both Software and Hardware teams on developing new SoC reference boards or adding innovative components based on new SoC.</li>\n</ul>",
+    "title": "Technical Account Manager, Chrome OS Partner Engineering"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWmdtbu4qGrK0ZdNOUw0BtfMTQRj6puT1mccXibU1xkSOgASYQ8w6kjMfo1QpXLzUnru9x5Cx2q0d2gapgpPApbi-kbnBr59qXEG7BuC4-QxX4xgF8jhiqLT_b4%3D_V2&jobTitle=Lead+Technical+Program+Manager%2C+Cloud+Programs&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-26T19:01:41.125Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n\n<p>Google Cloud Platforms (GCP) is changing the way the world uses cloud computing. You will unleash your significant talents for program management, mobilizing cross-functional teams, delivering solutions for scale and data-driven decision making to refine, launch and take to market solutions that accelerate our customers\u2019 success in the cloud. Your passion, technical and business depth, and excellent organizational, communication, and interpersonal skills will inspire our teams and rapidly establish trust amongst a diverse set of stakeholders and customers.\n</p>\n\n\n<p>We\u2019re seeking a Lead Technical Program Manager who has a strong passion for building towards our vision of \u201cmaking the program management experience so simple and intuitive that anyone within Google will want to use it to deliver predictable, consistent program execution\u201d. You are an experienced leader with significant exposure to managing complex internal tool sets across multiple teams and disciplines involved. Experience with software execution is highly desirable. Driving feature delivery, improving productivity, establishing quality standards, understanding operational complexity in a team with inter-dependencies, and resolving resource priority are key requirements.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/111432744195498694",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-04T18:02:03.208Z",
+    "publish_date": "2019-03-04T18:02:03.208Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Engineering, Mathematics, Statistics, related fields or equivalent practical experience.</li>\n<li>10 years of industry experience with technical subjects and emerging technologies in cloud computing or related technical fields.</li>\n<li>Experience in program management tooling and new tooling rollout.</li>\n<li>Experience working with engineering, sales, service and marketing teams in cloud computing or related technical fields.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in front-end implementations, usage of Angular or similar.</li>\n<li>Great listener with exceptional writing and communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage multiple projects that span teams from back-end, UI and Front End, including internal and 3rd party tooling.</li>\n<li>Engage with your stakeholders to streamline processes, simplify execution, manage to objectives and key results, release on time, bring tooling for efficiencies and help the teams you are engaged with in execution.</li>\n<li>Create and align on schedules, then drive schedules to execution with clear communication.</li>\n<li>Be a partner to your management teams raising issues and solving complex organizational challenges.</li>\n</ul>",
+    "title": "Lead Technical Program Manager, Cloud Programs"
+}

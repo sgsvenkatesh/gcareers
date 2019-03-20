@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Please include a URL for an online portfolio in addition to a resume. Submissions without a portfolio included will not be considered.</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVAlOcEPIl6zo70C8DlRP8Bq4poc5_ffwnegJz-2fKQSOgCPMA3TnzUHGmXjvdR96FQ06VzGbWlZycWbaTq8ErbLwT1oQE8M3jtkY_AQQ1IR34eGdRj3xehLl6U%3D_V2&jobTitle=Digital+Design+Lead%2C+Brand+Studio&loc=US",
+    "categories": [
+        "MARKETING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:34:01.395Z",
+    "description": "<p>Brand Studio is a passionate team of creative thinkers and marketers. We protect and promote Google\u2019s brand and reputation through programs, products and narrative experiences that express Google\u2019s values in action across the world. As part of our team, you\u2019ll define and create the visual and strategic elements that comprise Google\u2019s brand and product identities. You\u2019ll articulate standards that harmonize and bring a uniquely Google point of view to all of our products and communications. By embracing user insights, strategic thinking, beautiful design and provocative execution, you will create delightfully intuitive (and inventive!) experiences that will define the future of Google\u2019s brand.</p>\n\n\n<p>By embracing user insights, strategic thinking, and great design with provocative execution, we strive to create delightfully intuitive and delightfully inventive experiences that will define the future of our brand. The Bran Studio is and organization that defines the foundational brand voice and expression of Google and creates amazing experiences through interactive storytelling, film making, brand identities, and product experiences. We strive to blur the lines between product, code, strategy, and art.\n</p>\n\n\n<p>The Digital Design lead will be responsible for developing strategically and conceptually effective digital brand experiences. You will lead a team of visual and interactive designers to craft experiences and stories that will stretch across the Google brand, spanning from film, to websites, products, machine learning, AR/VR, and immersive environments.\n</p>\n\n\n<p>In this role, you will collaborate daily with a diverse set of specialists from strategists, information architects, marketers, project managers, writers, and engineers to deliver rich digital interactive moments.</p><p>Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google&#39;s products solve the world&#39;s problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5263702209265664",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-18T21:11:09.160Z",
+    "publish_date": "2019-02-27T19:52:34.868Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Graphic Design or equivalent practical experience.</li>\n<li>7 years of experience at a creative agency or in-house team.</li>\n<li>Experience with Sketch and similar software. Experience managing a multidisciplinary team.</li>\n<li>URL for an online portfolio of interactive experiences, including web/mobile products/campaigns.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience designing and leading the development of design systems.</li>\n<li>Experience designing and delivering large and small-scale experiences.</li>\n<li>Knowledge of web development technologies (e.g.,HTML, CSS, JavaScript).</li>\n<li>Knowledge of prototyping tools such as Invision, Principle, Flinto, Framer, etc.</li>\n<li>Knowledge of design and technology trends. Understanding of consumer insights and how to apply them to projects.</li>\n<li>Understanding of user research techniques and how they can be applied to problem-solving. Understanding of the user-centered design process.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Deliver strategically sound, conceptually based, iconic digital experiences across marketing and product touch points.</li>\n<li>Communicate the user experience at various stages of the design process by using wireframes, user journeys, storyboards, mockups, and/or high fidelity prototypes.</li>\n<li>Create aesthetically excellent work that is true to the Google brand spirit.</li>\n<li>Lead and mentor a team of visual designers, information architects, and UX designers. Lead external experience, design, and production agencies.</li>\n<li>Drive projects from start to finish, collaborating with Marketing and engineering partners. Distill complex information, strategies, and experiences.</li>\n</ul>",
+    "title": "Digital Design Lead, Brand Studio"
+}

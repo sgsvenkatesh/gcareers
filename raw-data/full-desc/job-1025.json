@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: San Francisco, CA, USA; Chicago, IL, USA; New York, NY, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXfnXUiwyfKZHkOWKikEIGfYxId53ChNQzeCME5tKw0SOgCPMA3TNkcU2lhZ-fPJMXY2vC39mJ5KdIMmoGQYeWoE5_-xUpsA0t9h9e_zNOkFH0g-LNw5CCyspY8%3D_V2&jobTitle=Customer+Solutions+Engineer%2C+Google&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:10.845Z",
+    "description": "<p>gTech\u2019s Professional Services team takes a creative, collaborative, and customer-centric approach to provide foundational services and forward-looking business solutions to top advertiser and publisher customers. Through technical implementation, optimization, and key solutions, gTech Professional Services helps customers attain their business goals while building long-term capabilities.</p>\n\n<p>The Customer Solutions Engineering team is responsible for developing innovative, cutting-edge solutions to the business problems faced by the world\u2019s largest advertisers. We work as a critical technical partner for our sales teams where your coding abilities, communication skills, desire to solve complex problems, passion for scale and big data, and business acumen will all be leveraged to develop answers to questions most don\u2019t even know to ask. Your solutions will take many forms, from prototypes and demos to education - all with the technology resources of Google to back it up.\n</p>\n\n<p>You will be responsible for identifying and prioritizing your own projects. You will see the unique business challenges faced by our largest advertisers, and you will be given the opportunity to develop solutions no one else has. Working across the entire organization, you will have the chance to leverage your wide-ranging experience and skill-set to find the best solution for the problems at hand. If you have an entrepreneurial mindset and enjoy wearing many hats, we want to talk to you.</p><p>Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. Our teams of solution-oriented trusted advisors support millions of customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers\u2019 complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.<br><br>To learn more about gTech, check out our <a href=\"https://www.youtube.com/watch?v=HcjR6ZngQcw\">video</a>.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5080321050738688",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:41:24.042Z",
+    "publish_date": "2019-02-27T19:41:24.042Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in Computer Science, Information Systems, related technical field or equivalent practical experience.</li><li>3 years programming experience in Python, Java, or PHP.</li><li>2 years of experience with web technologies such as HTTP, HTML, XML, etc.</li><li>Customer-facing experience in sales, sales engineering, consulting or related function.</li></ul><br><p>Preferred qualifications:</p><ul>\n<li>Master\u2019s degree in Computer Science or related field, or MBA degree.</li>\n<li>Experience in online advertising industry.</li>\n<li>Experience with big data platforms and large volume data analytics.</li>\n<li>Ability to construct complex yet efficient SQL queries. Ability to work independently and manage multiple projects simultaneously.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage technical relationships with a select client portfolio.</li>\n<li>Work with Sales to identify business opportunities leveraging both display and performance solutions supported by the team.</li>\n<li>Collect requirements, provide guidance and best practices to apply ad products and technologies to achieve advertisers&#39; business goals.</li>\n<li>Design and implement complex, cross-product customized solutions with the client.</li>\n<li>Be responsible for end-to-end implementations and escalations handled by other Google teams for named accounts.</li>\n</ul>",
+    "title": "Customer Solutions Engineer, Google"
+}

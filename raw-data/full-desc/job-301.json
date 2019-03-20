@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckd6ZU_dWch_QBKKFTIt8PSEV8VMho6V5uJ56CFLiWx0SOgASYQ8w4BhuLtWleY6ISsxzniB19IkvTyqpQHRPcBJWAoOaIFDegT2dSEMk5ffvolFCruIwHpAmKf0%3D_V2&jobTitle=System+Administrator%2C+Customer+Conversations+Platform&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT",
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-11T21:31:52.270Z",
+    "description": "<p>Systems Administrators embrace Google&#39;s motto to ensure millions of users can access the world&#39;s information without a glitch. As a Systems Administrator at Google, you own and support the needs of one of Google&#39;s server infrastructure systems. You&#39;re highly technical and work directly with other server and service owners to ensure reliability and sustainability of the Google service infrastructure as well as compliance with internal policies. Success in this role means you are able to support servers in a mixed operating system environment and work efficiently with our internal technology providers as well as other operations groups. Googlers rely on your guidance when it comes to design decisions so you&#39;ll have a direct impact in keeping the business productive.</p>\n\n\n<p>The Customer Conversations Platform team designs, develops, deploys, and supports in-house and third-party contact center infrastructure hardware and applications for Google\u2019s Sales and Support teams to improve productivity and customer satisfaction. In this role, you will be playing an integral part in testing, verifying, configuring, and managing all of the platform integrations between in-house and third-party applications across multiple operating systems and browsers. \n</p>\n\n\n<p>As a Systems Administrator, you will manage and support a large complex environment of different operating systems, browsers, infrastructure devices, and end user devices. You&#39;re highly technical and will work directly with other service managers to ensure the continued expansion, reliability, and sustainability of Google\u2019s contact center platform. Your work will directly impact the experience of Google\u2019s call center agents as well as the experience of Google\u2019s customer interactions.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/72943364976059078",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-11T21:31:52.270Z",
+    "publish_date": "2019-03-11T21:31:52.270Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>5 years of experience in systems administration.</li>\n<li>2 years of experience with a scripting language such as Python, GO, Java, Bash, etc.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Engineering, Computer Science, or equivalent practical experience.</li>\n<li>5 years of industry experience in technical support, professional services, engineering, sustaining engineering, or systems engineering.</li>\n<li>Experience implementing, troubleshooting, and supporting Linux/Unix, OSX, ChromeOS, and Windows operating systems.</li>\n<li>Experience automating tasks on Linux/Unix, OSX, ChromeOS, and Windows operating systems.</li>\n<li>Experience with VOIP and WebRTC concepts and applications.</li>\n<li>Knowledge of general networking principles and protocols like TCP/IP, UDP, SIP, latency, etc.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Plan and manage the rollout of enterprise level contact center platform applications.</li>\n<li>Collect, coordinate, automate, and execute test suites to maintain the code quality and user experience of contact center platform applications.</li>\n<li>Manage the test suites across a complex matrix of multiple operating system platforms including their associated subversions and browser types and versions.</li>\n<li>Manage a test lab including hardware, software, and networking requirements.</li>\n<li>Identify and root cause issues pertaining to the media quality.</li>\n</ul>",
+    "title": "System Administrator, Customer Conversations Platform"
+}

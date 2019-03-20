@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b><p>Please include URLs for an online portfolio in addition to resume. Submissions without a portfolio included will not be considered.</p></b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdTcRktUkJwLqrBy1cQcVwROYaijxSaSt3WkSPYm3HkSOgCPMA3Tzaq_IXKJmMSRdRGyLu1sB4k0JTwdud2AXAHMhTAayAg_JPxua1EJL5XPqy_nF3siQMuveOY%3D_V2&jobTitle=Voice+User+Interface+Designer&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:04:47.621Z",
+    "description": "<p>Design and user experience (UX) are at the forefront of everything we do. The job of an Interaction Designer is to envision how people experience our products and bring that vision to life in a way that feels inspired, refined and even magical. In an Interaction Designer role, you\u2019ll take on complex tasks and transform them into intuitive, accessible and easy-to-use designs for billions of people around the world\u2014from the first-time user to the sophisticated expert. Achieving this goal requires collaboration with teams of Designers, Researchers, Engineers and Product Managers throughout the design process\u2014from creating user flows and wireframes to building user interface mockups and prototypes. At each stage, you will anticipate what our users need, advocate for them and ensure that the final product surprises and delights them.</p>\n\n<p>Voice interfaces are ideal for children and users with accessibility issues, while also enabling new means of interacting with digital systems in a more personal and conversational way. They present many vast opportunities while also posing unique challenges in which we must consider safety, social context, and discoverability. In this role, you will be in a unique position which focuses on voice-only interfaces, rather than screen or multi-modal situations. You&#39;ll cover areas as diverse as Home Entertainment, Automation and Security, Automotive and Wearables.</p><p>User experience (UX) is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users\u2019 needs, behaviors, and emotions to yield insights that inform product strategy and guide the design of the experiences we create. Our multidisciplinary UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and performance. We collaborate closely with product managers, software engineers, and many others to solve complex challenges and craft powerful experiences that highlight our products\u2019 unique capabilities and personalities. Our work touches billions while exemplifying a key principle that is core to Google\u2019s philosophy: \u201cFocus on the user and all else will follow.\u201d</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5404751976136704",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T21:18:29.409Z",
+    "publish_date": "2019-02-27T19:41:50.257Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Human-Computer Interaction (HCI), Linguistics, or a related field, or equivalent practical experience.</li>\n<li>5 years of experience in designing web or voice applications.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in designing speech-enabled interaction flows across a variety of usability contexts and device types.</li>\n<li>Experience with qualitative usability testing. Experience on a design team that ships consumer products.</li>\n<li>Experience in persona designing/writing.</li>\n<li>Experience in designing and tuning directed dialog and natural language speech grammars. Experience working with voice talents, and with coaching \u201cin context\u201d.</li>\n<li>Demonstrated technical knowledge of relevant topics in discourse analysis, pragmatics and prosody.</li>\n<li>Technical knowledge of the mechanics of speaking and writing.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop high-level and detailed storyboards, mockups, and prototypes to effectively communicate voice interaction and design ideas.</li>\n<li>Create detailed, comprehensive voice user interface (VUI) design specifications in collaboration with Engineering. Define and extend voice person\u00e6 for various new product areas.</li>\n<li>Evaluate usability and audio consistency of existing dialog flows and recommend design changes.</li>\n<li>Create guidelines, reference artifacts, and resources for third-party developers to assist in VUI design and prompt writing. Coach voice talent for persona and context, both linguistic and psychosocial.</li>\n<li>Develop and advocate voice user interface design best practices and guidelines to ensure a consistent brand-experience for users across Google.</li>\n</ul>",
+    "title": "Voice User Interface Designer"
+}

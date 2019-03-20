@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckc-mt25uA1gZfzseeBIYkfgLbytEPW-wm_NXI9ZxFfcSOgASYQ8wMlCgviLqOBgLOljIbYQkqjQmMcKSNx0LlPD6t7kMJZP_1AGcKdqQDmG91n8GlEeZJyZrO5o%3D_V2&jobTitle=CAD+Administrator%2C+Nest&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-11T21:01:45.211Z",
+    "description": "<p>Placeholder role description for Nest</p>\n\n\n<p>As a CAD Administrator, you will be in a technical, hands-on role, responsible for the administration of the Google Hardware Computer-Aided Design (CAD) Systems, Siemens NX with the Google Nest team. You will oversee management of CAD functionality including user interface. You will install, configure, and implement software applications, manage, organize, protect, document, and fine\u2010tune machines, security, and file management systems. Additionally, you will troubleshoot software and provide technical support and training to users. \n</p>\n\n\n<p>In this role, you will manage the CAD System databases to ensure data accuracy, while working with a high degree of initiative and independence, under broad program guidelines and general supervision. You will also be the professional development liaison interfacing with Teamcenter Support teams and with teams that uses Cadence Allegro and PCB exchange.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/125887346168996550",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:49:32.499Z",
+    "publish_date": "2019-02-27T19:49:32.499Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor\u2019s degree in Computer Science, Information Systems Management, related field, or equivalent practical experience.</li>\n<li>3 years of experience with computers and providing technical support for multiple systems.</li>\n<li>Experience in NX installation and administration.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience in Cadence Allegro and PCB exchange integration.</li>\n<li>Ability to troubleshoot hardware, software, and basic networking with excellent problem-solving skills.</li>\n<li>Excellent working knowledge of Microsoft Windows on PCs.</li>\n<li>Ability to travel to Asia up to 10% of the time.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Review Google\u2019s systems and partner with information technology department to implement engineering-related security, software, and hardware upgrades within corporate operating mechanisms.</li>\n<li>Maintain, administer, and resolves CAD and related system software, including license servers and machine maintenance in Mountain View and in Asia.</li>\n<li>Identify and analyze system and user needs, as well as equipment requirements. Create requirement document for automation improvement and tool optimization, reviewing proof of concept (POC) and validating implementation.</li>\n<li>Coordinates and/or performs software and operating system maintenance on CAD workstations and servers in collaboration with Google Network Security teams.</li>\n<li>Automate processes and standardize through workflows, templates, and other means.</li>\n</ul>",
+    "title": "CAD Administrator, Nest"
+}

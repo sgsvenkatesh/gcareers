@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckceCT1Rw85Wtjg9AtekOYM1JZjLQxUs0-LV2ViPdrKISOgCPMA3T3CRocFH28hqLxSMR2zH7WO49rZbqkhst3vYVFW7q6RmgVuxuQXtjwub4BUdCFr2LcSCIdi4%3D_V2&jobTitle=Technical+Program+Manager%2C+Chrome+OS&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:02:14.220Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n<p>As a key member of the engineering team, you will work closely with software engineers, product managers, partners, and the open source community to get high-quality products and new features built, tested, and released on time for both consumers and Hardware partners. You&#39;ll coordinate lots of fast-changing, moving parts and get them to come together as a product. These include Software and Hardware schedules as well as managing partner release needs. You&#39;ll need excellent communication skills as the center of the universe for all questions about release schedules, quality, and progress updates. You will be responsible for identifying and managing risks, making sound judgments about quality, and stopping (or speeding up) production at the right time.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4749217107214336",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T20:32:00.845Z",
+    "publish_date": "2019-02-27T19:41:03.844Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS in Computer Science or equivalent practical experience.</li>\n<li>4 years of relevant work experience, including software engineering (either with C++, Python or Java) and project management experience.</li>\n<li>Experience with Linux/Unix (or similar) systems.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree.</li>\n<li>Experience with Android operating system.</li>\n<li>Experience shipping large scale, open source, software and consumer products.</li>\n<li>In-depth familiarity with one source code management system (Git, SVN, Perforce).</li>\n<li>Exposure to UX/UI development.</li>\n<li>A clear understanding of continuous integration and test driven development. Strong analytical, problem-solving, and organizational skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Plan, manage and prioritize implementation tasks for features, projects, and releases.</li>\n<li>Monitor quality of releases and interim development, triage and assign issues. Coordinate fixes for release branches and publish releases.</li>\n<li>Monitor incoming bugs and code changes to identify quality issues and trends.</li>\n<li>Develop tools and processes to improve software engineering productivity. Coordinate launch feature reviews and tracking across multiple teams.</li>\n<li>Communicate schedules, priorities, and status to all levels in the company and open source community.</li>\n</ul>",
+    "title": "Technical Program Manager, Chrome OS"
+}

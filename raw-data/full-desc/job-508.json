@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckblFvkQtTwxDmAmUtMpD0CkRzGd_nSERi6c_Pt7LBOgSOgASYQ8wLKNQQWtoQLJ1Q2h5sqoRSMeIdGc6Az1R2K1xtYAU9wGOACkOfohwN6mSDKHZfkL-s0IQ77Q%3D_V2&jobTitle=Program+Manager%2C+Growth+and+Notifications&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-13T17:01:41.184Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Program Manager at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n<p>As a Program Manager on the Growth and Notifications Team (GaNT), you\u2019ll be in charge of driving Growth efforts that have company-wide impact, including daily interfacing with Growth Product and Engineering teams, relationship management with Product, Marketing, and Engineering teams across the company, planning the occasional summit, and, of course, finding a way to track its scale. You will drive weekly meetings, have direct input to product and engineering roadmaps, and will be the single point-of-contact for all cross-functional teams.\n</p>\n\n<p>GaNT is fast-paced with high executive visibility and the opportunity to work across functions and product areas at Google. We address challenges like; what is the best way to leverage our existing products (on mobile and desktop) to grow our user base and how can we target priority segments? How can we create a \u201cGoogle app ecosystem\u201d where having multiple Google products benefits the user and how can we promote growth without creating a negative or intrusive user experience?</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/122976764407227078",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:55:47.969Z",
+    "publish_date": "2019-02-27T19:55:47.969Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree or equivalent practical experience.</li>\n<li>4 years of experience working in Project/Program management.</li>\n<li>Experience with client management and networking</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>2 years of experience working with cross-functional partner teams.</li>\n<li>Industry experience with a track record of program management or project management.</li>\n<li>Understanding of marketing concepts.</li>\n<li>Proficient in process management.</li>\n<li>Ability to work in a fast paced environment.</li>\n<li>Excellent written and oral communication skills, with the \nability to communicate effectively with Engineering and Product teams.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Network with Product and Engineering teams around the company to advocate for our products and platforms.</li>\n<li>Create and manage an end-to-end integration tracker and campaigns pipeline with our partners, including forecasting new campaigns.</li>\n<li>Ensure each campaign has standardized metrics tracking in place, and ensure up-to-date engineering documentation exists.</li>\n<li>Leading scaled program communications, including regular cross-Google best practice sharing sessions and an annual summit.</li>\n</ul>",
+    "title": "Program Manager, Growth and Notifications"
+}

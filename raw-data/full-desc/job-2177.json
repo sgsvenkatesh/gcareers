@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVZ9vtxUQKulXtnJm5UbVIZRIujUac7enzpDTIOlL2gSOgCPMA3TK0HqVNDTDQJUYdPO4AB1gMgTQGhoCRA3asxSDEZeL8aKCpmxDI1B7nV5wj0z9Hj71eegrJA%3D_V2&jobTitle=Software+Engineer%2C+Android+Video%2C+Google+Cloud+Platform&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:04:54.330Z",
+    "description": "<p>Google&#39;s software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We&#39;re looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google\u2019s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.<br><br>With your technical expertise you manage individual projects priorities, deadlines and deliverables. You design, develop, test, deploy, maintain, and enhance software solutions.</p><p>The Google Cloud Platform team helps broadcasters, content owners, media companies transform and evolve their business through the use of Google\u2019s global data center and software products. Google cloud video services provides platform as a service model to enterprises who need to fully automate video encoding, editing, publishing and secure syndication to multiple business partners on multiple platforms.</p><p>As a Software Engineer, Android Video, you will have the opportunity to work on complex, building enterprise grade Android Video player SDKs for Connected players that uses Android. Your object-oriented design intuition should lean towards elegance and simplicity, and you should have solid experience with android and video player used by broadcasters around the world.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4961941082800128",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T20:50:51.615Z",
+    "publish_date": "2019-02-27T19:41:25.312Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in Electrical Engineering or Computer Science or related technical field or equivalent practical experience.</li>\n<li>3 years of hands-on experience working with Object-Oriented Programming in JavaScript, web application development, module development, and developing large software systems.</li>\n<li>Experience working in a Linux development environment and working with open source tools/platforms.</li>\n<li>Experience working with C, C++, Java and/or Python.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>3 years of relevant work experience, including 2 years of industry experience.</li>\n<li>Experience establishing communication between JavaScript modules and web views.</li>\n<li>Experience as an Architect or Technical Lead on large project.</li>\n<li>Extensive knowledge of Android and/or WebKit.</li>\n<li>Foundation in computer science, with competencies in data structures, algorithms, and software design.</li><li>Effective programming skills, and the ability to learn fast.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design, implement and launch highly-reliable and complex Android SDKs for cloud video services and extend it with new, ground-breaking features from the planning stage through execution to product launch.</li>\n<li>Maintain the existing SDKs, add plugins to manage video ads and analytics, manage social widgets and control user experience</li>\n<li>Document activities from design to completion and participate in testing of projects.</li>\n<li>Write efficient, reusable and stable code for complex application logic.</li>\n<li>Use automated testing systems to ensure the perfect user experience at all stages.</li>\n</ul>",
+    "title": "Software Engineer, Android Video, Google Cloud Platform"
+}

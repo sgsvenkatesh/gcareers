@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXWHUcixCpVxLmrOdoJv4G6_vUexcFTvz63_C-21iDQSOgASYQ8wz19jHmP0O-ujzOUFk9WUbbZlh2DXYttScDa_YSxiPjVvch4vhUj53CNPt_OPm9gUZc9ftyg%3D_V2&jobTitle=Lead%2C+Early+Warning+and+Threat+Detection%2C+Trust+and+Safety&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-22T15:31:53.270Z",
+    "description": "<p>Trust &amp; Safety team members are tasked with identifying and taking on the biggest problems that challenge the safety and integrity of our products. They use technical know-how, excellent problem-solving skills, user insights, and proactive communication to protect users and our partners from abuse across Google products like Search, Maps, Gmail, and Google Ads. On this team, you&#39;re a big-picture thinker and strategic team-player with a passion for doing what\u2019s right. You work globally and cross-functionally with Google engineers and product managers to identify and fight abuse and fraud cases at Google speed - with urgency. And you take pride in knowing that every day you are working hard to promote trust in Google and ensuring the highest levels of user safety.</p>\n\n<p>As an Early Warning and Threat Detection Lead for Trust and Safety, you\u2019ll be leading a global team working to prevent sensitive incidents and escalations, and to reduce impact on our business, users, and brand by building early warning systems, working with internal and external information security researchers, and conducting preventative product stress testing.</p><p>At Google we work hard to earn our users\u2019 trust every day. Trust &amp; Safety is Google\u2019s team of abuse fighting and user trust experts working daily to make the internet a safer place. We partner with teams across Google to deliver bold solutions in abuse areas such as malware, spam and account hijacking. A diverse team of Analysts, Policy Specialists, Engineers, and Program Managers, we work to reduce risk and fight abuse across all of Google\u2019s products, protecting our users, advertisers, and publishers across the globe in over 40 languages.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/74067656149213894",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-12T20:31:33.173Z",
+    "publish_date": "2019-03-12T20:31:33.173Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Engineering, Computer Science or equivalent practical experience.</li>\n<li>10 years of experience with threat intelligence, risk mitigation, information security, or stress testing.</li>\n<li>Experience establishing and leading global operational teams or projects.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with data analysis through SQL and scripting languages (e.g. Python).</li>\n<li>Ability to think creatively and develop innovative solutions.</li>\n<li>Track record as a change agent in driving solutions to close identified vulnerabilities.</li>\n<li>Strong problem solving, project management, and prioritization skills with attention to detail and focus on getting things done.</li>\n<li>Excellent communication and presentation skills (written and verbal) and ability to influence cross-functionally at various levels.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design and conduct secure, protected experiments on our products in order to test our responses and learn about users&#39; experience. Recommend changes to prevent risk and improve user experience.</li>\n<li>Partner with functional teams in Trust and Safety and Leadership across Google to advocate for change.</li>\n<li>Measure and communicate the impact of required changes to our users in order to influence implementation of those changes.</li>\n<li>Utilize trends data and extract intel to seed testing focus areas and further stress testing.</li>\n</ul>",
+    "title": "Lead, Early Warning and Threat Detection, Trust and Safety"
+}

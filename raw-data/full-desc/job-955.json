@@ -1,0 +1,39 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdedXr3euHxaK9XSUJzAnkL_upZrEDO5SaFUVm0mTdoSOgASYQ8wmYmIdSeudfse54C1LHhkC4nkwC0xh-75ckt6ONmv5LeUI9NxYwPyo9uJS9lUxYI5i8m3D10%3D_V2&jobTitle=Global+AppDev+Practice+Lead%2C+Google+Cloud+Professional+Services&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-08T11:31:34.989Z",
+    "description": "<p>As a Global AppDev Practice Lead, you will be responsible for creating Google Cloud&#39;s Professional Service\u2019s Organization (PSO) roadmap, designing and building new offerings, market testing, and scaling all professional services programs relating to modern application development on Google Cloud Platform (GCP) and the platforms of our partners. As part of scaling, you&#39;ll work with both our field PSO teams as well as coordinate rollout and enablement of our broader partner ecosystem. You will serve as a key focal point and conduit between PSO and the broader Product Management and Engineering teams.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/75261409157358278",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-12T19:01:54.786Z",
+    "publish_date": "2019-03-12T19:01:54.786Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in a technical or engineering field, or equivalent practical experience.</li>\n<li>Experience building web applications designed around microservices, orchestrated through cloud platforms or similar tooling, using a modern CI/CD pipeline.</li>\n<li>Experience developing, deploying, and modernizing existing enterprise legacy applications into production-grade micro-service based or serverless applications on cloud platforms.</li>\n<li>Experience in networking, and compute infrastructure (servers, databases, firewalls, load balancers). Experience reading and writing code in one or more general purpose programming languages such as Java, C++, JavaScript and/or Python.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Computer Science, related Engineering field, or equivalent work experience showing client service and/or management consulting.</li>\n<li>Experience building mobile applications using modern frameworks with cloud integration.</li>\n<li>Experience leading geographically dispersed, cross-functional teams. Experience developing professional documentation or published articles.</li>\n<li>Experience in technical consulting with demonstrated organizational and project management skills. Effective customer-facing communication, with the ability to work directly with customer\u2019s executives and technical teams.</li>\n<li>Knowledge of common open source server side infrastructure tools.</li>\n</ul>",
+    "responsibilities": "<ul><li>Mentor regional leads and practice members; provide industry thought leadership through conferences, articles, videos and social media.</li><li>Lead services product roadmap for the AppDev practice and be focused on harvesting and developing new intellectual property to accelerate services product development.</li><li>Manage and participate directly in the development of services packages, reference architectures, scripts, and templates as required.</li><li>Work cross-functionally to understand relevant product direction and inform product roadmap on customer impact and rate of adoption.</li><li>Coordinate regional field enablement with regional PSO leadership and work closely with partner organization on external enablement activities.</li></ul>",
+    "title": "Global AppDev Practice Lead, Google Cloud Professional Services"
+}

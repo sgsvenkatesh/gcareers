@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWr2PhKp8fo2iEc94RQF5TbT0msyvF0wfYJ5VSiIo4cSOgCPMA3TgHx-jIjA28ZQtxmOr-cVj3UI-lEqjF_Y4s1dqhrhuZeWT9mXt6ivXKde5qlYKoau6kgKZrk%3D_V2&jobTitle=Data+Center+Hardware+Operations+Manager&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:32:38.991Z",
+    "description": "<p>Google isn&#39;t just a software company. The Hardware Operations team is responsible for monitoring the state-of-the-art physical infrastructure behind Google&#39;s powerful search technology. As a Data Center Hardware Operations Manager, you will manage a team of Operations Assemblers and Operations Engineers. You will oversee the quality installation of server hardware and components and take charge of complicated installations/troubleshooting.<br><br>Your team will install, configure, test, troubleshoot and maintain hardware (like servers and its components) and server software (like Google&#39;s Linux cluster). They will also take on the configuration of more complex components such as networks, routers, hubs, bridges, switches and networking protocols. They may lead small project teams on larger installations and develop project contingency plans.</p>\n\n<p>As a Data Center Hardware Operations Site Manager, you&#39;ll keep a pulse on how the site is performing and anticipate and address problems and roadblocks. You\u2019ll also participate in global conversations, initiatives and strategies.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4976364908380160",
+    "location": {
+        "address_lines": [
+            "Ashburn, VA, USA"
+        ],
+        "city": "Ashburn",
+        "country": "VA",
+        "country_code": "US",
+        "display": "Ashburn, VA, USA",
+        "lat": 39.0437567,
+        "lon": -77.4874416
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=Ashburn%2C+VA%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Ashburn%2C+VA%2C+USA&size=1168x324&zoom=12&signature=5yqIcLSjDLCtUh_9Ud8GevEOoVM=",
+        "large_2x": "/maps/api/staticmap?center=Ashburn%2C+VA%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Ashburn%2C+VA%2C+USA&scale=2&size=1024x324&zoom=12&signature=ERU1oarTGzlyQZpn8EG0qhcMLHI=",
+        "small_1x": "/maps/api/staticmap?center=Ashburn%2C+VA%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Ashburn%2C+VA%2C+USA&size=600x400&zoom=12&signature=Xt_IZomAT2dAtVHlMuLvoyoYE38=",
+        "small_2x": "/maps/api/staticmap?center=Ashburn%2C+VA%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Ashburn%2C+VA%2C+USA&scale=2&size=600x400&zoom=12&signature=0STgxn_Urs1q_EGZoK7OfmU2cvI="
+    },
+    "modified": "2019-03-18T20:51:25.294Z",
+    "publish_date": "2019-02-27T19:46:23.078Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>7 years of experience in managing technical teams as a team lead or manager.</li>\n<li>6 years of people management experience, including experience in managing a team of managers.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>4 years of experience with Linux/Unix system administration.</li>\n<li>4 years of experience working in data centers and building out infrastructure.</li>\n<li>Demonstrated understanding of HVAC and power requirements for high-availability data centers.</li>\n<li>Demonstrated understanding of networks and PC hardware architecture, including maintenance and repair.</li>\n<li>Effective, strategic problem-solving skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Be responsible for the management and implementation of multiple projects for the team while also interacting externally with the local community. Lead the community affairs program for the site.</li>\n<li>Ensure data center priorities are consistent with company objectives.</li>\n<li>Oversee computing hardware and networking operations of the data center site.</li>\n<li>Hire, coach and develop a team of managers and technical staff to meet objectives.</li>\n<li>Work with others to set and implement short-term and long-term strategy for the site. Identify problems and create solutions for computing and network architecture.</li>\n</ul>",
+    "title": "Data Center Hardware Operations Manager"
+}

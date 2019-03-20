@@ -1,0 +1,40 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckRlTYDDqr6BW423DOLRHWj5-yJMgx9Mvo3x8SQOdVSQSOgCPMA3TQiUrzqr5CNyDqEK2gjD77EqsZfNELe9YijBv8MFEiUu7b7H8uUqLJK-uGut5-si2C72EsaE%3D_V2&jobTitle=Technical+Solutions+Engineer%2C+Silicon+Software+Power+and+Performance&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:33:50.752Z",
+    "description": "<p>As a Technical Solutions Engineer in Google&#39;s Silicon Power and Performance group, you will focus on power and performance analysis, optimization and competitive analysis for custom accelerators. You will be the point of contact for all debugging, triaging and competitive analysis efforts. You&#39;ll also prototype and explore power/performance management schemes that spans drivers, OS and applications. You&#39;ll coordinate with Pixel Software Engineering teams, Hardware teams and other product areas to ensure that the system power and performance are optimal. In this role, you will have the opportunity to influence software design and specification of custom accelerators and other hardware products. </p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4838776012734464",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:52:31.182Z",
+    "publish_date": "2019-02-27T19:52:31.182Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, related technical field or equivalent practical experience.</li>\n<li>6 years of work experience with systems software design and development.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree or PhD in Computer Science or related field.</li>\n<li>Extensive knowledge of Unix/Linux.</li>\n<li>Demonstrated programming skills in C or C++.</li>\n<li>Knowledge of microprocessor architectures and experience in systems power/performance debugging and analysis. Knowledge of competitive analysis in systems power/performance.</li>\n<li>Excellent problem-solving, analytical and troubleshooting skills. Ability to work with minimum guidance.</li>\n<li>Demonstrated written and verbal communication skills, with the ability to create working relationships with cross-functional teams.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Work closely with Software Engineers, Hardware Engineers and Product Management to identify, prioritize and fix power and performance issues.</li>\n<li>Develop power and performance optimized solutions for Pixel and other hardware products.</li>\n<li>Collaborate with Android and Machine Learning teams across Google to help them optimize power and performance.</li>\n</ul>",
+    "title": "Technical Solutions Engineer, Silicon Software Power and Performance"
+}

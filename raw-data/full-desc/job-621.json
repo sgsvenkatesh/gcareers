@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckfbwiLcjJ_GPKX93tRo2xVTqb-XQbChdj9sRPeIsF_0SOgCPMA3TiFWXem3PCTSdCYZe-bEbdU9uKv8tK2miJYiU0phPLhlM4PSRluBDDxWjAj65BYrDS4hpTOc%3D_V2&jobTitle=Technical+Writer%2C+Data+Center+%28English%29&loc=US",
+    "categories": [
+        "DATA_CENTER_OPERATIONS",
+        "TECHNICAL_WRITING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:07:00.030Z",
+    "description": "<p>Technical writers communicate complex information clearly, concisely and accurately, and without relying on jargon. As a technical writer, your role involves tasks such as writing conceptual overviews and procedures, reading and writing example code, or updating help center queries and FAQs. Technical writers play a big part at Google. They are a key link between engineers, marketing associates, developer advocates, as well as all the external users and developers, tying together many vital but disparate parts of the Google ecosystem.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4903314120704000",
+    "location": {
+        "address_lines": [
+            "Reston, VA, USA"
+        ],
+        "city": "Reston",
+        "country": "VA",
+        "country_code": "US",
+        "display": "Reston, VA, USA",
+        "lat": 38.9586307,
+        "lon": -77.35700279999999
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&size=1168x324&zoom=12&signature=FO3u6hazHD_hOatnJgsqGlsYqYU=",
+        "large_2x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&scale=2&size=1024x324&zoom=12&signature=T_f2pdXeKWBJBlJdgF_Wq3sTKiQ=",
+        "small_1x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&size=600x400&zoom=12&signature=F1k9qg3kFctxjjTJiTEaXPyuZ9A=",
+        "small_2x": "/maps/api/staticmap?center=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1875+Explorer+St%2C+Reston%2C+VA+20190%2C+USA&scale=2&size=600x400&zoom=12&signature=A4XKQ5Fj_IRHI4dc1byXLoZICWU="
+    },
+    "modified": "2019-03-18T20:46:32.233Z",
+    "publish_date": "2019-02-27T19:44:07.736Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>Experience planning, researching, writing and editing documents, defining the structure of a documentation set and developing and managing documents for Operations and Engineering.</li>\n<li>Ability to speak and write in American English fluently and idiomatically.</li>\n<li>Ability to travel 25% of the time as required.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Engineering, Science, Technical Communication, Journalism or similar field.</li>\n<li>Demonstrated understanding of Google products and the broader technology industry, with previous experience as an engineer or writing about engineering and technology.</li>\n<li>Effective people, project and program management skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Interact with Google Data Center teams, contractors and vendors to produce multiple types of professional writing.</li>\n<li>Work with management to organize existing documentation, identify deficiencies and prioritize solutions.</li>\n<li>Obtain information by interviewing and collaborating with Google Data Center Engineering, Construction and Operations teams.</li>\n<li>Produce documents that can be understood by technical teams and prepared for external publication.</li>\n<li>Act as the designated contact for suggestions and updates to documents.</li>\n</ul>",
+    "title": "Technical Writer, Data Center (English)"
+}

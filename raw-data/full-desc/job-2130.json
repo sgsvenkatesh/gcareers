@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckeSGKM7kCl8-4zVTm3b3_cQKIbCX9wS1Dt5FtczztHUSOgCPMA3TncQxpjfF0vScw_KVMDjQr2HJjnVg-v4KqmG3UKrGhPAjzIjV0YcXFq0SBZcahyquv4Svy7M%3D_V2&jobTitle=Camera+Engineering+Manager%2C+Nest&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:04:10.544Z",
+    "description": "<p>Google engineers develop the next-generation technologies that change how users connect, explore, and interact with information and one another. As a member of an extraordinarily creative, motivated and talented team, you develop new products that are used by millions of people. We need our engineers to be versatile and passionate to take on new problems as we continue to push technology forward. If you get excited about building new things and working across discipline lines, then our team might be your next career step.</p><p>The Nest Camera team architects, designs, develops, and validates best in class camera subsystems for delivery to the market in Nest products. Our camera design engineers take full responsibility for the design and specification of these cameras.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4765878233268224",
+    "location": {
+        "address_lines": [
+            "Palo Alto, CA, USA"
+        ],
+        "city": "Palo Alto",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Palo Alto, CA, USA",
+        "lat": 37.4418834,
+        "lon": -122.1430195
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=4001+Miranda+Avenue&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=4001+Miranda+Avenue&size=1168x324&zoom=12&signature=GOsGrZ9EmFQ3uc0juSXRlav_Xl4=",
+        "large_2x": "/maps/api/staticmap?center=4001+Miranda+Avenue&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=4001+Miranda+Avenue&scale=2&size=1024x324&zoom=12&signature=WhIGOqmPY8srQgQr1foTtlDHCuw=",
+        "small_1x": "/maps/api/staticmap?center=4001+Miranda+Avenue&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=4001+Miranda+Avenue&size=600x400&zoom=12&signature=clZaI6MOROjEZw8MkX1WgHhMqS0=",
+        "small_2x": "/maps/api/staticmap?center=4001+Miranda+Avenue&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=4001+Miranda+Avenue&scale=2&size=600x400&zoom=12&signature=xx5ozNYJWlySSyqNwNprOYpuunw="
+    },
+    "modified": "2019-03-18T14:56:44.077Z",
+    "publish_date": "2019-02-27T19:42:42.096Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Engineering or equivalent practical experience.</li>\n<li>10 years of camera engineering experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>CMOS image sensor experience including interfacing and tuning.</li>\n<li>Experience in optics design and stray light analysis.</li>\n<li>Familiarity with digital imaging pipeline, image quality and algorithms. Background in Image quality evaluation including test charts, algorithms and lighting.</li>\n<li>Ability to speak and write in Mandarin fluently and idiomatically.</li>\n<li>Ability to travel up to 20% of the time internationally.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage Nest\u2019s Engineering team; responsible for the architecture, design, and validation of the imaging sub-system in Nest\u2019s camera products.</li>\n<li>Lead discussions with Product Management and other cross-functional teams about how to best use current and future imaging technologies to deliver high value experiences to our customers.</li>\n<li>Design Nest\u2019s future cameras by managing sensor selection, lens specifications, module architecture and camera system level design.</li>\n<li>Manage camera vendors, including sensor, lens and module manufacturers.</li>\n<li>Validate designs (component and system level validation) ensuring highest level image quality standards.</li>\n</ul>",
+    "title": "Camera Engineering Manager, Nest"
+}

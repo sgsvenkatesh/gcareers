@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckaagwUi1rV8SnPTXr1rFdroAi8Wwmqg1KhqCj8VDKaUSOgASYQ8wwafSbF_Hm9NjzRSauVCN54lNdAuKLT7I7Dd50-KB0igQJ4vaOOoe_Et3f_b46_YjJlI2P1Q%3D_V2&jobTitle=Technical+Solutions+Consultant%2C+Financial+Services%2C+Google+Cloud&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-05T20:31:33.913Z",
+    "description": "<p>The Google Cloud team helps companies, schools, and government seamlessly make the switch to Google products and supports them along the way. You swiftly problem-solve technical issues for customers to show how our products can make businesses more productive, collaborative, and innovative. You work closely with a cross-functional team of web developers and systems administrators, not to mention a variety of both regional and international customers. Your relationships with customers are crucial in helping Google grow its Google Cloud business and in bringing our product portfolio into companies around the world.</p><p>As a Financial Services Solutions Consultant you\u2019ll leverage your cloud computing expertise along with hands-on experience in the financial services industry. You\u2019ll apply your technical skills and business acumen to engage with customers and decision-makers, helping them to understand the benefits of Google Cloud. </p><p>Your understanding of the customer landscape, requirements, and challenges will enable you to work hand-in-hand with our product and engineering teams to design and implement scalable customer solutions on Google Cloud and take them to market. You&#39;ll provide financial services domain expertise in supporting the technical relationship with Google\u2019s customers.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/142625335158940358",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:54:02.064Z",
+    "publish_date": "2019-02-27T19:54:02.064Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in Computer Science, or a related technical field, or equivalent practical experience.</li><li>Experience working in a cloud computing environment (infrastructure, storage, platforms and/or data).</li><li>Experience working in a financial services domain, including deploying solutions in financial services related IT infrastructure.</li></ul><br><p>Preferred qualifications:</p><ul><li>Master&#39;s degree in Computer Science or other relevant technical field.</li><li>5 years of experience working with a variety of technology systems, designing solutions or developing applications in financial services.</li><li>Experience working closely with Sales and Marketing teams in cloud computing or related technical fields.</li><li>Understanding of current trends of financial services industry, including various financial services regulation.</li><li>Ability to quickly learn, understand, and work with new emerging technologies, methodologies and solutions in the cloud/IT technology space.</li></ul>",
+    "responsibilities": "<ul><li>Create applications using standard and Google-specific software development tools. Test, debug, maintain and/or update applications.</li><li>Provide financial services domain expertise in supporting the technical relationship with Google\u2019s customers. This includes (but is not limited to) product and solution briefings, proof-of-concept work, and the enablement of integrations allowing for a full deployment of products managing financial services data in Google Cloud.</li><li>Recommend integration strategies, enterprise architectures, platforms and application infrastructure required to successfully implement a complete solution using best practices on Google Cloud.</li><li>Work hands-on with customers to demonstrate and prototype Google Cloud product integrations in customer/partner environments.</li><li>Lead the technical relationship with Google\u2019s customers, including managing product and solution briefings, proof-of-concept work, and the coordination of additional technical resources.</li></ul>",
+    "title": "Technical Solutions Consultant, Financial Services, Google Cloud"
+}

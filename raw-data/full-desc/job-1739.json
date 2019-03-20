@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZxQjVMpokbAIqrs1rvkloU0RRjqZiOJ4QOsRKz8llISOgCPMA3ThYe5IRjBZ6N5yYqXNJaziYDYhfu7uvGNJ4Y4oT8tHKHN2no8GElTcW5XNtWXPJ5N4teKYs4%3D_V2&jobTitle=Hardware+Test+Engineer&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:34:04.472Z",
+    "description": "<p>Google&#39;s custom-designed machines make up one of the largest and most powerful computing infrastructures in the world. The Hardware Testing Engineering team ensures that this cutting-edge equipment is reliable. In the R&amp;D lab, you design test equipment for prototypes of our machinery and develop the protocols used to scale these tests for the entire global team. Working closely with design engineers, you give input on designs to improve our hardware until you&#39;re sure it meets Google&#39;s standards of quality and reliability.<br><br>With your technical expertise, you create test plans for highly complex platforms (e.g., validating the interaction of multiple pieces of equipment at the networking and subsystem levels), and using your deep knowledge of component design characteristics, you diagnose highly complex hardware or software issues.</p>\n\n<p>You are a passionate and capable network engineer who will lead efforts in the design and testing of new network equipment. With your technical expertise, you create test plans for highly complex platforms (e.g., validating the interaction of multiple pieces of equipment at the networking and system levels). Leveraging your deep knowledge of component and system design characteristics you diagnose highly complex hardware or software issues.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4544421188272128",
+    "location": {
+        "address_lines": [
+            "Council Bluffs, IA, USA"
+        ],
+        "city": "Council Bluffs",
+        "country": "IA",
+        "country_code": "US",
+        "display": "Council Bluffs, IA, USA",
+        "lat": 41.2619444,
+        "lon": -95.8608333
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=Council+Bluffs%2C+IA+51501%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Council+Bluffs%2C+IA+51501%2C+USA&size=1168x324&zoom=12&signature=5Qf6VG_G5ezC-ufeZu5Zp-e4Vzs=",
+        "large_2x": "/maps/api/staticmap?center=Council+Bluffs%2C+IA+51501%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Council+Bluffs%2C+IA+51501%2C+USA&scale=2&size=1024x324&zoom=12&signature=mZlLLUrIW52zA7Iss0GZjWQnf2k=",
+        "small_1x": "/maps/api/staticmap?center=Council+Bluffs%2C+IA+51501%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Council+Bluffs%2C+IA+51501%2C+USA&size=600x400&zoom=12&signature=ecyMj1-bDY78ftli8LAjT7yMYkE=",
+        "small_2x": "/maps/api/staticmap?center=Council+Bluffs%2C+IA+51501%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Council+Bluffs%2C+IA+51501%2C+USA&scale=2&size=600x400&zoom=12&signature=Y0uWx_ScJwsQd3_493GQqfwKpxw="
+    },
+    "modified": "2019-03-18T21:47:34.096Z",
+    "publish_date": "2019-02-27T19:44:04.458Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in Computer Science, Computer Engineering, Telecommunications, or related field</li>\n<li>5 years experience deploying, maintaining, and administering network solutions</li>\n<li>Experience with common networking protocols (eg, TCP/IP, IPv6, DHCP, BGP)</li>\n<li>Experience working with Linux or Unix operating systems</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Masters degree in computer science, software engineering, or telecommunications</li>\n<li>Solutions engineering experience in a complex technical environment</li>\n<li>Relevant network certifications (JNCP, OCSA, or CCNP)</li>\n<li>Coding and database administration experience (e.g. C, C++, Python, and SQL)</li>\n<li>Knowledge of test methodologies, writing test plans, creating test cases and debugging</li>\n<li>Willing to travel up to 20% of the time</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Coordinate with technicians to set up test environments for network solutions in labs and production data centers.</li>\n<li>Plan and execute tests to verify and validate functional &amp; system level requirements.</li>\n<li>Debug and root cause test failures and in-service issues.</li>\n<li>Collaborate on new systems that push the frontier in networking technologies.</li>\n<li>Manage the transition of systems and solutions from prototype to production.</li>\n</ul>",
+    "title": "Hardware Test Engineer"
+}

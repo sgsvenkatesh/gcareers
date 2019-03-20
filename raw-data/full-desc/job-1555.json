@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUzuRR9Vs85LU0PNv89ZAY4Ew3GGwe7Op9IsIk4MR_wSOgASYQ8wIfWIGcAAJfxSJGDAK8RnjLpfUdot_b_l_60TFEBEMZAt7sWUSyJ9SOIJTVARFNrTATZ8VkY%3D_V2&jobTitle=Technical+Program+Manager%2C+Resource+Management&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-30T22:01:46.875Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n<p>Our products help achieve optimal utilization of Google&#39;s infrastructure fleet. The overall goal of the Resource Management team is to reduce the cost of fleet resources per unit of load at Google level. Our team provides authoritative resource utilization and financial data on compute, storage, network and machine data, including the new Machine Learning fleet, for Product Areas to make resource tradeoffs and decrease future orders for resources. We also work on compute and storage efficiency improvements through the fleet to enable further resource cost savings.\n</p>\n\n<p>As a Technical Program Manager, you&#39;ll work to help plan and execute on various product development activities in the Resource Management (RM) team. The RM team develops infrastructure software products on which Google products run. These software products enable Product teams to request, provision, manage, forecast, and scale the compute, storage and network resources as well as track and measure the usage and costs of resources to guide the optimal utilization. The financial projections of resources are an important aspect of RM&#39;s product and directly contribute to the planning process of the Finance team.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/130863218521187014",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-02-27T19:55:13.235Z",
+    "publish_date": "2019-02-27T19:55:13.235Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer Science, Computer Engineering, or Electrical and Computer Engineering, related technical disciplines or equivalent practical experience.</li>\n<li>5 years of experience in a technical/engineering program management function.</li>\n<li>Experience with cloud computing infrastructure, demand planning and forecasting, supply chain management, and/or capital investment decision making.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Demonstrated understanding of the work loads, priorities, and resource pools in the context of cloud computing infrastructure.</li>\n<li>Ability to establish credibility with technical and non-technical team members. Comfortable building relationships across functions and organizational boundaries.</li>\n<li>Ability to work in an open and collaborative culture and willingness to help promote it.</li>\n<li>Customer-focused, intent on helping a team build an execution process that delivers incremental value.</li>\n<li>Excellent attention to detail, organized and can track multiple workflows and conversations simultaneously.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Lead a cross-functional product development effort in resource management, spanning all levels of organization.</li>\n<li>Establish partnerships with stakeholder teams and Product Area Resource Managers to improve product adoption, and identify their needs to help prioritize product features.</li>\n<li>Help build dashboards/tools to capture and track the resource efficiency and cost savings from product features.</li>\n<li>Be the frontline spokesperson on product issues and help software engineers maintain their bandwidth for product development.</li>\n<li>Help bring discipline into product development by automating the release process, tracking team velocity, and addressing ways to improving it.</li>\n</ul>",
+    "title": "Technical Program Manager, Resource Management"
+}

@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Atlanta, GA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQJ646hsCfCiZrPIIUWoIRe4xHHLYVViDU9Uem6tI80SOgCPMA3T3aRxxzLXzLIt6wg9vTyz8hQty6oEPsAsmtH3TnigoKDQaUabBvt4IrPy8ZafcFNccEf7O4c%3D_V2&jobTitle=Manufacturing+Test+Development+Engineer%2C+Software+Tools&loc=US",
+    "categories": [
+        "MANUFACTURING_SUPPLY_CHAIN",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:41.313Z",
+    "description": "<p>Google has one of the largest and most powerful computing infrastructures in the world. Your team is responsible for providing the manufacturing capability to deliver this state-of-the-art physical infrastructure. As a Manufacturing Test Development Engineer, you evaluate the product designs and create the processes, tools and procedures behind Google&#39;s powerful search technology. When vendors build parts for our infrastructure, you&#39;re right there alongside ensuring manufacturing processes are repeatable and controlled. You collaborate with Commodity Managers and Design Engineers to determine Google&#39;s infrastructure needs and product specifications. Your work ensures the various pieces of Google&#39;s infrastructure fit together perfectly and keep our systems humming along smoothly for a seamless user experience.</p>\n\n<p>As a Manufacturing Test Development Engineer, you will be responsible for gathering requirements and implementing the systems and processes required for Google\u2019s manufacturing test and quality teams. This role will support the development of Google\u2019s standard test executive platform, data collection systems and product specific software development around shop floor system integration, product specific provisioning and configuration systems and partner integration.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5580700561637376",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:45:31.235Z",
+    "publish_date": "2019-02-27T19:45:31.235Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Electrical Engineering, Computer Engineering or Computer Science, or equivalent practical experience.</li>\n<li>3 years of experience in manufacturing or product validation test development.</li>\n<li>2 years of experience working with Python.</li>\n<li>2 years of experience in developing web-based software.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>5 years of experience in manufacturing or hardware development, or software validation.</li>\n<li>Experience in data Extract, Transform, and Load processes (ETL) for data collection and analysis.</li>\n<li>Experience in web-based software developed using Python frameworks (e.g., Django, Flask, Pyramid, etc.).</li>\n<li>Knowledge of Google\u2019s Cloud Platform including use of BigQuery, Spanner, CloudSQL, AppEngine and Compute Engine. </li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop test executive software and test automation frameworks. Develop software and infrastructure required for managing a fleet of test systems at scale to avoid manual configuration of test systems.</li>\n<li>Develop test and quality data collection systems, and manage their deployment and roll-out at Google\u2019s hardware manufacturing locations and partners.</li>\n<li>Develop product specific software required for the configuration, programming and validation of Google\u2019s hardware data center products.</li>\n<li>Conduct test development in Python, developing new test strategies and platforms, analyzing new rack and computing configurations and creating test plans for new product introduction.</li>\n<li>Conduct code reviews, debugging test failures. Develop and deploy the tests and validations that will be used for Google&#39;s server platforms, accelerators and machine racks.</li>\n</ul>",
+    "title": "Manufacturing Test Development Engineer, Software Tools"
+}

@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Cambridge, MA, USA; New York, NY, USA; Pittsburgh, PA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckX98_hWoMM-g_JUJdNlCdW0JPZvSVwieI-2Qylx62UISOgCPMA3TbFwzhYKDhgPJnrP--xvsLsBz9QCPTlyTQJ-FZPAfb3PDjb_NxgmdjJLmJ7FF355rUNEuebU%3D_V2&jobTitle=Technical+Program+Manager%2C+Cloud+Programs&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:32:22.661Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p>\n\n<p>Google Cloud Platform is changing the way the world uses cloud computing. You will unleash your significant talents for program management, mobilizing cross functional teams, delivering solutions for scale and data-driven decision making to refine, launch and take to market solutions that accelerate our customers\u2019 success in the cloud. Your passion, technical and business depth, and excellent organizational, communication, and interpersonal skills will inspire our teams and rapidly establish trust amongst a diverse set of stakeholders and customers.</p>\n\n<p>By applying to this position your application is automatically considered for all the teams within Cloud Programs. The teams include but are not limited to: Compute, Networking, Data and Analytics, Security, Privacy, Developer Tools, NPI, Services Platform, Product Operations, Capacity Planning, Storage, Machine Learning / Artificial Intelligence, and Data Center.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4578546329780224",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-18T20:16:10.231Z",
+    "publish_date": "2019-02-27T19:40:15.094Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in Computer Science, Engineering, Mathematics, Statistics, related fields or equivalent practical experience.</li>\n<li>5 years of industry experience with technical subjects and emerging technologies in cloud computing or related technical fields, and their relevance to the marketplace.</li>\n<li>Experience working with engineering, sales and marketing teams in cloud computing or related technical fields.</li>\n<li>Experience as a software engineer and program/project management; experience as an engineering manager.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Proven successful technical program management outcomes from idea to launching programs in multiple contexts throughout your career.</li>\n<li>Ability to craft a compelling message and tailor it for a given audience. Ability to mix technical acumen with simple, everyday language to deliver a story that is memorable and useful.</li>\n<li>Comfortable talking about technical matters with business people and business matters with technical people. Able to express complex concepts in plain language to reach broader audiences.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Provide the required hands-on software development and project management, cross-functional coordination, and inter/intra team communications to deliver outstanding program outcomes.</li>\n<li>Work closely with software engineers, QA, product managers and other engineering teams to get high-quality products and features through the software project lifecycle (build, test and release on time).</li>\n<li>Manage project schedules, identify possible issues and clearly communicate them to project stakeholders.</li>\n<li>Take responsibility for release schedules and milestones, keeping up a high velocity in a fast-paced environment.</li>\n<li>Lead several technical programs for the Google Cloud Business, setting priorities for products and engineering, leading cross-functional teams to take products to market, ensuring success metrics are informing future efforts, and quickly fine tuning the program as needed.</li>\n</ul>",
+    "title": "Technical Program Manager, Cloud Programs"
+}

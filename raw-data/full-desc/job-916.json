@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Atlanta, GA, USA; Cambridge, MA, USA; Chicago, IL, USA; New York, NY, USA; Reston, VA, USA; San Francisco, CA, USA; Salt Lake City, UT, USA; Seattle, WA, USA; Sunnyvale, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUADIqaxp91Tvtef8v7EEIO66bAJ_eiuPHJzB9x8Ux4SOgCPMA3Tp2znyPERK0SWxPP9DiBIxK3omuzdQ7TnRzSVNSpcLipKP_URLqv5Qr6jBcH8ynFg0FI-f_U%3D_V2&jobTitle=Sales+Engineer%2C+Google+Cloud&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:05.734Z",
+    "description": "<p><b>Remote locations may be available in the following states: Arkansas, Indiana, Minnesota, Missouri, New Mexico, Ohio or</b><b> Pennsylvania.</b></p>\n\n\n<p>When leading companies choose Google Cloud it&#39;s a huge win for spreading the power of cloud computing globally. Once educational institutions, government agencies, and other businesses sign on to use Google Cloud products, you come in to facilitate making their work more productive, mobile, and collaborative. You assist fellow sales Googlers by problem-solving key technical issues for our customers. You liaise with the product marketing management and engineering teams to stay on top of industry trends and devise enhancements to Google Cloud products.</p>\n\n\n<p>As a Sales Engineer, you will work hand-in-hand with the Sales team to introduce Google Cloud to our customers. You will help prospective, existing customers and partners understand the power of Google Cloud, develop creative cloud solutions and architectures to solve their business challenges, and problem-solve any potential technical roadblocks.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6318524890021888",
+    "location": {
+        "address_lines": [
+            "Chicago, IL, USA"
+        ],
+        "city": "Chicago",
+        "country": "IL",
+        "country_code": "US",
+        "display": "Chicago, IL, USA",
+        "lat": 41.8781136,
+        "lon": -87.6297982
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&size=1168x324&zoom=12&signature=gIOxZ7dGhwr2LpHWKXkFIvPRMTc=",
+        "large_2x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&scale=2&size=1024x324&zoom=12&signature=rKP_A-4nJuEU4qbWPyESRqYx2vk=",
+        "small_1x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&size=600x400&zoom=12&signature=ol3MCzT12A291E1FDNtdLB3cK5M=",
+        "small_2x": "/maps/api/staticmap?center=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=320+N+Morgan+St+%23600%2C+Chicago%2C+IL+60607%2C+USA&scale=2&size=600x400&zoom=12&signature=MQ1gJIGd_vtm2oDAQWiFTlRbRaM="
+    },
+    "modified": "2019-03-13T15:31:38.998Z",
+    "publish_date": "2019-03-13T15:31:38.998Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science or equivalent practical experience.</li>\n<li>Experience serving in the capacity of a Technical (Pre)Sales Engineer in a Cloud Computing or B2B software company in a customer-facing role.</li>\n<li>Experience with Virtualization and Networking technology.</li>\n<li>Experience with Storage technology.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Computer Science or other technical field.</li>\n<li>Experience with Relational Databases, NoSQL Databases and/or Big Data technologies.</li>\n<li>Experience in advanced areas of networking.</li>\n<li>Experience with application development concepts and technologies (e.g. CI/CD, Java, Python, Chef, Puppet, Ansible).</li>\n<li>Experience architecting and developing software or infrastructure for scalable and secure distributed systems.</li>\n<li>Experience in understanding a complex customer\u2019s existing software workloads and the ability to define a technical migration roadmap to the Cloud.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Challenge and inspire customers and peers to solve difficult problems with ambitious and novel solutions.</li>\n<li>Work with the team to identify and qualify business opportunities. Identify key customer technical objections and develop a strategy to resolve technical blockers.</li>\n<li>Work hands-on with customers to demonstrate and prototype Google Cloud product integrations in customer/partner environments and manage the technical relationship with Google\u2019s customers.</li>\n<li>Recommend integration strategies, enterprise architectures, platforms and application infrastructure required to successfully implement a complete solution using best practices on Google Cloud.</li>\n<li>Travel to customer sites, conferences, and other related events as required.</li>\n</ul>",
+    "title": "Sales Engineer, Google Cloud"
+}

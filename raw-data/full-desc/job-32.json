@@ -1,0 +1,38 @@
+{
+    "application_instruction": "This role may also be located in our Playa Vista, CA campus.",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckeRqCN9sSRibEhay7Lrd4scgzYzrxMblRPIJeP0M_nUSOgASYQ8wptZUhgJEy0qhJs5mIHCbUznevXnLBRZ9z_--YBSlmwhk_NrELmNFICLayGVneAra4ys_L0I%3D_V2&jobTitle=Global+Investigator%2C+Global+Security+and+Resilience+Services&loc=US",
+    "categories": [
+        "REAL_ESTATE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-14T20:02:06.328Z",
+    "description": "<p>As an Investigator on the Global Investigations team, you will partner with People Operations (Human Resources), Employee Relations, Internal Audit, Information Security, Legal, Ethics and Compliance, and several other teams to keep Google safe everyday. You have effective analytical skills, believe no task is too small or too big to take on, and are comfortable presenting to any level of the organization in true partnership with our stakeholders. You will contribute an aptitude for customer service and adaptability to work effectively within a fast-paced environment.</p><p>From keeping Googlers safe and secure to managing disruptive events, the ability to anticipate, deter, detect, and act are the pillars of Google\u2019s Global Security and Resilience Services (GSRS) team. As a member of GSRS you will help develop a culture where safety, security and resiliency are integrated into every facet of Google, including the creative process. You will help us continually identify, evaluate and monitor enterprise risks that could affect business activities and provide business leaders the information they need to make critical decisions. You&#39;ll collaborate with cross-functional teams to create innovative strategies and develop programs that drive sustainable effectiveness.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/130505250042716870",
+    "location": {
+        "address_lines": [
+            "Los Angeles, CA, USA"
+        ],
+        "city": "Los Angeles",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Los Angeles, CA, USA",
+        "lat": 34.0522342,
+        "lon": -118.2436849
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=1168x324&zoom=12&signature=fXRbaDAJUcl_n404VGXhz3cu-ag=",
+        "large_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=1024x324&zoom=12&signature=B8IUulSshv-3RzKj_Nyk8FPOXUs=",
+        "small_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=600x400&zoom=12&signature=QGgFwn7c6rmdqNJ6DzYmX6KMU2g=",
+        "small_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=600x400&zoom=12&signature=TH_gDtTJHy22kPuDOsdMJxqBUM4="
+    },
+    "modified": "2019-03-14T20:02:06.328Z",
+    "publish_date": "2019-03-14T20:02:06.328Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>5 years of experience conducting investigations in a private sector/public sector environment.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Investigative/Interview Certification from a national or internationally recognized organization.</li>\n<li>5 years of experience conducting diverse investigations, with specific focus on intellectual property protection and supply chain security.</li>\n<li>Ability to speak and write in more than one language fluently and idiomatically.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Develop protocols and practices to assess and mitigate threats to company assets. Manage crises and deliver threat assessment services by collecting, evaluating, and disseminating accurate and timely intelligence information to appropriate managers.</li>\n<li>Investigate possible violations of Google&#39;s Security/HR/Finance policies, Code of Conduct, and other business conditions. Provide appropriate reports to management summarizing the findings.</li>\n<li>Conduct audits and other research to identify process deficiencies which could allow inappropriate business conduct, and recommend protocols and policies to address those weaknesses.</li>\n<li>Develop effective relationships with domestic and international law enforcement and government counterparts, as well as private sector peers worldwide.</li>\n</ul>",
+    "title": "Global Investigator, Global Security and Resilience Services"
+}

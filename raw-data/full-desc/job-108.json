@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcDQAzbLIB_UXhceSHDnYoF509uzxr6YIorYFKEo6GcSOgCPMA3TCH5ifdcFyNKshxwrhILMbU5u9JgZbvp0UBrx0bpVjPZpLTDd_6114oNuM-qcprxGMJzQyOQ%3D_V2&jobTitle=Service+Tech+Operations+Lead%2C+Consumer+Hardware&loc=US",
+    "categories": [
+        "PRODUCT_SUPPORT",
+        "PROGRAM_MANAGEMENT"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:03:42.634Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus. As a Service Tech Operations Lead at Google, you lead complex, multi-disciplinary projects. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating goals to project stakeholders. Your projects often span offices, time zones and hemispheres, and it&#39;s your job to keep all the players coordinated on the project&#39;s progress and deadlines.</p>\n\n\n<p>As a Service Tech Operations Lead, you&#39;ll lead all aspects of the service technical process operations, ensuring that serviced products meet customer specifications and quality goals. You will plan requirements with key stakeholders and execute tech support at our partnered facilities.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5104280409407488",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:46:32.222Z",
+    "publish_date": "2019-02-27T19:46:32.222Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Industrial, Mechanical or Electrical Engineering or equivalent practical experience.</li>\n<li>5 years of experience in mechanical design and/or manufacturing engineering for consumer hardware products.</li>\n<li>Experience with third-party production quality and process management.</li>\n<li>Project management experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Familiarity with service operations environment, reverse logistics or Return Materials Authorization (RMA) processing.</li>\n<li>Excellent time management skills, with demonstrated ability to operate in a fast-paced environment and manage ever-changing priorities and deadlines.</li>\n<li>Developed interpersonal skills, with the ability to work with cross-functional teams, customers and external vendors.</li>\n<li>Ability to travel 35% of the time as required.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Lead the overall technical aspects related to Consumer Hardware Service Operations and be the liaison between Product Quality, Engineering and the Service Operations chain.</li>\n<li>Work to understand customer requirements and collaborate with cross-functional teams to guide the design of the next product versions. Create and maintain process and quality documentation, drive and prioritize root cause analysis and corrective action for quality repair failures.</li>\n<li>Align with the Product Quality team to maintain quality standards, collaborate with the Test Engineering team to design effective test strategies and ensure service lines and quality processes are setup according to service manuals and product specifications.</li>\n<li>Drive ongoing improvements in service cycle time, cost, quality, bounce and yield. Identify and flag quality issues around the whole device performance and/or individual components and create process and quality documentation.</li>\n<li>Obtain and analyze data using standard quantitative methods to facilitate process analysis and quality improvements. Prepare and present quality management reports and drive weekly quality reviews.</li>\n</ul>",
+    "title": "Service Tech Operations Lead, Consumer Hardware"
+}

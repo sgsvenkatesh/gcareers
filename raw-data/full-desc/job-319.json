@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<p><b>This role is based in our Tempe, AZ vendor office.\n</b></p>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcTiqGQTOfzAVUA9oHxZwJva7WmwTJjXqidws4K1IsYSOgASYQ8wkwQM8b5at3GvHStSznjJrDsrUUmMksQc7ij_6xRkEviaHu6P3CkuXSgk5wFnIAVqtn4nTfE%3D_V2&jobTitle=Inbound+Sales+Lead&loc=US",
+    "categories": [
+        "SALES"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-04T11:31:33.991Z",
+    "description": "<p>With a rapidly growing array of sales teams, it&#39;s important to have knowledgeable, charismatic leaders to guide our client sales teams. As a Sales manager, you&#39;ll lead and coach high-performing account teams that use consultative sales skills to understand our advertisers&#39; needs and deliver measurable solutions that grow their businesses. You will also work with the sales leadership team to set strategic objectives and run the day-to-day operations for the business. Sales managers willingly help their teams and roll up their sleeves to partner directly with clients to provide comprehensive service. You are an excellent communicator with a proven ability to train and motivate a large team, and you take an analytical approach to sales management.</p>\n\n\n\n<p>As an Inbound Sales Lead for the Global Inbound Acquisitions team, you will support our outsourced SMB acquisitions business in North America. You&#39;ll focus on the rhythm of the business, supporting the vendor management team in running Google Ads Sales efforts, and ensuring the vendor representatives have the Google product and internal tool knowledge to be successful.</p><p>When our millions of advertisers and publishers are happy, so are we! Our Google Customer Solutions (GCS) team of entrepreneurial, enthusiastic and client-focused members are the &quot;human face&quot; of Google, helping entrepreneurs both individually and broadly build their online presence and grow their businesses. We are dedicated to growing the unique needs of advertising companies. Our teams of strategists, analysts, advisers and support specialists collaborate closely to spot and analyze customer needs and trends. In collaboration, we create and implement business plans broadly for all types of businesses.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/96189722860102342",
+    "location": {
+        "address_lines": [
+            "Phoenix, AZ, USA"
+        ],
+        "city": "Phoenix",
+        "country": "AZ",
+        "country_code": "US",
+        "display": "Phoenix, AZ, USA",
+        "lat": 33.4483771,
+        "lon": -112.0740373
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=Phoenix%2C+AZ%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Phoenix%2C+AZ%2C+USA&size=1168x324&zoom=12&signature=Cx1fIDiEyRFXUUD7TbHseZXWMps=",
+        "large_2x": "/maps/api/staticmap?center=Phoenix%2C+AZ%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Phoenix%2C+AZ%2C+USA&scale=2&size=1024x324&zoom=12&signature=YKFK6_gkO8iZxihwBbqQ84ltHtg=",
+        "small_1x": "/maps/api/staticmap?center=Phoenix%2C+AZ%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Phoenix%2C+AZ%2C+USA&size=600x400&zoom=12&signature=0RRN1IWypZnIDDQ5ZeeD2QkS-Mc=",
+        "small_2x": "/maps/api/staticmap?center=Phoenix%2C+AZ%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=Phoenix%2C+AZ%2C+USA&scale=2&size=600x400&zoom=12&signature=00qf-AATzMJ06OygDDDzO3ikk8o="
+    },
+    "modified": "2019-03-11T17:32:03.186Z",
+    "publish_date": "2019-03-11T17:32:03.186Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>4 years of experience in Sales and/or Sales management.</li>\n<li>Experience in advertising sales, digital marketing, consulting or media specific industry.</li>\n</ul><br><p>Preferred qualifications:</p><ul><li>Experience in vendor-led project management.</li><li>Experience with planning, forecasting, setting operational goals, and leading business reviews.</li><li>Experience in advertising sales, digital marketing, consulting, brand marketing, or in a fast-paced media agency environment.</li><li>Analytical and capable of translating analysis and insights into actionable business plans.</li><li>Effective communication skills, with the ability to manage and influence stakeholders.</li></ul>",
+    "responsibilities": "<ul><li>Lead SMB customer acquisitions through business partnering and overall support of our Vendor operations to work towards sales goals.</li><li>Review and evaluate the service quality of our vendor towards SLAs. Partner with vendor management team to develop programs for sales rep and campaign builder improvement.</li><li>Analyze and present weekly performance figures to the Inbound management team, participate in weekly business reviews between Google and the outsourcing partner.</li><li>Help support inbound customer acquisitions to work towards goals by coaching and developing the vendor management team towards a self-managed organization.</li><li>Manage, monitor and grow our pre-sales and sales management operations and centers of excellence.</li></ul>",
+    "title": "Inbound Sales Lead"
+}

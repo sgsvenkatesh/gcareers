@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWt2GXGoCYgMd4Ut-uYFpnTkXndUobKYmi_EKKl-2Y8SOgASYQ8wixvuuljAIqs6IvRaMlTJIQ4IOroi1kQaRCX0amCjScjibjm-9xO8iJKySDdUss4SsE9x9jU%3D_V2&jobTitle=Flights+Solutions+Engineering+Manager&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-20T00:01:41.641Z",
+    "description": "<p>gTech\u2019s Professional Services team takes a creative, collaborative, and customer-centric approach to provide foundational services and forward-looking business solutions to top advertiser and publisher customers. Through technical implementation, optimization, and key solutions, gTech Professional Services helps customers attain their business goals while building long-term capabilities.</p>\n\n\n<p>As a Flights Solutions Engineer, you will lead a team of Technical Solutions Consultant (TSCs), who provide consulting and support services for the Google airfare pricing and shopping product. The gTech Partners Flights TSCs are experts in the Google airfare pricing and shopping solution (QPX) as well as in the air travel industry in general. They work directly with technical and business staff at our partners, as well as Google Business Development/Sales, Product, Engineering, and Operations teams. \n</p>\n\n\n<p>In this role, you will provide leadership, and manage day-to-day work for a team of partner technology managers (PTMs) as they work closely with partners to support and optimize our products and maximize their use. From early piloting to wide-scale deployment, you will be involved in the technical support and execution of key customers. You will focus on tasks such as managing and optimizing technical support of our enterprise customers, delivering excellent experience in resolving complex technical challenges for our customers, and driving internal and externally facing projects. Additionally, you will work closely with some of the largest and fastest growing companies in the Travel and Airline industry, gaining an understanding of Google\u2019s travel products as well as the data feeds that drive the technology and create new and innovative solutions for customers and partners.</p><p>Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. Our teams of solution-oriented trusted advisors support millions of customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers\u2019 complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.<br><br>To learn more about gTech, check out our <a href=\"https://www.youtube.com/watch?v=HcjR6ZngQcw\">video</a>.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/106776423718363846",
+    "location": {
+        "address_lines": [
+            "Cambridge, MA, USA"
+        ],
+        "city": "Cambridge",
+        "country": "MA",
+        "country_code": "US",
+        "display": "Cambridge, MA, USA",
+        "lat": 42.3736158,
+        "lon": -71.10973349999999
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&size=1168x324&zoom=12&signature=JaO6-ZwWrNFtKn3WQm2SRjf9ZbE=",
+        "large_2x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&scale=2&size=1024x324&zoom=12&signature=ztO_GFdS-eUPL9b-BGZvaDyVm3I=",
+        "small_1x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&size=600x400&zoom=12&signature=6Okll-qvZ7t3C6x3-kMPp_P58Yc=",
+        "small_2x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&scale=2&size=600x400&zoom=12&signature=vS95FBFswniXfAJTkSOvWzAjgvg="
+    },
+    "modified": "2019-02-27T19:56:33.938Z",
+    "publish_date": "2019-02-27T19:56:33.938Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>2 years of experience in a people management role.</li>\n<li>Experience in XML, HTML, SQL, JavaScript, and/or UNIX/Linux.</li>\n<li>Experience coding in C++, Java, or Python.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MBA or Master&#39;s degree.</li>\n<li>5 years of experience with Internet products and technologies.</li>\n<li>Experience managing ongoing support processes and technical projects.</li>\n<li>Ability to communicate with technical and business stakeholders.</li>\n<li>Ability to work well in a fast-paced, start-up environment and consistently deliver against goals.</li>\n<li>Excellent analytical and written and verbal communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage reactive support processes in a demanding environments to the high satisfaction of our partners. Establish processes, gather metrics, manage priorities, and make team assignments to handle the shifting priorities on a daily basis.</li>\n<li>Oversee scaling initiatives to develop self-service diagnostic tools and implementation of standardized product templates of customer managed business rules.</li>\n<li>Develop and drive global product support strategies and lead a high-performing team of Googlers to build and execute strategies. Actively advocate for our partners, leverage data-driven user insights to influence product change, and create compelling user experiences.</li>\n<li>Create overall operations strategies and priorities for your team. Drive strategic and analytical initiatives to improve processes and department operations.</li>\n<li>Build team structure, recognize leadership potential, and develop enhanced skillsets within the team. Support team members in building operational plans and developing cross-functional relationships.</li>\n</ul>",
+    "title": "Flights Solutions Engineering Manager"
+}

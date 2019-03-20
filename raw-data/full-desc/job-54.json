@@ -1,0 +1,38 @@
+{
+    "application_instruction": "This role may also be located in our Playa Vista, CA campus.",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckWbCga8ACZgzGaw4NRDAzx3Kn8m_DM0AXNgOwtd7w_YSOgASYQ8w_MC5wjp8th_65m-RKYS67RIpZdIKBueKSJsupdUbSEWJ3hPxX1xH_iM8n6-3lg6Nty3ROag%3D_V2&jobTitle=Data+Visualization+Specialist%2C+Customer+Experience+Center&loc=US",
+    "categories": [
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-09T00:01:48.714Z",
+    "description": "<p>Businesses that partner with Google come in all shapes, sizes and market caps, and no one Google advertising solution works for all. Your knowledge of online media combined with your communication skills and analytical abilities shapes how new and existing business grow. Using your influencing and relationship-building skills, you provide Google-caliber client service, research and market analysis. You anticipate how decisions are made, persistently explore and uncover the business needs of Google&#39;s key clients and understand how our range of product offerings can grow their business. Working with them, you set the vision and the strategy for how their advertising can reach thousands of users.</p>\n\n<p>We are looking for an experienced Data Visualization Specialist who understands both the data and design aspects of visualizations and is passionate about creating compelling and attractive visual stories from multiple complex data sources. The data insights and stories presented should be compelling and quickly enable decisions. Because of the hands-on nature of the job, you should have a firm grounding in practicalities (be comfortable with dashboard development, have an eye for design, have a history of quickly picking up new technological platforms, and have a general curiosity about how data might shape narrative). \n</p>\n\n<p>You will work with internal and external data sets to create stunning dynamic visualizations for in-person client experiences. You help mine the available data to find insights to craft the key narrative for each workshop. If applicable, you will work directly with analysts on the client side to identify and find the right data sets to explore before and during the client workshop.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/94127283993748166",
+    "location": {
+        "address_lines": [
+            "Los Angeles, CA, USA"
+        ],
+        "city": "Los Angeles",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Los Angeles, CA, USA",
+        "lat": 34.0522342,
+        "lon": -118.2436849
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=1168x324&zoom=12&signature=fXRbaDAJUcl_n404VGXhz3cu-ag=",
+        "large_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=1024x324&zoom=12&signature=B8IUulSshv-3RzKj_Nyk8FPOXUs=",
+        "small_1x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&size=600x400&zoom=12&signature=QGgFwn7c6rmdqNJ6DzYmX6KMU2g=",
+        "small_2x": "/maps/api/staticmap?center=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=340+Main+St%2C+Venice%2C+CA+90291%2C+USA&scale=2&size=600x400&zoom=12&signature=TH_gDtTJHy22kPuDOsdMJxqBUM4="
+    },
+    "modified": "2019-03-09T00:31:43.839Z",
+    "publish_date": "2019-03-09T00:31:43.839Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>Experience with one or more data and data visualization technologies (SQL, Tableau, Data Studio, D3.js, etc.).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience using JavaScript or databases, proficient with design tools, and willingness to learn new technical platforms in self-guided fashion.</li>\n<li>Expert eye for design and typography.</li>\n<li>Passion for creative problem solving, comfort working in a fast-paced environment with deadlines, and excellent project management skills.</li>\n<li>Ability to work with large information sets and see the \u2018bigger picture\u2019, while also maintaining attention to detail.</li><li>Ability to look at numbers/trends and develop conclusions from findings. Ability to create aesthetically-pleasing data visualizations, with UI and UX skills.</li>\n<li>Analytical mindset. Ability to present information based on design principles, and willingness to prototype rapidly.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Pull and examine customer-specific data in preparation for each workshop, mine available data to find insights to craft the key narrative of each workshop.</li>\n<li>Build dynamic data visualizations for the specialized screen in our Customer Experience Center in Los Angeles, and for integration into the main presentation content, working closely with other members of the team.</li>\n<li>Build and update comprehensive sets of dynamic designed data visualization templates.</li>\n<li>Enable the team to present large amounts of data in ways that are universally understandable or easy to interpret and spot patterns, trends and correlations.</li>\n<li>Work closely with our clients and Content Strategist &amp; Designer to evaluate requirements for integrating data sets into our programs, and build strong collaborative relationships with the business users and the customer\u2019s data analytics team.</li>\n</ul>",
+    "title": "Data Visualization Specialist, Customer Experience Center"
+}

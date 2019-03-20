@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUOEReVfUuq7zvbvR2xZsQaZVeXgQsX7B1OmRXD-XzcSOgASYQ8woSAbXx8LXGlJSSSHGT68roQscG_inQwsSiNnDm4KmYOF6mPja3Yiceh96ge6yOeA1gq6Ud4%3D_V2&jobTitle=Data+Steward%2C+Partners%2C+Cloud+Business+Transformation+Organization&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-08T19:31:35.561Z",
+    "description": "<p>The Cloud Business Transformation Organization is responsible for programs that enable Google Cloud to go to market enterprise ready and at Google scale. Our team partners with Product, Sales, Engineering, and other cross-functional partners to develop systems, tools, processes, and to manage data to enable data driven execution. We provide our sellers and channel partners with the tools and data they need to be more productive and successful.\n</p>\n\n\n<p>As a Data Steward, you will be part of the Data team to architect and implement a data management framework across Google Cloud Customer team business functions. You will manage governed data within the business unit, while ensuring the highest level of data quality, consistency, accuracy, and reliability through policies, standards, and procedures. You will also be responsible for understanding metadata, usage, standards, and quality for critical data elements required for the business.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/142408257848124102",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-13T11:31:45.004Z",
+    "publish_date": "2019-03-13T11:31:45.004Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Management Information Systems, Computer Science, Engineering, or equivalent practical experience.</li>\n<li>4 years of related experience in data quality, data stewardship and data governance.</li>\n<li>Experience in data analysis and database querying (e.g., with SQL).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience with CRM systems (e.g., Salesforce.) as well as business intelligence tools and data warehouses.</li>\n<li>Experience managing and overseeing vendors, contractors, and temporary workers.</li>\n<li>Understanding of master data management architecture and applications.</li>\n<li>Ability to support multiple data-centric projects in a fast-paced, deadline-driven environment.</li>\n<li>Effective negotiation and influencing skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Support the business in understanding the data strategy and road map and aligning projects and strategies to the new ecosystem.</li>\n<li>Participate in operational strategy forums and technical project lifecycle forums to verify data considerations, properly support the data strategy, and streamline the data solutions across the organization.</li>\n<li>Serve as a key liaison with external data enrichment vendors for ongoing data enhancement and augmentation efforts.</li>\n<li>Serve as a primary point of escalation within a business function to resolve data quality issues. Provide guidance within the business unite on information sourcing, provisioning, consumption, standardization, and reporting and analytics.</li>\n<li>Manage the data needs for partner team and drive data analytics initiatives to provide actionable analysis, reporting, and core metric dash-boarding/visualization to improve account activity and partner performance.</li>\n</ul>",
+    "title": "Data Steward, Partners, Cloud Business Transformation Organization"
+}

@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Madison, WI, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckVAMmiEKa7Sw1k9RBCHqxsgsdLtdE3GbHrEcm9gOjSYSOgASYQ8woB9tTEdK3xb9XD_ameN7C2zuJ53YfSZchqdVQ4gEDaD0QGiiJAGJC8ZJxFW9AlYDknoHftU%3D_V2&jobTitle=Architecture+and+Design+Engineer%2C+Accelerator+ASIC&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING",
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-28T22:01:33.286Z",
+    "description": "<p>Our computational challenges are so big, complex and unique we can&#39;t just purchase off-the-shelf hardware, we&#39;ve got to make it ourselves. Your team designs and builds the hardware, software and networking technologies that power all of Google&#39;s services. As an Architecture and Design Engineer for Accelerator ASIC, you design and build the systems that are the heart of the world&#39;s largest and most powerful computing infrastructure. You develop from the lowest levels of circuit design to large system design and see those systems all the way through to high volume manufacturing. Your work has the potential to shape the machinery. cutting-edge data centers affecting millions of Google users.</p>\n\n<p>You will be part of a team developing cutting-edge ASICs used to accelerate computation in data centers. You will have dynamic, multi-faceted responsibilities in areas such as project definition, design, and implementation. You will participate in the design, architecture, documentation, and implementation of the next generation of data center accelerators.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/82807460806435526",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:48:57.042Z",
+    "publish_date": "2019-02-27T19:48:57.042Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>PhD degree or equivalent practical experience.</li><li>Experience in logic synthesis, verification, timing closure, and physical design principles.</li>\n<li>Experience applying computer architecture principles to solve open-ended problems</li>\n<li>Experience applying engineering best practices (e.g. code review, testing, refactoring).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>4 years of experience in FPGA/ASIC design and experience with ASIC development</li>\n<li>Experience with computer arithmetic and with performance modeling. Experience with highly pipelined designs, and with multiple-clock-domain designs.</li>\n<li>Proficiency in a procedural programming language (e.g. C++, Python, Go).</li>\n<li>Knowledge of processor design, accelerators, and/or memory hierarchies. Knowledge of machine learning algorithms.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Understand the overall application of the chip, proposing and developing improvements in overall design.</li>\n<li>Design and document one or more blocks of an ASIC, including functionality and timing.</li>\n<li>Implement your designs in RTL (System Verilog or other HDLs).</li>\n<li>Create simple test benches and debug complex logic simulations.</li>\n<li>Work closely with software teams on functionality, interfaces, and documentation.</li>\n</ul>",
+    "title": "Architecture and Design Engineer, Accelerator ASIC"
+}

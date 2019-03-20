@@ -1,0 +1,34 @@
+{
+    "application_instruction": "Apply to this job on the Verily Life Sciences career site at <a href=\"https://verily.com/roles/#open-roles\">Verily Careers</a>.",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:32:00.910Z",
+    "description": "For more information about this role please see the Verily Life Sciences career site above.",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4801318629867520",
+    "location": {
+        "address_lines": [
+            "South San Francisco, CA, USA"
+        ],
+        "city": "South San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "South San Francisco, CA, USA",
+        "lat": 37.654656,
+        "lon": -122.4077498
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=269+East+Grand+Ave&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=269+East+Grand+Ave&size=1168x324&zoom=12&signature=-3gF1b8ZvOlhr2_NUavuEchv6wo=",
+        "large_2x": "/maps/api/staticmap?center=269+East+Grand+Ave&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=269+East+Grand+Ave&scale=2&size=1024x324&zoom=12&signature=aA6NgtFMaaWa9I2zD9WAvj6v__A=",
+        "small_1x": "/maps/api/staticmap?center=269+East+Grand+Ave&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=269+East+Grand+Ave&size=600x400&zoom=12&signature=9GHVvp587rU2Jrxn9p3R_n0WzxU=",
+        "small_2x": "/maps/api/staticmap?center=269+East+Grand+Ave&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=269+East+Grand+Ave&scale=2&size=600x400&zoom=12&signature=fQCMduq5N_zAurUDkL6b6mUk6HQ="
+    },
+    "modified": "2019-03-18T20:36:51.619Z",
+    "publish_date": "2019-02-27T19:56:59.778Z",
+    "qualifications": "",
+    "responsibilities": "",
+    "title": "Firmware Engineer, Verily Life Sciences - South San Francisco"
+}

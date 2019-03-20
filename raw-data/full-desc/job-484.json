@@ -1,0 +1,34 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUOBCdkvw6nemhAdvHBLDROsLxlWegLSTHVrGR-astYSOgASYQ8wv-mFTatv9emHqN4keYIYf-1wtqMlc0JEVDVTsQZFwpgWgFiJoLg0SK25g3vbdJ14v8vjQEs%3D_V2&jobTitle=Senior+SOX+Inventory+Accountant&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-19T12:01:42.881Z",
+    "description": "<p>The Google Fixed Assets (gFA) team manages the Global Accounting for Google\u2019s entire CapEx portfolio, manufacturing operations and related expenses. This infrastructure is at the foundation of Google - the global datacenters, networks and integrating hardware and software that powers both our unique customer products and services and our internal operations. As a member of this team, you&#39;ll find innovative ways to manage our complex set of transactions in the Technical Infrastructure (TI) area. You will be focused on improving the control environment in TI and playing a key advisory role to our business partners including Logistics, Supply Chain Planners and FP&amp;A teams.</p>\n\n<p>Google accountants are a savvy bunch who handle the core accounting responsibilities at Google. As a member of this team, you know your accounting principles and the full accounting process end to end. Every day is a new challenge, and you&#39;re continually looking for ways to help our team get better at what we do, in the most efficient way possible.</p>",
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/79933067096924870",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:56:26.105Z",
+    "publish_date": "2019-02-27T19:56:26.105Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>CPA/CA certification.</li><li>5 years of relevant work experience in public accounting and/or large, high-tech organization.</li><li>6 years of relevant experience in public accounting or a mix of public accounting and large publicly-traded multinational high-tech companies.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience working with system implementations and data integration technologies, with an understanding of the related process flows and controls.</li><li>Ability to work in a cross-functional, fast-paced environment, and to lead and drive complex operational initiatives.</li><li>Collaborative style and ability to work with cross-functional teams and international teams.</li><li>Demonstrated analytical skills, critical thinking, risk detection, and big-picture mindset; combined with ability to communicate effectively with senior management.</li></ul>",
+    "responsibilities": "<ul><li>Provide advisory expertise to establish internal controls across various teams in Technical Infrastructure.</li><li>Work in system implementations as subject matter expert in cost accounting area.</li><li>Run processes according to risk assessment and control frameworks. Escalate when risks are detected.</li><li>Develop and maintain process documentation for cost accounting function.</li><li>Seek for constant improvements on gFA processes to drive higher standards of quality in cost accounting.</li></ul>",
+    "title": "Senior SOX Inventory Accountant"
+}

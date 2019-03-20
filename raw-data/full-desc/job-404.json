@@ -1,0 +1,40 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckZyfshoAUM17k15fZzhSjP23SZMWILK9Oqhw2gssSRkSOgASYQ8wKQZ6yJyWQyZYiUXFetV2dJOY3pQ3EPWJ5anLTYygGIkkwe4Mi8ekWRHdgJhQdwkrIs7bUsA%3D_V2&jobTitle=Music+Business+System+Analyst%2C+YouTube&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING",
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2019-01-31T11:01:49.092Z",
+    "description": "<p>As a Technical Contracts Manager, you&#39;ll act as a trusted technical advisor for the YouTube Music and Subscriptions team to provide support on contractual matters and partner relationships that are key to the future of YouTube Music.\n</p>\n\n<p>You will collaborate with our Legal, Business Development, Partner Management, and Engineering teams, advocating for technical best practices. You&#39;ll move fast while keeping your attention to detail and process, and you tap into your problem-solving skills to support business objectives.</p><p>At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun \u2014 and we do it all together.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT",
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/93271180108014278",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-03-07T00:32:01.983Z",
+    "publish_date": "2019-03-07T00:32:01.983Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in Computer Science or a related technical field, or equivalent practical experience.</li><li>3 years of contract experience working in a technical environment.</li><li>2 years of experience working with internet products and technologies in software engineering, product management, engineering program management, technical account management, sales engineering, or a related field.</li></ul><br><p>Preferred qualifications:</p><ul>\n<li>MS, JD or MBA degree, or similar advanced degree.</li>\n<li>Experience in digital music.</li>\n<li>Ability to work in a customer-facing or partner-facing role, including in the context of negotiations.</li>\n<li>Attention to detail with the ability to work well in a cross-functional team environment.</li>\n<li>Ability to absorb complex technical concepts and communicate them to a non-technical audience.</li>\n<li>Excellent written and oral business communication skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Participate and provide deal support regarding the technical aspects of new agreements.</li>\n<li>Take responsibility for identifying and raising technical concerns for new product offerings and services.</li>\n<li>Work cross functionally in activities such as supporting contract negotiations, product and solution briefings, proof-of-concept work, and the coordination of supporting technical resources.</li>\n<li>Interpret contract language into technical requirements, system design, and product features.</li>\n<li>Guarantee the technical aspects of a partner\u2019s integration (both new and ongoing) by providing the necessary documentation and technical guidance.</li>\n</ul>",
+    "title": "Music Business System Analyst, YouTube"
+}

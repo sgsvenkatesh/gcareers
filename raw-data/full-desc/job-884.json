@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>\n<p>Please include URLs for an online portfolio in addition to resume. Submissions without a portfolio included will not be considered.</p></b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckdNBCCI-9J9Z7-ah_jz7Js53s0Wgq0kBsNCTWaOM2zESOgCPMA3TYEHQmZv4k8XGh6p7Phcw-VHyOuB75FBHRYTfNq-KEYgT42QBGK5uIjFmAXG_QLsBRAtdM3U%3D_V2&jobTitle=Interaction+Designer%2C+YouTube&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ad872500-709d-4a93-97e3-76be227f77a1",
+    "company_name": "YouTube",
+    "created": "2018-12-16T23:02:05.677Z",
+    "description": "<p>Design and user experience (UX) are at the forefront of everything we do. The job of an Interaction Designer is to envision how people experience our products and bring that vision to life in a way that feels inspired, refined and even magical. In an Interaction Designer role, you\u2019ll take on complex tasks and transform them into intuitive, accessible and easy-to-use designs for billions of people around the world\u2014from the first-time user to the sophisticated expert. Achieving this goal requires collaboration with teams of Designers, Researchers, Engineers and Product Managers throughout the design process\u2014from creating user flows and wireframes to building user interface mockups and prototypes. At each stage, you will anticipate what our users need, advocate for them and ensure that the final product surprises and delights them.</p><p>We follow a simple but vital premise in the UX group: &quot;Focus on the user and all else will follow.&quot; We&#39;re interested in our users and strive to learn everything we can about their behaviors, attitudes and emotions to help define the products and experiences we create. The UX team plays an integral part in gathering these insights and then using them to inspire and inform design. We are a multi-disciplinary team of interaction designers, visual designers, user researchers, content strategists and web developers who collaborate closely with each other and with engineering and product management to create innovative, usable, great-looking products that people love to use.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4678333801627648",
+    "location": {
+        "address_lines": [
+            "San Bruno, CA, USA"
+        ],
+        "city": "San Bruno",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Bruno, CA, USA",
+        "lat": 37.6304904,
+        "lon": -122.4110835
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=1168x324&zoom=12&signature=8kTssaOIezLC995xz1jzX_ZsmEY=",
+        "large_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=1024x324&zoom=12&signature=qd1d-lHbtksAR7tvbMxtF6isGS4=",
+        "small_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=600x400&zoom=12&signature=muZNYVJol8PMclT8mtEQc7rdogE=",
+        "small_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=600x400&zoom=12&signature=CPaUJbMpoSOqDb7VXdK1SJbE0EI="
+    },
+    "modified": "2019-03-05T07:40:57.791Z",
+    "publish_date": "2019-02-27T19:38:03.694Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Design (e.g., interaction, graphic, visual communications, product, industrial), HCI, CS, or a related field or equivalent practical experience.</li>\n<li>3 years of experience in a related field</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>MA/MS degree in Design, HCI, CS, or a related field.</li>\n<li>Demonstrated experience in crafting usable digital interfaces.</li>\n<li>Experience working with web or mobile based technologies such as HTML, CSS, JavaScript, Android Studio, XCode, etc.</li>\n<li>Visual design sensibilities as they relate to applying a brand to digital experiences.</li>\n<li>Excellent leadership, communication and collaboration skills.\n</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Help to define the user model and user interface for Google products and features.</li>\n<li>Develop high level and/or detailed storyboards, mockups, and prototypes to effectively communicate interaction and design ideas.</li>\n<li>Gauge the usability of new and existing products and making constructive suggestions for change.</li>\n</ul>",
+    "title": "Interaction Designer, YouTube"
+}

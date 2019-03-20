@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<p><b>Please include URLs for an online portfolio in addition to resume. Submissions without a portfolio included will not be considered.</b></p>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckb3fxmVV0Ezwbi5kGm4qFo3cw8glkxmPCH4JFDR8628SOgCPMA3Tip-sBGtglRdzt8nr5xoRLPUVvHz41mx9yInKadIkxD9Nt2iVOs921VU0UYa8e5zBcXlrO7Q%3D_V2&jobTitle=Visual+Designer&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:06:20.294Z",
+    "description": "<p>At Google, Visual Designers weave iconography, typography, color, space and texture together to help our users successfully navigate our products. We believe that all of our products should be beautiful and accessible. As a Visual Designer, you\u2019ll delight users with designs that inspire, engage and excite them. You\u2019ll rely on user-centered design principles to produce high-quality visuals\u2014from concept to execution\u2014across many platforms. Like all of our UX jobs, you\u2019ll collaborate with your fellow designers to constantly refine the Google design language and create innovative, great-looking products that people love to use.</p><p>User experience (UX) is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users\u2019 needs, behaviors, and emotions to yield insights that inform product strategy and guide the design of the experiences we create. Our multidisciplinary UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and performance. We collaborate closely with product managers, software engineers, and many others to solve complex challenges and craft powerful experiences that highlight our products\u2019 unique capabilities and personalities. Our work touches billions while exemplifying a key principle that is core to Google\u2019s philosophy: \u201cFocus on the user and all else will follow.\u201d</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5456562598641664",
+    "location": {
+        "address_lines": [
+            "Boulder, CO, USA"
+        ],
+        "city": "Boulder",
+        "country": "CO",
+        "country_code": "US",
+        "display": "Boulder, CO, USA",
+        "lat": 40.0149856,
+        "lon": -105.2705456
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=1168x324&zoom=12&signature=RWg9rdP4s-zj7r2ELoisZdFQ7jU=",
+        "large_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=1024x324&zoom=12&signature=lRnrHzcQtw0pgrtaHpD_4j8u63g=",
+        "small_1x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&size=600x400&zoom=12&signature=Kkn4WpW4jfSb41zSVJO_wPfUn5Y=",
+        "small_2x": "/maps/api/staticmap?center=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=2600+Pearl+Street%2C+Boulder%2C+CO+80302%2C+USA&scale=2&size=600x400&zoom=12&signature=aZnnbjI8phY0WeCAZPgUPofC1jo="
+    },
+    "modified": "2019-03-18T21:21:26.316Z",
+    "publish_date": "2019-02-27T22:32:04.672Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Interaction, Graphic, Visual Communications, Product or Industrial Design, Human-Computer Interaction, Computer Science, a related field or equivalent practical experience.</li>\n<li>3 years of relevant work experience.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience using HTML, CSS and photo editing software.</li>\n<li>Experience designing web-based products for consumer-oriented websites.</li>\n<li>Ability to communicate conceptual ideas and design rationale within a user-centered design process.</li>\n<li>Ability to take initiative, adapt quickly to changing priorities and work with a high sense of urgency.</li>\n<li>Excellent problem-solving skills.</li>\n<li>Excellent interpersonal skills and the ability to build and grow relationships.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Design Google&#39;s consumer facing products.</li>\n<li>Create a look consistent with the Google brand.</li>\n<li>Communicate effectively in a cross-functional product development team and present ideas and designs.</li>\n<li>Present user interfaces with effective visuals, making them easy to read and understand.</li>\n<li>Market and promote products and features.</li>\n</ul>",
+    "title": "Visual Designer"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckYGG1NPFdlF4SdfSiUl5K6Uei3uksdYQVOy2JkApgI4SOgASYQ8wz7XU9t-C5qsSm3zkF-BfgtAfD8SnFrrzSESgFK5RUs7KPHOAaeut6hOuyZYKW44JlOFKgMM%3D_V2&jobTitle=Director%2C+UI+Engineering&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-14T13:31:36.864Z",
+    "description": "<p>Please contact the Recruiter to learn more about the role&#39;s timeline and process.</p>\n\n\n<p>The Google Cloud team is looking for an Engineering Director to build and lead the UI team for Google Compute Engine and other related product/technology areas for compute infrastructure. The team will collaborate closely with the development, product management, and UX teams to deliver effective UI to support the growth and success of Google Cloud. \n</p>\n\n\n<p>As an Engineering Director, you will lead the team to deliver the UI and address the requirements of developers and large-scale enterprise IT.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/99320932796900038",
+    "location": {
+        "address_lines": [
+            "Kirkland, WA, USA"
+        ],
+        "city": "Kirkland",
+        "country": "WA",
+        "country_code": "US",
+        "display": "Kirkland, WA, USA",
+        "lat": 47.6768927,
+        "lon": -122.2059833
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=1168x324&zoom=12&signature=BUakpYMrt4PcA_BkD8TEXxwl5yE=",
+        "large_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=1024x324&zoom=12&signature=zdt0AODknQHKKtlab5UzXYjjwOU=",
+        "small_1x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&size=600x400&zoom=12&signature=77Xz0BHyJOhV95ydWoFgQ5UMRoc=",
+        "small_2x": "/maps/api/staticmap?center=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=747+6th+St+S%2C+Kirkland%2C+WA+98033%2C+USA&scale=2&size=600x400&zoom=12&signature=djRWF_5sVRDgCFnaqcEvXvug7iU="
+    },
+    "modified": "2019-02-27T19:51:38.278Z",
+    "publish_date": "2019-02-27T19:51:38.278Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor degree in Computer Science or equivalent practical experience.</li>\n<li>10 years of experience with Cloud technologies and software development.</li>\n<li>Experience in enterprise infrastructure.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience of delivering UIs with high user satisfaction that has driven product growth.</li>\n<li>Experience with building new products and innovative technologies.</li>\n<li>Passionate about serving enterprise customers as well as developers.</li>\n<li>Developed leadership, communication, and interpersonal skills.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Collaborate with Product Management and UX on UI design and definition.</li>\n<li>Drive the design and lead the implementation and delivery of the UI for Google Cloud Compute products.</li>\n<li>Hire UI engineers, and mentor and manage the career development of the team.</li>\n</ul>",
+    "title": "Director, UI Engineering"
+}

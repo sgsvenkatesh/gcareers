@@ -1,0 +1,38 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQPTYAkV4zPmmrIccR_96D7wFFz0P3ba-1pU2ZTFEUISOgASYQ8wiCiFHF3sud2p91ph0y9OhE5Wew1w0W-Nw3bmfwjHURyHXaC645OUFuUMD_VlXH48NzFhWEw%3D_V2&jobTitle=Lead+Business+Architect%2C+Direct+Sales%2C+Cloud+Business+Transformation+Organization&loc=US",
+    "categories": [
+        "PROGRAM_MANAGEMENT",
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-05T20:31:32.872Z",
+    "description": "<p>The Cloud Business Transformation Organization is responsible for programs that enable Google Cloud to go-to-market, enterprise ready, at Google scale. Our team partners with Product, Sales, Engineering, and other cross-functional partners to develop systems, tools, and processes. We empower our sellers and channel partners with the tools and data they need to be more productive and successful.</p>\n\n\n<p>As a Lead Business Architect for Direct Sales, you will work directly with Google Cloud teams to re-imagining the business processes and systems across Marketing, Sales, Support, and Partners, collaborating between the the Google Cloud business and IT teams. In this role, you will use strategic thinking and excellent business judgment to leverage an understanding of sales processes to guide decision making, solve challenges, and provide analytical insights to support strategic and tactical initiatives across the Cloud organization.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/124610936649458374",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:49:04.104Z",
+    "publish_date": "2019-02-27T19:49:04.104Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>8 years of experience in a product/program/portfolio management role.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>6 years of experience working in CRM (e.g., Salesforce.com).</li>\n<li>Experience working with cross-functional teams such as Sales, Marketing, Finance, Customer Success, Engineering, and IT. Experience working in fast-paced, high-growth, and results-orientated environments.</li>\n<li>Ability to develop and manage business requirements and execute testing of new, or modified, systems functionality or rules.</li>\n<li>Ability to connect with broad audiences and articulate business challenges and solutions to technical and non-technical people.</li>\n<li>Ability to drive the end-to-end lifecycle of developing integration solutions, from conception to launch, and post-launch support.</li>\n<li>Ability to work well in a highly collaborative team environment with multiple in-flight initiatives and stakeholders.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Creation of business requirement documents, user stories, functional specifications, and prepare/execute testing plans.</li>\n<li>Lead workshops to gather requirements using interviews, document analysis, requirements workshops, surveys, site visits, business process descriptions, use cases, business analyses, architecture diagrams, and task/workflow analyses.</li>\n<li>Interact, consult, and partner with members of the global Google Cloud business and extended teams including but not limited to Engineering, Business Intelligence, Sales, and Data Governance to identify and build solutions and processes.</li>\n<li>Understand and design configuration and workflow for new processes and systems that maximize functionality and minimize customization.</li>\n</ul>",
+    "title": "Lead Business Architect, Direct Sales, Cloud Business Transformation Organization"
+}

@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckcLvLYShZjPiVmSzNmP03bRniM89Y-vJIKV0PuVB9dcSOgASYQ8wlDFi0jyBcQRbMq5zCG7ZWGJmn7rePnQHWPK6PUYP3m4b5xl6Y3aBtKgFOZXz3dVtPGHH7SU%3D_V2&jobTitle=Hardware+Test+Engineer%2C+Failure+Analysis%2FTest&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-19T16:31:44.304Z",
+    "description": "<p>Google&#39;s custom-designed machines make up one of the largest and most powerful computing infrastructures in the world. The Hardware Testing Engineering team ensures that this cutting-edge equipment is reliable. In the R&amp;D lab, you design test equipment for prototypes of our machinery and develop the protocols used to scale these tests for the entire global team. Working closely with design engineers, you give input on designs to improve our hardware until you&#39;re sure it meets Google&#39;s standards of quality and reliability.<br><br>With your technical expertise, you create test plans for highly complex platforms (e.g., validating the interaction of multiple pieces of equipment at the networking and subsystem levels), and using your deep knowledge of component design characteristics, you diagnose highly complex hardware or software issues.</p>\n\n\n<p>In this role, you will provide support to Home/Nest Engineering teams, assisting new prototype board bring-up and development testing which includes test set-up and troubleshooting prototypes boards down to component level. You will execute test plans such as signal integrity measurements, power measurements, updating devices/boards with latest Firmware/software. Additionally, you will help assemble and disassemble prototype devices, test fixtures, maintain a well documented SOP, and work across technical teams to provide lab support, assisting with board level modification such as fine pitch soldering (0201) and BGA rework. You will also manage and maintain lab stock supplies and equipment.</p><p>Google&#39;s mission is to organize the world&#39;s information and make it universally accessible and useful. Our Hardware team researches, designs, and develops new technologies and hardware to make our user&#39;s interaction with computing faster, more powerful, and seamless. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, our Hardware team is making people&#39;s lives better through technology.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/119501592685617862",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-19T16:31:44.304Z",
+    "publish_date": "2019-03-19T16:31:44.304Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Computer/Electronic Engineering or equivalent practical experience.</li>\n<li>5 years of experience working in a hardware research and development lab environment with laboratory best practices.</li>\n<li>Experience operating lab equipment (e.g., oscilloscopes, temperature chambers, etc.).</li>\n<li>Experience reading schematics, managing sourcing of prototype boards, and searching for components with Allegro Free viewer.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience organizing and procuring lab stock supplies, equipment, and tools.</li>\n<li>Ability to execute independently and follow test plans with little to no direction.</li>\n<li>Excellent wide range of Engineering test skills including acoustical, EMC, SI, and power.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Operate equipment such as soldering station, BGA machine, microscope, meters, temp chambers, IR Gun, power supplies, electronic loads, DMM.</li>\n<li>Support teams with assembly/disassembly of prototype devices and document SOP instructions. Support teams with board level modification (e.g., fine pitch soldering, SMT, BGA).</li>\n<li>Procure and maintain lab stock supplies, equipment, tools, parts, and materials.</li>\n<li>Measure and collect power data of prototype devices, characterize and validate new prototype boards, perform failure analysis on prototype devices, and drive for root-cause data on bug tracking software.</li>\n<li>Maintain lab cleanliness and safety. Maintain calibrated lab equipment.</li>\n</ul>",
+    "title": "Hardware Test Engineer, Failure Analysis/Test"
+}

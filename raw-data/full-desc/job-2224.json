@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Please include URLs for an online portfolio in addition to resume. Submissions without a portfolio included will not be considered.</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckTpYsSwWMEeXEsa_DlIA7t3pCdLwg0rTPWUV3HlCs-QSOgASYQ8wHkZDNianLKV73aij5B_nMr9yS21dtFozQAZRGpug1Xcam22r86DfV2CWFVlfJMDmt5mhB6s%3D_V2&jobTitle=UX+Writer&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-25T20:31:45.840Z",
+    "description": "<p>As a User Experience (UX) Writer, you&#39;re an advocate for Google design, working to shape product experiences by creating useful, meaningful text that helps users complete the task at hand. You help set the vision for content and drive cohesive product narratives across multiple platforms and touch points. As a stellar writer, you have a portfolio demonstrating content that simplifies and beautifies the overall user experience. Collaborating with stakeholders, you strive to establish cohesive language and a unified voice across products and platforms, and regularly use empathy, logic, and hard data to inform content choices.</p><p>User experience (UX) is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users\u2019 needs, behaviors, and emotions to yield insights that inform product strategy and guide the design of the experiences we create. Our multidisciplinary UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and performance. We collaborate closely with product managers, software engineers, and many others to solve complex challenges and craft powerful experiences that highlight our products\u2019 unique capabilities and personalities. Our work touches billions while exemplifying a key principle that is core to Google\u2019s philosophy: \u201cFocus on the user and all else will follow.\u201d</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/134612184475804358",
+    "location": {
+        "address_lines": [
+            "Cambridge, MA, USA"
+        ],
+        "city": "Cambridge",
+        "country": "MA",
+        "country_code": "US",
+        "display": "Cambridge, MA, USA",
+        "lat": 42.3736158,
+        "lon": -71.10973349999999
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&size=1168x324&zoom=12&signature=JaO6-ZwWrNFtKn3WQm2SRjf9ZbE=",
+        "large_2x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&scale=2&size=1024x324&zoom=12&signature=ztO_GFdS-eUPL9b-BGZvaDyVm3I=",
+        "small_1x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&size=600x400&zoom=12&signature=6Okll-qvZ7t3C6x3-kMPp_P58Yc=",
+        "small_2x": "/maps/api/staticmap?center=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=355+Main+Street%2C+Cambridge%2C+MA+02142%2C+USA&scale=2&size=600x400&zoom=12&signature=vS95FBFswniXfAJTkSOvWzAjgvg="
+    },
+    "modified": "2019-02-27T19:50:27.581Z",
+    "publish_date": "2019-02-27T19:50:27.581Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Experience in working with Engineering, Design, and Product Management teams.</li>\n<li>Portfolio of UX-focused writing samples and style guidelines.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Bachelor&#39;s degree in English, Communications, or related field.</li>\n<li>5 years of experience in writing and designing product experiences as part of a UX team developing software at a digital agency.</li>\n<li>Experience working in the Ads space.</li>\n<li>Advertiser product/B2B experience.</li>\n<li>Ability to drive design thinking through working closely with UX and Product teams.</li>\n<li>Excellent communication skills, including developing presentations and deliverables.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Write clear, concise user-interface text.</li>\n<li>Define tone of voice and content strategy for partner-facing tools and audit existing content to ensure a fit.</li>\n<li>Collaborate with Designers, Researchers, Prototypers, Product Managers, and Engineers to define requirements. Manage projects and stakeholders.</li>\n<li>Ensure tactical execution to drive cohesive product narratives across all digital touchpoints within the product.</li>\n<li>Help coordinate translations, improve writing tools and processes, format documents, and lend a hand as needed to produce exceptional software products.</li>\n</ul>",
+    "title": "UX Writer"
+}

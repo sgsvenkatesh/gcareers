@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Sunnyvale, CA, USA; Madison, WI, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQgnMJneB2TyCWvUBp8cDNMHnb0UZXYBZbo0ahjzLlASOgASYQ8wP17Rh2y4eBM4xRhFfwpXj9jMSyKGAQp6tXUl3RwzT6RQSEWZGZIIXmNq0YMvSQGlpA3dUD4%3D_V2&jobTitle=ASIC+Manager%2C+Accelerators&loc=US",
+    "categories": [
+        "HARDWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-30T17:01:42.927Z",
+    "description": "<p>Our computational challenges are so big, complex and unique we can&#39;t just purchase off-the-shelf hardware, we&#39;ve got to make it ourselves. Your team designs and builds the hardware, software and networking technologies that power all of Google&#39;s services. As an ASIC Manager, you design and build the systems that are the heart of the world&#39;s largest and most powerful computing infrastructure. You develop from the lowest levels of circuit design to large system design and see those systems all the way through to high volume manufacturing. Your work has the potential to shape the machinery that goes into our cutting-edge data centers affecting millions of Google users.</p>\n\n<p>Pulling on your technical and leadership expertise, you&#39;ll lead end-to-end projects in multiple areas of expertise across ASIC chip designs.</p><p>Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&#39;s product portfolio possible. We&#39;re proud to be our engineers&#39; engineers and love voiding warranties by taking things apart so we can rebuild them. We&#39;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/72904610546623174",
+    "location": {
+        "address_lines": [
+            "Madison, WI, USA"
+        ],
+        "city": "Madison",
+        "country": "WI",
+        "country_code": "US",
+        "display": "Madison, WI, USA",
+        "lat": 43.0730517,
+        "lon": -89.4012302
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=10+N+Livingston+St%2C+Madison%2C+WI+53703%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=10+N+Livingston+St%2C+Madison%2C+WI+53703%2C+USA&size=1168x324&zoom=12&signature=VPy_7jKk5i-wUR6acfhvLsNhgtk=",
+        "large_2x": "/maps/api/staticmap?center=10+N+Livingston+St%2C+Madison%2C+WI+53703%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=10+N+Livingston+St%2C+Madison%2C+WI+53703%2C+USA&scale=2&size=1024x324&zoom=12&signature=HPoLOAyZDMuANt85kqMYg3QVWmY=",
+        "small_1x": "/maps/api/staticmap?center=10+N+Livingston+St%2C+Madison%2C+WI+53703%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=10+N+Livingston+St%2C+Madison%2C+WI+53703%2C+USA&size=600x400&zoom=12&signature=che8nRMNwUhGhXZzF3tKjDlsoh4=",
+        "small_2x": "/maps/api/staticmap?center=10+N+Livingston+St%2C+Madison%2C+WI+53703%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=10+N+Livingston+St%2C+Madison%2C+WI+53703%2C+USA&scale=2&size=600x400&zoom=12&signature=609nnyxgEvWdNlCVCd_jzNKvFd8="
+    },
+    "modified": "2019-02-27T19:55:11.007Z",
+    "publish_date": "2019-02-27T19:55:11.007Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Electrical Engineering, related field or equivalent practical experience.</li>\n<li>Experience with hardware description languages (System Verilog), and chip design flow.</li>\n<li>Experience managing ASIC design projects and teams from specification to productization.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Master&#39;s degree in Electrical Engineering or related field.</li>\n<li>Demonstrated experience in ASIC digital designs that have taped-out and productized.</li>\n<li>Demonstrated expertise in RTL development and integration methodologies that improve team productivity and design velocity.</li>\n<li>Demonstrated expertise in leading high-performing teams for breakthrough results.</li>\n<li>Demonstrated leadership skills in attracting and motivating team members.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Lead a team of Hardware Engineers. Plan tasks, hold code and design reviews.</li>\n<li>Help define architecture and design specifications with the larger team and define implementation strategies and tactics to meet quality and schedule goals.</li>\n<li>Work closely with architecture, verification, and physical implementation stakeholders to provide status, iterative milestones, and make design decisions throughout the development process.</li>\n<li>Be responsible for resource planning and allocation to deliver against plans, including scheduling.</li>\n<li>Lead the evaluation of design IPs, work with external and internal IP partners.</li>\n</ul>",
+    "title": "ASIC Manager, Accelerators"
+}

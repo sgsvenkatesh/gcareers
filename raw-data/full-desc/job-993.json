@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fcket4g24n6RxnsKYoErLoGgVsDb2a_1h43xNe8FKNOisSOgASYQ8wqsiLomMJ53AakN4bnqbGF1ZqyvX18ovCp2FYrvN-MUkgobexh35XJ0ZaEVntbNPkshz4sQY%3D_V2&jobTitle=Central+Sales+Operations+Strategist%2C+Google+Cloud+Customer&loc=US",
+    "categories": [
+        "SALES_OPERATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-03-06T17:01:45.565Z",
+    "description": "<p>As a Central Sales Operations Strategist, you will use your leadership skills, technology insight, business judgment, and creativity to help us build data pipelines and tools to automate reporting and generate insight. You will use a data-driven approach to enable decision making and drive a deep understanding of our business. Combined with the resources of a dedicated sales force, our insights translate directly to accelerated growth and improve Google\u2019s ability to serve its Cloud customers at scale. </p>\n\n\n<p>In this role, you&#39;ll be building scalable solutions that help make data relevant to the Cloud Sales team on current and historical performance. Using your technical skills, you will build tools to automate reporting and dashboard updates so the Cloud leadership team can see quickly and accurately how their businesses are performing. You\u2019ll be involved in defining requirements, building and maintaining data infrastructure, designing reports, and ensuring timely delivery.</p><p>Google Cloud helps millions of employees and organizations empower their employees, serve their customers, and build what\u2019s next for their business \u2014 all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. And our teams are dedicated to helping our customers \u2014 developers, small and large businesses, educational institutions and government agencies \u2014 see the benefits of our technology come to life.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/100446049811735238",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-03-06T17:01:45.565Z",
+    "publish_date": "2019-03-06T17:01:45.565Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree in Mathematics, Computer Science, Economics, related field, or equivalent practical experience.</li>\n<li>2 years of experience in an analytical role (e.g., sales support, market research, or financial analysis).</li>\n<li>Experience analyzing data and creating reports with database query (e.g., SQL) and visualization tools (e.g., Tableau, dashboards).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience programming in Java and/or Python.</li>\n<li>Understanding of metrics and key performance indicators (KPIs) and how to use them to guide a business.</li>\n<li>Ability to perform back-end and data processing work necessary to power UIs.</li>\n<li>Ability to present analysis in a clear and compelling manner.</li>\n<li>Excellent analytical and problem-solving skills.</li>\n<li>Excellent business judgment.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Manage a single source of trut\u201d working with other teams on the Sales team activity reports, product adoption, territory, and segment analysis.</li>\n<li>Build reports, dashboards, models, and tools to analyze, report, and present operations related data that is associated with pipeline, product usage, bookings forecasting, and business productivity.</li>\n<li>Develop business intelligence through data warehousing and reporting solutions that address business reporting, analytics, and data requirements.</li>\n<li>Support engagement activities to analyze business environments, gather business requirements, and create data visualizations in support of work product.</li>\n<li>Provide insights to the business through analysis of bookings, activity, and product data to drive greater efficiency and effectiveness of our Sales teams.</li>\n</ul>",
+    "title": "Central Sales Operations Strategist, Google Cloud Customer"
+}

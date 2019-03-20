@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<p><b>This application is intended for candidates that are eligible for full-time authorization in the United States upon completing their education. If you do not meet this requirement, please consider applying for international opportunities. Please check for opportunities in the office where you are eligible for full-time authorization.</b></p><br><br><b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; New York, NY, USA; Boulder, CO, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQspiM_3TbQIyXKylA6U1oC_4H5nJltJuVi0zF3bdjQSOgCPMA3TZG2B8s5gcblhFc38ztpqqsh08x41SSeon8QPDlvLZjTu5KjammVRDwxdhSJkus3f8YbQZfs%3D_V2&jobTitle=Technical+Solutions+Consultant%2C+gTech%2C+University+Graduate%2C+2019+Start&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-10-23T22:39:27.236Z",
+    "description": "<p>gTech&#39;s team of Technical Solutions Consultants are on a mission to delight the consumers, advertisers and publishers who rely on our flagship products like Google Ads, AdSense, Pixel, Google Fi and Google Play. As Technical Solutions Consultant, you will deliver excellent customer care and will be there for them when they need us most. You have a background in Computer Science and strong communication skills. You also have experience in software engineering, yet are also passionate about users and helping them get the most out of Google.</p><p>Google creates products and services that make the world a better place, and gTech\u2019s role is to help bring them to life. Our teams of solution-oriented trusted advisors support millions of customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers\u2019 complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products. <br><br>To learn more about gTech, check out our <a href=\"https://www.youtube.com/watch?v=HcjR6ZngQcw\">video</a>.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5075687083671552",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T20:57:45.484Z",
+    "publish_date": "2019-02-27T19:45:40.874Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BS degree in Computer Science or related software engineering field.</li>\n<li>Experience working with client-side web technologies: HTML, CSS, JavaScript, and/or HTTP protocols.</li>\n<li>Software development experience with one or more general purpose programming languages, including but not limited to: Java, C++, or Python.</li>\n<li>Ability to travel as required to meet with specific partner and client stakeholders (varies by specific team).</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience communicating product and technical concepts to technical and non-technical audiences.</li>\n<li>Problem solving, analytical, and troubleshooting skills.</li>\n<li>Demonstrated knowledge of SQL/MySQL or Unix/Linux operating systems and commands.</li>\n<li>Ability to facilitate development and communication of solutions to technical and business stakeholders, with effective listening, critical thinking and problem solving skills.</li>\n<li>Ability to collaborate, build consensus, deliver, and drive technical decisions with various sized customer stakeholder groups.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Analyze and resolve complex technical problems and roadblocks around data and tools.</li>\n<li>Identify opportunities to optimize and automate workflows.</li>\n<li>Work closely with Product Managers and Software Engineers to improve Google\u2019s tools and products.</li>\n<li>Collaborate with gTech, Consumer, and Engineering teams to write code and implement tools to improve troubleshooting efficiency and the end user experience.</li>\n<li>Collaborate and communicate effectively with others as well as manage stakeholder expectations in order to solve technical problems and provide technical guidance.</li>\n</ul>",
+    "title": "Technical Solutions Consultant, gTech, University Graduate, 2019 Start"
+}

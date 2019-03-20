@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Seattle, WA, USA; Mountain View, CA, USA; San Francisco, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2Fckd2NKQUq3ZdmMZ0u1aEOR1m1WLb3j51_Cm-OhUqPBOESOgASYQ8w1zkq9vzNIF9o5ul9GrRQwL3Zbr9jQohLg0ra8luyok0I8furmJer8_Y0wHUH2kIcoQ8vQ3k%3D_V2&jobTitle=Developer+Advocate%2C+Data+Science+and+Analytics&loc=US",
+    "categories": [
+        "DEVELOPER_RELATIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-01-21T11:31:37.651Z",
+    "description": "<p>Cloud Advocates are Google Cloud Platform (GCP) experts who are passionate representatives of our technologies to our communities and vocal proponent of those communities back within Google. Our goal is to increase awareness, mindshare, and adoption of GCP. Advocates accomplish this by creating impactful and relevant content (blogs, presentations, demos, etc) and engaging with communities (developers, people doing data science, etc) online or at events. To drive feedback back into the product teams and improve our offerings, Advocates work closely with Product Managers and Software Engineering teams. In this way, Advocates help drive strategy around Developer Relations. </p><p>You\u2019ll help developers and architects understand how Google\u2019s products can be used individually and together to support a wide range of legacy and \u201cborn in the cloud\u201d workloads in a variety of enterprise and consumer areas within the domain of data science and data analytics. The mission of this role is to both advocate for and to demonstrate how to build real world data science and data analytics workflows involving use cases and scenarios including: data processing, data warehousing, data exploration, data analysis, feature analysis, model development, model serving, and pipeline orchestration.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/5502811286470656",
+    "location": {
+        "address_lines": [
+            "San Francisco, CA, USA"
+        ],
+        "city": "San Francisco",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Francisco, CA, USA",
+        "lat": 37.7749295,
+        "lon": -122.4194155
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=1168x324&zoom=12&signature=7D_r7MDDAE3Q6outSM5SkiKVuZA=",
+        "large_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=1024x324&zoom=12&signature=2Azp4lFFzXFWmJ0ynpFZBbYcURI=",
+        "small_1x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&size=600x400&zoom=12&signature=v-7jznRAGYDMrKQFchYANnwRrbY=",
+        "small_2x": "/maps/api/staticmap?center=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=345+Spear+Street%2C+San+Francisco%2C+CA+94105%2C+USA&scale=2&size=600x400&zoom=12&signature=pAHq6glNrErnZsweeP50SkCxkOQ="
+    },
+    "modified": "2019-03-18T21:23:44.965Z",
+    "publish_date": "2019-02-27T19:52:12.331Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>BA/BS degree in Computer Science or a similar technical field, or equivalent practical experience.</li><li>5 years of software engineering or development experience, with coding experience in Java, Python and/or R, or experience working with SQL.</li><li>Experience working with data analytics and/or data science technologies with on-premise and/or cloud technologies data.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience working directly with customers, partners or third party developers, and advocating or mentoring for new and existing technologies and programming languages.</li><li>Experience within one or more of the following verticals: retailing, media and entertainment, sports, gaming, financial services and/or higher education.</li></ul>",
+    "responsibilities": "<ul><li>Identify opportunities of adoption for Google Cloud technologies within specified verticals in the use case domain of data analytics and data science.</li><li>Create plans and initiatives that create momentum and lead the success of Google Cloud Platform through your knowledge of, and interactions with key third-party technical communities and key customers.</li><li>Consult on and advocate during customer adoption engagements to ensure optimal execution of the opportunity e.g. strategy ideation, POC development, production implementation.</li><li>Advocate for developer communities internally, and influence Google Cloud product strategy and craft narratives around new products and features by working with cross-functional teams.</li><li>Build and foster an external \u2018community ecosystem\u2019 of influencers, meetups, experts that amplify our messages and extend our reach.</li></ul>",
+    "title": "Developer Advocate, Data Science and Analytics"
+}

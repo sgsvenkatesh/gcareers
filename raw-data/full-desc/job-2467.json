@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<p><b>Note: Although most of our Research Scientists are based in Mountain View, CA, we have Research Scientist roles available in other offices as well. \n</b></p><b>\n\n<p>Please indicate your location(s) of interest in your cover letter. This role is also available in Montreal, QC, Canada and Toronto, ON, Canada. \n</p></b><br><br><b>Note: By applying to this position your application is automatically submitted to the following locations: Cambridge, MA, USA; San Francisco, CA, USA; New York, NY, USA; Mountain View, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckecWmLjVxpy52fHjjXi61YLRkFY48ktclW2kPXGy5bgSOgCPMA3Tq5FRa_5_zG0kcOrj9ssLfxLG_3t-7TvtlNb3-1nnKDzEHlVPBLWdgMnTmvvxxG6gLcuQdns%3D_V2&jobTitle=Research+Scientist%2C+Google+Brain+%28United+States%29&loc=US",
+    "categories": [
+        "SOFTWARE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:02:30.869Z",
+    "description": "<p>Research Scientists at Google work closely with Software Engineers to discover, invent, and build at the largest scale. Ideas may come from internal projects as well as from collaborations with researchers at partner universities and technical institutes all over the world. From creating experiments and prototyping implementations to designing new learning algorithms, Research Scientists work on challenges in machine perception, data mining, machine learning, and natural language understanding. As a Google Research Scientist, you will continue to be an active contributor to the wider research community by collaborating with academic researchers and by publishing papers.\n</p>\n\n<p>Researchers on the Google Brain team have the freedom to set their research agenda and to engage as much or as little as they wish with existing products, choosing between doing more basic, methodological research or more applied research as necessary to produce the most compelling results. Because many of the advances we develop today may take years to become useful, the team as a whole maintains a portfolio of projects across this spectrum. It is our philosophy that making substantive progress on hard applications can help drive and sharpen the research questions we study, and in turn scientific breakthroughs can spawn entirely new applications. \n</p><p>The Google Brain team\u2019s research focuses on methods that can learn multiple layers of rich, non-linear feature extractors and can scale to large amounts of data. Much of our work is best understood as part of the deep learning subfield of machine learning, but we are interested in any methods capable of efficient and effective feature learning that get good results on challenging problems. We have resources and access to projects impossible to find elsewhere. Our broad and fundamental research goals allow us to collaborate closely with and\u2013contribute uniquely to\u2013many different product teams across the company.</p>",
+    "education_levels": [
+        "DOCTORAL_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6231594434232320",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-02-27T19:39:18.442Z",
+    "publish_date": "2019-02-27T19:39:18.442Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>PhD in Computer Science, related technical field or equivalent practical experience.</li>\n<li>Experience in Natural Language Understanding, Computer Vision, Machine Learning, Algorithmic Foundations of Optimization, Data Mining or Machine Intelligence (Artificial Intelligence)</li>\n<li>Programming experience in one or more of the following: C, C++, Python</li>\n<li>Contributions to research communities and/or efforts, including publishing papers in machine learning venues (e.g: JMLR, ICLR, NIPS, ICML, ACL and CVPR)</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Relevant work experience, including full time industry experience or as a researcher in a lab</li>\n<li>Strong publication record</li>\n<li>Ability to design and execute on research agenda.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Participate in cutting edge research in machine intelligence and machine learning applications.</li>\n<li>Develop solutions for real world, large scale problems.</li>\n</ul>",
+    "title": "Research Scientist, Google Brain (United States)"
+}

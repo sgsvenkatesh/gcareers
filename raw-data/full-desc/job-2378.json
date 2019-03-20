@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQb1YY3AMu5gCMiHox6XPEeQf6lnDhKKVQcKIMhN_vYSOgCPMA3TARe-sUh744m5QP1Bx_8GAIfD5n98DXLHqSseba0tFA5mT92RAMOBtmelie8016fl1Alxxys%3D_V2&jobTitle=Technical+Solutions+Consultant+Test+and+Certification+Lead%2C+Android+TV&loc=US",
+    "categories": [
+        "TECHNICAL_SOLUTIONS"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-16T22:05:05.425Z",
+    "description": "<p>As a Google Technical Solutions Consultant, you will be responsible for the technical relationship of our largest advertising clients and/or product partners. You will lead cross-functional teams in Engineering, Sales and Product Management to leverage emerging technologies for our external clients/partners. From concept design and testing to data analysis and support, you will oversee the technical execution and business operations of Google&#39;s online advertising platforms (such as AdWords and Google Marketing Platform) and/or product partnerships (such as Maps, Google+, Play and Wallet). <br><br>You will be able to balance business and partner needs with technical constraints, develop innovative, cutting edge solutions and act as a partner and consultant to those you are working with. You will also be able to build tools and automate products, oversee the technical execution and business operations of Google&#39;s partnerships, as well as develop product strategy and prioritize projects and resources.</p>\n\n<p>As the Test and Certification Lead for Android TV, you will ensure that Android TV based devices meet our requirements before launch and define our future test and certification requirements, processes and tools.</p><p>Whether working with next-gen chipset manufacturers or emerging market telcos, Google&#39;s Android Partner Engineering team helps solve some of the toughest mobile technology problems. We work with teams throughout Google to develop solutions for strategic partners around the globe. We maintain crucial relationships with and build technical solutions for our long-term partners who are making Android into a world-changing platform. But we&#39;re just getting started.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4794807996317696",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T20:36:08.634Z",
+    "publish_date": "2019-02-27T19:39:50.525Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science or related technical field or equivalent practical experience.</li>\n<li>Experience with project management, with experience handling multiple customers and streams of work.</li>\n<li>Experience with consumer electronics products working with SoCs, OEMs and ODMs partners.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>Experience defining and leading QA and testing plans and resources.</li>\n<li>Hands-on software development experience in the mobile/CE/embedded space including knowledge of audio, video, graphics and security technologies.</li>\n<li>Experience working with embedded systems, Linux kernel, device driver APIs, chipset and Android.</li>\n<li>Demonstrated creative problem-solving approach and strong analytical skills, combined with a strong sense of ownership, and a proactive can-do attitude.</li>\n<li>Excellent written and verbal communication skills with the desire to share technical knowledge and information with others.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Maintain and enhance manual and automated test suites for device certification. Advocate for and drive improvement of Android TV partner device test coverage in core Android test suites.</li>\n<li>Maintain and manage the day-to-day operation of test and certification lab and testing resources, including receipt of partner devices, testing and reporting to internal teams and partners.</li>\n<li>Drive both technical execution and strategic partner relationships. Perform implementation reviews, advocate new product features, and ensure the prompt and proper resolution of technical challenges. Improve product feature offerings by providing partner feedback to internal cross-functional teams including Product Management and Engineering.</li>\n<li>Guarantee the technical aspects of a partner\u2019s integration (both new and ongoing) by providing necessary documentation and technical guidance.</li>\n<li>Contribute to improving productivity by improving processes and building infrastructure for on-boarding and ongoing support.</li>\n</ul>",
+    "title": "Technical Solutions Consultant Test and Certification Lead, Android TV"
+}

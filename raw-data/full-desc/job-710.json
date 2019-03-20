@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<p>This role is not eligible for immigration sponsorship.</p>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckaZGKKTDVmWhUehyXMm-Pl9jKw1IYrofJivNATNTCI8SOgASYQ8wl0abPcvpsQlj1GiLRqyv39QSkNUKiQy0bM3UHUgS-0BHvV3a4eHAvI2cU7NdKgzm-__fwVo%3D_V2&jobTitle=Associate+Contracts+Manager&loc=US",
+    "categories": [
+        "LEGAL"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2019-02-02T00:32:13.506Z",
+    "description": "<p>With a company growing at such fast speeds, every day another agreement is made to keep Google running. As a member of the Legal Contracts team, you review and revise contracts -- often juggling several at a time. You develop practical and innovative ways to meet Google&#39;s needs and keep the company thriving, with the ability to affect Google&#39;s long-term goals.</p><p>20th century laws don&#39;t always solve 21st century problems, and Google Legal crafts innovative approaches for handling some of the toughest legal challenges of the information age. Whether you&#39;re a patent attorney, an intellectual property expert or an engineer headed to law school, Google Legal lets you take on unanswered legal quandaries and create new precedents. Our innovative services raise challenging questions that demand creative and practical answers. We provide those answers by working at the crossroads of the law and new technology, helping Google build innovative and important products for users around the world.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/123333610422837958",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:47:41.733Z",
+    "publish_date": "2019-02-27T19:47:41.733Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>Bachelor&#39;s degree or equivalent practical experience.</li>\n<li>4 years of relevant experience working with commercial agreements in a non-attorney role.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>6 years of experience drafting and negotiating commercial agreements.</li>\n<li>Experience working as an contracts manager, paralegal or legal assistant.</li>\n<li>Ability to interpret legal documents, negotiate agreements and work with</li>\n<li>Excellent organizational and communication skills.</li>\n<li>Authorization to work in the United States.</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Review, draft, and manage commercial agreements and statements of work.</li>\n<li>Advise business clients on the legal issues and risks, complex agreement structures, approval processes, company policies, and procedures.</li>\n<li>Respond promptly to legal requests from Business Development, Marketing and other clients, summarizing and communicating legal concepts that business people can use.</li>\n<li>Review advertising, promotional, and marketing materials to provide intellectual property clearance, identify issues with applicable advertising and privacy laws, and vet compliance with company and industry standards.</li>\n</ul>",
+    "title": "Associate Contracts Manager"
+}

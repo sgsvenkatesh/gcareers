@@ -1,0 +1,38 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: New York, NY, USA; Seattle, WA, USA; Mountain View, CA, USA; Sunnyvale, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FcketNCxd1Z-Ox4NJDRI7H5r6E89C2r6ag1uNKAAD0nxoSOgASYQ8wM6rEFcwfytFKbjFeupcnrBoYGktlKOViU1uuJVifPrl3qwCKyfEYzoUALT71Cm2KvifbyJQ%3D_V2&jobTitle=User+Experience+Research+Manager&loc=US",
+    "categories": [
+        "USER_EXPERIENCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:33:01.738Z",
+    "description": "<p>As a User Experience (UX) leader, you help define and drive the future of Google design. You identify and set product strategy, envision complex UX ecosystems and inspire teams to push the boundaries of what\u2019s possible. You possess a clear vision of the future of user experience and have the courage to pursue forward-thinking design.<br><br>In this role, you will apply your passion for brand, craft, and design fidelity to guide research and design processes, mentor talented members of your team, and collaborate with leaders of other UX and Engineering teams to create innovative experiences across all of Google\u2019s products.</p><p>User experience (UX) is at the forefront of how we create intuitive, innovative, and beautiful products that people love. We strive to learn and understand our users\u2019 needs, behaviors, and emotions to yield insights that inform product strategy and guide the design of the experiences we create. Our multidisciplinary UX teams include designers, researchers, content strategists, and engineers who are passionate about quality, usability, and performance. We collaborate closely with product managers, software engineers, and many others to solve complex challenges and craft powerful experiences that highlight our products\u2019 unique capabilities and personalities. Our work touches billions while exemplifying a key principle that is core to Google\u2019s philosophy: \u201cFocus on the user and all else will follow.\u201d</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4559788261441536",
+    "location": {
+        "address_lines": [
+            "New York, NY, USA"
+        ],
+        "city": "New York",
+        "country": "NY",
+        "country_code": "US",
+        "display": "New York, NY, USA",
+        "lat": 40.7127753,
+        "lon": -74.0059728
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=1168x324&zoom=12&signature=uaqHzwtJYAD-aWuE4O2qk33R6WM=",
+        "large_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=1024x324&zoom=12&signature=RVjtjtGYTtuDsOJbAwq12PaHrko=",
+        "small_1x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&size=600x400&zoom=12&signature=_ZffjzQ_CtP8s70XmEwyG7drd2U=",
+        "small_2x": "/maps/api/staticmap?center=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=111+8th+Avenue%2C+New+York%2C+NY+10011%2C+USA&scale=2&size=600x400&zoom=12&signature=JfaTV6vL_8FgGoy_2fZPlFDUy6g="
+    },
+    "modified": "2019-02-27T19:40:22.175Z",
+    "publish_date": "2019-02-27T19:40:22.175Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree in Computer Science, Human-Computer Interaction, Cognitive Science, Experimental Psychology, Anthropology, Information Science or a related field, or equivalent practical experience.</li>\n<li>10 years of work experience in an applied research setting.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>15 years of relevant work experience, including experience integrating user research into product designs and design practices.</li>\n<li>Experience with SQL, Python, SPSS and remote usability testing tools, such as Keynote or UserZoom.</li>\n<li>Internet, search and advertising experience.</li>\n<li>Strong understanding of the strengths and shortcomings of different research methods, including when and how to apply them during each product phase.</li>\n<li>Excellent working knowledge of statistics and the principles of experiment design.</li>\n<li>Effective interpersonal, communication, negotiation and collaboration skills.\n</li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Collect and analyze user behavior through server logs, online experiments (A/B testing), benchmark studies, lab studies, and surveys.</li>\n<li>Work with designers, product managers, engineers, and research managers to prioritize research opportunities in a fast-paced, rapidly changing environment.</li>\n<li>Understand and incorporate complex technical and business requirements into research.</li>\n<li>Advocate research findings to diverse audiences through written reports and oral presentations.</li>\n<li>Manage a team of User Experience Researchers.</li>\n</ul>",
+    "title": "User Experience Research Manager"
+}

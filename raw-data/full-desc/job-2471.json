@@ -1,0 +1,39 @@
+{
+    "application_instruction": "<b>Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; San Bruno, CA, USA</b>",
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckUkbHqAaNtyhfx7Jd2-kJagmEKukORPaJc5AUHtr52kSOgCPMA3TdlizvccdOS6pDTbAvE_q142uZJkOJQIJ99gvixyB462NY85jxVm_V-LXtXyBznUMpzZTjNU%3D_V2&jobTitle=Product+Analytics+Lead%2C+Data+Science&loc=US",
+    "categories": [
+        "BUSINESS_STRATEGY"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:35:52.629Z",
+    "description": "<p>Help serve Google&#39;s worldwide user base of more than a billion people. Business Analysts provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert for your partners, using numbers to help them make better decisions. You weave stories with meaningful insight from data. You make critical recommendations for your fellow Googlers in Engineering and Product Management. As a self-starter, you relish tallying up the numbers one minute and communicating your findings to a team leader the next.</p>\n\n<p>Leaders in Data Science can see different angles of a product or business opportunity, and you know how to connect the dots and interact with people in various roles and functions. You have substantial experience with analytical tools and techniques, and bring a solid skill-set in analyzing data and communicating recommendations. You will deepen your skill-set by working with analytical thought leaders across the company.\n</p>\n\n<p>Data Scientists are changing the world one technological achievement after another.\n</p>\n\n<p>Experimentation is at the core of what you do. In this role, you will work to effectively turn business questions into data analysis, and provide meaningful recommendations on strategy. This is a unique hybrid role that will focus on your knowledge of data infrastructure and your ability to drive insights.</p><p>Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology&#39;s greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT",
+        "MASTERS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/6460521592324096",
+    "location": {
+        "address_lines": [
+            "San Bruno, CA, USA"
+        ],
+        "city": "San Bruno",
+        "country": "CA",
+        "country_code": "US",
+        "display": "San Bruno, CA, USA",
+        "lat": 37.6304904,
+        "lon": -122.4110835
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=1168x324&zoom=12&signature=8kTssaOIezLC995xz1jzX_ZsmEY=",
+        "large_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=1024x324&zoom=12&signature=qd1d-lHbtksAR7tvbMxtF6isGS4=",
+        "small_1x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&size=600x400&zoom=12&signature=muZNYVJol8PMclT8mtEQc7rdogE=",
+        "small_2x": "/maps/api/staticmap?center=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=901+Cherry+Ave%2C+San+Bruno%2C+CA+94066%2C+USA&scale=2&size=600x400&zoom=12&signature=CPaUJbMpoSOqDb7VXdK1SJbE0EI="
+    },
+    "modified": "2019-03-18T22:56:48.230Z",
+    "publish_date": "2019-02-27T19:39:16.263Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree or equivalent practical experience.</li>\n<li>8 years of relevant experience in an analytical function.</li>\n<li>Experience working with statistical packages (e.g. R, SAS, Stata, MATLAB, etc.).</li>\n<li>Experience with articulating product questions, pulling data from datasets (SQL) and using statistics to arrive at an answer.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>BA/BS or Master&#39;s degree with emphasis on coursework of a quantitative nature (e.g., Statistics, Computer Science, Engineering, Mathematics, Data Sciences).</li>\n<li>Experience in scripting with SQL, extracting large sets of data, and design of ETL flows.</li>\n<li>Work experience in an inter-disciplinary/cross-functional field.</li>\n<li>Deep interest and aptitude in data, metrics, analysis and trends and applied knowledge of measurement, statistics and program evaluation.</li>\n<li>Distinctive problem solving skills and impeccable business judgment.</li>\n<li>Capable of translating analysis results into business recommendations. Strong written and verbal communication skills. </li>\n</ul>",
+    "responsibilities": "<ul>\n<li>Conduct data analysis to make business recommendations (cost-benefit, invest-divest, forecasting, impact analysis).</li>\n<li>Deliver effective presentations of findings and recommendations to multiple levels of leadership, creating visual displays of quantitative information. Develop and automate reports, iteratively build and prototype dashboards to provide insights at scale, solving for analytical needs.</li>\n<li>Collaborate with cross-functional partners to understand their business needs, formulate and complete end-to-end analysis that includes data gathering, analysis, ongoing scaled deliverables and presentations.</li>\n<li>Develop a vision and roadmap for analytics across a product or functional group.</li>\n<li>Own relationships with executive stakeholders across Google Engineering.</li>\n</ul>",
+    "title": "Product Analytics Lead, Data Science"
+}

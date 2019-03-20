@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckXw6BGvD10YxMIK7WWMXrKUr0GVCOw0oFQ5ThbTYGdQSOgCPMA3TXG2r9npA1hWr7Nvp3PqwYfGkSWMUYA14lHxtsjldr_dlCOYLMOY5wmmBX4I3THfQU5OX_Zg%3D_V2&jobTitle=Senior+Data+Science+Analyst%2C+Finance&loc=US",
+    "categories": [
+        "FINANCE"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-26T16:01:49.963Z",
+    "description": "<p>At Google, data drives all of our decision-making. As part of the Finance Business Intelligence team, you will use data to inform business and product decisions across the company. Using your technical skills, business acumen and creativity, you will build tools to automate reporting and generate insight that will allow clients to quickly and accurately see how our key business products and processes are performing. Previous experience managing finance systems projects, with emphasis on providing business intelligence and data driven insight through reporting, will have equipped you well for this role. You\u2019ll be involved in projects from inception to delivery, ensuring that your reporting delivers high-quality and relevant data to intelligently grow our business. You will also have extensive knowledge of key financial systems, such as Oracle and Hyperion, and experience working with a range of other business intelligence tools and platforms.</p><p>The name Google came from &quot;googol,&quot; a mathematical term for the number 1 followed by 100 zeros. And nobody at Google loves big numbers like the Finance team when providing in depth analysis on all manner of strategic decisions across Google products. From developing forward-thinking analysis to generating management reports to scaling our automated financial processes, the Finance organization is an important partner and advisor to the business.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4869932546981888",
+    "location": {
+        "address_lines": [
+            "Sunnyvale, CA, USA"
+        ],
+        "city": "Sunnyvale",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Sunnyvale, CA, USA",
+        "lat": 37.36883,
+        "lon": -122.0363496
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=1168x324&zoom=12&signature=tFv-l7wkDC0IJp0BaM8PgdJo2Eg=",
+        "large_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=1024x324&zoom=12&signature=ZplXV6q543GaWATd7sWI1W-wlFA=",
+        "small_1x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&size=600x400&zoom=12&signature=05L6QVrps7g9lWWUMb02NMGdR6s=",
+        "small_2x": "/maps/api/staticmap?center=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=803+11th+Avenue%2C+Sunnyvale%2C+CA+94089%2C+USA&scale=2&size=600x400&zoom=12&signature=ArMoeYp0Gwm6veOW7sS9qw0hPZc="
+    },
+    "modified": "2019-02-27T19:53:54.983Z",
+    "publish_date": "2019-02-27T19:53:54.983Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul><li>Bachelor&#39;s degree in a quantitative discipline or equivalent practical experience.</li><li>6 years of experience in data analysis or related field.</li></ul><br><p>Preferred qualifications:</p><ul><li>Experience articulating business questions and using mathematical techniques to arrive at an answer using available data.</li><li>Experience translating analysis results into business recommendations.</li><li>Relevant work experience with statistical data analysis such as linear models, multivariate analysis, stochastic models and sampling methods. Analytical engagements outside class work while at school can be included.</li><li>Applied experience with machine learning on large datasets.</li><li>Demonstrated leadership and self-direction. Demonstrated willingness to both teach others and learn new techniques.</li><li>Demonstrated skills in selecting the right statistical tools given a data analysis problem. Demonstrated effective written and verbal communication skills.</li></ul>",
+    "responsibilities": "<ul>\n<li>Partner with Finance leadership and their teams to understand business context and identify science solutions.</li>\n<li>Apply statistical and machine learning methods to solve large scale problems, including the full delivery lifecycle (e.g. automating processes for data retrieval, data preparation, exploratory data analysis, building and evaluating models, interpreting results, transitioning solutions to production, performance monitoring, etc.).</li>\n<li>Serve as technical expert, mentor analyst colleagues and serve as a cross-functional data science consultant to other projects and teams.</li>\n<li>Contribute to the development of the team\u2019s tools, skills, standards, culture and impact.</li>\n</ul>",
+    "title": "Senior Data Science Analyst, Finance"
+}

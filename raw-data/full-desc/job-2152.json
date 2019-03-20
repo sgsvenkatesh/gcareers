@@ -1,0 +1,37 @@
+{
+    "apply_url": "https://www.google.com/about/careers/applications/signin?jobId=CiQAL2FckQhYFeLhPJah7Lf3ufHJw3x_mS7ojuJYU45pp2nQzbUSOgCPMA3TytfjwKYEpv5efftKGR9evmDymiDwlA9KCkDpUBdzQyBWC1Pls8SHLhciRB3wd80qsP3z8e8%3D_V2&jobTitle=Technical+Program+Manager%2C+Android+Security&loc=US",
+    "categories": [
+        "TECHNICAL_INFRASTRUCTURE_ENGINEERING"
+    ],
+    "company_id": "companies/ebbbf0d1-8121-483c-8f99-ee92597591fc",
+    "company_name": "Google",
+    "created": "2018-12-21T23:34:54.663Z",
+    "description": "<p>Google&#39;s projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering challenges we face daily. As a Technical Program Manager at Google, you lead complex, multi-disciplinary engineering projects using your engineering expertise. You plan requirements with internal customers and usher projects through the entire project lifecycle. This includes managing project schedules, identifying risks and clearly communicating them to project stakeholders. You&#39;re equally at home explaining your team&#39;s analyses and recommendations to executives as you are discussing the technical trade-offs in product development with engineers.</p><p>The Android Security team operates the world\u2019s most rigorously tested and secure mobile platforms. With over 1 billion devices using our solution, we have superb technical capabilities and unparalleled visibility across the Android ecosystem. We\u2019re looking for a Program Manager to ensure that the Anti-malware team can effectively safeguard and reduce the attack surface of the Android eco-system. </p><p>This role will orchestrate interdisciplinary projects and launches\u2014 including establishing and documenting processes, coordinating launches with hardware, portfolio management, outreach and program reviews. You will work with a cross-functional, team that spans multiple PAs \u2014 including regular interactions with Android, Android Security team, Play Operations and external parties.</p><p>Making the world&#39;s information universally accessible and useful doesn&#39;t stop at the desktop. The Mobile team builds tools to get you the information you need no matter where you are. Android has become the world&#39;s most popular mobile ecosystem, powering billions of devices, from smartphones to tablets, watches to TVs and everything in between. Whether adding to the core Android experience, forging new markets for digital content, creating immersive and portable versions of our products or managing relationships with a global community of developers, the Mobile team is giving you Google on the go.</p>",
+    "education_levels": [
+        "BACHELORS_OR_EQUIVALENT"
+    ],
+    "eeo": "At Google, we don\u2019t just accept difference\u2014we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also <a href=\"https://support.google.com/mygoogle/answer/3246856?hl=en&amp;ref_topic=3285868\">Google's EEO Policy</a> and <a href=\"/jobs/dist/legal/OFCCP_EEO_Post.pdf\">EEO is the Law.</a>  If you have a disability or special need that requires accommodation, please let us know by completing <a href=\"https://goo.gl/forms/aBt6Pu71i1kzpLHe2\">this form</a>.",
+    "id": "jobs/4812511686885376",
+    "location": {
+        "address_lines": [
+            "Mountain View, CA, USA"
+        ],
+        "city": "Mountain View",
+        "country": "CA",
+        "country_code": "US",
+        "display": "Mountain View, CA, USA",
+        "lat": 37.3860517,
+        "lon": -122.0838511
+    },
+    "map_urls": {
+        "large_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=1168x324&zoom=12&signature=nOjBoEKy2iXaSdgxvJJiRrXaHIg=",
+        "large_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=1024x324&zoom=12&signature=04Z2rGp1pz3gtMv10lrp8FEbaBk=",
+        "small_1x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&size=600x400&zoom=12&signature=dJ4DN-yGe_9huoJ7hno5vmimJbY=",
+        "small_2x": "/maps/api/staticmap?center=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&key=AIzaSyBt7dRu-48vSk1eg6v4bZbTNs43pOKiS40&maptype=roadmap&markers=1600+Amphitheatre+Parkway%2C+Mountain+View%2C+CA+94043%2C+USA&scale=2&size=600x400&zoom=12&signature=IC_lxzGA7kxhJAbGXiu2coRRmKM="
+    },
+    "modified": "2019-03-18T20:38:34.916Z",
+    "publish_date": "2019-02-27T19:42:20.093Z",
+    "qualifications": "<p>Minimum qualifications:</p><ul>\n<li>BA/BS degree or equivalent practical experience.</li>\n<li>3 years of experience in Program/Project Management.</li>\n<li>Experience working with Engineering and non-Engineering teams and other cross-functional stakeholders.</li>\n<li>Experience in an Engineering or Technical role, delivering privacy and/or security solutions.</li>\n</ul><br><p>Preferred qualifications:</p><ul>\n<li>BA/BS degree Computer Science or related technical field.</li>\n<li>Security experience, particularly in either system management, OS hardening, or network security concepts (segmentation, protocols used for layering security capabilities).</li>\n<li>Experience with Data Loss Prevention/Protection, Threat Modeling and/or experience with incident or emergency response.</li>\n<li>Experience leading security risk mitigation, technical risk assessment, and integration projects, building key privacy and security engineering principles into non-standard infrastructure.</li>\n<li>Understanding of attacker trends/pen testing/breach investigation experience.</li>\n<li>Familiarity with cryptographic concepts, specifically in applied usage.</li>\n</ul>",
+    "responsibilities": "<ul><li>Manage cross-functional efforts to respond to malware.</li><li>Build highly-scalable processes for handling dozens of complex investigations and takedowns.</li><li>Manage investigations into malware campaign with Security Operations and development reports.</li><li>Communicate overall vision for teams and ensure it&#39;s aligned with the Android team&#39;s vision.</li><li>Lead projects for internal tool development.</li></ul>",
+    "title": "Technical Program Manager, Android Security"
+}
