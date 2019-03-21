@@ -14,7 +14,6 @@
     ["devops"],
     ["mixed reality", "mr", "augmented reality", "ar", "virtual reality", "vr"],
     ["rpa"],
-    ["autonomous"],
     ["augmented analytics"],
     ["networy security", "computer security"],
     ["quantum computing"],
@@ -30,5 +29,11 @@
     ["virtualization"],
     ["operating systems", "os"],
     ["algorithms", "data structures"],
-    ["cryptography", "crypto"]
+    ["cryptography", "crypto"],
+    ["computer architecture"],
+    ["autonomous", "embedded", "robotics"],
+    ["mobile", "android", "ios"],
+    ["software engineering"],
+    ["bioinformatics"],
+    ["human-computer interaction", "human computer interaction", "hci", "visualization"]
 ]

@@ -116,14 +116,6 @@
     },
     {
         "keywords": [
-            "autonomously",
-            "semi-autonomous",
-            "autonomous"
-        ],
-        "count": 21
-    },
-    {
-        "keywords": [
             "privacy",
             "privacy-by-design",
             "privacy-related",
@@ -224,5 +216,57 @@
             "cryptographic"
         ],
         "count": 74
+    },
+    {
+        "keywords": [
+            "computer architecture",
+            "computer architectures"
+        ],
+        "count": 61
+    },
+    {
+        "keywords": [
+            "autonomously",
+            "semi-autonomous",
+            "autonomous",
+            "embedded",
+            "robotics"
+        ],
+        "count": 220
+    },
+    {
+        "keywords": [
+            "mobile;",
+            "mobile",
+            "mobile-first",
+            "android",
+            "android-chrome",
+            "android-based",
+            "ios"
+        ],
+        "count": 2234
+    },
+    {
+        "keywords": [
+            "software engineering"
+        ],
+        "count": 210
+    },
+    {
+        "keywords": [
+            "bioinformatics"
+        ],
+        "count": 21
+    },
+    {
+        "keywords": [
+            "human-computer interaction",
+            "human computer interaction",
+            "hci",
+            "visualization",
+            "visualizations",
+            "data-visualization"
+        ],
+        "count": 275
     }
 ]
