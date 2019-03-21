@@ -6,7 +6,7 @@ import os
 
 def crawl_full_desc():
     url = "https://careers.google.com/api/jobs/jobs-v1/jobs/get/?job_name="
-    count = 1802
+    count = 0
 
     with open('./raw-data/jobs-list.json') as results_obj:
         results = json.load(results_obj)
