@@ -34,19 +34,22 @@ def run_analytics(top_tech_list, stats):
         json.dump(results, clustered_stats, indent = 4)
         print("saved results to file ./results/analytics/clustered-stats.json")
 
-# TODO: replace with promise architecture
-with open("./tech-list.json") as top_tech_list_obj:
-    top_tech_list = json.load(top_tech_list_obj)
-    stats = {}
+def load_stats_run_analytics():
+    # TODO: replace with promise architecture
+    with open("./tech-list.json") as top_tech_list_obj:
+        top_tech_list = json.load(top_tech_list_obj)
+        stats = {}
 
-    with open("./results/uniword/stats-full-uniword.json") as uniwords_list_object:
-        stats["uniwords"] = json.load(uniwords_list_object)
+        with open("./results/uniword/stats-full-uniword.json") as uniwords_list_object:
+            stats["uniwords"] = json.load(uniwords_list_object)
 
-        with open("./results/dualword/stats-full-dualword.json") as dualwords_list_object:
-            stats["dualwords"] = json.load(dualwords_list_object)
+            with open("./results/dualword/stats-full-dualword.json") as dualwords_list_object:
+                stats["dualwords"] = json.load(dualwords_list_object)
 
-            with open("./results/triword/stats-full-triword.json") as triwords_list_object:
-                stats["triwords"] = json.load(triwords_list_object)
+                with open("./results/triword/stats-full-triword.json") as triwords_list_object:
+                    stats["triwords"] = json.load(triwords_list_object)
 
-                print("data fetched. starting analytics")
-                run_analytics(top_tech_list, stats)
+                    print("data fetched. starting analytics")
+                    run_analytics(top_tech_list, stats)
+
+load_stats_run_analytics()
