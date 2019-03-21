@@ -35,5 +35,6 @@
     ["mobile", "android", "ios"],
     ["software engineering"],
     ["bioinformatics"],
-    ["human-computer interaction", "human computer interaction", "hci", "visualization"]
+    ["human-computer interaction", "human computer interaction", "hci", "visualization"],
+    ["kubernetes", "k8s", "docker", "container"]
 ]

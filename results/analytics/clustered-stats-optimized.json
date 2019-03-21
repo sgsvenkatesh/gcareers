@@ -268,5 +268,17 @@
             "data-visualization"
         ],
         "count": 275
+    },
+    {
+        "keywords": [
+            "kubernetes",
+            "k8s",
+            "docker",
+            "containers",
+            "container",
+            "containerization",
+            "containerized"
+        ],
+        "count": 154
     }
 ]
