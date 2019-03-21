@@ -1,0 +1,228 @@
+[
+    {
+        "keywords": [
+            "artificial intelligence",
+            "ai"
+        ],
+        "count": 388
+    },
+    {
+        "keywords": [
+            "machine learning",
+            "machine learning;",
+            "machine learning-driven",
+            "ml"
+        ],
+        "count": 539
+    },
+    {
+        "keywords": [
+            "neural networks",
+            "deep learning"
+        ],
+        "count": 68
+    },
+    {
+        "keywords": [
+            "cloud",
+            "cloud-based",
+            "clouds",
+            "cloud-native",
+            "hybrid-cloud",
+            "cloud-technical-solutions-engineering",
+            "cloud-on-demand",
+            "cloud\u201d",
+            "cloud-ready",
+            "multi-cloud",
+            "cloudsql",
+            "cloud;",
+            "cloudml",
+            "cloud computing",
+            "hybrid-cloud computing",
+            "cloud computing;",
+            "hybrid-cloud"
+        ],
+        "count": 4729
+    },
+    {
+        "keywords": [
+            "blockchain"
+        ],
+        "count": 1
+    },
+    {
+        "keywords": [
+            "internet of things",
+            "\u201cinternet of things\u201d",
+            "iot"
+        ],
+        "count": 61
+    },
+    {
+        "keywords": [
+            "javascript",
+            "js"
+        ],
+        "count": 494
+    },
+    {
+        "keywords": [
+            "python",
+            "ipython"
+        ],
+        "count": 840
+    },
+    {
+        "keywords": [
+            "java"
+        ],
+        "count": 646
+    },
+    {
+        "keywords": [
+            "natural language processing",
+            "nlp"
+        ],
+        "count": 273
+    },
+    {
+        "keywords": [
+            "computer vision",
+            "computer vision-based",
+            "cv"
+        ],
+        "count": 48
+    },
+    {
+        "keywords": [
+            "chatbots"
+        ],
+        "count": 2
+    },
+    {
+        "keywords": [
+            "devops"
+        ],
+        "count": 63
+    },
+    {
+        "keywords": [
+            "augmented reality",
+            "ar",
+            "virtual reality",
+            "vr"
+        ],
+        "count": 93
+    },
+    {
+        "keywords": [
+            "autonomously",
+            "semi-autonomous",
+            "autonomous"
+        ],
+        "count": 21
+    },
+    {
+        "keywords": [
+            "privacy",
+            "privacy-by-design",
+            "privacy-related",
+            "privacy-enhancing"
+        ],
+        "count": 448
+    },
+    {
+        "keywords": [
+            "information retrieval",
+            "search",
+            "elasticsearch",
+            "searching",
+            "search-focused",
+            "searches"
+        ],
+        "count": 1356
+    },
+    {
+        "keywords": [
+            "data mining",
+            "hadoop",
+            "mapreduce",
+            "hive"
+        ],
+        "count": 212
+    },
+    {
+        "keywords": [
+            "e-commerce",
+            "ecommerce"
+        ],
+        "count": 43
+    },
+    {
+        "keywords": [
+            "networking",
+            "network",
+            "networks",
+            "networked",
+            "network-impacting",
+            "network-sre",
+            "network-related",
+            "networking"
+        ],
+        "count": 3644
+    },
+    {
+        "keywords": [
+            "databases",
+            "database",
+            "database management",
+            "transaction",
+            "transactions",
+            "transactional",
+            "data management",
+            "metadata management"
+        ],
+        "count": 628
+    },
+    {
+        "keywords": [
+            "compilers",
+            "compiler"
+        ],
+        "count": 77
+    },
+    {
+        "keywords": [
+            "distributed systems"
+        ],
+        "count": 224
+    },
+    {
+        "keywords": [
+            "virtualization"
+        ],
+        "count": 74
+    },
+    {
+        "keywords": [
+            "operating systems",
+            "os"
+        ],
+        "count": 221
+    },
+    {
+        "keywords": [
+            "algorithms",
+            "data structures"
+        ],
+        "count": 343
+    },
+    {
+        "keywords": [
+            "cryptography",
+            "cryptography",
+            "cryptographic"
+        ],
+        "count": 74
+    }
+]

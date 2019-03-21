@@ -3,8 +3,10 @@ import nltk
 from nltk.corpus import stopwords
 import os
 
-UNIWORD = "uniword"
-DUALWORD = "dualword"
+def get_token_type(token_length):
+    token_type = [ "uniword", "dualword", "triword" ]
+    
+    return token_type[token_length - 1]
 
 def get_stats(token_length):
     directory = "./raw-data/full-desc/"
@@ -31,17 +33,17 @@ def get_stats(token_length):
                     qual_tokens = list(filter(None, qual.split(" ")))
                     respb_tokens = list(filter(None, respb.split(" ")))
 
-                    if token_length == UNIWORD:
+                    if token_length == 1:
                         tokens += desc_tokens
                         tokens += qual_tokens
                         tokens += respb_tokens
 
-                    elif token_length == DUALWORD:
-                        tokens += [ " ".join(desc_tokens[i:i+2]) for i in range(len(desc_tokens) - 1) ]
-                        tokens += [ " ".join(qual_tokens[i:i+2]) for i in range(len(qual_tokens) - 1) ]
-                        tokens += [ " ".join(respb_tokens[i:i+2]) for i in range(len(respb_tokens) - 1) ]
+                    else:
+                        tokens += [ " ".join(desc_tokens[i : i + token_length]) for i in range(len(desc_tokens) - token_length + 1) ]
+                        tokens += [ " ".join(qual_tokens[i : i + token_length]) for i in range(len(qual_tokens) - token_length + 1) ]
+                        tokens += [ " ".join(respb_tokens[i : i + token_length]) for i in range(len(respb_tokens) - token_length + 1) ]
 
-    with open("./results/" + token_length + "/tokens-full-" + token_length + ".json", "w") as outfile:
+    with open("./results/" + get_token_type(token_length) + "/tokens-full-" + get_token_type(token_length) + ".json", "w") as outfile:
         json.dump(tokens, outfile, indent = 4)
 
     stats = {}
@@ -55,12 +57,13 @@ def get_stats(token_length):
 
         stats[token] = stats.get(token, 0) + 1
 
-    with open("./results/" + token_length + "/stats-full-" + token_length + ".json", "w") as outfile:
+    with open("./results/" + get_token_type(token_length) + "/stats-full-" + get_token_type(token_length) + ".json", "w") as outfile:
         json.dump(stats, outfile, indent = 4)
 
     sorted_by_value = sorted(stats.items(), key=lambda kv: kv[1], reverse=True)
-    with open("./results/" + token_length + "/./sorted-full-" + token_length + ".json", "w") as outfile:
+    with open("./results/" + get_token_type(token_length) + "/./sorted-full-" + get_token_type(token_length) + ".json", "w") as outfile:
         json.dump(sorted_by_value, outfile, indent = 4)
 
-get_stats(UNIWORD)
-get_stats(DUALWORD)
+get_stats(1)
+get_stats(2)
+get_stats(3)
