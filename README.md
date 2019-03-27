@@ -1,7 +1,8 @@
 # gcareers
 _(data updated as on 19th March 2019)_
 
-Python scripts to generate insights on tech trends at Google North America. Thanks to [Hemanth Malla](https://github.com/hemanthmalla) for the idea.
+Python scripts to generate insights on tech trends at Google North America.  
+_Thanks to [Hemanth Malla](https://github.com/hemanthmalla) for the idea._
 
 This repository is aimed to get an overview of the tech skills that Google is looking for. The scripts crawl the [Google Careers website](https://careers.google.com/jobs/results/?company=Google&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=&sort_by=relevance) and counts of frequency of the keywords listed at [tech-list.json](https://github.com/sgsvenkatesh/gcareers/blob/master/tech-list.json) on the Google Careers website. 
 
