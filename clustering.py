@@ -3,7 +3,7 @@ import json
 def get_words_count(word):
     return len(word.split(" "))
 
-def run_analytics(top_tech_list, stats):
+def run_clustering(top_tech_list, stats):
     identifiers = [ "uniwords", "dualwords", "triwords" ]
     results = []
 
@@ -27,6 +27,8 @@ def run_analytics(top_tech_list, stats):
         
         if keywords:
             results.append({ "keywords": keywords, "count": this_count })
+        else:
+            results.append({ "keywords": tech, "count": 0 })
 
     print("done with clustering. writing to file ")
 
@@ -50,6 +52,6 @@ def load_stats_run_analytics():
                     stats["triwords"] = json.load(triwords_list_object)
 
                     print("data fetched. starting analytics")
-                    run_analytics(top_tech_list, stats)
+                    run_clustering(top_tech_list, stats)
 
 load_stats_run_analytics()

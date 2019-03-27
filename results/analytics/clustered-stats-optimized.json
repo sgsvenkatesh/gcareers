@@ -116,6 +116,46 @@
     },
     {
         "keywords": [
+            "rpa"
+        ],
+        "count": 0
+    },
+    {
+        "keywords": [
+            "augmented analytics"
+        ],
+        "count": 0
+    },
+    {
+        "keywords": [
+            "security",
+            "cybersecurity",
+            "security;",
+            "non-security",
+            "cyber-security"
+        ],
+        "count": 2061
+    },
+    {
+        "keywords": [
+            "network security"
+        ],
+        "count": 41
+    },
+    {
+        "keywords": [
+            "computer security"
+        ],
+        "count": 0
+    },
+    {
+        "keywords": [
+            "quantum computing"
+        ],
+        "count": 0
+    },
+    {
+        "keywords": [
             "privacy",
             "privacy-by-design",
             "privacy-related",

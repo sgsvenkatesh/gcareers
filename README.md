@@ -1,3 +1,3 @@
 # gcareers
 
-Crawl the Google Careers site to generate insights.
+This Python scripts to generate insights on tech trends at Google
