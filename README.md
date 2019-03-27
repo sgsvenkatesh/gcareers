@@ -1,7 +1,7 @@
 # gcareers
 _(data updated as on 19th March 2019)_
 
-Python scripts to generate insights on tech trends at Google. Thanks to [Hemanth Malla](https://github.com/hemanthmalla) for the idea.
+Python scripts to generate insights on tech trends at Google North America. Thanks to [Hemanth Malla](https://github.com/hemanthmalla) for the idea.
 
 This repository is aimed to get an overview of the tech skills that Google is looking for. The scripts crawl the [Google Careers website](https://careers.google.com/jobs/results/?company=Google&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=&sort_by=relevance) and counts of frequency of the keywords listed at [tech-list.json](https://github.com/sgsvenkatesh/gcareers/blob/master/tech-list.json) on the Google Careers website. 
 
@@ -14,6 +14,8 @@ Below is a short description of the functionality of each of the files.
 `clustering.py` finds the occurence of each of the skills mentioned at [tech-list.json](https://github.com/sgsvenkatesh/gcareers/blob/master/tech-list.json) in the results obtained from previous step. Stores the results at `./results/analytics/`.
 
 ### Results
+
+Below are the results we got on analyzing over 2200 job descriptions, as we found on _19th March 2019_.
 
 | Skill                                 | Frequency         |
 | ------------------------------------- | :---------------: |
@@ -38,7 +40,7 @@ Below is a short description of the functionality of each of the files.
 | Quantum Computing                     | 0                 |
 | Privacy                               | 448               |
 | **Search and Information Retrieval**  | **1356**          |
-| Data Mining, BigData                  | 212               |
+| Data Mining, BigData                  | 356               |
 | E-commerce                            | 43                |
 | **Computer Networks**                 | **3644**          |
 | Databases                             | 628               |
@@ -51,5 +53,16 @@ Below is a short description of the functionality of each of the files.
 | Computer Architecture                 | 61                |
 | Robotics                              | 220               |
 | **Mobile (Android, iOS)**             | **2234**          |
+| BioInformatics                        | 21                |
 | HCI                                   | 275               |
 | Containers (K8s, Docker)              | 154               |
+
+### Takeaways
+
+* As you would be expecting, Cloud-related skills seem to be in great demand, with a whopping count of ~4700. Further to this, Security, Networks, Mobile, Search seem to be the most sought out fields at Google. 
+* It was interesting to see that there are negligible or no occurences of popular topics like Quantum Computing and BioInformatics. 
+* Besides this, keywords like Computer Vision, Computer Architecture, Cryptography, Virtualization, Compilers, E-commerce Devops, Internet of Things, BlockChain have really low number of occurences compared to that of Cloud, Search and others.
+* Also, Algorithms & Data Structures keywords were observed to occur only ~350 times. From the above data, it appears to me that being able to [invert a binary tree](https://twitter.com/mxcl/status/608682016205344768?lang=en) may not be as important to Google today as it is at excelling in one field.  
+__@Students__, now you know not to miss your classes for Leetcode! 😛
+
+__@Others__, you have more insights or ideas, happy to collaborate over a PR or a git-issue. 😀
