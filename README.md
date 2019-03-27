@@ -1,4 +1,4 @@
-# gcareers
+# google-careers
 _(data updated as on 19th March 2019)_
 
 Python scripts to generate insights on tech trends at Google North America.  
